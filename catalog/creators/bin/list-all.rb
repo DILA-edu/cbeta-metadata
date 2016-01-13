@@ -3,6 +3,7 @@ require 'set'
 
 IN = '../creators-by-canon'
 OUT = '../all-creators.txt'
+OUT_JSON = '../all-creators.json'
 
 def handle_file(fn)
   s = File.read(fn)
@@ -20,8 +21,13 @@ Dir["#{IN}/*.json"].each do |f|
   handle_file(f)
 end
 
+$creators = $creators.to_a.sort
+
 fo = File.open(OUT, 'w')
-$creators.to_a.sort.each do |c|
+$creators.each do |c|
   fo.puts c
 end
 fo.close
+
+s = JSON.pretty_generate($creators)
+File.write(OUT_JSON, s)
