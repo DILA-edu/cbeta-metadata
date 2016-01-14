@@ -12,10 +12,6 @@ http://www.cbeta.org/
 
 作譯者資料。
 
-資料來源：CBETA XML P5a (2015-12-18) teiHeader 裡的 author 元素。
-
-檔案名稱使用 CBETA [藏經代碼](http://www.cbeta.org/format/id.php)
-
 ## time
 
 佛典成立的時間（朝代、公元年）
