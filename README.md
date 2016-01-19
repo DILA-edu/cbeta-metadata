@@ -8,10 +8,4 @@ http://www.cbeta.org/
 
 # Catalog
 
-## creators
-
-作譯者資料。
-
-## time
-
-佛典成立的時間（朝代、公元年）
+經錄相關資料，詳見 [catalog](catalog) 資料夾。
