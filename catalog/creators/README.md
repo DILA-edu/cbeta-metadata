@@ -4,6 +4,8 @@
 
 檔案名稱使用 CBETA [藏經代碼](http://www.cbeta.org/format/id.php)
 
+# 類別
+
 比較重要的貢獻者資訊可能有這些類別 (2016-01-14 maha 提供)：
 
 * 著、述、撰、說
