@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree xml:id="Cat-X">
+  <node name="01 印度撰述 X01-02 (X0001-0207)">
+    <node name="經部 X0001-0045">
+      <node name="華嚴部 X0001" work="X0001"/>
+      <node name="方等部 X0002-0028" work="X0002..X0028"/>
+      <node name="般若部 X0029-0032" work="X0029..X0032"/>
+      <node name="法華部 X0033-0034" work="X0033..X0034"/>
+      <node name="涅槃部 X0035-0036" work="X0035..X0036"/>
+      <node name="小乘部 X0037-0045" work="X0037..X0045"/>
+    </node>
+    <node name="律部 X0046-0051">
+      <node name="小乘部 X0046-0051" work="X0046..X0051"/>
+    </node>
+    <node name="論集部 X0052-0058" work="X0052..X0058"/>
+    <node name="密經儀軌部 X0059-0207" work="X0059..X0207"/>
+  </node>
+  <node name="02 大小乘釋經部 X03-37 (X0208-0675)">
+    <node name="華嚴部疏 X0208-0242" work="X0208..X0242"/>
+    <node name="方等部疏 X0243-0447" work="X0243..X0447"/>
+    <node name="般若部疏 X0448-0576" work="X0448..X0576"/>
+    <node name="法華部疏 X0577-0652" work="X0577..X0652"/>
+    <node name="涅槃部疏 X0653-0664" work="X0653..X0664"/>
+    <node name="小乘經並聖賢集疏 X0665-0675" work="X0665..X0675"/>
+  </node>
+  <node name="03 大小乘釋律部 X38-44 (X676-0751)">
+    <node name="大乘律疏 X0676-0706" work="X0676..X0706"/>
+    <node name="小乘律疏 X0707-0749" work="X0707..X0749"/>
+    <node name="疑似雜偽律疏 X0750-0751" work="X0750..X0751"/>
+  </node>
+  <node name="04 大小乘釋論部 X45-53 (X0752-0862)">
+    <node name="淨土論疏 X0752" work="X0752"/>
+    <node name="十地經論疏 X0753" work="X0753"/>
+    <node name="起信論疏 X0754-0769" work="X0754..X0769"/>
+    <node name="釋摩訶衍論疏 X0770-0776" work="X0770..X0776"/>
+    <node name="金剛頂菩提心論疏 X0777" work="X0777"/>
+    <node name="三論部疏 X0778-0783" work="X0778..X0783"/>
+    <node name="四論部疏 X0784" work="X0784"/>
+    <node name="法界無差別論疏 X0785-0787" work="X0785..X0787"/>
+    <node name="掌珍論疏 X0788" work="X0788"/>
+    <node name="法華論疏 X0789-0790" work="X0789..X0790"/>
+    <node name="般若論疏 X0791-0792" work="X0791..X0792"/>
+    <node name="瑜伽論疏 X0793-0795" work="X0793..X0795"/>
+    <node name="雜集論疏 X0796" work="X0796"/>
+    <node name="中邊論疏 X0797-0798" work="X0797..X0798"/>
+    <node name="百法並百法明門論疏 X0799-0805" work="X0799..X0805"/>
+    <node name="唯識論疏 X0806-0829" work="X0806..X0829"/>
+    <node name="觀所緣緣論疏 X0830-0833" work="X0830..X0833"/>
+    <node name="俱舍並順正論疏 X0834-0843" work="X0834..X0843"/>
+    <node name="異部宗輪論疏 X0844" work="X0844"/>
+    <node name="遺教經論疏 X0845-0846" work="X0845..X0846"/>
+    <node name="因明論疏 X0847-0862" work="X0847..X0862"/>
+  </node>
+  <node name="05 諸宗著述部 X54-73 (X0863-1458)">
+    <node name="三論宗 X0863-0880" work="X0863..X0880"/>
+    <node name="法相宗 X0881-0902" work="X0881..X0902"/>
+    <node name="天台宗 X0903-0980" work="X0903..X0980"/>
+    <node name="華嚴宗 X0981-1033" work="X0981..X1033"/>
+    <node name="真言宗 X1034-1084">
+      <node work="X1034..X1070"/>
+      <node name="X1071 (=T2081(卷下)) 大毗盧遮那神變加持經大教相承傳法次第記 (1卷)" work="T2081" juan="2"/>
+      <node name="X1072 (=T2081(卷上)) 略敘金剛界大教王師資相承傳法次第記 (1卷)" work="T2081"/>
+      <node work="X1073..X1084"/>
+    </node>
+    <node name="戒律宗 X1085-1139" work="X1085..X1139"/>
+    <node name="淨土宗 X1140-1216" work="X1140..X1216"/>
+    <node name="禪宗雜著 X1217-1294" work="X1217..X1294"/>
+    <node name="禪宗語錄通集 X1295-1319" work="X1295..X1319"/>
+    <node name="禪宗語錄別集 X1320-1458" work="X1320..X1458"/>
+  </node>
+  <node name="06 禮懺部 X74 (X1459-X1507)" work="X1459..X1507"/>
+  <node name="07 史傳部 X75-88 (X1508-1671)">
+    <node name="釋迦傳 X1508-1511" work="X1508..X1511"/>
+    <node name="編年通史 X1512-1521" work="X1512..X1521"/>
+    <node name="諸宗通傳 X1522-1527" work="X1522..X1527"/>
+    <node name="華嚴宗 X1528-1534" work="X1528..X1534"/>
+    <node name="天台宗 X1535-1542" work="X1535..X1542"/>
+    <node name="淨土宗 X1543-1552" work="X1543..X1552"/>
+    <node name="禪宗 X1553-1622" work="X1553..X1622"/>
+    <node name="法相宗 X1651" work="X1651"/>
+    <node name="真言宗 X1652-1654" work="X1652..X1654"/>
+    <node name="戒律宗 X1655" work="X1655"/>
+    <node name="雜傳 X1623-1628,1640-1645,1647-1650,1656,1658-1659,1666-1667">
+      <node work="X1623..X1628"/>
+      <node work="X1640..X1645"/>
+      <node work="X1647..X1650"/>
+      <node work="X1656"/>
+      <node work="X1658..X1659"/>
+      <node work="X1666..X1667"/>
+    </node>
+    <node name="感應神異傳 X1629-1639,1660-1661">
+      <node work="X1629..X1639"/>
+      <node work="X1660..X1661"/>
+    </node>
+    <node name="居士善女傳 X1646,1657">
+      <node work="X1646"/>
+      <node work="X1657"/>
+    </node>
+    <node name="古剎傳 X1662-1665" work="X1662..X1665"/>
+    <node name="剌麻教 X1668" work="X1668"/>
+    <node name="朝鮮僧史 X1669-1671" work="X1669..X1671"/>
+  </node>
+</tree>

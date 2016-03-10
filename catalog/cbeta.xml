@@ -1,0 +1,1764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree xml:id="CBETA">
+  <node name="01 阿含部類 T01-02,25,33 etc.">
+    <node name="T0001-25 長阿含經 etc. T01">
+      <node work="T0001"/>
+      <node name="T0002-25 長阿含經單本" work="T0002..T0025"/>
+    </node>
+    <node name="T0026-94 中阿含經 etc. T01">
+      <node work="T0026"/>
+      <node name="T0027-94 中阿含經單本" work="T0027..T0094"/>
+    </node>
+    <node name="T0095-98 廣義法門經 etc. T01" work="T0095..T0098"/>
+    <node name="T0099-124, F0089 雜阿含經 etc. T02, F03">
+      <node work="T0099..T0100"/>
+      <node name="T0101-0124, F0089 雜阿含經單本">
+        <node work="T0101..T0124"/>
+        <node work="F0089"/>
+      </node>
+    </node>
+    <node name="T0125-48 增壹阿含經 etc. T02">
+      <node work="T0125"/>
+      <node name="T0126-48 增壹阿含經單本" work="T0126..T0148"/>
+    </node>
+    <node name="T0149-51 阿難同學經 etc. T02" work="T0149..T0151"/>
+    <node name="T1505-08 阿含經論釋 T25" work="T1505..T1508"/>
+    <node name="T1693-94 阿含經疏 T33" work="T1693..T1694"/>
+  </node>
+  <node name="02 本緣部類 T03-04, X20-21 etc.">
+    <node name="T0152-83 佛本生經 etc. T03, X20-21">
+      <node work="T0152..T0158"/>
+      <node name="T0159 大乘本生心地觀經 T03／淺註 X20-21">
+        <node work="T0159"/>
+        <node work="X0365..X0367"/>
+      </node>
+      <node work="T0160..T0183"/>
+    </node>
+    <node name="T0184-96, F0069 佛傳 etc. T03-04, F02">
+      <node work="T0184..T0189"/>
+      <node work="F0069"/>
+      <node work="T0190..T0196"/>
+    </node>
+    <node name="T0197-209 佛及弟子因緣 T04" work="T0197..T0209"/>
+    <node name="T0210-13 法句經 etc. T04" work="T0210..T0213"/>
+    <node name="T0214-19 譬喻經 etc. T04" work="T0214..T0219"/>
+  </node>
+  <node name="03 般若部類 T05-08,25,33,40,85, X24-26,46,74 etc.">
+    <node name="01 上品般若(大般若經第1會) T05-06">
+      <node work="T0220" file="T05n0220a" juan="1..200"/>
+      <node work="T0220" file="T06n0220b" juan="201..400"/>
+    </node>
+    <node name="02 中品般若經(大般若經第2-3會) T07-08／論 T25／疏 T33, X24,46">
+      <node name="T0220c,21-23 中品般若經 T07-08">
+        <node work="T0220" file="T07n0220c" juan="401..537"/>
+        <node work="T0221..T0223"/>
+      </node>
+      <node name="T1509 大智度論(100卷) T25／疏 X46">
+        <node work="T1509"/>
+        <node work="X0791"/>
+      </node>
+      <node name="T1696-97, X0451 中品般若經疏 T33, X24">
+        <node work="T1696..T1697"/>
+        <node work="X0451"/>
+      </node>
+    </node>
+    <node name="03 小品般若經(大般若經第4-5會) T07-08／論 T25">
+      <node name="T0220d,24-29 小品般若經 T07-08">
+        <node work="T0220" file="T07n0220d" juan="538..565"/>
+        <node work="T0224..T0229"/>
+      </node>
+      <node name="T1516-18 八千頌般若經釋論 T25" work="T1516..T1518"/>
+    </node>
+    <node name="04 天王般若(大般若經第6會) T07-08">
+      <node work="T0220" file="T07n0220e" juan="566..573"/>
+      <node work="T0231"/>
+    </node>
+    <node name="05 文殊般若(大般若經第7會) T07-08">
+      <node work="T0220" file="T07n0220f" juan="574..575"/>
+      <node work="T0232..T0233"/>
+    </node>
+    <node name="06 那伽室利般若(大般若經第8會) T07-08">
+      <node work="T0220" file="T07n0220g" juan="576"/>
+      <node work="T0234"/>
+    </node>
+    <node name="07 金剛般若經(大般若經第9會) T07-08, K05／論 T25／疏 T33,40,85, X24-25, J31, P187, F03／禮懺 X74">
+      <node name="T0220h,0235-39 金剛般若經 T07-08, K05">
+        <node work="T0220" file="T07n0220h" juan="577"/>
+        <node work="T0235..T0239"/>
+        <node work="K0016"/>
+      </node>
+      <node name="T1510-15 金剛般若釋論 T25" work="T1510a..T1515"/>
+      <node name="T1698-1704 etc. 金剛經疏 T33, X24-25, J31, P187, F03">
+        <node work="T1698..T1700"/>
+        <node work="P1624"/>
+        <node work="T1701..T1704"/>
+        <node work="X0454"/>
+        <node work="X0456"/>
+        <node work="X0459..X0462"/>
+        <node name="X0463-5 金剛經采微科 etc. X24" work="X0463..X0465"/>
+        <node work="X0466..X0510"/>
+        <node work="JB269"/>
+        <node work="F0100"/>
+      </node>
+      <node name="T1816-17 金剛經論釋 T40" work="T1816..T1817"/>
+      <node name="T2732-43 金剛經古逸疏 T85" work="T2732..T2743"/>
+      <node work="X1494"/>
+    </node>
+    <node name="08 理趣般若經(大般若經第10會) T07-08／疏 T33">
+      <node work="T0220" file="T07n0220i" juan="578"/>
+      <node work="T0240..T0244"/>
+      <node work="T1695"/>
+    </node>
+    <node name="09 六分般若(大般若經第11-16會) T07">
+      <node work="T0220" file="T07n0220j" juan="579..583"/>
+      <node work="T0220" file="T07n0220k" juan="584..588"/>
+      <node work="T0220" file="T07n0220l" juan="589"/>
+      <node work="T0220" file="T07n0220m" juan="590"/>
+      <node work="T0220" file="T07n0220n" juan="591..592"/>
+      <node work="T0220" file="T07n0220o" juan="593..600"/>
+    </node>
+    <node name="10 般若心經 T08, F27／疏 T33,85, X26">
+      <node name="T0250-57 etc. 般若心經 T08, F27">
+        <node work="T0250..T0256"/>
+        <node work="F1056"/>
+        <node work="F1060"/>
+        <node work="T0257"/>
+      </node>
+      <node name="T1710-14 etc. 般若心經疏 T33, X26">
+        <node work="T1710..T1714"/>
+        <node work="X0521..X0522"/>
+        <node work="X0524..X0526"/>
+        <node work="X0528..X0576"/>
+      </node>
+      <node name="T2746-47 心經古逸疏 T85" work="T2746..T2747"/>
+    </node>
+    <node name="11 仁王般若經 T08／疏 T33,85, X26">
+      <node name="T0245-46 仁王經 T08" work="T0245..T0246"/>
+      <node name="T1705-09 etc. 仁王經疏 T33, X26">
+        <node work="T1705..T1709"/>
+        <node work="X0513..X0517"/>
+        <node work="X0519..X0520"/>
+      </node>
+      <node name="T2744-45 仁王經古逸疏 T85" work="T2744..T2745"/>
+    </node>
+    <node name="12 其他般若 T08">
+      <node work="T0230"/>
+      <node work="T0247..T0249"/>
+      <node work="T0258..T0261"/>
+    </node>
+    <node name="13 大般若經關法 etc. X24, F03">
+      <node work="X0448..X0449"/>
+      <node work="F0181"/>
+    </node>
+  </node>
+  <node name="04 法華部類 T09a,26a,33-34,40,46,85, X27-35,46,55-57,74 etc.">
+    <node name="T09a, F01 法華經／疏 T33-34,85, X27-35, L115-116, P184-185／論 T34">
+      <node name="T0262-65 法華經／疏 T33-34, X27-35, L115-116, P184-185">
+        <node name="T0262-65 法華經 T09a" work="T0262..T0265"/>
+        <node name="T1715-29 etc. 法華經疏 T33-34, X27-35, L115-116, P184-185">
+          <node work="T1715"/>
+          <node name="T1716-7, X0588-92, L1490 法華玄義及釋 etc. T33, X28, L115-116">
+            <node work="T1716..T1717"/>
+            <node work="L1490"/>
+            <node work="X0588..X0592"/>
+          </node>
+          <node name="T1718-9, X0593-99 法華文句及記 etc. T34, X28-29">
+            <node work="T1718..T1719"/>
+            <node work="X0593..X0599"/>
+          </node>
+          <node name="T1720-2 法華玄論義疏 etc. (吉藏) T34" work="T1720..T1722"/>
+          <node name="T1723-4, X0636-9 法華玄贊 etc. (基沼) T34, X34">
+            <node work="T1723..T1724"/>
+            <node work="X0636..X0639"/>
+          </node>
+          <node work="T1725"/>
+          <node name="T1726-9 etc. 觀音經疏 etc. T34, X35">
+            <node work="T1726..T1729"/>
+            <node work="X0640..X0647"/>
+          </node>
+          <node work="X0577"/>
+          <node work="X0582..X0583"/>
+          <node work="X0583"/>
+          <node name="X0584-7 法華三大部科文 etc. X27-28" work="X0584..X0587"/>
+          <node work="X0600"/>
+          <node name="X0601-2, P1617 法華經要解 etc. X30, P184-185">
+            <node work="X0601..X0602"/>
+            <node work="P1617"/>
+          </node>
+          <node work="X0603"/>
+          <node work="X0604"/>
+          <node name="X0605-7 法華經科註 X30-31" work="X0605..X0607"/>          
+          <node work="X0608..X0617"/>
+          <node name="X0618-20 法華經大成 etc. X32" work="X0618..X0620"/>
+          <node name="X0621-3 法華經授手 etc. X32" work="X0621..X0623"/>
+          <node name="X0624-5 法華經演義 etc. X33" work="X0624..X0625"/>
+          <node name="X0626-8 法華經科拾 etc. X33" work="X0626..X0628"/>
+          <node name="X0629-32 法華經指掌疏 etc. X33" work="X0629..X0632"/>
+          <node work="X0633"/>
+        </node>
+        <node name="T2748-52 法華經古逸疏 T85" work="T2748..T2752"/>
+      </node>
+      <node name="T0266-68 不退轉法輪經 etc." work="T0266..T0268"/>
+      <node work="T0269"/>
+      <node name="T0270-71 大法鼓經 etc. T09a" work="T0270..T0271"/>
+      <node work="T0272"/>
+      <node name="T0273 金剛三昧經 T09a／論 T34／疏 X35">
+        <node work="T0273"/>
+        <node work="T1730"/>
+        <node work="X0651..X0652"/>
+      </node>
+      <node name="T0274-75 方廣總持經 etc. T09a" work="T0274..T0275"/>
+      <node work="T0276"/>
+      <node name="T0277 佛說觀普賢菩薩行法經 T09a／疏 X35">
+        <node work="T0277"/>
+        <node work="X0649..X0650"/>
+      </node>
+      <node name="F0016 大王觀世音經 F01／疏 X35">
+        <node work="F0016"/>
+        <node work="X0648"/>
+      </node>
+    </node>
+    <node name="T26a,40, X46 法華經釋論">
+      <node work="T1519..T1520"/>
+      <node work="T1818"/>
+      <node work="X0790"/>
+    </node>
+    <node name="T46, X55-57,74, G069, P167,189 天台宗">
+      <node name="T1911-14, X0915,17-24 摩訶止觀 etc.">
+        <node work="T1911..T1914"/>
+        <node work="X0915"/>
+        <node work="X0917..X0924"/>
+      </node>
+      <node work="T1915..T1919"/>
+      <node name="T1920-21 觀心論 etc." work="T1920..T1921"/>
+      <node work="T1922..T1923"/>
+      <node name="T1924, X0904-05 大乘止觀法門 etc.">
+        <node work="T1924"/>
+        <node work="X0904..X0905"/>
+      </node>
+      <node work="T1925..T1926"/>
+      <node name="T1927-28, X0925-31 十不二門 etc.">
+        <node work="T1927..T1928"/>
+        <node work="X0925..X0931"/>
+      </node>
+      <node work="T1929..T1930"/>
+      <node name="T1931, X0976-80, P1629 天台四教儀 etc.">
+        <node work="T1931"/>
+        <node work="X0976..X0978"/>
+        <node work="P1629"/>
+        <node work="X0979..X0980"/>
+      </node>
+      <node name="T1932, X0932-37 金剛錍 etc.">
+        <node work="T1932"/>
+        <node work="X0932..X0937"/>
+      </node>
+      <node work="T1933..T1938"/>
+      <node name="T1939, X0974 教觀綱宗 etc.">
+        <node work="T1939"/>
+        <node work="X0974"/>
+      </node>
+      <node work="T1940"/>
+      <node name="T1941-51, X1480,88,1501, P1573 天台禮懺儀 etc.">
+        <node work="T1941..T1951"/>
+        <node work="X1480"/>
+        <node work="X1488"/>
+        <node work="X1501"/>
+        <node work="P1573"/>
+      </node>
+      <node work="X0903"/>
+      <node work="X0907..X0909"/>
+      <node work="X0911..X0914"/>
+      <node work="X0916"/>
+      <node work="G1977"/>
+      <node work="X0938..X0944"/>
+      <node work="X0946"/>
+      <node work="X0948..X0972"/>
+      <node work="X0975"/>
+    </node>
+  </node>
+  <node name="05 華嚴部類 T09b-10,26a,35-36,45,85, X03-05,07-09,45,58,74 etc.">
+    <node name="T09b-10 華嚴部／疏 T35-36,85, X05,07, U222-223, L130-133">
+      <node name="T0278 華嚴經 60卷 T09a／疏 T35,85">
+        <node work="T0278"/>
+        <node work="T1731..T1732"/>
+        <node name="T1733-34 華嚴經探玄記 etc." work="T1733-T1734"/>
+        <node work="T2753..T2754"/>
+        <node work="T2756..T2757"/>
+      </node>
+      <node name="T0279 華嚴經 80卷 T10／疏 T35-36,85, X05,07, U222-223, L130-133">
+        <node work="T0279"/>
+        <node name="T1735-38 etc. 華嚴經疏鈔 etc.">
+          <node work="T1735..T1738"/>
+          <node work="U1418"/>
+          <node work="X0231..X0232"/>
+          <node work="X0234"/>
+          <node work="L1557"/>
+        </node>
+        <node name="T1739-41 新華嚴經論 etc.">
+          <node work="T1739..T1741"/>
+        </node>
+        <node work="T1742..T1743"/>
+        <node work="T2755"/>
+      </node>
+      <node work="T0280..T0309"/>
+    </node>
+    <node name="T26a 華嚴經釋論／疏 T85, X03-05,45, J15">
+      <node work="T1521"/>
+      <node name="T1522 十地經論 T26a／疏 T85, X45">
+        <node work="T1522"/>
+        <node work="T2758"/>
+        <node work="T2799"/>
+        <node work="X0753"/>
+      </node>
+      <node work="X0208"/>
+      <node work="X0221"/>
+      <node work="X0223"/>
+      <node work="X0225..X0226"/>
+      <node name="X0227-30, JB005 華嚴經行願品疏 etc. X05, J15">
+        <node work="X0227..X0230"/>
+        <node work="JB005"/>
+      </node>
+    </node>
+    <node name="T45, X03,08-09,58,74, F28 華嚴宗">
+      <node name="T1866, X0995-1000 華嚴一乘教義分齊章 etc.">
+        <node work="T1866"/>
+        <node work="X0995..X1000"/>
+      </node>
+      <node work="T1867..T1875"/>
+      <node name="T1876, X0993-94 修華嚴奧旨妄盡還源觀 etc.">
+        <node work="T1876"/>
+        <node work="X0993..X0994"/>
+      </node>
+      <node work="T1877..T1882"/>
+      <node name="T1883-85, X1007-08 華嚴法界觀門 etc.">
+        <node work="T1883..T1885"/>
+        <node work="X1007..X1008"/>
+      </node>
+      <node name="T1886, X1031-33 原人論 etc.">
+        <node work="T1886"/>
+        <node work="X1031..X1033"/>
+      </node>
+      <node name="T1887A,87B, F1081 華嚴一乘法界圖 etc.">
+        <node work="T1887A..T1887B"/>
+        <node work="F1081"/>
+      </node>
+      <node work="T1888..T1891"/>
+      <node work="X0211"/>
+      <node work="X0218"/>
+      <node work="X0220"/>
+      <node work="X0235..X0242"/>
+      <node work="X0985"/>
+      <node work="X0991"/>
+      <node work="X1004..X1005"/>
+      <node work="X1010"/>
+      <node work="X1013..X1020"/>
+      <node work="X1022..X1023"/>
+      <node name="X1024-26 賢首五教儀 etc." work="X1024..X1026"/>
+      <node work="X1027..X1030"/>
+      <node name="X1469-78, F1076 華嚴禮懺儀 etc.">
+        <node work="X1469..X1478"/>
+        <node work="F1076"/>
+      </node>
+      <node name="F1082-83 漩澓偈 etc.">
+        <node work="F1083"/>
+        <node work="F1082"/>
+      </node>
+      <node work="F1084"/>
+    </node>
+  </node>
+  <node name="06 寶積部類 T11-12a,26a,37,40b,85, X10,19">
+    <node name="T0310-73 寶積部 T11-12a">
+      <node work="T0310"/>
+      <node name="T0311-54 寶積經異譯" work="T0311..T0354"/>      
+      <node name="T0355-56 入法界體性經 etc." work="T0355..T0356"/>      
+      <node name="T0357-59 如來莊嚴智慧光明入一切佛境界經 etc." work="T0357..T0359"/>
+    </node>
+    <node name="T0353 勝鬘經 T12a／疏 T37,85, X19">
+      <node work="T0353"/>
+      <node work="T1744"/>
+      <node name="T2761-63 勝鬘經古逸疏 T85" work="T2761..T2763"/>      
+      <node work="X0351..X0353"/>
+    </node>
+    <node name="T0360-73 淨土經 T11-12／論 T26a／疏 T37,40b,85">
+      <node name="T0360-64 無量壽經 etc. T11-12／疏 T37,85">
+        <node name="T0360-64 無量壽經 etc." work="T0360..T0364"/>        
+        <node name="T1745-48 無量壽經疏 T37" work="T1745..T1748"/>
+        <node name="T2759-60 無量壽經古逸疏 T85" work="T2759..T2760"/>
+      </node>
+      <node name="T0365 觀無量壽經 T12／疏 T37">
+        <node work="T0365"/>
+        <node name="T1749-54 觀無量壽經疏 T37" work="T1749..T1754"/>
+      </node>
+      <node name="T0366-67 阿彌陀經 etc. T12／疏 T37">
+        <node work="T0366..T0367"/>
+        <node name="T1755-62 阿彌陀經疏 T37" work="T1755..T1762"/>
+      </node>
+      <node name="T0368-73 其他淨土經咒 T12" work="T0368..T0373"/>
+      <node name="T1524 往生論 T26a／註 T40b">
+        <node work="T1524"/>
+        <node work="T1819"/>
+      </node>
+    </node>
+    <node name="T1523,25 寶積經釋論 T26a／述 X10">
+      <node work="T1523"/>
+      <node work="T1525"/>
+      <node work="X0264"/>
+    </node>
+  </node>
+  <node name="07 涅槃部類 T12b,26a,37-38,40b,85, X36-37,53 etc.">
+    <node name="T0374-76 涅槃經 T12b／疏 T37-38,85, X36-37">
+      <node name="T0374 涅槃經北本 T12b／疏 T37">
+        <node work="T0374"/>
+        <node work="T1764"/>
+      </node>
+      <node name="T0375 涅槃經南本 T12b／疏 T37-38,85, X36-37">
+        <node work="T0375"/>
+        <node work="T1763"/>
+        <node work="T1765..T1769"/>
+        <node name="T2764-65 涅槃經古逸疏 T85" work="T2764A..T2765"/>        
+        <node work="X0656..X0664"/>
+      </node>
+      <node work="T0376"/>
+    </node>
+    <node name="T0377-88,90-96, F0248 涅槃經餘 T12b, F03">
+      <node work="T0377"/>
+      <node name="T0378-80 泥洹經支分" work="T0378..T0380"/>
+      <node name="T0381-82 眾德三昧" work="T0381..T0382"/>
+      <node work="T0383..T0388"/>
+      <node work="T0390..T0396"/>
+      <node work="F0248"/>
+    </node>
+    <node name="T0389 遺教經 T12b／論 T26a／疏 T40b, X37,53, P174">
+      <node work="T0389"/>
+      <node work="T1529"/>
+      <node work="T1820"/>
+      <node work="P1590"/>
+      <node work="X0665..X0666"/>
+      <node work="X0845..X0846"/>
+    </node>
+    <node name="T1527-28 涅槃經釋論 T26a" work="T1527..T1528"/>
+  </node>
+  <node name="08 大集部類 T13,26a, X21,74 etc.">
+    <node work="T0397"/>
+    <node name="T0398-424 etc. 大集經餘 T13, X21,74, A114">
+      <node work="T0398..T0411"/>
+      <node name="T0412 地藏菩薩本願經 T13／科 etc. X21／禮懺 X74">
+        <node work="T0412"/>
+        <node work="X0382..X0384"/>
+        <node work="X1486..X1487"/>
+      </node>
+      <node work="T0413..T0423"/>
+      <node work="A1510"/>
+      <node work="T0424"/>
+    </node>
+    <node work="T1526"/>
+  </node>
+  <node name="09 經集部類 T14-17,19,21,26a,38-39,85, X01,09-10,17-21,37,39,74 etc.">
+    <node name="T0425-448 etc. 佛名經 etc. T14, F28, C071, L157">
+      <node work="T0425..T0448b"/>
+      <node work="F1072"/>
+      <node work="C1665"/>
+      <node work="L1651"/>
+    </node>
+    <node name="T0449-457, F0088 諸佛本願經 etc. T14,19,21, F03／疏 T38,T85, X21, S06／禮懺 X74">
+      <node name="彌勒經 etc. T14／疏 T38, X21, S06">
+        <node work="T0452..T0457"/>
+        <node work="T1771..T1774"/>
+        <node work="X0388..X0389"/>
+        <node work="X0393..X0394"/>
+        <node work="S0046..S0047"/>
+      </node>
+      <node name="藥師經 etc. T14,19,21, F03／疏 T38,85, X21／禮懺 X74">
+        <node work="T0449..T0451"/>
+        <node work="T0922"/>
+        <node work="T1331"/>
+        <node work="F0088"/>
+        <node work="T1770"/>
+        <node name="T2766-67 藥師經古逸疏 T85" work="T2766..T2767"/>        
+        <node work="X0381"/>
+        <node work="X1483..X1484"/>
+      </node>
+    </node>
+    <node name="T0458-601, X0026-27 所問經 etc. T14-15, X01／疏 T38,T85, X18-20,39">
+      <node work="T0458..T0473"/>
+      <node name="T0474-76 維摩詰經 T14／疏 T38,85, X18-19">
+        <node work="T0474..T0476"/>
+        <node work="T1775..T1782"/>
+        <node work="T2768..T2778"/>
+        <node work="T2824"/>
+        <node work="X0338"/>
+        <node work="X0340"/>
+        <node work="X0343"/>
+        <node work="X0345"/>
+        <node work="X0347..X0349"/>
+      </node>
+      <node work="T0477..T0585"/>
+      <node name="T0586 思益梵天所問經 T15／簡註 X20">
+        <node work="T0586"/>
+        <node work="X0364"/>
+      </node>
+      <node work="T0587..T0591"/>
+      <node name="T0592 天請問經／疏 T85">
+        <node work="T0592"/>
+        <node work="T2786"/>
+      </node>
+      <node work="T0593..T0599"/>
+      <node name="T0600-01, X0706 十善業道經 etc.">
+        <node work="T0600..T0601"/>
+        <node work="X0706"/>
+      </node>
+      <node work="X0026..X0027"/>
+    </node>
+    <node name="T0602-20 禪經 etc. T15" work="T0602..T0620"/>
+    <node name="T0621-48, X0015 三昧經 etc. T15, X01">
+      <node work="T0621..T0648"/>
+      <node work="X0015"/>
+    </node>
+    <node name="T0649-655 法相經 etc. T15" work="T0649..T0655"/>    
+    <node name="T0656-62 瓔珞經 etc. T16" work="T0656..T0662"/>    
+    <node name="T0663-65 金光明經 etc. T16／疏 T39, X20">
+      <node work="T0663..T0665"/>
+      <node work="T1783..T1788"/>
+      <node work="X0355..X0362"/>
+    </node>
+    <node name="T0666-69 如來藏經 etc. T16" work="T0666..T0669"/>    
+    <node name="T0670-74, X0008 楞伽經 etc. T16, X01／疏 T39,85, X17-18, C097">
+      <node work="T0670..T0674"/>
+      <node work="T1789..T1791"/>
+      <node work="T2779"/>
+      <node work="X0008"/>
+      <node work="X0321..X0325"/>
+      <node work="C1821"/>
+      <node work="X0326..X0334"/>
+    </node>
+    <node name="T0675-82 解深密經 etc. T16／疏 X21">
+      <node work="T0675"/>
+      <node name="T0676 解深密經／疏 X21">
+        <node work="T0676"/>
+        <node work="X0369"/>
+      </node>
+      <node work="T0677..T0680"/>
+      <node name="T0681-682 大乘密嚴經／疏 X21">
+        <node work="T0681..T0682"/>
+        <node work="X0368"/>
+      </node>
+    </node>
+    <node name="T0683-707 福田經 etc. T16／疏 T39,85, X21／禮懺 X74">
+      <node work="T0683..T0684"/>
+      <node name="T0685 盂蘭盆經／疏 T39,85, X21／禮懺 X74">
+        <node work="T0685"/>
+        <node work="T1792"/>
+        <node work="T2781"/>
+        <node work="X0372..X0379"/>
+        <node work="X1500"/>
+      </node>
+      <node work="T0686..T0700"/>
+      <node name="T0701 溫室經／疏 T39,85">
+        <node work="T0701"/>
+        <node work="T1793"/>
+        <node work="T2780"/>
+      </node>
+      <node work="T0702..T0707"/>
+    </node>
+    <node name="T0708-20 緣生經 etc. T16／疏 T85">
+      <node name="T0708-12 稻芉經／疏 T85">
+        <node work="T0708..T0712"/>
+        <node name="T2782-83 稻芉經古逸疏" work="T2782..T2783"/>
+      </node>
+      <node work="T0713..T0720"/>
+    </node>
+    <node name="T0721-59, X0023 業道經 etc. T17, X01">
+      <node work="T0721..T0759"/>
+      <node work="X0023"/>
+    </node>
+    <node name="T0760-84 etc. 名數經 etc. T17, X37">
+      <node work="T0760..T0778"/>
+      <node name="T0779 佛說八大人覺經／疏 X37">
+        <node work="T0779"/>
+        <node work="X0672..X0673"/>
+      </node>
+      <node work="T0780..T0783"/>
+      <node name="T0784 四十二章經／疏 T39, X37">
+        <node work="T0784"/>
+        <node work="T1794"/>
+        <node work="X0669..X0671"/>
+        <node work="X0675"/>
+      </node>
+    </node>
+    <node name="T0785-89 數珠經 etc. T17" work="T0785..T0789"/>    
+    <node name="T0790-847, JB044 etc. 諸雜經 etc. T17, X01,74, J19／疏 X09-10, 21,37">
+      <node work="T0790..T0838"/>
+      <node name="T0839-41, X1485 占察善惡業報經 etc. T17, X74／疏 X21">
+        <node work="T0839..T0841"/>
+        <node work="X0370..X0371"/>
+        <node work="X1485"/>
+      </node>
+      <node name="T0842, X0001 圓覺經 etc. T17, X01／疏 T39, X09-10, F12">
+        <node work="T0842"/>
+        <node work="F0546"/>
+        <node work="T1795"/>
+        <node work="X0001"/>
+        <node work="X0243..X0246"/>
+        <node work="X0248..X0263"/>
+      </node>
+      <node work="T0843..T0847"/>
+      <node work="X0010"/>
+      <node work="X0017"/>
+      <node work="X0019..X0021"/>
+      <node work="X0024..X0025"/>
+      <node work="X0674"/>
+      <node work="JB044"/>
+    </node>
+    <node name="T1530-35 經集部釋論 T26a／疏 T85">
+      <node work="T1530..T1534"/>
+      <node name="T1535 大乘四法經釋／疏 T85">
+        <node work="T1535"/>
+        <node name="T2784-85 大乘四法經古逸疏" work="T2784..T2785"/>
+      </node>
+    </node>
+  </node>
+  <node name="10 密教部類 T18-21,39,46, X01-02,10-16,23,59,74 etc.">
+    <node name="T18-21, X01-02,23, C071, F24,27-28, L135, G052 密教部">
+      <node name="T0848-64 大日經 etc. T18" work="T0848..T0864B"/>
+      <node name="T0865-92 金剛頂經 etc. T18" work="T0865..T0892"/>
+      <node name="T0893-907, F1071 蘇悉地經 etc. T18, F28">
+        <node work="T0893a..T0901"/>
+        <node work="F1071"/>
+        <node work="T0902..T0907"/>
+      </node>
+      <node name="T0908-14 護摩儀軌 etc. T18" work="T0908..T0914"/>
+      <node name="T0915-17 受戒法 etc. T18" work="T0915..T0917"/>      
+      <node name="T0918-43 諸佛儀軌 T19" work="T0918..T0943"/>
+      <node name="T0944-81 etc. 諸佛頂儀軌 T19, G052, F27">
+        <node work="T0944A..T0953"/>
+        <node work="G1222"/>
+        <node work="T0954A..T0974B"/>
+        <node work="F1062"/>
+        <node work="T0974C..T0977"/>
+        <node work="F1048"/>
+        <node work="F1063"/>
+        <node work="T0978..T0981"/>
+      </node>
+      <node name="T0982-1029 etc. 諸經儀軌 T19, X02">
+        <node work="T0982..T1029"/>
+        <node work="X0188"/>
+        <node work="X0204"/>
+      </node>
+      <node name="T1030-1198 etc. 諸菩薩儀軌 T20, X01-02, C071, F24,27, L135">
+        <node name="T1030-1118 etc. 觀自在菩薩儀軌">
+          <node work="T1030..T1061"/>
+          <node work="F0761"/>
+          <node work="F1050"/>
+          <node work="T1062A..T1063"/>
+          <node work="C1666"/>
+          <node work="T1064"/>
+          <node work="F1064"/>
+          <node work="T1065..T1087"/>
+          <node work="L1571"/>
+          <node work="T1088..T1100"/>
+          <node name="T1101-1109 多羅菩薩儀軌" work="T1101..T1109"/>          
+          <node work="T1110..T1118"/>
+          <node work="X0034"/>
+          <node work="X0190..X0191"/>
+        </node>
+        <node name="T1119-25 金剛薩埵儀軌" work="T1119..T1125"/>        
+        <node name="T1126-27 普賢菩薩儀軌" work="T1126..T1127"/>        
+        <node name="T1128-32 金剛手菩薩儀軌" work="T1128..T1132"/>        
+        <node name="T1133-40 延命法" work="T1133..T1140"/>        
+        <node name="T1141-44 慈氏菩薩儀軌" work="T1141..T1144"/>
+        <node name="T1145-49, X0192 虛空藏菩薩儀軌">
+          <node work="T1145..T1149"/>
+          <node work="X0192"/>
+        </node>
+        <node work="T1150"/>
+        <node name="T1151-52 般若波羅蜜菩薩儀軌" work="T1151..T1152"/>        
+        <node name="T1153-56, F1061 大隨求陀羅尼">
+          <node work="T1153..T1156A"/>
+          <node work="F1061"/>
+          <node work="T1156B"/>
+        </node>
+        <node work="T1157"/>
+        <node name="T1158-59 地藏菩薩儀軌" work="T1158..T1159B"/>        
+        <node name="T1160-61 日光藥王等菩薩儀軌" work="T1160..T1161"/>        
+        <node name="T1162-65 持世陀羅尼" work="T1162..T1165"/>        
+        <node name="T1166, X0206 馬鳴菩薩儀軌">
+          <node work="T1166"/>
+          <node work="X0206"/>
+        </node>
+        <node name="T1167-68 八大菩薩曼荼羅" work="T1167..T1168B"/>        
+        <node work="T1169..T1170"/>
+        <node name="T1171-98, X0181 文殊菩薩儀軌">
+          <node work="T1171..T1198"/>
+          <node work="X0181"/>
+        </node>
+      </node>
+      <node name="T1199-1420 etc. 陀羅尼經典 T21, X01-02">
+        <node name="T1199-1205 明王部不動法儀軌" work="T1199..T1205"/>        
+        <node name="T1206-08 俱利伽羅法" work="T1206..T1208"/>        
+        <node name="T1209-10 降三世法" work="T1209..T1210"/>        
+        <node name="T1211-13 軍荼利法" work="T1211..T1213"/>        
+        <node name="T1214-19 大威德法" work="T1214..T1219"/>        
+        <node name="T1220-21 金剛藥叉法" work="T1220..T1221"/>        
+        <node name="T1222-24 金剛童子菩薩儀軌" work="T1222..T1224"/>        
+        <node name="T1225-27 烏樞瑟摩法" work="T1225..T1227"/>        
+        <node name="T1228-29 穢跡金剛法" work="T1228..T1229"/>        
+        <node name="T1230-32 大輪金剛法" work="T1230..T1232"/>        
+        <node name="T1233-36 無能勝除障法" work="T1233..T1236"/>        
+        <node name="T1237-40 大元帥法" work="T1237..T1240"/>        
+        <node work="T1241..T1243"/>
+        <node name="T1244-50 毘沙門天儀軌" work="T1244..T1250"/>        
+        <node work="T1251"/>
+        <node name="T1252-53 吉祥天女法T1252-53 吉祥天女法" work="T1252a..T1253"/>
+        <node name="T1254-59 摩利支天法" work="T1254..T1259"/>        
+        <node name="T1260-63 鬼子母神法" work="T1260..T1263"/>
+        <node name="T1264-65 常瞿利法" work="T1264a..T1265"/>        
+        <node name="T1266-75 歡喜天法" work="T1266..T1275"/>        
+        <node work="T1276..T1278"/>
+        <node name="T1279-80 摩醯首羅天法" work="T1279..T1280"/>
+        <node work="T1281..T1293"/>
+        <node name="T1294-98 諸天供養儀軌" work="T1294..T1298"/>        
+        <node name="T1299-1312 宿曜吉凶法" work="T1299..T1312"/>        
+        <node name="T1313-22 施焰口餓鬼法" work="T1313..T1322"/>        
+        <node name="T1323-30 醫療陀羅尼法" work="T1323..T1330"/>        
+        <node name="T1331-1417 etc. 諸陀羅尼法">
+          <node work="T1331..T1332"/>
+          <node name="T1333-34 七佛陀羅尼咒經" work="T1333..T1334"/>          
+          <node work="T1335..T1347"/>
+          <node name="T1348-49 佛名除障滅罪法" work="T1348..T1349"/>          
+          <node work="T1350"/>
+          <node name="T1351-55 持句神咒經" work="T1351..T1355"/>          
+          <node name="T1356-59 華積陀羅尼法" work="T1356..T1359"/>          
+          <node name="T1360-61 六門陀羅尼經" work="T1360..T1361"/>          
+          <node work="T1362"/>
+          <node name="T1363-64 勝幢臂印陀羅尼經" work="T1363..T1364"/>          
+          <node name="T1365-66 八名普密陀羅尼經" work="T1365..T1366"/>          
+          <node work="T1367..T1417"/>
+          <node work="X0182..X0185"/>
+          <node work="X0188"/>
+          <node work="X0193"/>
+          <node work="X0202..X0203"/>
+        </node>
+        <node name="T1418-19, X0028 造像儀軌">
+          <node work="T1418..T1419"/>
+          <node work="X0028"/>
+        </node>
+        <node work="T1420"/>
+        <node work="X0201"/>
+      </node>
+    </node>
+    <node name="T39, X10-16,23, P168,185 密教疏">
+      <node work="T1796..T1798"/>
+      <node name="T1799 etc. 首楞嚴義疏注經 etc. T39, X10-16, P168,185">
+        <node work="T1799"/>
+        <node work="X0265"/>
+        <node work="X0267..X0272"/>
+        <node name="X0273-5 楞嚴經正脉疏 etc. X12" work="X0273..X0275"/>        
+        <node work="X0276..X0303"/>
+        <node name="X0304-6 楞嚴經觀心定解 etc. X15" work="X0304..X0306"/>        
+        <node name="X0307-9 楞嚴經指掌疏 etc. X16" work="X0307..X0309"/>        
+        <node name="X0310-2 楞嚴經勢至圓通章科解 etc. X16" work="X0310..X0312"/>        
+        <node work="X0313"/>
+        <node name="X0314-6 楞嚴經寶鏡疏 etc. X16" work="X0314..X0316"/>
+        <node work="X0317..X0318"/>
+        <node work="P1581"/>
+        <node work="P1618"/>
+      </node>
+      <node work="T1800..T1802"/>
+      <node name="T1803, X0445 佛頂尊勝陀羅尼經教跡義記 etc. T39, X23">
+        <node work="T1803"/>
+        <node work="X0445"/>
+      </node>
+      <node name="X0438-9 大日經義釋 etc. X23" work="X0438..X0439"/>     
+      <node work="X0446..X0447"/>
+    </node>
+    <node name="T46, X59,74, J19 密宗">
+      <node work="T1952..T1956"/>
+      <node work="X1043"/>
+      <node work="X1048"/>
+      <node work="X1052"/>
+      <node work="X1054"/>
+      <node work="X1069"/>
+      <node work="X1073..X1074"/>
+      <node work="X1077..X1084"/>
+      <node name="X1479,81-82 密宗禮懺儀 etc.">
+        <node work="X1479"/>
+        <node work="X1481..X1482"/>
+      </node>
+      <node work="JB047"/>
+    </node>
+  </node>
+  <node name="11 律部類 T22-24,40a,45,85, X38-44,59-60,74 etc.">
+    <node name="T22-24,40a, X39-40,44, A114 律部／疏 T40a,85, X38-39,44, F02">
+      <node name="T1421-83 etc. 聲聞律藏 T22-24,40a, X39-40,44, F02">
+        <node name="T1421-64 etc. 聲聞律典 T22-24,40a, X39-40, F02">
+          <node work="T1421..T1464"/>
+          <node work="T1808..T1810"/>
+          <node work="X0707"/>
+          <node work="X0722"/>
+          <node work="X0725"/>
+          <node work="F0041"/>
+        </node>
+        <node name="T1465-83, X0750-51 戒律小經 T24, X44">
+          <node work="T1465..T1483b"/>
+          <node work="X0750..X0751"/>
+        </node>
+      </node>
+      <node name="T1484-1504, A1511 菩薩戒藏 T24, A114／疏 T40a,85, X38-39">
+        <node name="T1484 梵網經 T24／疏 T40a,85, X38-39">
+          <node work="T1484"/>
+          <node name="T1811-15 etc. 梵網經疏 T40a, X38-39">
+            <node work="T1811..T1815"/>
+            <node work="X0676"/>
+            <node work="X0678..X0683"/>
+            <node work="X0686..X0687"/>
+            <node work="X0690..X0700"/>
+          </node>
+          <node work="T2797"/>
+        </node>
+        <node name="T1485 瓔珞經 T24／疏 T85, X39">
+          <node work="T1485"/>
+          <node work="T2798"/>
+          <node work="X0705"/>
+        </node>
+        <node work="T1486..T1504"/>
+        <node work="A1511"/>
+      </node>
+    </node>
+    <node name="T40a,85, X39-44 四分律疏">
+      <node work="T1804..T1807"/>
+      <node name="T2787-96 四分律古逸疏" work="T2787..T2796"/>      
+      <node work="X0708"/>
+      <node work="X0712..X0721"/>
+      <node work="X0723..X0724"/>
+      <node work="X0726..X0738"/>
+      <node work="X0740..X0748"/>
+    </node>
+    <node name="T45, X39,44,59-60,74 律宗">
+      <node name="T1892-99 道宣著作" work="T1892..T1899"/>      
+      <node name="T1900, X1102 佛制比丘六物圖 etc.">
+        <node work="T1900"/>
+        <node work="X1102"/>
+      </node>
+      <node name="T1901-3 義淨著作" work="T1901..T1903"/>
+      <node name="T1904-5 拔合思巴集有部律典" work="T1934..T1905"/>
+      <node name="T1906-7, X0702-3 菩薩戒持犯論 etc.">
+        <node work="T1906..T1907"/>
+        <node work="X0702..X0703"/>
+      </node>
+      <node name="T1908-10, X1489-90,95-99,1504-07 禮懺儀">
+        <node work="T1908..T1910"/>
+        <node work="X1489..X1490"/>
+        <node work="X1495..X1499"/>
+        <node work="X1504..X1507"/>
+      </node>
+      <node name="X1096,98-99 允堪著作">
+        <node work="X1096"/>
+        <node work="X1098..X1099"/>
+      </node>
+      <node name="X1097,100,104-106 元照著作">
+        <node work="X1097"/>
+        <node work="X1100"/>
+        <node work="X1104..X1106"/>
+      </node>
+      <node name="X1109-10 守一著作" work="X1109..X1110"/>
+      <node name="X1111-12 妙蓮著作" work="X1111..X1112"/>      
+      <node name="X1115,22,28,0709 讀體著作">
+        <node work="X0709"/>
+        <node work="X1115"/>
+        <node work="X1122"/>
+        <node work="X1128"/>
+      </node>
+      <node name="X1116,19,34-35 書玉著作">
+        <node work="X1116"/>
+        <node work="X1119"/>
+        <node work="X1134..X1135"/>
+      </node>
+      <node name="X1117-18,29-33,1491-93 弘贊著作">
+        <node work="X1117..X1118"/>
+        <node work="X1129..X1133"/>
+        <node work="X1491..X1493"/>
+      </node>
+      <node name="X1121,23-24,37,0749 智旭著作">
+        <node work="X0749"/>
+        <node work="X1121"/>
+        <node work="X1123..X1124"/>
+        <node work="X1137"/>
+      </node>
+      <node name="X1126-27 法藏著作" work="X1126..X1127"/>
+      <node work="X1085..X1088"/>
+      <node work="X1094..X1095"/>
+      <node work="X1103"/>
+      <node work="X1107..X1108"/>
+      <node work="X1113..X1114"/>
+      <node work="X1120"/>
+      <node work="X1125"/>
+      <node work="X1136"/>
+      <node work="X1138..X1139"/>
+    </node>
+  </node>
+  <node name="12 毘曇部類 T26b-29,41,85, X53">
+    <node name="T1536-42 六足論 T26b" work="T1536..T1542"/>
+    <node name="T1543-44 發智論 T26b" work="T1543..T1544"/>
+    <node name="T1545-47 毘婆沙論 T27-28" work="T1545..T1547"/>    
+    <node name="T1548-57 毘婆沙綱要論 T28" work="T1548..T1557"/>
+    <node name="T1558-63, X0843 俱舍論 etc. T29, X53">
+      <node work="T1558..T1563"/>
+      <node work="X0843"/>
+    </node>
+    <node name="T1821-23 etc. 俱舍論疏 T41, X53">
+      <node work="T1821..T1823"/>
+      <node work="X0836..X0839"/>
+      <node work="X0841..X0842"/>
+    </node>
+    <node work="T2840"/>
+  </node>
+  <node name="13 中觀部類 T30a,42,45,85, X46,54 etc.">
+    <node name="T30a, K41 中觀部／疏 T42,85, X46">
+      <node name="T1564-67, K1482 中論 etc.／疏 T42">
+        <node work="T1564..T1567"/>
+        <node work="K1482"/>
+        <node work="T1824"/>
+      </node>
+      <node name="T1568 十二門論／疏 T42">
+        <node work="T1568"/>
+        <node work="T1825..T1826"/>
+      </node>
+      <node name="T1569-72 百論 etc.／疏 T42,85">
+        <node name="T1569 百論／疏 T42">
+          <node work="T1569"/>
+          <node work="T1827"/>
+        </node>
+        <node work="T1570"/>
+        <node name="T1571 廣百論釋論／疏 T85">
+          <node work="T1571"/>
+          <node work="T2800"/>
+        </node>
+        <node work="T1572"/>
+      </node>
+      <node name="T1573-78 中觀綱要 T30／疏 X46">
+        <node work="T1573..T1578"/>
+        <node work="X0788"/>
+      </node>
+    </node>
+    <node name="T45, X46,54 三論宗">
+      <node work="T1852..T1856"/>
+      <node name="T1857-60 etc. 肇論／疏 T45, X54">
+        <node work="T1857..T1860"/>
+        <node work="X0866"/>
+        <node work="X0868..X0870"/>
+        <node work="X0872..X0873"/>
+        <node work="X0878..X0880"/>
+      </node>
+      <node work="X0784"/>
+      <node work="X0876"/>
+    </node>
+  </node>
+  <node name="14 瑜伽部類 T30b-32,42-45,85, X39,46-51,55 etc.">
+    <node name="T30b-32 瑜伽行派論／疏 T42-44,85, X39,46-51, A120">
+      <node name="T1579-84 瑜伽論／疏 T42-43,85, X39,47, A120">
+        <node work="T1579..T1584"/>
+        <node work="T1828..T1829"/>
+        <node work="T2801..T2803"/>
+        <node work="X0704"/>
+        <node work="X0794"/>
+        <node work="A1565a..A1565b"/>
+      </node>
+      <node name="T1585-87,1618 成唯識論／疏 T43,85, X48-51">
+        <node work="T1585..T1587"/>
+        <node work="T1618"/>
+        <node name="T1830-33 etc. 成唯識論疏">
+          <node work="T1830..T1833"/>
+          <node work="X0806"/>
+          <node work="X0808"/>
+          <node work="X0810"/>
+          <node work="X0812"/>
+          <node work="X0814..X0828"/>
+        </node>
+        <node work="T2804"/>
+      </node>
+      <node name="T1588-91 唯識二十論／疏 T43">
+        <node work="T1588..T1591"/>
+        <node work="T1834"/>
+      </node>
+      <node name="T1592-98 攝論及釋／疏 T85">
+        <node work="T1592..T1598"/>
+        <node work="T2805..T2809"/>
+      </node>
+      <node name="T1599-1601,16 辯中邊論／疏 T44, X48">
+        <node work="T1599..T1601"/>
+        <node work="T1616"/>
+        <node work="T1835"/>
+        <node work="X0797"/>
+      </node>
+      <node name="T1602-03,17 顯揚論">
+        <node work="T1602..T1603"/>
+        <node work="T1617"/>
+      </node>
+      <node work="T1604"/>
+      <node name="T1605-06 集論／疏 X48">
+        <node work="T1605..T1606"/>
+        <node work="X0796"/>
+      </node>
+      <node work="T1607"/>
+      <node name="T1608-09 成業論" work="T1608..T1609"/>
+      <node name="T1610-11,26-27 如來藏論書／疏 T44, X46">
+        <node work="T1610..T1611"/>
+        <node name="T1626-7 大乘法界無差別論／疏 T44, X46">
+          <node work="T1626..T1627"/>
+          <node work="T1838"/>
+          <node work="X0786..X0787"/>
+        </node>
+      </node>
+      <node name="T1612-13 五蘊論" work="T1612..T1613"/>      
+      <node name="T1614 百法論／疏 T44,85, X48, L149,153, U205">
+        <node work="T1614"/>
+        <node name="T1836-37 etc. 百法明門論疏">
+          <node work="T1836..T1837"/>
+          <node work="U1368"/>
+          <node work="L1629"/>
+          <node work="X0799"/>
+          <node work="L1635"/>
+          <node work="X0802..X0805"/>
+        </node>
+        <node name="T2810-12 百法明門論古逸疏" work="T2810..T2812"/>
+      </node>
+      <node work="T1615"/>
+      <node name="T1619,24-25 所緣論／疏 X51">
+        <node work="T1619"/>
+        <node work="T1624..T1625"/>
+        <node work="X0830..X0833"/>
+      </node>
+      <node name="T1620-21 解捲論" work="T1620..T1621">
+      </node>
+      <node work="T1622..T1623"/>
+    </node>
+    <node name="T44 大乘義章" work="T1851"/>    
+    <node name="T45 法相宗／T85, X55">
+      <node name="T1861, X0882-83 法苑義林章 etc.">
+        <node work="T1861"/>
+        <node work="X0882..X0883"/>
+      </node>
+      <node work="T1862..T1863"/>
+      <node name="T1864,2823 大乘入道次第 etc.">
+        <node work="T1864"/>
+        <node work="T2823"/>
+      </node>
+      <node name="T1865, X0890-98 八識規矩 etc.">
+        <node work="T1865"/>
+        <node work="X0890..X0898"/>
+      </node>
+      <node work="X0884"/>
+      <node work="X0888"/>
+      <node name="X0899-901 相宗八要 etc." work="X0899..X0901"/>      
+      <node work="X0902"/>
+    </node>
+  </node>
+  <node name="15 論集部類 T32,44a,85, X45-46,53 etc.">
+    <node name="T1628-33 因明論 etc. T32／疏 T44a, X53, A119">
+      <node name="T1628-33 因明論 etc. T32" work="T1628..T1633"/>
+      <node name="T1839-42 etc. 因明論疏 T44a, X53, A119">
+        <node work="T1839..T1842"/>
+        <node work="X0847..X0848"/>
+        <node work="X0852..X0862"/>
+        <node work="A1553"/>
+      </node>
+    </node>
+    <node name="T1634-38 入大乘論 etc. T32" work="T1634..T1638"/>
+    <node name="T1639-43 外道四宗論 etc. T32" work="T1639..T1643"/>
+    <node name="T1644-45 立世論 etc. T32" work="T1644..T1645"/>
+    <node name="T1646-49 成實論 etc. T32" work="T1646..T1649"/>    
+    <node name="T1650-54 因緣論 etc. T32／疏 T85">
+      <node work="T1650..T1653"/>
+      <node name="T1654 因緣心論釋／疏 T85">
+        <node work="T1654"/>
+        <node work="T2816"/>
+      </node>
+    </node>
+    <node name="T1655-58 止觀門論頌 etc. T32" work="T1655..T1658"/>
+    <node name="T1659-65, X0777 菩提心論 etc. T32, X46">
+      <node work="T1659..T1665"/>
+      <node work="X0777"/>
+    </node>
+    <node name="T1666-69 起信論 etc. T32／疏 T44a,85, X45-46, J07, L141">
+      <node work="T1666..T1667"/>
+      <node name="T1668, X0770-5 釋摩訶衍論 etc.">
+        <node work="T1668"/>
+        <node work="X0770..X0775"/>
+      </node>
+      <node name="T1669, X0776 大宗地玄文本論 etc.">
+        <node work="T1669"/>
+        <node work="X0776"/>
+      </node>
+      <node name="T1843-50 etc. 起信論疏 T44a, X45, J07, L141">
+        <node work="T1843..T1844"/>
+        <node work="JA123"/>
+        <node work="L1600"/>
+        <node work="T1845..T1850"/>
+        <node work="X0754..X0755"/>
+        <node work="X0757"/>
+        <node work="X0759"/>
+        <node work="X0762..X0768"/>
+        <node work="X0763"/>
+        <node work="X0764"/>
+        <node work="X0765"/>
+        <node work="X0766"/>
+        <node work="X0767"/>
+        <node work="X0768"/>
+      </node>
+      <node name="T2813-15 起信論古逸疏 T85" work="T2813..T2815"/>
+    </node>
+    <node name="T1670-92 其他 T32" work="T1670..T1692"/>
+  </node>
+  <node name="16 淨土宗部類 T11-12a,26a,37,40b,47,85, X01-02,16,22,61-62,74">
+    <node name="T0310 etc. 淨土經 T11-12, X01-02,16／論 T26a／疏 T37,40b,85, X22">
+      <node name="T0310(5),0360-64, X0005 無量壽經 etc. T11-12a, X01／疏 T37,85, X22">
+        <node name="T0310(5),0360-64, X0005 無量壽經 etc. T11-12a, X01">
+          <node name="T0310(5) 無量壽如來會 2 菩提流志" work="T0310" juan="17..18"/>
+          <node work="T0360..T0364"/>
+          <node work="X0005"/>
+        </node>
+        <node name="T1745-48 etc. 無量壽經疏 T37, X22">
+          <node work="T1745..T1748"/>
+          <node work="X0397"/>
+          <node work="X0400..X0401"/>
+        </node>
+        <node name="T2759-60 無量壽經古逸疏 T85" work="T2759..T2760"/>
+      </node>
+      <node name="T0365 觀無量壽經 T12a, ／疏 T37, X22">
+        <node work="T0365"/>
+        <node name="T1749-54 觀無量壽經疏 T37" work="T1749..T1754"/>        
+        <node work="X0405..X0408"/>
+        <node work="X0410..X0414"/>
+      </node>
+      <node name="T0366-67 etc. 阿彌陀經 etc. T12a, X01／疏 T37, X22">
+        <node work="T0366..T0367"/>
+        <node name="T1755-62 阿彌陀經疏 T37" work="T1755..T1762"/>        
+        <node work="X0006"/>
+        <node work="X0420..X0435"/>
+      </node>
+      <node name="T0368-73 etc. 其他淨土經咒 T12a, X01-02,16">
+        <node work="T0368..T0373"/>
+        <node work="X0011..X0014"/>
+        <node work="X0205"/>
+        <node work="X0310..X0312"/>
+      </node>
+      <node name="T1524 往生論 T26a／註 T40b">
+        <node work="T1524"/>
+        <node work="T1819"/>
+      </node>
+    </node>
+    <node name="T1957-84 etc. 淨土宗 T47, X02,61-62,74">
+      <node name="T1957 南北朝著作" work="T1957"/>
+      <node name="T1958-67 隋唐著作" work="T1958..T1967"/>      
+      <node name="T1968-70, X1149 宋朝著作">
+        <node work="T1968..T1970"/>
+        <node work="X1149"/>
+      </node>
+      <node name="T1971-73 元朝著作" work="T1971..T1973"/>      
+      <node name="T1974-77, X1154-58,60,62-68,1207 明朝著作">
+        <node work="T1974..T1977"/>
+        <node work="X1154..X1158"/>
+        <node work="X1160"/>
+        <node work="X1162..X1168"/>
+        <node work="X1207"/>
+      </node>
+      <node name="T1978-84, X0057,1464-68 淨土禮懺儀 etc.">
+        <node work="T1978..T1984"/>
+        <node work="X0057"/>
+        <node work="X1464..X1468"/>
+      </node>
+      <node name="X1145 日本著作" work="X1145"/>      
+      <node name="X1161,1169-1206,1208-1216 清朝著作">
+        <node work="X1161"/>
+        <node work="X1169..X1206"/>
+        <node work="X1208..X1216"/>
+      </node>
+    </node>
+    <node name="T2826-30 淨土宗古逸類 T85" work="T2826..T2830B"/>
+  </node>
+  <node name="17 禪宗部類 T47-48,85, X63-73 etc.">
+    <node name="T1985-2002, JA042 五家語錄類 T47-48, J01, M059">
+      <node name="T1985,92-95,97-99,2000, JA042 臨濟宗 T47, J01, M059">
+        <node work="T1985"/>
+        <node work="T1992..T1995"/>
+        <node work="T1997"/>
+        <node work="T1998A"/>
+        <node name="T1998B=X1575 大慧普覺禪師宗門武庫 (1卷)" work="T1998B"/>        
+        <node work="M1540"/>
+        <node work="JA042"/>
+        <node work="T1999..T2000"/>
+      </node>
+      <node name="T1986-87,2001-2 曹洞宗 T47-48">
+        <node work="T1986A..T1987B"/>
+        <node work="T2001..T2002B"/>
+      </node>
+      <node name="T1988,96 雲門宗 T47">
+        <node work="T1988"/>
+        <node work="T1996"/>
+      </node>
+      <node name="T1989-90 溈仰宗 T47" work="T1989..T1990"/>      
+      <node name="T1991 法眼宗 T47" work="T1991"/>
+    </node>
+    <node name="T2003-6 公案集 T48" work="T2003..T2006"/>
+    <node name="T2007-25 壇經等歷代禪宗典籍 T48">
+      <node name="T2007-15 隋唐著作">
+        <node work="T2007..T2012B"/>
+        <node name="T2013-14 永嘉著作" work="T2013..T2014"/>        
+        <node work="T2015"/>
+      </node>
+      <node name="T2016-18 永明著作" work="T2016..T2018"/>      
+      <node name="T2019-20 知訥著作" work="T2019A..T2020"/>      
+      <node work="T2021..T2025"/>
+    </node>
+    <node name="T2831-39 禪宗古逸類 T85" work="T2831..T2839"/>    
+    <node name="X1217-59 雜著(1) X63 達磨入道四行觀 etc.">
+      <node work="X1217..X1220"/>
+      <node work="X1222..X1226"/>
+      <node work="X1229..X1242"/>
+      <node work="X1244..X1259"/>
+    </node>
+    <node name="X1260-76, JB128-29 雜著(2) X64, J23 列祖提綱錄 etc.">
+      <node work="X1260..X1266"/>
+      <node work="X1268..X1271"/>
+      <node work="X1276"/>
+      <node work="JB128..JB129"/>
+    </node>
+    <node name="X1277-80,1282-94 雜著(3) X65 因師集賢語錄 etc.">
+      <node work="X1277..X1280"/>
+      <node work="X1282..X1283"/>
+      <node work="X1285..X1294"/>
+    </node>
+    <node name="JB090-497 雜著(4) J20-21,23,25-40 續原教論 etc.">
+      <node work="JB090..JB091"/>
+      <node work="JB095..JB098"/>
+      <node work="JB110"/>
+      <node work="JB103"/>
+      <node work="JB118"/>
+      <node work="JB120"/>
+      <node work="JB122"/>
+      <node work="JB127"/>
+      <node work="JB135"/>
+      <node work="JB159"/>
+      <node work="JB164..JB167"/>
+      <node work="JB180..JB181"/>
+      <node work="JB190"/>
+      <node work="JB207"/>
+      <node work="JB214..JB216"/>
+      <node work="JB225..JB227"/>
+      <node work="JB245"/>
+      <node work="JB259..JB260"/>
+      <node work="JB267..JB268"/>
+      <node work="JB277"/>
+      <node work="JB279"/>
+      <node work="JB283"/>
+      <node work="JB293"/>
+      <node work="JB295..JB296"/>
+      <node work="JB304"/>
+      <node work="JB311"/>
+      <node work="JB325..JB326"/>
+      <node work="JB338..JB339"/>
+      <node work="JB348"/>
+      <node work="JB351"/>
+      <node work="JB354"/>
+      <node work="JB384"/>
+      <node work="JB416"/>
+      <node work="JB425"/>
+      <node work="JB439"/>
+      <node work="JB445"/>
+      <node work="JB458"/>
+      <node work="JB480..JB481"/>
+      <node work="JB484"/>
+      <node work="JB491"/>
+      <node work="JB495"/>
+      <node work="JB497"/>
+    </node>
+    <node name="G2084,2086 雜著(5) G084 坐禪箴 etc.">
+      <node work="G2084"/>
+      <node work="G2086"/>
+    </node>
+    <node name="X1295, C1720 語錄通集(1) X65, C078 頌古聯珠">
+      <node work="X1295"/>
+      <node work="C1720"/>
+    </node>
+    <node name="X1296-98 語錄通集(2) X66 拈古彙集 etc." work="X1296..X1298"/>    
+    <node name="X1299-1313 語錄通集(3) X67 禪林類聚 etc.">
+      <node work="X1299"/>
+      <node work="X1301..X1304"/>
+      <node work="X1306..X1310"/>
+      <node work="X1312..X1313"/>
+    </node>
+    <node name="X1314-18 語錄通集(4) X68, C077 古尊宿語錄 etc.">
+      <node work="X1314..X1316"/>
+      <node work="C1710"/>
+      <node work="X1317..X1318"/>
+    </node>
+    <node name="X1320-72, JB134 語錄別集(1) X69, J23 四家語錄 etc.">
+      <node work="X1320..X1323"/>
+      <node work="X1326"/>
+      <node work="X1333"/>
+      <node work="X1335..X1336"/>
+      <node work="X1338..X1340"/>
+      <node work="X1342..X1348"/>
+      <node work="X1350..X1372"/>
+      <node work="JB134"/>
+    </node>
+    <node name="X1374-1403 語錄別集(2) X70 龍源介清禪師語錄 etc.">
+      <node work="X1374..X1379"/>
+      <node work="X1381..X1403"/>
+    </node>
+    <node name="X1404-26 語錄別集(3) X71 兀菴普寧禪師語錄 etc." work="X1404..X1426"/>
+    <node name="X1428-44 語錄別集(4) X72 淨慈慧暉禪師語錄 etc.">
+      <node work="X1428"/>
+      <node work="X1431..X1444"/>
+    </node>
+    <node name="X1445-58, JB116 語錄別集(5) X73, J22 玄沙師備禪師廣錄 etc.">
+      <node work="X1445..X1458"/>
+      <node work="JB116"/>
+    </node>
+    <node name="JA158,B137-188 語錄別集(6) J10,24-26 密雲禪師語錄 etc.">
+      <node work="JA158"/>
+      <node work="JB137..JB138"/>
+      <node work="JB154..JB156"/>
+      <node work="JB163"/>
+      <node work="JB171"/>
+      <node work="JB173..JB178"/>
+      <node work="JB182..JB188"/>
+    </node>
+    <node name="JB189-221 語錄別集(7) J27-28 三宜盂禪師語錄 etc.">
+      <node work="JB189"/>
+      <node work="JB191..JB194"/>
+      <node work="JB196..JB200"/>
+      <node work="JB202..JB206"/>
+      <node work="JB208..JB213"/>
+      <node work="JB218..JB221"/>
+    </node>
+    <node name="JB222-249 語錄別集(8) J29 夔州臥龍字水禪師語錄 etc.">
+      <node work="JB222..JB224"/>
+      <node work="JB229..JB244"/>
+      <node work="JB246..JB249"/>
+    </node>
+    <node name="JB272-313 語錄別集(9) J32-34 明州天童景德禪寺宏智覺禪師語錄 etc.">
+      <node work="JB272..JB273"/>
+      <node work="JB275..JB276"/>
+      <node work="JB280..JB282"/>
+      <node work="JB284..JB288"/>
+      <node work="JB294"/>
+      <node work="JB298..JB301"/>
+      <node work="JB303"/>
+      <node work="JB305..JB306"/>
+      <node work="JB308..JB310"/>
+      <node work="JB312..JB313"/>
+    </node>
+    <node name="JB336-369 語錄別集(10) J35-36 南海寶象林慧弓詗禪師語錄 etc.">
+      <node work="JB336..JB337"/>
+      <node work="JB340..JB343"/>
+      <node work="JB345..JB346"/>
+      <node work="JB352..JB353"/>
+      <node work="JB355..JB359"/>
+      <node work="JB362..JB369"/>
+    </node>
+    <node name="JB370-402 語錄別集(11) J37 草堂耨雲實禪師語錄 etc.">
+      <node work="JB370..JB372"/>
+      <node work="JB383"/>
+      <node work="JB386..JB396"/>
+      <node work="JB399..JB402"/>
+    </node>
+    <node name="JB406-434 語錄別集(12) J38 廬山天然禪師語錄 etc.">
+      <node work="JB406..JB415"/>
+      <node work="JB417..JB424"/>
+      <node work="JB427..JB434"/>
+    </node>
+    <node name="JB435-471 語錄別集(13) J39 伏獅義公禪師語錄 etc.">
+      <node work="JB435..JB436"/>
+      <node work="JB438"/>
+      <node work="JB440..JB444"/>
+      <node work="JB446..JB457"/>
+      <node work="JB459..JB466"/>
+      <node work="JB468..JB471"/>
+    </node>
+    <node name="JB472-494 語錄別集(14) J40 大博乾禪師語錄 etc.">
+      <node work="JB472..JB479"/>
+      <node work="JB483"/>
+      <node work="JB485..JB490"/>
+      <node work="JB492..JB494"/>
+    </node>
+    <node name="L1637-52 語錄別集(15) L153-58 幻有傳禪師語錄 etc.">
+      <node work="L1637..L1643"/>
+      <node work="L1649"/>
+      <node work="L1652"/>
+    </node>
+  </node>
+  <node name="18 史傳部類 T47,49-52,54, X02,53,75-88 etc.">
+    <node name="T2026-27 結集史 T49" work="T2026..T2027"/>    
+    <node name="T2028-30, X0207 法住法滅史 T49, X02">
+      <node work="T2028..T2030"/>
+      <node work="X0207"/>
+    </node>
+    <node name="T2031-33 部派史 T49／疏 X53">
+      <node name="T2031 異部宗輪論／疏 X53">
+        <node work="T2031"/>
+        <node work="X0844"/>
+      </node>
+      <node work="T2032..T2033"/>
+    </node>
+    <node name="T2034-39, X1512-13,15-17,21,1668,71 佛教史 T49, X75-77,88">
+      <node work="T2034..T2039"/>
+      <node work="X1512..X1513"/>
+      <node work="X1515..X1517"/>
+      <node work="X1521"/>
+      <node work="X1668"/>
+      <node work="X1671"/>
+    </node>
+    <node name="T2040-41, X1508-11 釋迦史傳 T50, X75">
+      <node work="T2040..T2041"/>
+      <node work="X1508..X1511"/>
+    </node>
+    <node name="T2042-45 阿育王傳" work="T2042..T2045"/>    
+    <node name="T2046-49 印度祖師傳" work="T2046..T2049"/>
+    <node name="T2050-57, X1651,54-55 中國祖師傳 T50, X88">
+      <node work="T2050..T2057"/>
+      <node work="X1651"/>
+      <node work="X1654..X1655"/>
+    </node>
+    <node work="T2058"/>
+    <node name="T2059-66,2126, X1522-24,26-27 高僧傳 T50-51,54, X77">
+      <node work="T2059..T2066"/>
+      <node work="T2126"/>
+      <node work="X1522..X1524"/>
+      <node work="X1526..X1527"/>
+    </node>
+    <node name="T2067-69, X1535,39-42 法華天台傳 T51, X77-78">
+      <node work="T2067..T2069"/>
+      <node work="X1535"/>
+      <node work="X1539..X1542"/>
+    </node>
+    <node name="T2070-72, X1543,46-47,49-52 淨土往生傳 T51, X78">
+      <node work="T2070..T2072"/>
+      <node work="X1543"/>
+      <node work="X1546..X1547"/>
+      <node work="X1549..X1552"/>
+    </node>
+    <node name="T2073-74, X1530,32-34 華嚴經傳 T51, X77">
+      <node work="T2073..T2074"/>
+      <node work="X1530"/>
+      <node work="X1532..X1534"/>
+    </node>
+    <node name="T2075-80,1998B, X1553-1622, JB125 禪宗傳 T51,47, X78-87, J23, P154-55">
+      <node name="T1998B, X1563,1575-77,1610-15, P1519 宋元禪宗史傳">
+        <node work="X1563"/>
+        <node name="X1575=T1998B 大慧宗門武庫 (1卷)" work="T1998B"/>        
+        <node work="X1576..X1577"/>
+        <node work="X1610..X1615"/>
+        <node work="P1519"/>
+      </node>
+      <node work="T2075"/>
+      <node name="T2076, X1553-59,64-66,93 五燈時期燈錄">
+        <node work="T2076"/>
+        <node work="X1553..X1554"/>
+        <node name="X1555-56 建中靖國續燈錄" work="X1555..X1556"/>        
+        <node work="X1557"/>
+        <node name="X1558-9 嘉泰普燈錄" work="X1558..X1559"/>        
+        <node name="X1564-66,93 五燈會元 etc.">
+          <node work="X1564..X1566"/>
+          <node work="X1593"/>
+        </node>
+      </node>
+      <node name="T2077, X1567-74,78-80,82-92,1605,07,09 五燈以後燈錄">
+        <node name="T2077, X1572-74 續傳燈錄">
+          <node work="X1572"/>
+          <node name="X1573=T2077 續傳燈錄 (36卷)" work="T2077"/>          
+          <node work="X1574"/>
+        </node>
+        <node name="X1567-9 五燈嚴統 etc." work="T1567..T1569"/>        
+        <node name="X1570-71 五燈全書" work="X1570..X1571"/>        
+        <node name="X1578-79,92 指月錄 etc.">
+          <node work="X1578..X1579"/>
+          <node work="X1592"/>
+        </node>
+        <node work="X1580"/>
+        <node name="X1582-83 續燈正統 etc." work="X1582..X1583"/>        
+        <node name="X1584-85 續燈存稿" work="X1584..X1585"/>        
+        <node name="X1586-88 正源略集 etc." work="X1586..X1588"/>        
+        <node name="X1589-91,1609 地方燈錄">
+          <node name="X1589-90 錦江禪燈" work="X1589..X1590"/>          
+          <node work="X1591"/>
+          <node work="X1609"/>
+        </node>
+        <node work="X1605"/>
+        <node work="X1607"/>
+      </node>
+      <node name="T2078-80 傳法正宗記 etc." work="T2078..T2080"/>      
+      <node name="X1560-62 禪林僧寶傳" work="X1560..X1562"/>      
+      <node name="X1581,1606,08,1616-21, JB125 明清禪宗史傳">
+        <node work="X1581"/>
+        <node work="X1606"/>
+        <node work="X1608"/>
+        <node work="X1616..X1621"/>
+        <node work="JB125"/>
+      </node>
+      <node name="X1594-95,1600 佛祖綱目編年">
+        <node work="X1594..X1595"/>
+        <node work="X1600"/>
+      </node>
+      <node name="X1596-99 各別傳記" work="X1596..X1599"/>      
+      <node name="X1601-04 禪門宗派世譜" work="X1601..X1604"/>      
+      <node work="X1622"/>
+    </node>
+    <node work="T2081"/>
+    <node name="T2082-84 冥報感應記 T51" work="T2082..T2084"/>
+    <node name="T2085-91,2125 西域記 T51,54">
+      <node work="T2085..T2091"/>
+      <node work="T2125"/>
+    </node>
+    <node name="T2092-101 中土寺記 T51" work="T2092..T2101"/>    
+    <node name="T2102-5,8-18 護教辯論 T52">
+      <node name="T2102-03 弘明集" work="T2102..T2103"/>      
+      <node name="T2104-05 佛道論衡" work="T2104..T2105"/>      
+      <node work="T2108..T2118"/>
+    </node>
+    <node name="T2106-7 三寶感通錄 T52" work="T2106..T2107"/>    
+    <node name="T2119-20 上表記 T52" work="T2119..T2120"/>    
+    <node name="X1623-28,40-45,48-49,56,58,66-67 雜傳 X87-88">
+      <node work="X1623..X1628"/>
+      <node work="X1640..X1645"/>
+      <node work="X1648..X1649"/>
+      <node work="X1656"/>
+      <node work="X1658"/>
+      <node work="X1666..X1667"/>
+    </node>
+    <node name="X1629-38,60-61 感應神異傳 X87-88">
+      <node work="X1629..X1636"/>
+      <node work="X1638"/>
+      <node work="X1660..X1661"/>
+    </node>
+    <node name="X1646,57 居士善女傳 X88">
+      <node work="X1646"/>
+      <node work="X1657"/>
+    </node>
+  </node>
+  <node name="19 事彙部類 T53-55,85, X65,68 etc.">
+    <node name="T2121-24,27-36 etc. 事彙部 T53-54,85, X65,68, J19,21, C056-057,059,073, A091, K32,34-35,
+        P178-79, G083, L164">
+      <node name="T2121-24,27 etc. 百科辭書 T53-54a, J21, P181-183,189-193, L162">
+        <node work="T2121..T2124"/>
+        <node work="T2127"/>
+        <node work="JB109"/>
+        <node work="P1615"/>
+        <node work="P1630"/>
+        <node work="L1666"/>
+      </node>
+      <node name="T2128-29 etc. 音義 T54b, J19, C056-057,059, A091, K32,34-35">
+        <node work="C1163"/>
+        <node work="A1066"/>
+        <node work="K1064"/>
+        <node work="T2128..T2129"/>
+        <node work="K1257"/>
+        <node work="C1169"/>
+        <node work="JB048"/>
+      </node>
+      <node name="T2130-36 梵語集 T54b" work="T2130..T2136"/>      
+      <node name="T2817-22,25 經要古逸部 T85">
+        <node work="T2817..T2822"/>
+        <node work="T2825"/>
+      </node>
+      <node name="T2841-56 禮懺文類古逸部 T85" work="T2841..T2856"/>      
+      <node name="T2857-64 變文等雜類古逸部 T85" work="T2857..T2864"/>      
+      <node name="K1258 etc. 御製文集 K35, C073, P178-79, G083, X65,68, L164">
+        <node name="宋太宗">
+          <node work="K1258..K1261"/>
+          <node work="C1679..C1680"/>
+        </node>
+        <node name="明太宗">
+          <node work="P1610..P1612"/>
+          <node work="G2073"/>
+          <node work="G2075"/>
+        </node>
+        <node name="清世宗">
+          <node work="X1281"/>
+          <node work="X1319"/>
+          <node work="L1668..L1669"/>
+        </node>
+      </node>
+    </node>
+    <node name="T2137-44 etc. 外教部 T54b, L153, F29">
+      <node name="T2137-38 數論、勝論" work="T2137..T2138"/>      
+      <node name="T2139 etc. 道教">
+        <node work="T2139"/>
+        <node work="L1636"/>
+        <node work="F1098..F1099"/>
+      </node>
+      <node name="T2140-41 摩尼教" work="T2140..T2141B"/>      
+      <node name="T2142-44 景教" work="T2142..T2144"/>
+    </node>
+    <node name="T2145-84, JB271 目錄部 T55, J31-32, A097-098,110-112, L143, C106, K38">
+      <node name="T2145-58 etc.中國譯經目錄">
+        <node work="T2145"/>
+        <node name="T2146-48 眾經目錄" work="T2146..T2148"/>        
+        <node name="T2149-50 道宣錄" work="T2149..T2150"/>
+        <node name="T2151-52 古今譯經圖紀" work="T2151..T2152"/>
+        <node work="T2153"/>
+        <node name="T2154-55 開元釋教錄">
+          <node work="T2154..T2155"/>
+          <node work="A1276"/>
+        </node>
+        <node name="T2156-58 貞元錄" work="T2156..T2158"/>        
+        <node work="A1499"/>
+        <node work="A1501..A1502"/>
+        <node work="L1608"/>
+        <node work="C1937"/>
+        <node work="JB271"/>
+      </node>
+      <node name="T2159-75 日本求法目錄">
+        <node name="T2159-60 最澄目錄" work="T2159..T2160"/>        
+        <node work="T2161..T2164"/>
+        <node name="T2165-67 圓仁目錄" work="T2165..T2167"/>        
+        <node work="T2168A..T2168B"/>
+        <node name="T2169-73 圓珍目錄" work="T2169..T2173"/>        
+        <node work="T2174A..T2175"/>
+      </node>
+      <node name="T2176-84 etc. 日本高麗諸宗目錄">
+        <node work="T2176..T2184"/>
+        <node work="K1402"/>
+      </node>
+    </node>
+  </node>
+  <node name="20 敦煌寫本部類 T85">
+    <node name="T2732-2864 古逸部">
+      <node name="T2732-86 經疏部">
+        <node name="T2732-43 金剛經古逸疏" work="T2732..T2743"/>        
+        <node name="T2744-45 仁王經古逸疏" work="T2744..T2745"/>        
+        <node name="T2746-47 心經古逸疏" work="T2746..T2747"/>
+        <node name="T2748-52 法華經古逸疏" work="T2748..T2752"/>        
+        <node name="T2753-58 華嚴經古逸疏" work="T2753..T2758"/>
+        <node name="T2759-60 淨土經古逸疏" work="T2759..T2760"/>        
+        <node name="T2761-63 勝鬘經古逸疏" work="T2761..T2763"/>        
+        <node name="T2764-65 涅槃經古逸疏" work="T2764A..T2765"/>        
+        <node name="T2766-67 藥師經古逸疏" work="T2766..T2767"/>        
+        <node name="T2768-78 維摩經古逸疏" work="T2768..T2778"/>
+        <node work="T2779..T2781"/>
+        <node name="T2784-85 大乘四法經古逸疏" work="T2784..T2785"/>        
+        <node work="T2786"/>
+      </node>
+      <node name="T2787-98 律疏部">
+        <node name="T2787-96 四分律古逸疏" work="T2787..T2796"/>        
+        <node work="T2797..T2798"/>
+      </node>
+      <node name="T2799-2816 論疏部">
+        <node work="T2799..T2800"/>
+        <node name="T2801-03 瑜伽師地論古逸疏" work="T2801..T2803"/>        
+        <node work="T2804"/>
+        <node name="T2805-09 攝講古逸疏" work="T2805..T2809"/>
+        <node name="T2810-12 百法明門論古逸疏" work="T2810..T2812"/>        
+        <node name="T2813-15 起信論古逸疏" work="T2813..T2815"/>        
+        <node work="T2816"/>
+      </node>
+      <node name="T2817-64 史傳禮讚雜類">
+        <node name="T2817-25 要義要抄類" work="T2817..T2825"/>        
+        <node name="T2826-40 宗義宗要類">
+          <node name="T2826-30 淨土宗古逸類" work="T2826..T2830B"/>          
+          <node name="T2831-39 禪宗古逸類" work="T2831..T2839"/>          
+          <node work="T2840"/>
+        </node>
+        <node name="T2841-56 禮懺文類" work="T2841..T2856"/>
+        <node name="T2857-64 變文等雜類" work="T2857..T2864"/>
+      </node>
+    </node>
+    <node name="T2865-2920 疑似部" work="T2865..T2920"/>
+  </node>
+  <node name="21 新編部類 ZS01, ZW01-09, I01">
+    <node name="ZS0001 正史佛教資料類編" work="H0001"/>
+    <node name="ZW0001-77 藏外佛教文獻">
+      <node name="ZW0001-16 第一輯">
+        <node name="ZW0001-3 敦煌禪籍" work="W0001..W0003"/>        
+        <node name="ZW0004 密教典籍" work="W0004"/>
+        <node name="ZW0005-7 三藏論疏" work="W0005..W0007"/>        
+        <node name="ZW0008-15 疑偽經" work="W0008..W0015d"/>        
+        <node name="ZW0016 研究論文" work="W0016"/>
+      </node>
+      <node name="ZW0017-22 第二輯">
+        <node name="ZW0017-18 敦煌禪籍" work="W0017..W0018b"/>        
+        <node name="ZW0019-20 三藏論疏" work="W0019..W0020"/>        
+        <node name="ZW0021 天竺要典" work="W0021"/>        
+        <node name="ZW0022 遺珠集粹" work="W0022"/>
+      </node>
+      <node name="ZW0023-32 第三輯">
+        <node name="ZW0023-24 敦煌禪籍" work="W0023..W0024"/>        
+        <node name="ZW0025-30 三藏論疏" work="W0025..W0030"/>        
+        <node name="ZW0031 疑偽經" work="W0031a..W0031e"/>        
+        <node name="ZW0032 研究論文" work="W0032"/>
+      </node>
+      <node name="ZW0023-32 第四輯">
+        <node name="ZW0033 漢譯藏文佛典" work="W0033"/>
+        <node name="ZW0034-40 石刻資料" work="W0034..W0040"/>
+        <node name="ZW0041-42 三階教典籍" work="W0041..W0042"/>
+        <node name="ZW0043 疑偽經" work="W0043a..W0043b"/>
+        <node name="ZW0044 研究論文" work="W0044"/>
+      </node>
+      <node name="ZW0045-50 第五輯">
+        <node name="ZW0045-48 南傳佛典" work="W0045..W0048"/>
+        <node name="ZW0049 三藏論疏" work="W0049"/>
+        <node name="ZW0050 研究論文" work="W0050"/>
+      </node>
+      <node name="ZW0051-57 第六輯">
+        <node name="ZW0051-55 阿吒力教典籍" work="W0051..W0055"/>
+        <node name="ZW0056 敦煌經錄" work="W0056"/>
+        <node name="ZW0057 研究論文" work="W0057"/>
+      </node>
+      <node name="ZW0058-66 第七輯">
+        <node name="ZW0058 三藏論疏" work="W0058"/>
+        <node name="ZW0059-60 佛教儀軌" work="W0059a..W0060"/>
+        <node name="ZW0061-62 阿吒力教典籍" work="W0061..W0062"/>
+        <node name="ZW0063-64 疑偽經" work="W0063..W0064h"/>
+        <node name="ZW0065 西夏佚典" work="W0065"/>
+        <node name="ZW0066 研究論文" work="W0066"/>
+      </node>
+      <node name="ZW0067-71 第八輯">
+        <node name="ZW0067 三藏論疏" work="W0067"/>
+        <node name="ZW0068 阿吒力教典籍" work="W0068"/>
+        <node name="ZW0069 疑偽經" work="W0069"/>        
+        <node name="ZW0070-71 研究論文" work="W0070..W0071"/>
+      </node>
+      <node name="ZW0072-77 第九輯">
+        <node name="ZW0072 三階教典籍" work="W0072"/>
+        <node name="ZW0073 三藏論疏" work="W0073a..W0073h"/>
+        <node name="ZW0074-75 梵文典籍新譯" work="W0074..W0075"/>
+        <node name="ZW0076-77 研究論文" work="W0076..W0077"/>
+      </node>
+    </node>
+    <node name="I0001-100 北朝佛教石刻拓片百品">
+      <node name="朝代">
+        <node name="北魏" work="I0001..I0033"/>
+        <node name="東魏">
+          <node work="I0034..I0036"/>
+          <node work="I0040..I0041"/>
+          <node work="I0043..I0048"/>
+          <node work="I0052..I0053"/>
+        </node>
+        <node name="西魏">
+          <node work="I0037..I0039"/>
+          <node work="I0042"/>
+          <node work="I0049..I0051"/>
+          <node work="I0054"/>
+        </node>
+        <node name="北周">
+          <node work="I0064"/>
+          <node work="I0070"/>
+          <node work="I0074"/>
+          <node work="I0081..I0083"/>
+          <node work="I0097"/>
+          <node work="I0099"/>
+        </node>
+        <node name="北齊">
+          <node work="I0055..I0063"/>
+          <node work="I0065..I0069"/>
+          <node work="I0071..I0073"/>
+          <node work="I0075..I0080"/>
+          <node work="I0084..I0096"/>
+          <node work="I0098"/>
+          <node work="I0100"/>
+        </node>
+      </node>
+      <node name="年代" work="I0001..I0100"/>
+    </node>
+  </node>
+</tree>
