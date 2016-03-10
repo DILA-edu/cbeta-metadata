@@ -37,5 +37,20 @@ file 屬性：指出對應典籍的 XML 檔主檔名
 
 # 各藏 冊別目錄
 
+* vol-j.xml: 嘉興藏 冊別目錄
 * vol-t.xml: 大正藏 冊別目錄
 * vol-x.xml: 卍續藏 冊別目錄
+
+## 跨冊
+
+例如 JB271 跨 J31..J32:
+
+    <node name="J31 嘉興藏 (B262~B271 經)">
+      <node work="JB262..JB270"/>
+      <node work="JB271" file="J31nB271"/>
+    </node>
+    <node name="J32 嘉興藏 (B271~B277 經)">
+      <node work="JB271" file="J32nB271" juan="6"/>
+      <node work="JB272..JB276"/>
+      <node work="JB277" file="J32nB277"/>
+    </node>
