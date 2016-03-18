@@ -4893,7 +4893,7 @@
   },
   "T0696": {
     "title": "佛說摩訶剎頭經",
-    "byline": "西晉 聖堅譯",
+    "byline": "西秦 聖堅譯",
     "dynasty": "西秦",
     "time_from": 388,
     "time_to": 407,
@@ -7830,10 +7830,10 @@
   },
   "T1108A": {
     "title": "聖救度佛母二十一種禮讚經",
-    "byline": "唐 安藏譯",
-    "dynasty": "唐",
-    "time_from": 618,
-    "time_to": 907
+    "byline": "元 安藏譯",
+    "dynasty": "元",
+    "time_from": 1280,
+    "time_to": 1368
   },
   "T1108B": {
     "title": "救度佛母二十一種禮讚經",
@@ -13727,8 +13727,8 @@
   },
   "T1955": {
     "title": "顯密圓通成佛心要集",
-    "byline": "元 道[厄*殳]集",
-    "dynasty": "元",
+    "byline": "遼 道[厄*殳]集",
+    "dynasty": "遼",
     "time_from": 958,
     "time_to": null
   },
