@@ -6,14 +6,6 @@
 
 Julian Calendar before 1582 / Gregorian Calendar after 1582 (without year zero)
 
-# dynasty-by-canon
-
-各部佛典的成立朝代，一部藏經一個檔。
-
-資料來源：CBETA XML P5a (2015-12-18) teiHeader 裡的 author 元素。
-
-T0211 的「晉世」經人工判斷應為「西晉」。
-
 # year-by-canon
 
 佛典成立的年代概估。
