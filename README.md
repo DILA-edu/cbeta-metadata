@@ -10,6 +10,10 @@ http://www.cbeta.org/
 
 CBETA 部類目類、各藏部別目錄、冊別目錄，詳見 [catalog](catalog) 資料夾。
 
+# category
+
+各部典籍所屬 CBETA 部類，也就是「典籍編號」與「CBETA 部類」的對照表。
+
 # creators
 
 作譯者資料。
