@@ -73,7 +73,10 @@
     <node name="X0739b (=T1805) 四分律行事鈔資持記" work="T1805"/>
     <node work="X0740..X0751"/>
   </node>
-  <node name="X45 大小乘釋論部一 (752~772 經)" work="X0752..X0772"/>
+  <node name="X45 大小乘釋論部一 (752~772 經)">
+    <node name="往生論註 X0752 (=T1819)" work="T1819"/>
+    <node work="X0753..X0772"/>
+  </node>
   <node name="X46 大小乘釋論部二 (773~792 經)" work="X0773..X0792"/>
   <node name="X47 大小乘釋論部三 (793~795 經)" work="X0793..X0795"/>
   <node name="X48 大小乘釋論部四 (796~808 經)" work="X0796..X0808"/>

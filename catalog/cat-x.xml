@@ -37,7 +37,9 @@
     <node name="疑似雜偽律疏 X0750-0751" work="X0750..X0751"/>
   </node>
   <node name="04 大小乘釋論部 X45-53 (X0752-0862)">
-    <node name="淨土論疏 X0752" work="X0752"/>
+    <node name="淨土論疏 X0752">
+      <node name="往生論註 X0752 (=T1819)" work="T1819"/>
+    </node>
     <node name="十地經論疏 X0753" work="X0753"/>
     <node name="起信論疏 X0754-0769" work="X0754..X0769"/>
     <node name="釋摩訶衍論疏 X0770-0776" work="X0770..X0776"/>
