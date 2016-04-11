@@ -22,8 +22,12 @@
 	    <node work="X0227"/>
 		</node>
   </node>
-  <node name="J13 嘉興藏 (B002 經)" work="JB002"/>
-  <node name="J14 嘉興藏 (B003 經)" work="JB003"/>
+  <node name="J13 嘉興藏 (B002 經)">
+    <node name="JB002 (=X0223) 大方廣佛新華嚴經合論 (120卷)" work="X0223"/>
+  </note>
+  <node name="J14 嘉興藏 (B003 經)">
+    <node name="JB003 (=X0240) 大方廣佛華嚴經綱要 (80卷)" work="X0240"/>
+  </node>
   <node name="J15 嘉興藏 (B004~B009 經)" work="JB004..JB009"/>
   <node name="J16 嘉興藏 (B010~B017 經)" work="JB010..JB017"/>
   <node name="J17 嘉興藏 (B018~B021 經)" work="JB018..JB021"/>
