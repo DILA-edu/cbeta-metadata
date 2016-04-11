@@ -5,8 +5,13 @@
   <node name="X03 大小乘釋經部一 (208~221 經)" work="X0208..X0221"/>
   <node name="X04 大小乘釋經部二 (222~225 經)" work="X0222..X0225"/>
   <node name="X05 大小乘釋經部三 (226~232 經)" work="X0226..X0232"/>
-  <node name="X06 大小乘釋經部四 (233 經)" work="X0233"/>
-  <node name="X07 大小乘釋經部五 (233~234 經)" work="X0233..X0234"/>
+  <node name="X06 大小乘釋經部四 (233 經)">
+    <node name="X0233 (=L1557) 華嚴經疏演義鈔" work="L1557"/>
+  </node>
+  <node name="X07 大小乘釋經部五 (233~234 經)">
+    <node name="X0233 (=L1557) 華嚴經疏演義鈔" work="L1557"/>
+    <node work="X0234"/>
+  </node>
   <node name="X08 大小乘釋經部六 (235~240 經)" work="X0235..X0240">
     <node work="X0235..X0239"/>
     <node work="X0240" file="X08n0240" juan="1..44"/>
@@ -60,11 +65,11 @@
   </node>
   <node name="X41 大小乘釋律部四 (727~732 經)" work="X0727..X0732"/>
   <node name="X42 大小乘釋律部五 (733~736 經)" work="X0733..X0736"/>
-  <node name="X43 大小乘釋律部六 (737~739 經)" work="X0737..X0739">
+  <node name="X43 大小乘釋律部六 (737~739 經)">
     <node work="X0737..X0738"/>
     <node name="X0739a (=T1805) 四分律行事鈔資持記" work="T1805"/>
   </node>
-  <node name="X44 大小乘釋律部七 (739~751 經)" work="X0739..X0751">
+  <node name="X44 大小乘釋律部七 (739~751 經)">
     <node name="X0739b (=T1805) 四分律行事鈔資持記" work="T1805"/>
     <node work="X0740..X0751"/>
   </node>

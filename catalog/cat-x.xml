@@ -16,7 +16,11 @@
     <node name="密經儀軌部 X0059-0207" work="X0059..X0207"/>
   </node>
   <node name="02 大小乘釋經部 X03-37 (X0208-0675)">
-    <node name="華嚴部疏 X0208-0242" work="X0208..X0242"/>
+    <node name="華嚴部疏 X0208-0242">
+      <node work="X0208..X0232"/>
+      <node name="X0233 (=L1557) 華嚴經疏演義鈔" work="L1557"/>
+      <node work="X0234..X0242"/>
+    </node>
     <node name="方等部疏 X0243-0447" work="X0243..X0447"/>
     <node name="般若部疏 X0448-0576" work="X0448..X0576"/>
     <node name="法華部疏 X0577-0652" work="X0577..X0652"/>
@@ -25,7 +29,11 @@
   </node>
   <node name="03 大小乘釋律部 X38-44 (X676-0751)">
     <node name="大乘律疏 X0676-0706" work="X0676..X0706"/>
-    <node name="小乘律疏 X0707-0749" work="X0707..X0749"/>
+    <node name="小乘律疏 X0707-0749">
+      <node work="X0707..X0738"/>
+      <node name="X0739 (=T1805) 四分律行事鈔資持記" work="T1805"/>
+      <node work="X0740..X0749"/>
+    </node>
     <node name="疑似雜偽律疏 X0750-0751" work="X0750..X0751"/>
   </node>
   <node name="04 大小乘釋論部 X45-53 (X0752-0862)">
