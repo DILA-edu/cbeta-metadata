@@ -232,9 +232,10 @@
   },
   "T0041": {
     "title": "頻婆娑羅王經",
-    "byline": "劉宋 法賢譯",
+    "byline": "宋 法賢譯",
     "creators": "法賢",
-    "creators_with_id": "天息災(A000146)"
+    "creators_with_id": "天息災(A000146)",
+    "note": "2016.4.10 CBETA 同意將「劉宋」改為「宋」。"
   },
   "T0042": {
     "title": "鐵城泥犁經",
