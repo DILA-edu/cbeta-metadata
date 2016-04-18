@@ -9762,7 +9762,7 @@
     "title": "金剛般若經疏論纂要",
     "byline": "唐 宗密述  宋 子璿治定",
     "creators": "宗密,子璿",
-    "creators_with_id": "宗密(A000587)長水子璿(A000085)"
+    "creators_with_id": "宗密(A000587);長水子璿(A000085)"
   },
   "T1702": {
     "title": "金剛經纂要刊定記",
@@ -9786,7 +9786,7 @@
     "title": "仁王護國般若經疏",
     "byline": "隋 智顗說  灌頂記",
     "creators": "智顗,灌頂",
-    "creators_with_id": "智顗(A001301)灌頂(A004896)"
+    "creators_with_id": "智顗(A001301);灌頂(A004896)"
   },
   "T1706": {
     "title": "仁王護國般若波羅蜜經疏神寶記",
@@ -9912,7 +9912,7 @@
     "title": "觀音玄義",
     "byline": "隋 智顗說．灌頂記",
     "creators": "智顗,灌頂",
-    "creators_with_id": "智顗(A001301)灌頂(A004896)"
+    "creators_with_id": "智顗(A001301);灌頂(A004896)"
   },
   "T1727": {
     "title": "觀音玄義記",
@@ -9924,7 +9924,7 @@
     "title": "觀音義疏",
     "byline": "隋 智顗說．灌頂記",
     "creators": "智顗,灌頂",
-    "creators_with_id": "智顗(A001301)灌頂(A004896)"
+    "creators_with_id": "智顗(A001301);灌頂(A004896)"
   },
   "T1729": {
     "title": "觀音義疏記",
@@ -10254,7 +10254,7 @@
     "title": "金光明經玄義",
     "byline": "隋 智顗說  灌頂錄",
     "creators": "智顗,灌頂",
-    "creators_with_id": "智顗(A001301)灌頂(A004896)"
+    "creators_with_id": "智顗(A001301);灌頂(A004896)"
   },
   "T1784": {
     "title": "金光明經玄義拾遺記",
@@ -10266,7 +10266,7 @@
     "title": "金光明經文句",
     "byline": "隋 智顗說  灌頂錄",
     "creators": "智顗,灌頂",
-    "creators_with_id": "智顗(A001301)灌頂(A004896)"
+    "creators_with_id": "智顗(A001301);灌頂(A004896)"
   },
   "T1786": {
     "title": "金光明經文句記",
@@ -10422,7 +10422,7 @@
     "title": "菩薩戒義疏",
     "byline": "隋 智顗說  灌頂記",
     "creators": "智顗,灌頂",
-    "creators_with_id": "智顗(A001301)灌頂(A004896)"
+    "creators_with_id": "智顗(A001301);灌頂(A004896)"
   },
   "T1812": {
     "title": "天台菩薩戒疏",
@@ -10476,7 +10476,7 @@
     "title": "佛遺教經論疏節要",
     "byline": "宋 淨源節要  明 袾宏補註",
     "creators": "淨源,袾宏",
-    "creators_with_id": "淨源(A001113)袾宏(A001394)"
+    "creators_with_id": "淨源(A001113);袾宏(A001394)"
   },
   "T1821": {
     "title": "俱舍論記",
@@ -10571,7 +10571,7 @@
     "title": "大乘百法明門論解",
     "byline": "唐 窺基註解、明 普泰增修",
     "creators": "窺基,普泰",
-    "creators_with_id": "窺基(A001019)普泰(A001217)"
+    "creators_with_id": "窺基(A001019);普泰(A001217)"
   },
   "T1837": {
     "title": "大乘百法明門論疏",
@@ -10691,7 +10691,7 @@
     "title": "鳩摩羅什法師大義",
     "byline": "東晉 慧遠問．羅什答",
     "creators": "慧遠,羅什",
-    "creators_with_id": "慧遠(A001204)鳩摩羅什(A001583)"
+    "creators_with_id": "慧遠(A001204);鳩摩羅什(A001583)"
   },
   "T1857": {
     "title": "寶藏論",
@@ -10835,13 +10835,13 @@
     "title": "金師子章雲間類解",
     "byline": "唐 法藏撰．宋 淨源述",
     "creators": "法藏,淨源",
-    "creators_with_id": "法藏(A002450)淨源(A001113)"
+    "creators_with_id": "法藏(A002450);淨源(A001113)"
   },
   "T1881": {
     "title": "華嚴經金師子章註",
     "byline": "唐 法藏撰．宋 承遷註",
     "creators": "法藏,承遷",
-    "creators_with_id": "法藏(A002450)承遷(A004235)"
+    "creators_with_id": "法藏(A002450);承遷(A004235)"
   },
   "T1882": {
     "title": "三聖圓融觀門",
@@ -10865,7 +10865,7 @@
     "title": "註華嚴經題法界觀門頌",
     "byline": "宋 本嵩述．琮湛註",
     "creators": "本嵩,琮湛",
-    "creators_with_id": "本嵩(A000258)琮湛(A001393)"
+    "creators_with_id": "本嵩(A000258);琮湛(A001393)"
   },
   "T1886": {
     "title": "原人論",
@@ -11014,7 +11014,7 @@
     "title": "摩訶止觀",
     "byline": "隋 智顗說",
     "creators": "智顗",
-    "creators_with_id": "智顗(A001301)灌頂(A004896)"
+    "creators_with_id": "智顗(A001301);灌頂(A004896)"
   },
   "T1912": {
     "title": "止觀輔行傳弘決",
@@ -11044,7 +11044,7 @@
     "title": "釋禪波羅蜜次第法門",
     "byline": "隋 智顗說",
     "creators": "智顗",
-    "creators_with_id": "智顗(A001301)法慎(A000730)灌頂(A004896)"
+    "creators_with_id": "智顗(A001301);法慎(A000730);灌頂(A004896)"
   },
   "T1917": {
     "title": "六妙法門",
@@ -11056,7 +11056,7 @@
     "title": "四念處",
     "byline": "隋 智顗說",
     "creators": "智顗",
-    "creators_with_id": "智顗(A001301)灌頂(A004896)"
+    "creators_with_id": "智顗(A001301);灌頂(A004896)"
   },
   "T1919": {
     "title": "天台智者大師禪門口訣",
@@ -11158,7 +11158,7 @@
     "title": "法智遺編觀心二百問",
     "byline": "宋 繼忠集",
     "creators": "繼忠",
-    "creators_with_id": "知禮(A000756)繼忠(A001931)"
+    "creators_with_id": "知禮(A000756);繼忠(A001931)"
   },
   "T1936": {
     "title": "四明十義書",
@@ -11188,7 +11188,7 @@
     "title": "方等三昧行法",
     "byline": "隋 智顗說",
     "creators": "智顗",
-    "creators_with_id": "智顗(A001301)灌頂(A004896)"
+    "creators_with_id": "智顗(A001301);灌頂(A004896)"
   },
   "T1941": {
     "title": "法華三昧懺儀",
@@ -11362,7 +11362,7 @@
     "title": "淨土或問",
     "byline": "元 天如則著",
     "creators": "天如則",
-    "creators_with_id": "惟則(A001064)袾宏(A001394)"
+    "creators_with_id": "惟則(A001064);袾宏(A001394)"
   },
   "T1973": {
     "title": "廬山蓮宗寶鑑",
@@ -11572,13 +11572,13 @@
     "title": "佛果圜悟禪師碧巖錄",
     "byline": "宋 重顯頌古．克勤評唱",
     "creators": "重顯,克勤",
-    "creators_with_id": "重顯(A000885)克勤(A001411)"
+    "creators_with_id": "重顯(A000885);克勤(A001411)"
   },
   "T2004": {
     "title": "萬松老人評唱天童覺和尚頌古從容庵錄",
     "byline": "宋 正覺頌古．元 行秀評唱",
     "creators": "正覺,行秀",
-    "creators_with_id": "正覺(A000278)行秀(A000408)"
+    "creators_with_id": "正覺(A000278);行秀(A000408)"
   },
   "T2005": {
     "title": "無門關",
@@ -11875,7 +11875,7 @@
     "title": "大唐大慈恩寺三藏法師傳",
     "byline": "唐 慧立本、彥悰箋",
     "creators": "慧立,彥悰",
-    "creators_with_id": "慧立(A001194)彥悰(A000827)"
+    "creators_with_id": "慧立(A001194);彥悰(A000827)"
   },
   "T2054": {
     "title": "唐大薦福寺故寺主翻經大德法藏和尚傳",
@@ -11983,7 +11983,7 @@
     "title": "大方廣佛華嚴經感應傳",
     "byline": "唐 惠英撰．胡幽貞纂",
     "creators": "惠英,胡幽貞",
-    "creators_with_id": "慧英(A001199)胡幽貞(A000866)"
+    "creators_with_id": "慧英(A001199);胡幽貞(A000866)"
   },
   "T2076": {
     "title": "景德傳燈錄",
@@ -12043,7 +12043,7 @@
     "title": "大唐西域記",
     "byline": "唐 玄奘譯、辯機撰",
     "creators": "玄奘,辯機",
-    "creators_with_id": "玄奘(A000294)辯機(A001966)"
+    "creators_with_id": "玄奘(A000294);辯機(A001966)"
   },
   "T2088": {
     "title": "釋迦方志",
@@ -12186,7 +12186,7 @@
     "title": "北山錄",
     "byline": "唐 神清撰．慧寶注",
     "creators": "神清,慧寶",
-    "creators_with_id": "神清(A000988)慧寶(A001742)"
+    "creators_with_id": "神清(A000988);慧寶(A001742)"
   },
   "T2114": {
     "title": "護法論",
@@ -12216,7 +12216,7 @@
     "title": "折疑論",
     "byline": "師子比丘述註",
     "creators": "師子比丘",
-    "creators_with_id": "子成(A000079)師子(A000907)"
+    "creators_with_id": "子成(A000079);師子(A000907)"
   },
   "T2120": {
     "title": "代宗朝贈司空大辨正廣智三藏和上表制集",
@@ -12579,122 +12579,146 @@
   "T2733": {
     "title": "御注金剛般若波羅蜜經宣演",
     "byline": "唐 道氤撰",
-    "creators": "道氤"
+    "creators": "道氤",
+    "creators_with_id": "道氤(A001525)"
   },
   "T2734": {
     "title": "金剛暎卷上",
     "byline": "唐 寶達集",
-    "creators": "寶達"
+    "creators": "寶達",
+    "creators_with_id": "寶達(A001929)"
   },
   "T2735": {
     "title": "金剛般若經旨贊",
     "byline": "唐 曇曠撰",
-    "creators": "曇曠"
+    "creators": "曇曠",
+    "creators_with_id": "曇曠(A001803)"
   },
   "T2736": {
     "title": "金剛般若經依天親菩薩論贊略釋秦本義記卷上",
     "byline": "唐 知恩撰",
-    "creators": "知恩"
+    "creators": "知恩",
+    "creators_with_id": "知恩(A000755)"
   },
   "T2756": {
     "title": "華嚴經義記卷第一",
     "byline": "後魏 慧光撰",
-    "creators": "慧光"
+    "creators": "慧光",
+    "creators_with_id": "慧光(A006354)"
   },
   "T2757": {
     "title": "華嚴經疏卷第三",
     "byline": "新羅 元曉撰",
-    "creators": "元曉"
+    "creators": "元曉",
+    "creators_with_id": "元曉(A000136)"
   },
   "T2762": {
     "title": "勝鬘經疏",
     "byline": "昭法師撰",
-    "creators": "昭法師"
+    "creators": "昭法師",
+    "creators_with_id": "昭(A000847)"
   },
   "T2776": {
     "title": "釋肇序",
     "byline": "唐 體請記",
-    "creators": "體請"
+    "creators": "體請",
+    "creators_with_id": "體請(A001979)"
   },
   "T2777": {
     "title": "淨名經集解關中疏",
     "byline": "唐 道掖撰",
-    "creators": "道掖"
+    "creators": "道掖",
+    "creators_with_id": "道液(A001531)"
   },
   "T2778": {
     "title": "淨名經關中釋抄",
     "byline": "唐 道掖撰",
-    "creators": "道掖"
+    "creators": "道掖",
+    "creators_with_id": "道液(A001531)"
   },
   "T2780": {
     "title": "溫室經疏",
     "byline": "唐 慧淨撰",
-    "creators": "慧淨"
+    "creators": "慧淨",
+    "creators_with_id": "慧淨(A001723)"
   },
   "T2781": {
     "title": "盂蘭盆經讚述",
     "byline": "唐 慧淨撰",
-    "creators": "慧淨"
+    "creators": "慧淨",
+    "creators_with_id": "慧淨(A001723)"
   },
   "T2782": {
     "title": "大乘稻芉經隨聽疏",
     "byline": "唐 法成撰",
-    "creators": "法成"
+    "creators": "法成",
+    "creators_with_id": "法成(A000696)"
   },
   "T2799": {
     "title": "十地論義疏卷第一．第三",
     "byline": "北周 法上撰",
-    "creators": "法上"
+    "creators": "法上",
+    "creators_with_id": "法上(A000689)"
   },
   "T2800": {
     "title": "廣百論疏卷第一",
     "byline": "唐 文軌撰",
-    "creators": "文軌"
+    "creators": "文軌",
+    "creators_with_id": "文軌(A000170)"
   },
   "T2801": {
     "title": "瑜伽師地論分門記",
     "byline": "唐 法成撰．智慧山記",
-    "creators": "法成,智慧山"
+    "creators": "法成,智慧山",
+    "creators_with_id": "法成(A000696);智慧山(A001293)"
   },
   "T2802": {
     "title": "瑜伽論手記",
     "byline": "唐 法成述．福慧記",
-    "creators": "法成,福慧"
+    "creators": "法成,福慧",
+    "creators_with_id": "法成(A000696);福慧(A001632)"
   },
   "T2810": {
     "title": "大乘百法明門論開宗義記",
     "byline": "唐 曇曠撰",
-    "creators": "曇曠"
+    "creators": "曇曠",
+    "creators_with_id": "曇曠(A001803)"
   },
   "T2812": {
     "title": "大乘百法明門論開宗義決",
     "byline": "唐 曇曠撰",
-    "creators": "曇曠"
+    "creators": "曇曠",
+    "creators_with_id": "曇曠(A001803)"
   },
   "T2813": {
     "title": "大乘起信論略述",
     "byline": "唐 曇曠撰",
-    "creators": "曇曠"
+    "creators": "曇曠",
+    "creators_with_id": "曇曠(A001803)"
   },
   "T2814": {
     "title": "大乘起信論廣釋卷第三．四．五",
     "byline": "唐 曇曠撰",
-    "creators": "曇曠"
+    "creators": "曇曠",
+    "creators_with_id": "曇曠(A001803)"
   },
   "T2823": {
     "title": "大乘入道次第開決",
     "byline": "唐 曇曠撰",
-    "creators": "曇曠"
+    "creators": "曇曠",
+    "creators_with_id": "曇曠(A001803)"
   },
   "T2826": {
     "title": "略諸經論念佛法門往生淨土集卷上",
     "byline": "唐 慧日撰",
-    "creators": "慧日"
+    "creators": "慧日",
+    "creators_with_id": "慧日(A001701)"
   },
   "T2827": {
     "title": "淨土五會念佛誦經觀行儀卷中．下",
     "byline": "唐 法照撰",
-    "creators": "法照"
+    "creators": "法照",
+    "creators_with_id": "法照(A009238)"
   },
   "T2835": {
     "title": "大乘開心顯性頓悟真宗論",
@@ -12704,11 +12728,13 @@
   "T2837": {
     "title": "楞伽師資記",
     "byline": "唐 淨覺集",
-    "creators": "淨覺"
+    "creators": "淨覺",
+    "creators_with_id": "淨覺(A001121)"
   },
   "T2838": {
     "title": "傳法寶紀",
     "byline": "唐 杜朏撰",
-    "creators": "杜朏"
+    "creators": "杜朏",
+    "creators_with_id": "杜朏(A000524)"
   }
 }
