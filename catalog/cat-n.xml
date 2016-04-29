@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 南傳大藏經 部別目錄 -->
+<tree xml:id="Cat-N">
+  <node name="NB01 律藏 N01-05 Vinayapiṭaka">
+    <node name="N0001 經分別 N01-02 Suttavibhaṅga" work="N0001"/>
+    <node name="N0002 犍度 N03-04 Khandhaka"       work="N0002"/>
+    <node name="N0003 附隨 N05 Parivāra"           work="N0003"/>
+  </node>
+  <node name="NB02 經藏 N06-47 Suttapiṭaka">
+    <node name="N0004 長部 N06-08 Dīghanikāya"      work="N0004"/>
+    <node name="N0005 中部 N09-12 Majjhimanikāya"   work="N0005"/>
+    <node name="N0006 相應部 N13-18 Saṁyuttanikāya"  work="N0006"/>
+    <node name="N0007 增支部 N19-25 Aṅguttaranikāya" work="N0007"/>
+    <node name="N0008-N0023 小部 N26-47 Khuddakanikāya">
+      <node name="N0008 小誦經 N26 Khuddakapāṭha" work="N0008"/>
+      <node name="N0009 法句經 N26 Dhammapada" work="N0009"/>
+      <node name="N0010 自說經 N26 Udāna" work="N0010"/>
+      <node name="N0011 如是語經 N26 Itivuttaka" work="N0011"/>
+      <node name="N0012 經集 N27 Suttanipāta" work="N0012"/>
+      <node name="N0013 天宮事經 N27 Vimānavatthu" work="N0013"/>
+      <node name="N0014 餓鬼事經 N28 Petavatthu" work="N0014"/>
+      <node name="N0015 長老偈經 N28 Theragāthā" work="N0015"/>
+      <node name="N0016 長老尼偈經 N28 Therīgāthā" work="N0016"/>
+      <node name="N0017 譬喻經 N29-30 Apadāna" work="N0017"/>
+      <node name="N0018 本生經 N31-42 Jātaka" work="N0018"/>
+      <node name="N0019 無礙解道 N43-44 Paṭisambhidāmagga" work="N0019"/>
+      <node name="N0020 佛種姓經 N44 Buddhavaṃsa" work="N0020"/>
+      <node name="N0021 所行藏經 N44 Cariyāpiṭaka" work="N0021"/>
+      <node name="N0022 大義釋 N45-46 Mahāniddesa" work="N0022"/>
+      <node name="N0023 小義釋 N47 Cullaniddesa" work="N0023"/>
+    </node>
+  </node>
+  <node name="NB03 論藏 N48-62 Abhidhammapiṭaka">
+    <node name="N0024 法集論 N48 Dhammasaṅgaṇī" work="N0024"/>
+    <node name="N0025 分別論 N49-50 Vibhaṅga" work="N0025"/>
+    <node name="N0026 界論 N50 Dhātukathā" work="N0026"/>
+    <node name="N0027 人施設論 N50 Puggalapaññatti" work="N0027"/>
+    <node name="N0028 雙論 N51-53 Yamaka" work="N0028"/>
+    <node name="N0029 發趣論 N54-60 Paṭṭhāna" work="N0029"/>
+    <node name="N0030 論事 N61-62 Kathāvatthu" work="N0030"/>
+  </node>
+  <node name="NB04 藏外 N63-70 Añña">
+    <node name="N0031 彌蘭王問經 N63-64 Milindapañha" work="N0031"/>
+    <node name="N0032 島王統史 N65 Dīpavaṃsa" work="N0032"/>
+    <node name="N0033 大王統史 N65 Mahāvaṃsa" work="N0033"/>
+    <node name="N0034 小王統史 N66 Cūḷavaṃsa" work="N0034"/>
+    <node name="N0035 清淨道論 N67-69 Visuddhimagga" work="N0035"/>
+    <node name="N0036 一切善見律註序 N70 Samantapāsādikā" work="N0036"/>
+    <node name="N0037 攝阿毘達磨義論 N70 Abhidhammatthasaṅgaha" work="N0037"/>
+    <node name="N0038 阿育王刻文 N70 Dhamma-lipi" work="N0038"/>
+  </node>
+</tree>
