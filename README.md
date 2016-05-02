@@ -14,6 +14,10 @@ CBETA 部類目類、各藏部別目錄、冊別目錄，詳見 [catalog](catalo
 
 各部典籍所屬 CBETA 部類，也就是「典籍編號」與「CBETA 部類」的對照表。
 
+# work-id
+
+全部的作品 ID (經號) 列表，一部藏經一個 CSV 檔。
+
 # creators
 
 作譯者資料。
