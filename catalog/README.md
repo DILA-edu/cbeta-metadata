@@ -1,7 +1,26 @@
-# 綜合目錄
-## CBETA 部類目錄
+# 目錄清單
 
-cbeta.xml
+## 綜合目錄
+
+* cbeta.xml: CBETA 部類目錄
+* modern.xml: 近代新編文獻
+* others.xml: 歷代藏經補輯
+
+## 各藏 部別目錄
+
+* cat-n.xml: 南傳大藏經 部別目錄
+* cat-t.xml: 大正藏 部別目錄
+* cat-x.xml: 卍續藏 部別目錄
+
+## 各藏 冊別目錄
+
+* vol-d.xml: 國圖善本 冊別目錄
+* vol-j.xml: 嘉興藏 冊別目錄
+* vol-n.xml: 南傳大藏經 冊別目錄
+* vol-t.xml: 大正藏 冊別目錄
+* vol-x.xml: 卍續藏 冊別目錄
+
+# XML 標記說明
 
 tree 元素表示整個樹狀目錄，id 屬性是該目錄的 ID。
 
@@ -33,23 +52,6 @@ file 屬性：指出對應典籍的 XML 檔主檔名
 
 	<node work="T0220" file="T05n0220a" juan="1..200"/>
 
-## 歷代藏經補輯
-
-others.xml
-
-# 各藏 部別目錄
-
-* cat-n.xml: 南傳大藏經 部別目錄
-* cat-t.xml: 大正藏 部別目錄
-* cat-x.xml: 卍續藏 部別目錄
-
-# 各藏 冊別目錄
-
-* vol-d.xml: 國圖善本 冊別目錄
-* vol-j.xml: 嘉興藏 冊別目錄
-* vol-n.xml: 南傳大藏經 冊別目錄
-* vol-t.xml: 大正藏 冊別目錄
-* vol-x.xml: 卍續藏 冊別目錄
 
 ## 跨冊
 
