@@ -53,7 +53,7 @@
     <node work="JB272..JB276"/>
     <node work="JB277" file="J32nB277"/>
   </node>
-  <node name="J33 嘉興藏 (B277~B294 經)" work="JB277..JB294">
+  <node name="J33 嘉興藏 (B277~B294 經)">
     <node work="JB277" file="J33nB277" juan="12"/>
     <node work="JB278..JB294"/>
   </node>
