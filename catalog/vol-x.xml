@@ -12,7 +12,7 @@
     <node name="X0233 (=L1557) 華嚴經疏演義鈔" work="L1557"/>
     <node work="X0234"/>
   </node>
-  <node name="X08 大小乘釋經部六 (235~240 經)" work="X0235..X0240">
+  <node name="X08 大小乘釋經部六 (235~240 經)">
     <node work="X0235..X0239"/>
     <node work="X0240" file="X08n0240" juan="1..44"/>
   </node>
