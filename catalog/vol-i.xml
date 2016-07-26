@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
+<tree xml:id="Vol-I">
+  <node name="I01 北朝佛教石刻拓片百品" work="I0001..I0100"/>
+</tree>

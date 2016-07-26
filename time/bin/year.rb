@@ -2,35 +2,78 @@
 
 require 'csv'
 require 'json'
+require 'nokogiri'
 
-IN = '../dynasty-by-canon'
+IN = '/Users/ray/git-repos/cbeta-xml-p5a'
 DYNASTY_TO_YEAR = '../dynasty-year.csv'
 OUT = '../out'
 
-def handle_file(fn)
-  canon = File.basename(fn, '.json')
-  s = File.read(fn)
-  works = JSON.parse(s)
-  works.each_pair do |k,v|
-    if 'X0343,X0451,X0582'.include? k
-      works[k][:time_from] = 549
-      works[k][:time_to] = 623
-      next
-    end
-    
-    next unless v.key? 'dynasty'
-    d = v['dynasty']
-    
-    if $d2y.key? d
-      works[k][:time_from] = $d2y[d][:from]
-      works[k][:time_to] = $d2y[d][:to]
-    else
-      puts "#{k} 朝代沒有西元年：#{d}"
-    end
+def handle_canon(canon)
+  puts "handle canon: #{canon}"
+  $canon = canon
+  $works = {}
+  canon_folder = File.join(IN, canon)
+  Dir.entries(canon_folder).sort.each do |vol|
+    next if vol.start_with? '.'
+    handle_vol(vol)
   end
-  s = JSON.pretty_generate(works)
-  out_fn = File.join(OUT, "#{canon}.json")
-  File.write(out_fn, s)
+  
+  s = JSON.pretty_generate($works)
+  fn = File.join(OUT, "#{canon}.json")
+  puts "write #{fn}"
+  File.write(fn, s)
+end
+
+def handle_vol(vol)
+  puts "handle vol: #{vol}"
+  vol_folder = File.join(IN, $canon, vol)
+  Dir.entries(vol_folder).sort.each do |f|
+    next if f.start_with? '.'
+    fn = File.join(vol_folder, f)
+    handle_file(fn)
+  end
+end
+
+def handle_file(fn)
+  puts "handle file: #{fn}"
+  basename = File.basename(fn, '.xml')
+  work = basename.sub /^([A-Z]{1,2})\d+n(.*)$/, '\1\2'
+  return if $works.include? work  
+  
+  if 'X0343,X0451,X0582'.include? work
+    $works[work] = {}
+    $works[work][:time_from] = 549
+    $works[work][:time_to] = 623
+    return
+  end
+  
+  doc = File.open(fn) { |f| Nokogiri::XML(f) }
+  doc.remove_namespaces!
+  
+  $works[work] = {}
+  w = $works[work]
+  
+  e = doc.at_xpath('//title')
+  w[:title] = e.text.split.last unless e.nil?
+  
+  author = doc.at_xpath('//author')
+  if author.nil?
+    $log.puts "#{__LINE__} #{fn} 找不到 author 元素" unless $canon=='B'
+    return
+  end
+  
+  byline = author.text
+  w[:byline] = byline
+    
+  d = byline.split[0]
+  w[:dynasty] = d
+    
+  if $d2y.key? d
+    w[:time_from] = $d2y[d][:from]
+    w[:time_to]   = $d2y[d][:to]
+  else
+    $log.puts "#{work} 朝代沒有西元年：#{d}" unless $canon=='B'
+  end
 end
 
 def read_d2y
@@ -47,10 +90,15 @@ def read_d2y
   r
 end
 
+puts "log: year.log"
+$log = File.open('year.log', 'w')
+
 $d2y = read_d2y
 
 Dir.mkdir(OUT) unless Dir.exist? OUT
 
-Dir["#{IN}/*.json"].each do |fn|
-  handle_file(fn)
+Dir.entries(IN).sort.each do |canon|
+  next if canon.start_with? '.'
+  next if canon.size > 2
+  handle_canon(canon)
 end

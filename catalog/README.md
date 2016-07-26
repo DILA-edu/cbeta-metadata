@@ -14,11 +14,27 @@
 
 ## 各藏 冊別目錄
 
-* vol-d.xml: 國圖善本 冊別目錄
-* vol-j.xml: 嘉興藏 冊別目錄
-* vol-n.xml: 南傳大藏經 冊別目錄
-* vol-t.xml: 大正藏 冊別目錄
-* vol-x.xml: 卍續藏 冊別目錄
+* vol-a.xml: 趙城金藏
+* vol-b.xml: 大藏經補編
+* vol-c.xml: 中華大藏經-中華書局版
+* vol-d.xml: 國圖善本
+* vol-f.xml: 房山石經
+* vol-g.xml: 佛教大藏經
+* vol-ga.xml: 中國佛寺史志彙刊
+* vol-gb.xml: 中國佛寺志叢刊
+* vol-h.xml: 正史佛教資料類編
+* vol-i.xml: 北朝佛教石刻拓片百品
+* vol-j.xml: 嘉興藏
+* vol-k.xml: 高麗大藏經-新文豐版
+* vol-l.xml: 乾隆大藏經-新文豐版
+* vol-m.xml: 卍正藏經-新文豐版
+* vol-n.xml: 南傳大藏經
+* vol-p.xml: 永樂北藏
+* vol-s.xml: 宋藏遺珍-新文豐版
+* vol-t.xml: 大正藏
+* vol-u.xml: 洪武南藏
+* vol-w.xml: 藏外佛教文獻
+* vol-x.xml: 卍續藏
 
 # XML 標記說明
 
@@ -53,7 +69,7 @@ file 屬性：指出對應典籍的 XML 檔主檔名
 	<node work="T0220" file="T05n0220a" juan="1..200"/>
 
 
-## 跨冊
+## 典籍跨冊
 
 例如 JB271 跨 J31..J32:
 

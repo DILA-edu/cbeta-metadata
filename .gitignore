@@ -1,1 +1,2 @@
-catalog/time/out
+time/bin/*.log
+time/out

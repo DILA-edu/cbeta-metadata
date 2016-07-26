@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
+<tree xml:id="Vol-K">
+  <node name="K05 高麗藏 (16 經)" work="K0016"/>
+  <node name="K32 高麗藏 (1064 經)" work="K1064"/>
+  <node name="K34 高麗藏 (1257 經)" work="K1257"/>
+  <node name="K35 高麗藏 (1257~1261 經)" work="K1257..K1261"/>
+  <node name="K38 高麗藏 (1402 經)" work="K1402"/>
+  <node name="K41 高麗藏 (1482 經)" work="K1482"/>
+</tree>

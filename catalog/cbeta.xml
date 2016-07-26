@@ -1665,8 +1665,63 @@
     </node>
     <node name="T2865-2920 疑似部" work="T2865..T2920"/>
   </node>
-  <node name="21 新編部類 ZS01, ZW01-09, I01">
-    <node name="ZS0001 正史佛教資料類編" work="H0001"/>
+  <node name="21 國圖善本部類 D01-64">
+    <node work="D8679..D8680"/>
+    <node work="D8701,D8724"/>
+    <node work="D8774..D8775"/>
+    <node work="D8779..D8780"/>
+    <node work="D8790,D8814,D8817,D8820,D8838,D8842,D8853,D8859"/>
+    <node work="D8862..D8864"/>
+    <node work="D8869,D8871,D8874"/>
+    <node work="D8879..D8883"/>
+    <node work="D8885"/>
+    <node work="D8888..D8896"/>
+    <node work="D8898,D8899"/>
+    <node work="D8903..D8905"/>
+    <node work="D8913..D8915"/>
+    <node work="D8930,D8936,D8939,D8942,D8945,D8948"/>
+    <node work="D8951..D8954"/>
+    <node work="D8980,D9000,D9010,D9011,D9021"/>
+    <node work="D9025..D9027"/>
+    <node work="D9031"/>
+  </node>
+  <node name="22 漢譯南傳大藏經部類 N01-70">
+    <node name="N0001-03 律藏 N01-05N0001-03 律藏 N01-05">
+      <node name="N0001 經分別 N01-02N0001 經分別 N01-02" work="N0001"/>
+      <node name="N0002 犍度 N03-04" work="N0002"/>
+      <node name="N05n0003 附隨【通妙譯】" work="N0003"/>
+    </node>
+    <node name="N0004-23 經藏 N06-47">
+      <node name="N0004 長部 N06-08" work="N0004"/>
+      <node name="N0005 中部 N09-12" work="N0005"/>
+      <node name="N0006 相應部 N13-18" work="N0006"/>
+      <node name="N0007 增支部 N19-25" work="N0007"/>
+      <node name="N0008-23 小部 N26-47">
+        <node work="N0008..N0016"/>
+        <node name="N0017 譬喻經 N29-30" work="N0017"/>
+        <node name="N0018 本生經 N31-42" work="N0018"/>
+        <node name="N0019 無礙解道 N43-44" work="N0019"/>
+        <node work="N0020,N0021"/>
+        <node name="N0022 大義釋 N45-46" work="N0022"/>
+        <node work="N0023"/>
+      </node>
+    </node>
+    <node name="N0024-30 論藏 N48-62">
+      <node work="N0024"/>
+      <node name="N0025 分別論 N49-50" work="N0025"/>
+      <node work="N0026,N0027"/>
+      <node name="N0028 雙論 N51-53" work="N0028"/>
+      <node name="N0029 發趣論 N54-60" work="N0029"/>
+      <node name="N0030 論事 N61-62" work="N0030"/>
+    </node>
+    <node name="N0031-38 藏外 N63-70">
+      <node name="N0031 彌蘭王問經 N63-64" work="N0031"/>
+      <node work="N0032..N0034"/>
+      <node name="N0035 清淨道論 N67-69" work="N0035"/>
+      <node work="N0036..N0038"/>
+    </node>
+  </node>
+  <node name="23 新編部類 ZS01, ZW01-09, I01, B01-36, GA009-090, GB078">
     <node name="ZW0001-77 藏外佛教文獻">
       <node name="ZW0001-16 第一輯">
         <node name="ZW0001-3 敦煌禪籍" work="W0001..W0003"/>        
@@ -1725,6 +1780,8 @@
         <node name="ZW0076-77 研究論文" work="W0076..W0077"/>
       </node>
     </node>
+    <node name="ZS0001 正史佛教資料類編" work="H0001"/>
+    
     <node name="I0001-100 北朝佛教石刻拓片百品">
       <node name="朝代">
         <node name="北魏" work="I0001..I0033"/>
@@ -1759,6 +1816,54 @@
         </node>
       </node>
       <node name="年代" work="I0001..I0100"/>
+    </node>
+    <node name="B0001-198 大藏經補編">
+      <node name="T0310(5) 無量壽如來會 2 菩提流志"  work="T0310" juan="17..18"/>
+      <node name="B01 大藏經補編 (1 經 : 1~9卷)"    work="B0001" juan="1..9"/>
+      <node name="B02 大藏經補編 (1 經 : 10~20卷)"  work="B0001" juan="10..20"/>
+      <node name="B03 大藏經補編 (2 經 : 1~46卷)"   work="B0002" juan="1..46"/>
+      <node name="B04 大藏經補編 (2 經 : 47~85卷)"  work="B0002" juan="47..85"/>
+      <node name="B05 大藏經補編 (2 經 : 86~120卷)" work="B0002" juan="86..120"/>
+      <node name="B06 大藏經補編 (3~9 經)"   work="B0003..B0009"/>
+      <node name="B07 大藏經補編 (10~25 經)" work="B0010..B0025"/>
+      <node name="B08 大藏經補編 (26~29 經)" work="B0026..B0029"/>
+      <node name="B09 大藏經補編 (30~47 經)" work="B0030..B0047"/>
+      <node name="B10 大藏經補編 (48~68 經)" work="B0048..B0068"/>
+      <node name="B11 大藏經補編 (69~76 經)" work="B0069..B0076"/>
+      <node name="B12 大藏經補編 (77~78 經)" work="B0077,B0078"/>
+      <node name="B13 大藏經補編 (79~80 經)" work="B0079,B0080"/>
+      <node name="B14 大藏經補編 (81~87 經)" work="B0071..B0087"/>
+      <node name="B15 大藏經補編 (88 經 : 55~124卷)" work="B0088" juan="55..124"/>
+      <node name="B16 大藏經補編 (88 經 : 125~212卷)" work="B0088" juan="125..212"/>
+      <node name="B17 大藏經補編 (89~94 經)" work="B0089..B0094"/>
+      <node name="B18 大藏經補編 (95~102 經)" work="B0095..B0102"/>
+      <node name="B19 大藏經補編 (103 經)" work="B0103"/>
+      <node name="B20 大藏經補編 (104~108 經)" work="B0104..B0108"/>
+      <node name="B21 大藏經補編 (109~116 經)" work="B0109..B0116"/>
+      <node name="B22 大藏經補編 (117~119 經)" work="B0117..B0119"/>
+      <node name="B23 大藏經補編 (120~130 經)" work="B0120..B0130"/>
+      <node name="B24 大藏經補編 (131~141 經)" work="B0131..B0141"/>
+      <node name="B25 大藏經補編 (142~145 經)" work="B0142..B0145"/>
+      <node name="B26 大藏經補編 (146~150 經)" work="B0146..B0150"/>
+      <node name="B27 大藏經補編 (151~153 經)" work="B0151..B0153"/>
+      <node name="B28 大藏經補編 (154~159 經)" work="B0154..B0159"/>
+      <node name="B29 大藏經補編 (160~162 經)" work="B0160..B0162"/>
+      <node name="B30 大藏經補編 (163~168 經)" work="B0163..B0168"/>
+      <node name="B31 大藏經補編 (169~170 經)" work="B0169,B0170"/>
+      <node name="B32 大藏經補編 (171~191 經)" work="B0171..B0191"/>
+      <node name="B33 大藏經補編 (192 經)" work="B0192"/>
+      <node name="B34 大藏經補編 (193 經)" work="B0193"/>
+      <node name="B35 大藏經補編 (194~197 經)" work="B0194..B0197"/>
+      <node name="B36 大藏經補編 (198 經)"/>
+    </node>
+    <node name="GA0008-89, GB0109 中國佛寺志">
+      <node name="中國佛寺史志彙刊 (14 志)">
+        <node work="GA0008..GA0011"/>
+        <node work="GA0017,GA0032,GA0043,GA0049,GA0062,GA0077,GA0081,GA0084,GA0086,GA0089"/>
+      </node>
+      <node name="中國佛寺志叢刊 (1 志)">
+        <node work="GB0109"/>
+      </node>
     </node>
   </node>
 </tree>

@@ -1,0 +1,16 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = tree
+
+tree = element tree { 
+  node*,
+  attribute xml:id { xsd:ID }
+}
+
+node = element node { 
+  node*,
+  attribute name { text }?,
+  attribute work { text }?,
+  attribute file { text }?,
+  attribute juan { text }?
+}
