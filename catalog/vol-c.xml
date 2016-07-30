@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
 <tree xml:id="Vol-C">
-  <node name="C056 中華藏 (1163 經)">
+  <node name="C056 中華藏 (C1163)">
     <node work="C1163" file="C056n1163" juan="1..15"/>
   </node>
-  <node name="C057 中華藏 (1163 經)">
+  <node name="C057 中華藏 (C1163)">
     <node work="C1163" file="C057n1163" juan="16..25"/>
   </node>
-  <node name="C059 中華藏 (1169 經)" work="C1169"/>
-  <node name="C071 中華藏 (1665~1666 經)" work="C1665,C1666"/>
-  <node name="C073 中華藏 (1679~1680 經)" work="C1679,C1680"/>
-  <node name="C077 中華藏 (1710 經)" work="C1710"/>
-  <node name="C078 中華藏 (1720 經)" work="C1720"/>
-  <node name="C097 中華藏 (1821 經)" work="C1821"/>
-  <node name="C106 中華藏 (1937 經)" work="C1937"/>
+  <node name="C059 中華藏 (C1169)" work="C1169"/>
+  <node name="C071 中華藏 (C1665-6)" work="C1665,C1666"/>
+  <node name="C073 中華藏 (C1679-80)" work="C1679,C1680"/>
+  <node name="C077 中華藏 (C1710)" work="C1710"/>
+  <node name="C078 中華藏 (C1720)" work="C1720"/>
+  <node name="C097 中華藏 (C1821)" work="C1821"/>
+  <node name="C106 中華藏 (C1937)" work="C1937"/>
 </tree>

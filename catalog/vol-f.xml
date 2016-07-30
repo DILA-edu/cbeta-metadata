@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
 <tree xml:id="Vol-F">
-  <node name="F01 房山石經 (16 經)" work="F0016"/>
-  <node name="F02 房山石經 (41,69 經)" work="F0041,F0069"/>
-  <node name="F03 房山石經 (88~89,100,181,248 經)" work="F0088,F0089,F0100,F0181,F0248"/>
-  <node name="F12 房山石經 (546 經)" work="F0546"/>
-  <node name="F24 房山石經 (761 經)" work="F0761"/>
-  <node name="F27 房山石經 (1048,1050,1056,1060~1064 經)">
+  <node name="F01 房山石經 (F0016)" work="F0016"/>
+  <node name="F02 房山石經 (F0041,69)" work="F0041,F0069"/>
+  <node name="F03 房山石經 (F0088-9,100,181,248)" work="F0088,F0089,F0100,F0181,F0248"/>
+  <node name="F12 房山石經 (F0546)" work="F0546"/>
+  <node name="F24 房山石經 (F0761)" work="F0761"/>
+  <node name="F27 房山石經 (F1048,1050,1056,1060-4)">
     <node work="F1048,F1050,F1056"/>
     <node work="F1060..F1064"></node>
   </node>
-  <node name="F28 房山石經 (1071~1072,1076,1081~1084 經)">
+  <node name="F28 房山石經 (F1071-2,1076,1081-4)">
     <node work="F1071,F1072,F1076"/>
     <node work="F1081..F1084"/>
   </node>
-  <node name="F29 房山石經 (1098~1099 經)" work="F1098,F1099"/>
+  <node name="F29 房山石經 (F1098-9)" work="F1098,F1099"/>
 </tree>

@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
 <tree xml:id="Vol-P">
-  <node name="P154 永樂北藏 (1519 經)">
+  <node name="P154 永樂北藏 (P1519: 1-12卷)">
     <node work="P1519" file="P154n1519" juan="1..12"/>
   </node>
-  <node name="P155 永樂北藏 (1519 經)">
+  <node name="P155 永樂北藏 (P1519: 13-20卷)">
     <node work="P1519" file="P155n1519" juan="13..20"/>
   </node>
-  <node name="P167 永樂北藏 (1573 經)" work="P1573"/>
-  <node name="P168 永樂北藏 (1581 經)" work="P1581"/>
-  <node name="P174 永樂北藏 (1590 經)" work="P1590"/>
-  <node name="P178 永樂北藏 (1610~1611 經)">
+  <node name="P167 永樂北藏 (P1573)" work="P1573"/>
+  <node name="P168 永樂北藏 (P1581)" work="P1581"/>
+  <node name="P174 永樂北藏 (P1590)" work="P1590"/>
+  <node name="P178 永樂北藏 (P1610-1)">
     <node work="P1610"/>
     <node work="P1611" file="P178n1611" juan="1..29"/>
   </node>
-  <node name="P179 永樂北藏 (1611~1612 經)">
+  <node name="P179 永樂北藏 (P1611-2)">
     <node work="P1611" file="P179n1611" juan="30..40"/>
     <node work="P1612" file="P179n1612" juan="1..18"/>
   </node>
-  <node name="P180 永樂北藏 (1612 經)">
+  <node name="P180 永樂北藏 (P1612)">
     <node work="P1612" file="P180n1612" juan="19..50"/>
   </node>
-  <node name="P181 永樂北藏 (1612,1615 經)">
+  <node name="P181 永樂北藏 (P1612,P1615)">
     <node work="P1612" file="P181n1612" juan="51"/>
     <node work="P1615" file="P181n1615" juan="1..13"/>
   </node>
-  <node name="P182 永樂北藏 (1615 經)">
+  <node name="P182 永樂北藏 (P1615: 卷14-35)">
     <node work="P1615" file="P182n1615" juan="14..35"/>
   </node>
-  <node name="P183 永樂北藏 (1615 經)">
+  <node name="P183 永樂北藏 (P1615: 卷36-38)">
     <node work="P1615" file="P183n1615" juan="36..38"/>
   </node>
-  <node name="P184 永樂北藏 (1617 經)">
+  <node name="P184 永樂北藏 (P1617: 卷1-12)">
     <node work="P1617" file="P184n1617" juan="1..12"/>
   </node>
-  <node name="P185 永樂北藏 (1617,1618 經)">
+  <node name="P185 永樂北藏 (P1617,1618)">
     <node work="P1617" file="P185n1617" juan="13..19"/>
     <node work="P1618"/>
   </node>
-  <node name="P187 永樂北藏 (1624 經)" work="P1624"/>
-  <node name="P189 永樂北藏 (1629~1630 經)" work="P1629,P1630"/>
+  <node name="P187 永樂北藏 (P1624)" work="P1624"/>
+  <node name="P189 永樂北藏 (P1629-30)" work="P1629,P1630"/>
 </tree>

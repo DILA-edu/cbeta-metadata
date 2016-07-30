@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
 <tree xml:id="Vol-L">
-  <node name="L115 乾隆藏 (1490 經)">
+  <node name="L115 乾隆藏 (L1490: 1-3卷)">
     <node work="L1490" file="L115n1490" juan="1..3"/>
   </node>
-  <node name="L116 乾隆藏 (1490 經)">
+  <node name="L116 乾隆藏 (L1490: 4-40卷)">
     <node work="L1490" file="L116n1490" juan="4..40"/>
   </node>
-  <node name="L130 乾隆藏 (1557 經)">
+  <node name="L130 乾隆藏 (L1557: 1-17卷)">
     <node work="L1557" file="L130n1557" juan="1..17"/>
   </node>
-  <node name="L131 乾隆藏 (1557 經)">
+  <node name="L131 乾隆藏 (L1557: 17-34卷)">
     <node work="L1557" file="L131n1557" juan="17..34"/>
   </node>
-  <node name="L132 乾隆藏 (1557 經)">
+  <node name="L132 乾隆藏 (L1557: 34-51卷)">
     <node work="L1557" file="L132n1557" juan="34..51"/>
   </node>
-  <node name="L133 乾隆藏 (1557 經)">
+  <node name="L133 乾隆藏 (L1557: 51-80卷)">
     <node work="L1557" file="L133n1557" juan="51..80"/>
   </node>
-  <node name="L135 乾隆藏 (1571 經)" work="L1571"/>
-  <node name="L141 乾隆藏 (1600 經)" work="L1600"/>
-  <node name="L143 乾隆藏 (1608 經)" work="L1608"/>
-  <node name="L149 乾隆藏 (1629 經)" work="L1629"/>
-  <node name="L153 乾隆藏 (1635~1638 經)">
+  <node name="L135 乾隆藏 (L1571)" work="L1571"/>
+  <node name="L141 乾隆藏 (L1600)" work="L1600"/>
+  <node name="L143 乾隆藏 (L1608)" work="L1608"/>
+  <node name="L149 乾隆藏 (L1629)" work="L1629"/>
+  <node name="L153 乾隆藏 (L1635-8)">
     <node work="L1635..L1637"/>
     <node work="L1638" file="L153n1638" juan="1..6"/>
   </node>
-  <node name="L154 乾隆藏 (1638~1641 經)">
+  <node name="L154 乾隆藏 (L1638-41)">
     <node work="L1638" file="L154n1638" juan="7..10"/>
     <node work="L1639..L1641"/>
   </node>
-  <node name="L155 乾隆藏 (1642~1643 經)" work="L1642,L1643"/>
-  <node name="L157 乾隆藏 (1649,1651 經)" work="L1649,L1651"/>
-  <node name="L158 乾隆藏 (1652 經)" work="L1652"/>
-  <node name="L162 乾隆藏 (1666 經)" work="L1666"/>
-  <node name="L164 乾隆藏 (1668~1669 經)" work="L1668,L1669"/>
+  <node name="L155 乾隆藏 (L1642-3)" work="L1642,L1643"/>
+  <node name="L157 乾隆藏 (L1649,1651)" work="L1649,L1651"/>
+  <node name="L158 乾隆藏 (L1652)" work="L1652"/>
+  <node name="L162 乾隆藏 (L1666)" work="L1666"/>
+  <node name="L164 乾隆藏 (L1668-9)" work="L1668,L1669"/>
 </tree>

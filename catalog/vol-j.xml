@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tree xml:id="Vol-J">
-  <node name="J01 嘉興藏 (A001~A042 經)" work="JA001..JA042"/>
-  <node name="J02 嘉興藏 (A043~A048 經)" work="JA043..JA048"/>
-  <node name="J03 嘉興藏 (A049~A080 經)" work="JA049..JA080"/>
-  <node name="J04 嘉興藏 (A081~A098 經)" work="JA081..JA098"/>
-  <node name="J05 嘉興藏 (A099~A115 經)" work="JA099..JA115"/>
-  <node name="J06 嘉興藏 (A116~A119 經)" work="JA116..JA119"/>
-  <node name="J07 嘉興藏 (A120~A127 經)" work="JA120..JA127"/>
-  <node name="J08 嘉興藏 (A128~A138 經)" work="JA128..JA138"/>
-  <node name="J09 嘉興藏 (A139~A157 經)" work="JA139..JA157"/>
-  <node name="J10 嘉興藏 (A158~A161 經)" work="JA158..JA161"/>
-  <node name="J11 嘉興藏 (B001 經)">
+  <node name="J01 嘉興藏 (JA001-42)" work="JA001..JA042"/>
+  <node name="J02 嘉興藏 (JA043-8)" work="JA043..JA048"/>
+  <node name="J03 嘉興藏 (JA049-80)" work="JA049..JA080"/>
+  <node name="J04 嘉興藏 (JA081-98)" work="JA081..JA098"/>
+  <node name="J05 嘉興藏 (JA099-115)" work="JA099..JA115"/>
+  <node name="J06 嘉興藏 (JA116-9)" work="JA116..JA119"/>
+  <node name="J07 嘉興藏 (JA120-7)" work="JA120..JA127"/>
+  <node name="J08 嘉興藏 (JA128-38)" work="JA128..JA138"/>
+  <node name="J09 嘉興藏 (JA139-57)" work="JA139..JA157"/>
+  <node name="J10 嘉興藏 (JA158-61)" work="JA158..JA161"/>
+  <node name="J11 嘉興藏 (JB001)">
 		<node name="JB001 (=X0232+L1557) 大方廣佛華嚴經疏鈔 etc. (38卷)">
 	    <node work="X0232"/>
 	    <node work="L1557"/>
 		</node>
   </node>
-  <node name="J12 嘉興藏 (B001 經)">
+  <node name="J12 嘉興藏 (JB001)">
 		<node name="JB001 (=L1557+X0227) 大方廣佛華嚴經疏鈔 etc. (61卷)">
 	    <node work="L1557" juan="30"/>
 	    <node work="X0227"/>
 		</node>
   </node>
-  <node name="J13 嘉興藏 (B002 經)">
+  <node name="J13 嘉興藏 (JB002)">
     <node name="JB002 (=X0223) 大方廣佛新華嚴經合論 (120卷)" work="X0223"/>
   </note>
-  <node name="J14 嘉興藏 (B003 經)">
+  <node name="J14 嘉興藏 (JB003)">
     <node name="JB003 (=X0240) 大方廣佛華嚴經綱要 (80卷)" work="X0240"/>
   </node>
-  <node name="J15 嘉興藏 (B004~B009 經)" work="JB004..JB009"/>
-  <node name="J16 嘉興藏 (B010~B017 經)" work="JB010..JB017"/>
-  <node name="J17 嘉興藏 (B018~B021 經)" work="JB018..JB021"/>
-  <node name="J18 嘉興藏 (B022~B030 經)" work="JB022..JB030"/>
-  <node name="J19 嘉興藏 (B031~B077 經)" work="JB031..JB077"/>
-  <node name="J20 嘉興藏 (B078~B104 經)" work="JB078..JB104"/>
-  <node name="J21 嘉興藏 (B105~B111 經)" work="JB105..JB111"/>
-  <node name="J22 嘉興藏 (B112~B117 經)" work="JB112..JB117"/>
-  <node name="J23 嘉興藏 (B118~B135 經)" work="JB118..JB135"/>
-  <node name="J24 嘉興藏 (B136~B151 經)" work="JB136..JB151"/>
-  <node name="J25 嘉興藏 (B152~B176 經)" work="JB152..JB176"/>
-  <node name="J26 嘉興藏 (B177~B188 經)" work="JB177..JB188"/>
-  <node name="J27 嘉興藏 (B189~B201 經)" work="JB189..JB201"/>
-  <node name="J28 嘉興藏 (B202~B221 經)" work="JB202..JB221"/>
-  <node name="J29 嘉興藏 (B222~B250 經)" work="JB222..JB250"/>
-  <node name="J30 嘉興藏 (B251~B261 經)" work="JB251..JB261"/>
-  <node name="J31 嘉興藏 (B262~B271 經)">
+  <node name="J15 嘉興藏 (JB004-9)" work="JB004..JB009"/>
+  <node name="J16 嘉興藏 (JB010-7)" work="JB010..JB017"/>
+  <node name="J17 嘉興藏 (JB018-21)" work="JB018..JB021"/>
+  <node name="J18 嘉興藏 (JB022-30)" work="JB022..JB030"/>
+  <node name="J19 嘉興藏 (JB031-77)" work="JB031..JB077"/>
+  <node name="J20 嘉興藏 (JB078-104)" work="JB078..JB104"/>
+  <node name="J21 嘉興藏 (JB105-11)" work="JB105..JB111"/>
+  <node name="J22 嘉興藏 (JB112-7)" work="JB112..JB117"/>
+  <node name="J23 嘉興藏 (JB118-35)" work="JB118..JB135"/>
+  <node name="J24 嘉興藏 (JB136-51)" work="JB136..JB151"/>
+  <node name="J25 嘉興藏 (JB152-76)" work="JB152..JB176"/>
+  <node name="J26 嘉興藏 (JB177-88)" work="JB177..JB188"/>
+  <node name="J27 嘉興藏 (JB189-201)" work="JB189..JB201"/>
+  <node name="J28 嘉興藏 (JB202-21)" work="JB202..JB221"/>
+  <node name="J29 嘉興藏 (JB222-50)" work="JB222..JB250"/>
+  <node name="J30 嘉興藏 (JB251-61)" work="JB251..JB261"/>
+  <node name="J31 嘉興藏 (JB262-71)">
     <node work="JB262..JB270"/>
     <node work="JB271" file="J31nB271"/>
   </node>
-  <node name="J32 嘉興藏 (B271~B277 經)">
+  <node name="J32 嘉興藏 (JB271-7)">
     <node work="JB271" file="J32nB271" juan="6"/>
     <node work="JB272..JB276"/>
     <node work="JB277" file="J32nB277"/>
   </node>
-  <node name="J33 嘉興藏 (B277~B294 經)">
+  <node name="J33 嘉興藏 (JB277-94)">
     <node work="JB277" file="J33nB277" juan="12"/>
     <node work="JB278..JB294"/>
   </node>
-  <node name="J34 嘉興藏 (B295~B313 經)" work="JB295..JB313"/>
-  <node name="J35 嘉興藏 (B314~B343 經)" work="JB314..JB343"/>
-  <node name="J36 嘉興藏 (B344~B369 經)" work="JB344..JB369"/>
-  <node name="J37 嘉興藏 (B370~B403 經)" work="JB370..JB403"/>
-  <node name="J38 嘉興藏 (B404~B434 經)" work="JB404..JB434"/>
-  <node name="J39 嘉興藏 (B435~B471 經)" work="JB435..JB471"/>
-  <node name="J40 嘉興藏 (B472~B497 經)" work="JB472..JB497"/>
+  <node name="J34 嘉興藏 (JB295-313)" work="JB295..JB313"/>
+  <node name="J35 嘉興藏 (JB314-43)" work="JB314..JB343"/>
+  <node name="J36 嘉興藏 (JB344-69)" work="JB344..JB369"/>
+  <node name="J37 嘉興藏 (JB370-403)" work="JB370..JB403"/>
+  <node name="J38 嘉興藏 (JB404-34)" work="JB404..JB434"/>
+  <node name="J39 嘉興藏 (JB435-71)" work="JB435..JB471"/>
+  <node name="J40 嘉興藏 (JB472-97)" work="JB472..JB497"/>
 </tree>

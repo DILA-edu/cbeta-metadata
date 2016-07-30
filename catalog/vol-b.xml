@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tree xml:id="Vol-B">
-  <node name="B01 大藏經補編 (1 經 : 1~9卷)">
+  <node name="B01 大藏經補編 (B0001: 1-9卷)">
     <node work="B0001" file="B01n0001" juan="1..9"/>
   </node>
-  <node name="B02 大藏經補編 (1 經 : 10~20卷)">
+  <node name="B02 大藏經補編 (B0001: 10-20卷)">
     <node work="B0001" file="B02n0001" juan="10..20"/>
   </node>
-  <node name="B03 大藏經補編 (2 經 : 1~46卷)">
+  <node name="B03 大藏經補編 (B0002: 1-46卷)">
     <node work="B0002" file="B03n0002" juan="1..46"/>
   </node>
-  <node name="B04 大藏經補編 (2 經 : 47~85卷)">
+  <node name="B04 大藏經補編 (B0002: 47-85卷)">
     <node work="B0002" file="B04n0002" juan="47..85"/>
   </node>
-  <node name="B05 大藏經補編 (2 經 : 86~120卷)">
+  <node name="B05 大藏經補編 (B0002: 86-120卷)">
     <node work="B0002" file="B05n0002" juan="86..120"/>
   </node>
-  <node name="B06 大藏經補編 (3~9 經)" work="B0003..B0009"/>
-  <node name="B07 大藏經補編 (10~25 經)" work="B0010..B0025"/>
-  <node name="B08 大藏經補編 (26~29 經)" work="B0026..B0029"/>
-  <node name="B09 大藏經補編 (30~47 經)" work="B0030..B0047"/>
-  <node name="B10 大藏經補編 (48~68 經)" work="B0048..B0068"/>
-  <node name="B11 大藏經補編 (69~76 經)" work="B0069..B0076"/>
-  <node name="B12 大藏經補編 (77~78 經)" work="B0077..B0078"/>
-  <node name="B13 大藏經補編 (79~80 經)" work="B0079..B0080"/>
-  <node name="B14 大藏經補編 (81~87 經)" work="B0081..B0087"/>
-  <node name="B15 大藏經補編 (88 經 : 55~124卷)">
+  <node name="B06 大藏經補編 (B0003-9)" work="B0003..B0009"/>
+  <node name="B07 大藏經補編 (B0010-25)" work="B0010..B0025"/>
+  <node name="B08 大藏經補編 (B0026-9)" work="B0026..B0029"/>
+  <node name="B09 大藏經補編 (B0030-47)" work="B0030..B0047"/>
+  <node name="B10 大藏經補編 (B0048-68)" work="B0048..B0068"/>
+  <node name="B11 大藏經補編 (B0069-76)" work="B0069..B0076"/>
+  <node name="B12 大藏經補編 (B0077-8)" work="B0077..B0078"/>
+  <node name="B13 大藏經補編 (B0079-80)" work="B0079..B0080"/>
+  <node name="B14 大藏經補編 (B0081-7)" work="B0081..B0087"/>
+  <node name="B15 大藏經補編 (B0088: 55-124卷)">
     <node work="B0088" file="B15n0088" juan="55..124"/>
   </node>
-  <node name="B16 大藏經補編 (88 經 : 125~212卷)">
+  <node name="B16 大藏經補編 (B0088: 125-212卷)">
     <node work="B0088" file="B16n0088" juan="125..212"/>
   </node>
-  <node name="B17 大藏經補編 (89~94 經)" work="B0089..B0094"/>
-  <node name="B18 大藏經補編 (95~102 經)" work="B0095..B0102"/>
-  <node name="B19 大藏經補編 (103 經)" work="B0103"/>
-  <node name="B20 大藏經補編 (104~108 經)" work="B0104..B0108"/>
-  <node name="B21 大藏經補編 (109~116 經)" work="B0109..B0116"/>
-  <node name="B22 大藏經補編 (117~119 經)" work="B0117..B0119"/>
-  <node name="B23 大藏經補編 (120~130 經)" work="B0120..B0130"/>
-  <node name="B24 大藏經補編 (131~141 經)" work="B0131..B0141"/>
-  <node name="B25 大藏經補編 (142~145 經)" work="B0142..B0145"/>
-  <node name="B26 大藏經補編 (146~150 經)" work="B0146..B0150"/>
-  <node name="B27 大藏經補編 (151~153 經)" work="B0151..B0153"/>
-  <node name="B28 大藏經補編 (154~159 經)" work="B0154..B0159"/>
-  <node name="B29 大藏經補編 (160~162 經)" work="B0160..B0162"/>
-  <node name="B30 大藏經補編 (163~168 經)" work="B0163..B0168"/>
-  <node name="B31 大藏經補編 (169~170 經)" work="B0169..B0170"/>
-  <node name="B32 大藏經補編 (171~191 經)" work="B0171..B0191"/>
-  <node name="B33 大藏經補編 (192 經)" work="B0192"/>
-  <node name="B34 大藏經補編 (193 經)" work="B0193"/>
-  <node name="B35 大藏經補編 (194~197 經)" work="B0194..B0197"/>
-  <node name="B36 大藏經補編 (198 經)" work="B0198"/>
+  <node name="B17 大藏經補編 (B0089-94)" work="B0089..B0094"/>
+  <node name="B18 大藏經補編 (B0095-102)" work="B0095..B0102"/>
+  <node name="B19 大藏經補編 (B0103)" work="B0103"/>
+  <node name="B20 大藏經補編 (B0104-8)" work="B0104..B0108"/>
+  <node name="B21 大藏經補編 (B0109-16)" work="B0109..B0116"/>
+  <node name="B22 大藏經補編 (B0117-9)" work="B0117..B0119"/>
+  <node name="B23 大藏經補編 (B0120-30)" work="B0120..B0130"/>
+  <node name="B24 大藏經補編 (B0131-41)" work="B0131..B0141"/>
+  <node name="B25 大藏經補編 (B0142-5)" work="B0142..B0145"/>
+  <node name="B26 大藏經補編 (B0146-50)" work="B0146..B0150"/>
+  <node name="B27 大藏經補編 (B0151-3)" work="B0151..B0153"/>
+  <node name="B28 大藏經補編 (B0154-9)" work="B0154..B0159"/>
+  <node name="B29 大藏經補編 (B0160-2)" work="B0160..B0162"/>
+  <node name="B30 大藏經補編 (B0163-8)" work="B0163..B0168"/>
+  <node name="B31 大藏經補編 (B0169-70)" work="B0169..B0170"/>
+  <node name="B32 大藏經補編 (B0171-91)" work="B0171..B0191"/>
+  <node name="B33 大藏經補編 (B0192)" work="B0192"/>
+  <node name="B34 大藏經補編 (B0193)" work="B0193"/>
+  <node name="B35 大藏經補編 (B0194-7)" work="B0194..B0197"/>
+  <node name="B36 大藏經補編 (B0198 經)" work="B0198"/>
 </tree>

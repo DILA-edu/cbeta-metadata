@@ -1,184 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tree xml:id="others">
   <node name="金藏">
-    <node name="A091 金藏 (1066 經)" work="A1066"/>    
-    <node name="A097 金藏 (1276 經)">
+    <node name="A091 金藏 (A1066)" work="A1066"/>    
+    <node name="A097 金藏 (A1276: 卷3-4)">
       <node work="A1276" file="A097n1276" juan="3..4"/>
     </node>
-    <node name="A098 金藏 (1276 經)">
+    <node name="A098 金藏 (A1276: 卷5-20)">
       <node work="A1276" file="A098n1276" juan="5..20"/>
     </node>
-    <node name="A110 金藏 (1499 經)" work="A1499"/>    
-    <node name="A111 金藏 (1501 經)">
+    <node name="A110 金藏 (A1499)" work="A1499"/>    
+    <node name="A111 金藏 (A1501)">
       <node work="A1501" file="A111n1501" juan="3..12"/>
     </node>
-    <node name="A112 金藏 (1502 經)">
+    <node name="A112 金藏 (A1502)">
       <node work="A1501" file="A112n1501" juan="13..20"/>
       <node work="A1502"/>
     </node>
-    <node name="A114 金藏 (1510~1511 經)" work="A1510..A1511"/>
-    <node name="A119 金藏 (1553 經)" work="A1553"/>    
-    <node name="A120 金藏 (1565 經)" work="A1565"/>    
+    <node name="A114 金藏 (A1510-1)" work="A1510..A1511"/>
+    <node name="A119 金藏 (A1553)" work="A1553"/>    
+    <node name="A120 金藏 (A1565)" work="A1565"/>    
   </node>
   <node name="中華藏">
-    <node name="C056 中華藏 (1163 經)">
+    <node name="C056 中華藏 (C1163: 卷1-15)">
       <node work="C1163" file="C056n1163" juan="1..15"/>
     </node>
-    <node name="C057 中華藏 (1163 經)">
+    <node name="C057 中華藏 (C1163: 卷16-25)">
       <node work="C1163" file="C057n1163" juan="16..25"/>
     </node>
-    <node name="C059 中華藏 (1169 經)" work="C1169"/>
-    <node name="C071 中華藏 (1665~1666 經)" work="C1665..C1666"/>    
-    <node name="C073 中華藏 (1679~1680 經)" work="C1679..C1680"/>    
-    <node name="C077 中華藏 (1710 經)" work="C1710"/>    
-    <node name="C078 中華藏 (1720 經)" work="C1720"/>    
-    <node name="C097 中華藏 (1821 經)" work="C1821"/>    
-    <node name="C106 中華藏 (1937 經)" work="C1937"/>    
+    <node name="C059 中華藏 (C1169)" work="C1169"/>
+    <node name="C071 中華藏 (C1665-6)" work="C1665..C1666"/>
+    <node name="C073 中華藏 (C1679-80)" work="C1679..C1680"/>    
+    <node name="C077 中華藏 (C1710)" work="C1710"/>    
+    <node name="C078 中華藏 (C1720)" work="C1720"/>    
+    <node name="C097 中華藏 (C1821)" work="C1821"/>    
+    <node name="C106 中華藏 (C1937)" work="C1937"/>    
   </node>
   <node name="房山石經">
-    <node name="F01 房山石經 (16 經)" work="F0016"/>
-    <node name="F02 房山石經 (41,69 經)">
+    <node name="F01 房山石經 (F0016)" work="F0016"/>
+    <node name="F02 房山石經 (F0041,69)">
       <node work="F0041"/>
       <node work="F0069"/>
     </node>
-    <node name="F03 房山石經 (88~89,100,181,248 經)">
+    <node name="F03 房山石經 (F0088-9,100,181,248)">
       <node work="F0088..F0089"/>
       <node work="F0100"/>
       <node work="F0181"/>
       <node work="F0248"/>
     </node>
-    <node name="F12 房山石經 (546 經)" work="F0546"/>    
-    <node name="F24 房山石經 (761 經)" work="F0761"/>    
-    <node name="F27 房山石經 (1048,1050,1056,1060~1064 經)">
+    <node name="F12 房山石經 (F0546)" work="F0546"/>    
+    <node name="F24 房山石經 (F0761)" work="F0761"/>    
+    <node name="F27 房山石經 (F1048,1050,1056,1060-4)">
       <node work="F1048"/>
       <node work="F1050"/>
       <node work="F1056"/>
       <node work="F1060..F1064"/>
     </node>
-    <node name="F28 房山石經 (1071~1072,1076,1081~1084 經)">
+    <node name="F28 房山石經 (F1071-2,1076,1081-4)">
       <node work="F1071..F1072"/>
       <node work="F1076"/>
       <node work="F1081..F1084"/>
     </node>
-    <node name="F29 房山石經 (1098~1099 經)" work="F1098..F1099"/>    
+    <node name="F29 房山石經 (F1098-9)" work="F1098..F1099"/>    
   </node>
   <node name="佛教大藏經">
-    <node name="G052 佛教大藏經 (1222 經)" work="G1222"/>    
-    <node name="G069 佛教大藏經 (1977 經)" work="G1977"/>    
-    <node name="G083 佛教大藏經 (2073,2075 經)">
+    <node name="G052 佛教大藏經 (G1222)" work="G1222"/>    
+    <node name="G069 佛教大藏經 (G1977)" work="G1977"/>    
+    <node name="G083 佛教大藏經 (G2073,2075)">
       <node work="G2073"/>
       <node work="G2075"/>
     </node>
-    <node name="G084 佛教大藏經 (2084,2086 經)">
+    <node name="G084 佛教大藏經 (G2084,2086)">
       <node work="G2084"/>
       <node work="G2086"/>
     </node>
   </node>
   <node name="高麗藏">
-    <node name="K05 高麗藏 (16 經)" work="K0016"/>    
-    <node name="K32 高麗藏 (1064 經)" work="K1064"/>
-    <node name="K34 高麗藏 (1257 經)">
+    <node name="K05 高麗藏 (K0016)" work="K0016"/>    
+    <node name="K32 高麗藏 (K1064)" work="K1064"/>
+    <node name="K34 高麗藏 (K1257)">
       <node work="K1257" file="K34n1257" juan="1..12"/>
     </node>
-    <node name="K35 高麗藏 (1257~1261 經)">
+    <node name="K35 高麗藏 (K1257-61)">
       <node work="K1257" file="K35n1257" juan="13..30"/>
       <node work="K1258..K1261"/>
     </node>
-    <node name="K38 高麗藏 (1402 經)" work="K1402"/>    
-    <node name="K41 高麗藏 (1482 經)" work="K1482"/>    
+    <node name="K38 高麗藏 (K1402)" work="K1402"/>    
+    <node name="K41 高麗藏 (K1482)" work="K1482"/>    
   </node>
   <node name="乾隆藏">
-    <node name="L115 乾隆藏 (1490 經)">
+    <node name="L115 乾隆藏 (L1490: 卷1-3)">
       <node work="L1490" file="L115n1490" juan="1..3"/>
     </node>
-    <node name="L116 乾隆藏 (1490 經)">
+    <node name="L116 乾隆藏 (L1490: 卷4-40)">
       <node work="L1490" file="L116n1490" juan="4..40"/>
     </node>
-    <node name="L130 乾隆藏 (1557 經)">
+    <node name="L130 乾隆藏 (L1557: 卷1-17)">
       <node work="L1557" file="L130n1557" juan="1..17"/>
     </node>
-    <node name="L131 乾隆藏 (1557 經)">
+    <node name="L131 乾隆藏 (L1557: 卷17-34)">
       <node work="L1557" file="L131n1557" juan="17..34"/>
     </node>
-    <node name="L132 乾隆藏 (1557 經)">
+    <node name="L132 乾隆藏 (L1557: 卷34-51)">
       <node work="L1557" file="L132n1557" juan="34..51"/>
     </node>
-    <node name="L133 乾隆藏 (1557 經)">
+    <node name="L133 乾隆藏 (L1557: 卷51-80)">
       <node work="L1557" file="L133n1557" juan="51..80"/>
     </node>
-    <node name="L135 乾隆藏 (1571 經)" work="L1571"/>
-    <node name="L141 乾隆藏 (1600 經)" work="L1600"/>
-    <node name="L143 乾隆藏 (1608 經)" work="L1608"/>
-    <node name="L149 乾隆藏 (1629 經)" work="L1629"/>
-    <node name="L153 乾隆藏 (1635~1638 經)">
+    <node name="L135 乾隆藏 (L1571)" work="L1571"/>
+    <node name="L141 乾隆藏 (L1600)" work="L1600"/>
+    <node name="L143 乾隆藏 (L1608)" work="L1608"/>
+    <node name="L149 乾隆藏 (L1629)" work="L1629"/>
+    <node name="L153 乾隆藏 (L1635-8)">
       <node work="L1635..L1637"/>
       <node work="L1638" file="L153n1638" juan="1..6"/>
     </node>
-    <node name="L154 乾隆藏 (1638~1641 經)">
+    <node name="L154 乾隆藏 (L1638-41)">
       <node work="L1638" file="L154n1638" juan="7..10"/>
       <node work="L1639..L1641"/>
     </node>
-    <node name="L155 乾隆藏 (1642~1643 經)" work="L1642..L1643"/>
-    <node name="L157 乾隆藏 (1649,1651 經)">
+    <node name="L155 乾隆藏 (L1642-3)" work="L1642..L1643"/>
+    <node name="L157 乾隆藏 (L1649,1651)">
       <node work="L1649"/>
       <node work="L1651"/>
     </node>
-    <node name="L158 乾隆藏 (1652 經)" work="L1652"/>
-    <node name="L162 乾隆藏 (1666 經)" work="L1666"/>
-    <node name="L164 乾隆藏 (1668~1669 經)" work="L1668..L1669"/>
+    <node name="L158 乾隆藏 (L1652)" work="L1652"/>
+    <node name="L162 乾隆藏 (L1666)" work="L1666"/>
+    <node name="L164 乾隆藏 (L1668-9)" work="L1668..L1669"/>
   </node>
   <node name="卍正藏">
-    <node name="M059 卍正藏經 (1540 經)" work="M1540"/>
+    <node name="M059 卍正藏經 (M1540)" work="M1540"/>
   </node>
   <node name="永樂北藏">
-    <node name="P154 永樂北藏 (1519 經)">
+    <node name="P154 永樂北藏 (P1519: 卷1-12)">
       <node work="P1519" file="L154n1519" juan="1..12"/>
     </node>
-    <node name="P155 永樂北藏 (1519 經)">
+    <node name="P155 永樂北藏 (P1519: 卷13-20)">
       <node work="P1519" file="L155n1519" juan="13..20"/>
     </node>
-    <node name="P167 永樂北藏 (1573 經)" work="P1573"/>
-    <node name="P168 永樂北藏 (1581 經)" work="P1581"/>
-    <node name="P174 永樂北藏 (1590 經)" work="P1590"/>
-    <node name="P178 永樂北藏 (1610~1611 經)">
+    <node name="P167 永樂北藏 (P1573)" work="P1573"/>
+    <node name="P168 永樂北藏 (P1581)" work="P1581"/>
+    <node name="P174 永樂北藏 (P1590)" work="P1590"/>
+    <node name="P178 永樂北藏 (P1610-1)">
       <node work="P1610"/>
       <node work="P1611" file="P178n1611" juan="1..29"/>
     </node>
-    <node name="P179 永樂北藏 (1611~1612 經)">
+    <node name="P179 永樂北藏 (P1611-2)">
       <node work="P1611" file="P179n1611" juan="30..40"/>
       <node work="P1612" file="P179n1612" juan="1..18"/>
     </node>
-    <node name="P180 永樂北藏 (1612 經)">
+    <node name="P180 永樂北藏 (P1612: 卷19-50)">
       <node work="P1612" file="P180n1612" juan="19..50"/>
     </node>
-    <node name="P181 永樂北藏 (1612,1615 經)">
+    <node name="P181 永樂北藏 (P1612,1615)">
       <node work="P1612" file="P181n1612" juan="51"/>
       <node work="P1615" file="P181n1615" juan="1..13"/>
     </node>
-    <node name="P182 永樂北藏 (1615 經)">
+    <node name="P182 永樂北藏 (P1615: 卷14-35)">
       <node work="P1615" file="P182n1615" juan="14..35"/>
     </node>
-    <node name="P183 永樂北藏 (1615 經)">
+    <node name="P183 永樂北藏 (P1615: 卷36-38)">
       <node work="P1615" file="P183n1615" juan="36..38"/>
     </node>
-    <node name="P184 永樂北藏 (1617 經)">
+    <node name="P184 永樂北藏 (P1617: 卷1-12)">
       <node work="P1617" file="P184n1617" juan="1..12"/>
     </node>
-    <node name="P185 永樂北藏 (1617,1618 經)">
+    <node name="P185 永樂北藏 (P1617,1618)">
       <node work="P1617" file="P185n1617" juan="13..19"/>
+      <node work="P1618"/>
     </node>
-    <node name="P187 永樂北藏 (1624 經)" work="P1624"/>
-    <node name="P189 永樂北藏 (1629~1630 經)" work="P1629..P1630"/>
+    <node name="P187 永樂北藏 (P1624)" work="P1624"/>
+    <node name="P189 永樂北藏 (P1629-30)" work="P1629..P1630"/>
   </node>
   <node name="宋藏遺珍">
-    <node name="S06 宋藏遺珍 (46~47 經)" work="S0046..S0047"/>
+    <node name="S06 宋藏遺珍 (S0046-7)" work="S0046..S0047"/>
   </node>
   <node name="洪武南藏">
-    <node name="U205 洪武南藏 (1368 經)" work="U1368"/>
-    <node name="U222 洪武南藏 (1418 經)">
+    <node name="U205 洪武南藏 (U1368)" work="U1368"/>
+    <node name="U222 洪武南藏 (U1418: 卷1-3)">
       <node work="U1418" file="U222n1418" juan="1..3"/>
     </node>
-    <node name="U223 洪武南藏 (1418 經)">
+    <node name="U223 洪武南藏 (U1418: 卷4-20)">
       <node work="U1418" file="U223n1418" juan="4..20"/>
     </node>
   </node>

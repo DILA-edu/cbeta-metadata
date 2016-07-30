@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
 <tree xml:id="Vol-W">
-  <node name="ZW01 藏外佛教文獻第一輯 ( 1~16 經)" work="W0001..W0016"/>
-  <node name="ZW02 藏外佛教文獻第二輯 (17~22 經)" work="W0017..W0022"/>
-  <node name="ZW03 藏外佛教文獻第三輯 (23~32 經)" work="W0023..W0032"/>
-  <node name="ZW04 藏外佛教文獻第四輯 (33~44 經)" work="W0033..W0044"/>
-  <node name="ZW05 藏外佛教文獻第五輯 (45~50 經)" work="W0045..W0050"/>
-  <node name="ZW06 藏外佛教文獻第六輯 (51~57 經)" work="W0051..W0057"/>
-  <node name="ZW07 藏外佛教文獻第七輯 (58~66 經)" work="W0058..W0066"/>
-  <node name="ZW08 藏外佛教文獻第八輯 (67~71 經)" work="W0067..W0071"/>
-  <node name="ZW09 藏外佛教文獻第九輯 (72~77 經)" work="W0072..W0077"/>
+  <node name="ZW01 藏外佛教文獻第一輯 (W0001-16)" work="W0001..W0016"/>
+  <node name="ZW02 藏外佛教文獻第二輯 (W0017-22)" work="W0017..W0022"/>
+  <node name="ZW03 藏外佛教文獻第三輯 (W0023-32)" work="W0023..W0032"/>
+  <node name="ZW04 藏外佛教文獻第四輯 (W0033-44)" work="W0033..W0044"/>
+  <node name="ZW05 藏外佛教文獻第五輯 (W0045-50)" work="W0045..W0050"/>
+  <node name="ZW06 藏外佛教文獻第六輯 (W0051-7)" work="W0051..W0057"/>
+  <node name="ZW07 藏外佛教文獻第七輯 (W0058-66)" work="W0058..W0066"/>
+  <node name="ZW08 藏外佛教文獻第八輯 (W0067-71)" work="W0067..W0071"/>
+  <node name="ZW09 藏外佛教文獻第九輯 (W0072-7)" work="W0072..W0077"/>
 </tree>
