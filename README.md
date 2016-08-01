@@ -37,3 +37,7 @@ CBETA 部類目類、各藏部別目錄、冊別目錄，詳見 [catalog](catalo
 # alternates
 
 卍續藏、嘉興藏 對應至大正藏的典籍。
+
+# 缺字
+
+詳見 [gaiji](gaiji) 資料夾。
