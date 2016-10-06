@@ -1,0 +1,56 @@
+{
+  "C1163": {
+    "title": "一切經音義(第16卷-第25卷)",
+    "byline": "唐 玄應撰",
+    "creators": "玄應",
+    "creators_with_id": "玄應(A000300)"
+  },
+  "C1169": {
+    "title": "紹興重雕大藏音",
+    "byline": "宋 處觀著",
+    "creators": "處觀",
+    "creators_with_id": "處觀(A001143)"
+  },
+  "C1665": {
+    "title": "菩薩名經",
+    "byline": "宋 羅濬集",
+    "creators": "羅濬",
+    "creators_with_id": "羅濬(A001905)"
+  },
+  "C1679": {
+    "title": "御製佛賦",
+    "byline": "宋 趙炅撰",
+    "creators": "趙炅",
+    "creators_with_id": "趙炅(A001640)"
+  },
+  "C1680": {
+    "title": "御製詮源歌",
+    "byline": "宋 趙炅撰",
+    "creators": "趙炅",
+    "creators_with_id": "趙炅(A001640)"
+  },
+  "C1710": {
+    "title": "古尊宿語錄",
+    "byline": "宋 頤藏主集　明 淨戒重校",
+    "creators": "頤藏,淨戒",
+    "creators_with_id": "頤藏(A001893);淨戒(A001101)"
+  },
+  "C1720": {
+    "title": "禪宗頌古聯珠通集",
+    "byline": "宋 法應集　元 普會續集　明 淨戒重校",
+    "creators": "法應,普會,淨戒",
+    "creators_with_id": "法應(A000742);普會(A001226);淨戒(A001101)"
+  },
+  "C1821": {
+    "title": "楞伽經纂",
+    "byline": "劉宋 求那跋陀羅譯經　宋 楊彥國詮註",
+    "creators": "求那跋陀羅,楊彥國",
+    "creators_with_id": "求那跋陀羅(A000527);楊彥國(A001442)"
+  },
+  "C1937": {
+    "title": "大明重刊三藏聖教目錄",
+    "byline": "明 雙徑山僧眾編",
+    "creators": "雙徑山僧眾",
+    "creators_with_id": "雙徑山僧眾(A001890)"
+  }
+}
