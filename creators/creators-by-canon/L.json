@@ -25,7 +25,7 @@
   },
   "L1608": {
     "title": "大藏聖教法寶標目",
-    "byline": "元 王古撰",
+    "byline": "宋 王古撰",
     "creators": "王古",
     "creators_with_id": "王古(A009477)"
   },
@@ -49,9 +49,9 @@
   },
   "L1637": {
     "title": "幻有傳禪師語錄",
-    "byline": "明 正傅說 圓悟．圓修等編",
-    "creators": "正傅,圓悟,圓修",
-    "creators_with_id": "正傅(A000273);圓悟(A003688);圓修(A001410)"
+    "byline": "明 正傳說 圓悟．圓修等編",
+    "creators": "正傳,圓悟,圓修",
+    "creators_with_id": "正傳(A000273);圓悟(A003688);圓修(A001410)"
   },
   "L1638": {
     "title": "雪嶠信禪師語錄(第7卷-第10卷)",
@@ -115,14 +115,14 @@
   },
   "L1668": {
     "title": "御錄宗鏡大綱",
-    "byline": "清 胤禎錄",
-    "creators": "清 胤禎錄",
-    "creators_with_id": "胤禎(A000212)"
+    "byline": "清 胤禛錄",
+    "creators": "胤禛",
+    "creators_with_id": "胤禛(A000212)"
   },
   "L1669": {
     "title": "御錄經海一滴",
-    "byline": "清 胤禎錄",
-    "creators": "清 胤禎錄",
-    "creators_with_id": "胤禎(A000212)"
+    "byline": "清 胤禛錄",
+    "creators": "胤禛",
+    "creators_with_id": "胤禛(A000212)"
   }
 }
