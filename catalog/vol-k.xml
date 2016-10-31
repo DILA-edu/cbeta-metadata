@@ -6,7 +6,7 @@
   <node name="K34 高麗藏 (K1257: 1-12卷)">
     <node work="K1257" file="K34n1257" juan="1..12"/>
   </node>
-  <node name="K35 高麗藏 (K1257-61)" work="K1257..K1261">
+  <node name="K35 高麗藏 (K1257-61)">
     <node work="K1257" file="K35n1257" juan="13..30"/>
     <node work="K1258..K1261"/>
   </node>
