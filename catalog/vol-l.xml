@@ -11,13 +11,13 @@
     <node work="L1557" file="L130n1557" juan="1..17"/>
   </node>
   <node name="L131 乾隆藏 (L1557: 17-34卷)">
-    <node work="L1557" file="L131n1557" juan="17..34"/>
+    <node work="L1557" file="L131n1557" juan="17..34" lb="L131n1557_p0001a01"/>
   </node>
   <node name="L132 乾隆藏 (L1557: 34-51卷)">
-    <node work="L1557" file="L132n1557" juan="34..51"/>
+    <node work="L1557" file="L132n1557" juan="34..51" lb="L132n1557_p0001a01"/>
   </node>
   <node name="L133 乾隆藏 (L1557: 51-80卷)">
-    <node work="L1557" file="L133n1557" juan="51..80"/>
+    <node work="L1557" file="L133n1557" juan="51..80" lb="L133n1557_p0001a01"/>
   </node>
   <node name="L135 乾隆藏 (L1571)" work="L1571"/>
   <node name="L141 乾隆藏 (L1600)" work="L1600"/>

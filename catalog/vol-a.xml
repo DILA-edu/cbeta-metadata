@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tree xml:id="Vol-A">
   <node name="A091 金藏 (A1066)" work="A1066"/>
-  <node name="A097 金藏 (A1276)" work="A1276">
+  <node name="A097 金藏 (A1276)">
     <node work="A1276" file="A097n1276" juan="3..4"/>
   </node>
-  <node name="A098 金藏 (A1276)" work="A1276">
+  <node name="A098 金藏 (A1276)">
     <node work="A1276" file="A098n1276" juan="5..20"/>
   </node>
   <node name="A110 金藏 (A1499)" work="A1499"/>

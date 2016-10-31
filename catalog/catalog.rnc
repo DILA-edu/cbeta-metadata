@@ -12,5 +12,6 @@ node = element node {
   attribute name { text }?,
   attribute work { text }?,
   attribute file { text }?,
-  attribute juan { text }?
+  attribute juan { text }?,
+  attribute lb { text }?
 }

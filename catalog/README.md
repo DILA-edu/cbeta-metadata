@@ -68,7 +68,6 @@ file 屬性：指出對應典籍的 XML 檔主檔名
 
 	<node work="T0220" file="T05n0220a" juan="1..200"/>
 
-
 ## 典籍跨冊
 
 例如 JB271 跨 J31..J32:
@@ -81,4 +80,17 @@ file 屬性：指出對應典籍的 XML 檔主檔名
       <node work="JB271" file="J32nB271" juan="6"/>
       <node work="JB272..JB276"/>
       <node work="JB277" file="J32nB277"/>
+    </node>
+
+## 卷跨冊
+
+例如 L1557 卷17 跨 L130, L131 兩冊，
+這一卷雖然跨兩冊，但回傳卷17的 HTML 時會包含跨冊的全部卷17,
+所以在 L131 的冊目錄要跳到卷17時要指定行號:
+
+    <node name="L130 乾隆藏 (L1557: 1-17卷)">
+      <node work="L1557" file="L130n1557" juan="1..17"/>
+    </node>
+    <node name="L131 乾隆藏 (L1557: 17-34卷)">
+      <node work="L1557" file="L131n1557" juan="17..34" lb="L131n1557_p0001a01"/>
     </node>
