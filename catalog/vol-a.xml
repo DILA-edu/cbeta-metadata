@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tree xml:id="Vol-A">
+<?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
+<tree xml:id="Vol-A" title="趙城金藏">
   <node name="A091 金藏 (A1066)" work="A1066"/>
   <node name="A097 金藏 (A1276)">
     <node work="A1276" file="A097n1276" juan="3..4"/>

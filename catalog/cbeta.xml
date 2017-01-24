@@ -699,7 +699,7 @@
         <node name="T1211-13 軍荼利法" work="T1211..T1213"/>        
         <node name="T1214-19 大威德法" work="T1214..T1219"/>        
         <node name="T1220-21 金剛藥叉法" work="T1220..T1221"/>        
-        <node name="T1222-24 金剛童子菩薩儀軌" work="T1222..T1224"/>        
+        <node name="T1222-24 金剛童子菩薩儀軌" work="T1222a..T1224"/>        
         <node name="T1225-27 烏樞瑟摩法" work="T1225..T1227"/>        
         <node name="T1228-29 穢跡金剛法" work="T1228..T1229"/>        
         <node name="T1230-32 大輪金剛法" work="T1230..T1232"/>        
@@ -961,7 +961,7 @@
         <node work="T2801..T2803"/>
         <node work="X0704"/>
         <node work="X0794"/>
-        <node work="A1565a..A1565b"/>
+        <node work="A1565"/>
       </node>
       <node name="T1585-87,1618 成唯識論／疏 T43,85, X48-51">
         <node work="T1585..T1587"/>
@@ -1107,7 +1107,7 @@
       </node>
       <node name="T2813-15 起信論古逸疏 T85" work="T2813..T2815"/>
     </node>
-    <node name="T1670-92 其他 T32" work="T1670..T1692"/>
+    <node name="T1670-92 其他 T32" work="T1670A..T1692"/>
   </node>
   <node name="16 淨土宗部類 T11-12a,26a,37,40b,47,85, X01-02,16,22,61-62,74">
     <node name="T0310 etc. 淨土經 T11-12, X01-02,16／論 T26a／疏 T37,40b,85, X22">

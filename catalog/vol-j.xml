@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tree xml:id="Vol-J">
+<?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
+<tree xml:id="Vol-J" title="嘉興藏">
   <node name="J01 嘉興藏 (JA001-42)" work="JA001..JA042"/>
   <node name="J02 嘉興藏 (JA043-8)" work="JA043..JA048"/>
   <node name="J03 嘉興藏 (JA049-80)" work="JA049..JA080"/>
@@ -24,7 +25,7 @@
   </node>
   <node name="J13 嘉興藏 (JB002)">
     <node name="JB002 (=X0223) 大方廣佛新華嚴經合論 (120卷)" work="X0223"/>
-  </note>
+  </node>
   <node name="J14 嘉興藏 (JB003)">
     <node name="JB003 (=X0240) 大方廣佛華嚴經綱要 (80卷)" work="X0240"/>
   </node>

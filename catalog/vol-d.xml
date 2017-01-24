@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tree xml:id="Vol-D">
+<?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
+<tree xml:id="Vol-D" title="國圖善本">
   <node name="D01 國圖善本-佛說佛名經（存卷四）　　　　　　(D8679)" work="D8679"/>
   <node name="D02 國圖善本-佛說佛名經（存卷七）　　　　　　(D8680)" work="D8680"/>
   <node name="D03 國圖善本-盂蘭盆經講經文（前殘）　　　　　(D8701)" work="D8701"/>

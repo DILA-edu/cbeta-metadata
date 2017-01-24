@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
-<tree xml:id="Vol-GB">
+<tree xml:id="Vol-GB" title="中國佛寺志叢刊">
   <node name="GB078 中國佛寺志叢刊" work="GB0109"/>
 </tree>

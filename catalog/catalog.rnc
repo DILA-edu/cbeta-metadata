@@ -4,7 +4,8 @@ start = tree
 
 tree = element tree { 
   node*,
-  attribute xml:id { xsd:ID }
+  attribute xml:id { xsd:ID },
+  attribute title { text }
 }
 
 node = element node { 

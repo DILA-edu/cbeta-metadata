@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tree xml:id="Vol-X">
+<?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
+<tree xml:id="Vol-X" title="新纂卍續藏">
   <node name="X01 經部、律部 (X0001-51)" work="X0001..X0051"/>
   <node name="X02 論集部、密經儀軌部 (X0052-207)" work="X0052..X0207"/>
   <node name="X03 大小乘釋經部一 (X0208-21)" work="X0208..X0221"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
-<tree xml:id="Vol-GA">
+<tree xml:id="Vol-GA" title="中國佛寺史志彙刊">
   <node name="GA009 中國佛寺史志彙刊 (GA0008)" work="GA0008"/>
   <node name="GA010 中國佛寺史志彙刊 (GA0009)" work="GA0009"/>
   <node name="GA011 中國佛寺史志彙刊 (GA0010: 1-8卷)">

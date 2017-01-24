@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
-<tree xml:id="Vol-P">
+<tree xml:id="Vol-P" title="永樂北藏">
   <node name="P154 永樂北藏 (P1519: 1-12卷)">
     <node work="P1519" file="P154n1519" juan="1..12"/>
   </node>

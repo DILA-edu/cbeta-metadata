@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
 <!-- 南傳大正經 冊別目錄 -->
-<tree xml:id="Vol-N">
+<tree xml:id="Vol-N" title="漢譯南傳大藏經">
   <node name="N01 律藏一　經分別一">
     <node name="N0001 經分別一" work="N0001" juan="1..4"/>
   </node>

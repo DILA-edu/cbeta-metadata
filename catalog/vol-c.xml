@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
-<tree xml:id="Vol-C">
+<tree xml:id="Vol-C" title="中華藏">
   <node name="C056 中華藏 (C1163)">
     <node work="C1163" file="C056n1163" juan="1..15"/>
   </node>

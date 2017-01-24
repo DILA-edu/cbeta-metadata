@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tree xml:id="Vol-B">
+<?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
+<tree xml:id="Vol-B" title="大藏經補編">
   <node name="B01 大藏經補編 (B0001: 1-9卷)">
     <node work="B0001" file="B01n0001" juan="1..9"/>
   </node>

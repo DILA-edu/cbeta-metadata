@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
-<tree xml:id="Vol-ZW">
+<tree xml:id="Vol-ZW" title="藏外佛教文獻">
   <node name="ZW01 藏外佛教文獻第一輯 (ZW0001-16)" work="ZW0001..ZW0016"/>
   <node name="ZW02 藏外佛教文獻第二輯 (ZW0017-22)" work="ZW0017..ZW0022"/>
   <node name="ZW03 藏外佛教文獻第三輯 (ZW0023-32)" work="ZW0023..ZW0032"/>

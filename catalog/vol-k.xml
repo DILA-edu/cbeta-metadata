@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
-<tree xml:id="Vol-K">
+<tree xml:id="Vol-K" title="高麗藏">
   <node name="K05 高麗藏 (K0016)" work="K0016"/>
   <node name="K32 高麗藏 (K1064)" work="K1064"/>
   <node name="K34 高麗藏 (K1257: 1-12卷)">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
-<tree xml:id="Vol-G">
+<tree xml:id="Vol-G" title="佛教大藏經">
   <node name="G052 佛教大藏經 (G1222)" work="G1222"/>
   <node name="G069 佛教大藏經 (G1977)" work="G1977"/>
   <node name="G083 佛教大藏經 (G2073,2075)" work="G2073,G2075"/>

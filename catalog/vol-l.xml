@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
-<tree xml:id="Vol-L">
+<tree xml:id="Vol-L" title="乾隆藏">
   <node name="L115 乾隆藏 (L1490: 1-3卷)">
     <node work="L1490" file="L115n1490" juan="1..3"/>
   </node>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tree xml:id="Vol-T">
+<?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
+<tree xml:id="Vol-T" title="大正藏">
   <node name="T01 阿含部上 (T0001-98)" work="T0001..T0098"/>
   <node name="T02 阿含部下 (T0099-151)" work="T0099..T0151"/>
   <node name="T03 本緣部上 (T0152-91)" work="T0152..T0191"/>
