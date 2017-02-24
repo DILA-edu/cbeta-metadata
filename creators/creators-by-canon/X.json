@@ -6,6 +6,7 @@
     "title": "無量壽經會譯",
     "byline": "清 魏源會",
     "creators": "魏源"
+	"creators_with_id": "魏源(A001891)"
   },
   "X0006": {
     "title": "阿彌陀經異本"
@@ -14,6 +15,7 @@
     "title": "楞伽阿跋多羅寶經會譯",
     "byline": "明 員珂會",
     "creators": "員珂"
+	"creators_with_id": "員珂(A000901)"
   },
   "X0010": {
     "title": "大明仁孝皇后夢感佛說第一希有大功德經"
@@ -22,6 +24,7 @@
     "title": "佛說無量壽佛名號利益大事因緣經",
     "byline": "曹魏 康僧鎧",
     "creators": "康僧鎧"
+	"creators_with_id": "康僧鎧(A000899)"
   },
   "X0012": {
     "title": "觀世音菩薩往生淨土本緣經",
@@ -41,6 +44,7 @@
     "title": "佛說長壽滅罪護諸童子陀羅尼經",
     "byline": "唐 佛陀波利",
     "creators": "佛陀波利"
+	"creators_with_id": "佛陀波利(A000438)"
   },
   "X0019": {
     "title": "佛說斷溫經"
@@ -49,11 +53,13 @@
     "title": "佛說地藏菩薩發心因緣十王經",
     "byline": "唐 藏川述",
     "creators": "藏川"
+	"creators_with_id": "藏川(A001885)"
   },
   "X0021": {
     "title": "佛說預修十王生七經",
     "byline": "唐 藏川述",
     "creators": "藏川"
+	"creators_with_id": "藏川(A001885)"
   },
   "X0023": {
     "title": "大藏正教血盆經"
@@ -74,6 +80,7 @@
     "title": "造像量度經",
     "byline": "清 工布查布",
     "creators": "工布查布"
+	"creators_with_id": "工布查布(A000091)"
   },
   "X0034": {
     "title": "觀世音菩薩救苦經"
@@ -82,51 +89,61 @@
     "title": "十二禮",
     "byline": "龍樹菩薩造　禪那崛多別",
     "creators": "龍樹菩薩,禪那崛多別"
+	"creators_with_id": "龍樹菩薩(A001482);禪那崛多別(A001860)"
   },
   "X0181": {
     "title": "大聖妙吉祥菩薩最勝威德祕密八字陀羅尼修行念誦儀軌次第法",
     "byline": "義雲法金剛．菩提仙同",
     "creators": "義雲法金剛,菩提仙"
+	"creators_with_id": "義雲法金剛(A001473);菩提仙(A001355)"
   },
   "X0182": {
     "title": "正了知王藥叉眷屬法",
     "byline": "唐 義淨",
     "creators": "義淨"
+	"creators_with_id": "義淨(A001470)"
   },
   "X0183": {
     "title": "二十八夜叉大軍王名號",
     "byline": "梁 僧伽婆羅譯抄之",
     "creators": "僧伽婆羅"
+	"creators_with_id": "僧伽婆羅(A001588)"
   },
   "X0184": {
     "title": "二十八藥叉大將名號",
     "byline": "唐 不空譯抄之",
     "creators": "不空"
+	"creators_with_id":"不空(A000095)"
   },
   "X0185": {
     "title": "權現金色迦那婆底九目天法",
     "byline": "唐 菩提留支",
     "creators": "菩提留支"
+	"creators_with_id":"菩提留支(A001358)"
   },
   "X0188": {
     "title": "祕密要術法",
     "byline": "唐 阿謨伽",
     "creators": "阿謨伽"
+	"creators_with_id":"阿謨伽(A000095)"
   },
   "X0190": {
     "title": "阿迦陀密一印千類千轉三使者成就經法",
     "byline": "唐 不空",
     "creators": "不空"
+	"creators_with_id":"不空(A000095)"
   },
   "X0191": {
     "title": "七俱胝准提陀羅尼念誦儀軌",
     "byline": "唐 不空",
     "creators": "不空"
+	"creators_with_id":"不空(A000095)"
   },
   "X0192": {
     "title": "佛說如意虗空藏菩薩陀羅尼經",
     "byline": "唐 菩提留支",
     "creators": "菩提留支"
+	"creators_with_id":"菩提留支(A001358)"
   },
   "X0193": {
     "title": "佛說却溫黃神咒經"
@@ -135,11 +152,13 @@
     "title": "五大牛玉雨寶陀羅尼儀軌",
     "byline": "縛日羅枳惹曩",
     "creators": "縛日羅枳惹曩"
+	"creators_with_id":"縛日羅枳惹曩(A001816)"
   },
   "X0202": {
     "title": "佛說大如意寶珠輪牛王守護神咒經",
     "byline": "阿謨伽三藏",
     "creators": "阿謨伽三藏"
+	"creators_with_id":"阿謨伽三藏(A000095)"
   },
   "X0203": {
     "title": "作世水宅心陀羅尼"
@@ -148,361 +167,433 @@
     "title": "妙法蓮華三昧祕密三摩耶經",
     "byline": "唐 不空",
     "creators": "不空"
+	"creators_with_id":"不空(A000095)"
   },
   "X0205": {
     "title": "佛說阿彌陀佛根本祕密神咒經",
     "byline": "曹魏 菩提流支",
     "creators": "菩提流支"
+	"creators_with_id":"菩提流支(A001357)"
   },
   "X0206": {
     "title": "馬鳴菩薩成就悉地念誦",
     "byline": "唐 不空",
     "creators": "不空"
+	"creators_with_id":"不空(A000095)"
   },
   "X0207": {
     "title": "十六大羅漢因果識見頌",
     "byline": "唐 闍那多迦",
     "creators": "闍那多迦"
+	"creators_with_id":"闍那多迦(A001841)"
   },
   "X0208": {
     "title": "華嚴經論〔卷十〕",
     "byline": "後魏 靈辨造",
     "creators": "靈辨"
+	"creators_with_id":"靈辨(A001986)"
   },
   "X0211": {
     "title": "華嚴經文義記〔卷六〕",
-    "byline": "唐 靈裕集記",
+    "byline": "隋 靈裕集記",
     "creators": "靈裕"
+	"creators_with_id":"靈裕(A005283)"
   },
   "X0218": {
     "title": "華嚴經入法界品十八問答",
     "byline": "唐 澄觀述",
     "creators": "澄觀"
+	"creators_with_id":"澄觀(A001755)"
   },
   "X0220": {
     "title": "華嚴經綸貫",
     "byline": "宋 復菴述",
     "creators": "復菴"
+	"creators_with_id":"復菴(A012664)"
   },
   "X0221": {
     "title": "續華嚴經略疏刊定記",
     "byline": "唐 慧苑述",
     "creators": "慧苑"
+	"creators_with_id":"慧苑(A001713)"
   },
   "X0223": {
     "title": "華嚴經合論",
     "byline": "唐 李通玄造論　志寧釐經合論",
     "creators": "李通玄,志寧"
+	"creators_with_id":"李通玄(A000517);志寧(A000499)"
   },
   "X0225": {
     "title": "華嚴經合論簡要",
     "byline": "明 李贄簡要",
     "creators": "李贄"
+	"creators_with_id":"李贄(A009892)"
   },
   "X0226": {
     "title": "華嚴經合論纂要",
     "byline": "明 方澤纂",
     "creators": "方澤"
+	"creators_with_id":"方澤(A000190)"
   },
   "X0227": {
     "title": "華嚴經行願品疏",
     "byline": "唐 澄觀述",
     "creators": "澄觀"
+	"creators_with_id":"澄觀(A001755)"
   },
   "X0228": {
     "title": "華嚴經行願品疏科",
     "byline": "唐 宗密撰集",
     "creators": "宗密"
+	"creators_with_id":"宗密(A000587)"
   },
   "X0229": {
     "title": "華嚴經行願品疏鈔",
     "byline": "唐 澄觀別行疏　宗密隨疏鈔",
     "creators": "澄觀,宗密"
+	"creators_with_id":"澄觀(A001755);宗密(A000587)"
   },
   "X0230": {
     "title": "華嚴經普賢行願品疏科",
     "byline": "宋 遵式治定",
     "creators": "遵式"
+	"creators_with_id":"遵式(A014878)"
   },
   "X0231": {
     "title": "華嚴經疏科文",
     "byline": "唐 澄觀排定",
     "creators": "澄觀"
+	"creators_with_id":"澄觀(A001755)"
   },
   "X0232": {
     "title": "華嚴經疏鈔玄談",
     "byline": "唐 澄觀撰述",
     "creators": "澄觀"
+	"creators_with_id":"澄觀(A001755)"
   },
   "X0234": {
     "title": "華嚴經疏注",
     "byline": "唐 澄觀述　宋 淨源錄疏注經",
     "creators": "澄觀,淨源"
+	"creators_with_id":"澄觀(A001755);淨源(A001113)"
   },
   "X0235": {
     "title": "華嚴經談玄抉擇",
     "byline": "遼 鮮演述",
     "creators": "鮮演"
+	"creators_with_id":"鮮演(A001875)"
   },
   "X0236": {
     "title": "華嚴懸談會玄記",
     "byline": "元 普瑞集",
     "creators": "普瑞"
+	"creators_with_id":"普瑞(A001228)"
   },
   "X0237": {
     "title": "華嚴經文義要決問答",
     "byline": "新羅 表員集",
     "creators": "表員"
+	"creators_with_id":"表員(A000770)"
   },
   "X0238": {
     "title": "華嚴經要解",
     "byline": "宋 戒環集",
     "creators": "戒環"
+	"creators_with_id":"戒環(A000514)"
   },
   "X0239": {
     "title": "華嚴經吞海集",
     "byline": "宋 道通述",
     "creators": "道通"
+	"creators_with_id":"道通(A012731)"
   },
   "X0240": {
     "title": "華嚴綱要(第1卷-第44卷)",
     "byline": "唐 澄觀疏義　明 德清提挈",
     "creators": "澄觀,德清"
+	"creators_with_id":"澄觀(A001755);德清(A001681)"
   },
   "X0241": {
     "title": "華嚴經綱目貫攝",
     "byline": "清 永光錄集",
     "creators": "永光"
+	"creators_with_id":"永光(A000281)"
   },
   "X0242": {
     "title": "華嚴經三十九品大意",
     "byline": "清 永光敬錄",
     "creators": "永光"
+	"creators_with_id":"永光(A000281)"
   },
   "X0243": {
     "title": "圓覺經大疏",
     "byline": "唐 宗密述",
     "creators": "宗密"
+	"creators_with_id":"宗密(A000587)"
   },
   "X0244": {
     "title": "圓覺經大疏鈔科",
     "byline": "唐 宗密製",
     "creators": "宗密"
+	"creators_with_id":"宗密(A000587)"
   },
   "X0245": {
     "title": "圓覺經大疏釋義鈔",
     "byline": "唐 宗密撰",
     "creators": "宗密"
+	"creators_with_id":"宗密(A000587)"
   },
   "X0246": {
     "title": "圓覺經略疏科",
     "byline": "唐 宗密製",
     "creators": "宗密"
+	"creators_with_id":"宗密(A000587)"
   },
   "X0248": {
     "title": "圓覺經略疏鈔",
     "byline": "唐 宗密(於大疏略出)",
     "creators": "宗密"
+	"creators_with_id":"宗密(A000587)"
   },
   "X0249": {
     "title": "圓覺經鈔辨疑誤",
     "byline": "宋 觀復撰",
     "creators": "觀復"
+	"creators_with_id":"觀復(A001991)"
   },
   "X0250": {
     "title": "圓覺經疏鈔隨文要解",
     "byline": "元 清遠述",
     "creators": "清遠"
+	"creators_with_id":"清遠(A001093)"
   },
   "X0251": {
     "title": "御註圓覺經",
     "byline": "宋 孝宗帝註",
-    "creators": "宋孝宗帝"
+    "creators": "宋孝宗"
+	"creators_with_id":"宋孝宗(A000480)"
   },
   "X0252": {
     "title": "圓覺經類解",
     "byline": "宋 行霆解",
     "creators": "行霆"
+	"creators_with_id":"行霆(A000424)"
   },
   "X0253": {
     "title": "圓覺經夾頌集解講義",
     "byline": "宋 周琪述",
     "creators": "周琪"
+	"creators_with_id":"周琪(A000561)"
   },
   "X0254": {
     "title": "圓覺經心鏡",
     "byline": "宋 智聰述",
     "creators": "智聰"
+	"creators_with_id":"智聰(A001298)"
   },
   "X0255": {
     "title": "圓覺經序注",
     "byline": "宋 如山註序",
     "creators": "如山"
+	"creators_with_id":"如山(A000335)"
   },
   "X0256": {
     "title": "圓覺經略疏序注",
     "byline": "宋 如山注",
     "creators": "如山"
+	"creators_with_id":"如山(A000335)"
   },
   "X0257": {
     "title": "圓覺經集註",
     "byline": "宋 元粹述",
     "creators": "元粹"
+	"creators_with_id":"元粹(A000132)"
   },
   "X0258": {
     "title": "圓覺經直解",
     "byline": "明 德清解",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0259": {
     "title": "圓覺經近釋",
     "byline": "明 通潤述",
     "creators": "通潤"
+	"creators_with_id":"通潤(A001156)"
   },
   "X0260": {
     "title": "圓覺經要解",
     "byline": "明 寂正要解",
     "creators": "寂正"
+	"creators_with_id":"寂正(A001027)"
   },
   "X0261": {
     "title": "圓覺經精解評林",
     "byline": "明 焦竑纂",
     "creators": "焦竑"
+	"creators_with_id":"焦竑(A001310)"
   },
   "X0262": {
     "title": "圓覺經句釋正白",
     "byline": "清 弘麗著",
     "creators": "弘麗"
+	"creators_with_id":"弘麗(A000245)"
   },
   "X0263": {
     "title": "圓覺經析義疏",
     "byline": "清 通理述",
     "creators": "通理"
+	"creators_with_id":"通理(A001152)"
   },
   "X0264": {
     "title": "大寶積經述",
     "byline": "唐 徐鍔撰",
     "creators": "徐鍔"
+	"creators_with_id":"徐鍔(A000925)"
   },
   "X0265": {
     "title": "楞嚴經義疏注經科",
     "byline": "宋 子璿述",
     "creators": "子璿"
+	"creators_with_id":"子璿(A000085)"
   },
   "X0267": {
     "title": "楞嚴經義疏釋要鈔",
     "byline": "宋 懷遠錄",
     "creators": "懷遠"
+	"creators_with_id":"懷遠(A001902)"
   },
   "X0268": {
     "title": "楞嚴經集註",
     "byline": "宋 思坦集註",
     "creators": "思坦"
+	"creators_with_id":"思坦(A000832)"
   },
   "X0269": {
     "title": "楞嚴經熏聞記",
     "byline": "宋 仁岳述",
     "creators": "仁岳"
+	"creators_with_id":"仁岳(A000106)"
   },
   "X0270": {
     "title": "楞嚴經要解",
     "byline": "宋 戒環解",
     "creators": "戒環"
+	"creators_with_id":"戒環(A000514)"
   },
   "X0271": {
     "title": "楞嚴經箋",
     "byline": "宋 惟慤科　可度箋",
     "creators": "惟慤,可度"
+	"creators_with_id":"惟慤(A008962);可度(A000221)"
   },
   "X0272": {
     "title": "楞嚴經合論",
     "byline": "宋 德洪造論　正受會合",
     "creators": "德洪,正受"
+	"creators_with_id":"德洪(A001673);正受(A000264)"
   },
   "X0273": {
     "title": "楞嚴經正脉疏科",
     "byline": "明 真鑑作",
     "creators": "真鑑"
+	"creators_with_id":"真鑑(A000967)"
   },
   "X0274": {
     "title": "楞嚴經正脉疏懸示",
     "byline": "明 真鑑述",
     "creators": "真鑑"
+	"creators_with_id":"真鑑(A000967)"
   },
   "X0275": {
     "title": "楞嚴經正脉疏",
     "byline": "明 真鑑述",
     "creators": "真鑑"
+	"creators_with_id":"真鑑(A000967)"
   },
   "X0276": {
     "title": "楞嚴經摸象記",
     "byline": "明 袾宏述",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X0277": {
     "title": "楞嚴經懸鏡",
     "byline": "明 德清述",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0278": {
     "title": "楞嚴經通議略科",
     "byline": "明 德清排訂",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0279": {
     "title": "楞嚴經通議",
     "byline": "明 德清述",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0280": {
     "title": "楞嚴經臆說",
     "byline": "明 圓澄註",
     "creators": "圓澄"
+	"creators_with_id":"圓澄(A005648)"
   },
   "X0281": {
     "title": "楞嚴經圓通疏",
     "byline": "元 惟則會解　明 傳燈疏",
     "creators": "惟則,傳燈"
+	"creators_with_id":"惟則(A001064);傳燈(A007274)"
   },
   "X0282": {
     "title": "楞嚴經玄義",
     "byline": "明 傳燈述",
     "creators": "傳燈"
+	"creators_with_id":"傳燈(A007274)"
   },
   "X0283": {
     "title": "楞嚴經秘錄",
     "byline": "明 一松說　靈述記",
     "creators": "一松,靈述"
+	"creators_with_id":"一松(A000012);靈述(A001982)"
   },
   "X0284": {
     "title": "楞嚴經玄義",
     "byline": "明 智旭撰述　道昉參訂",
     "creators": "智旭,道昉"
+	"creators_with_id": "智旭(A001257);道昉(A001515)"
   },
   "X0285": {
     "title": "楞嚴經文句",
     "byline": "明 智旭撰述　道昉參訂",
     "creators": "智旭,道昉"
+	"creators_with_id":"智旭(A001257);道昉(A001515)"
   },
   "X0286": {
     "title": "楞嚴經如說",
     "byline": "明 鍾惺撰",
     "creators": "鍾惺"
+	"creators_with_id":"鍾惺(A001872)"
   },
   "X0287": {
     "title": "楞嚴經疏解蒙鈔",
     "byline": "明 錢謙益鈔",
     "creators": "錢謙益"
+	"creators_with_id":"錢謙益(A001834)"
   },
   "X0288": {
     "title": "楞嚴經證疏廣解",
     "byline": "明 凌弘憲點釋",
     "creators": "凌弘憲"
+	"creators_with_id":"凌弘憲(A000897)"
   },
   "X0289": {
     "title": "楞嚴經合轍",
     "byline": "明 通潤述",
     "creators": "通潤"
+	"creators_with_id":"通潤(A001156)"
   },
   "X0290": {
     "title": "楞嚴經直指科文"
@@ -511,146 +602,175 @@
     "title": "楞嚴經直指",
     "byline": "明 圅昰疏",
     "creators": "圅昰"
+	"creators_with_id":"圅昰(A010057)"
   },
   "X0292": {
     "title": "楞嚴經擊節",
     "byline": "明 大韶撰",
     "creators": "大韶"
+	"creators_with_id":"大韶(A000065)"
   },
   "X0293": {
     "title": "楞嚴經懸談",
     "byline": "明 觀衡撰",
     "creators": "觀衡"
+	"creators_with_id":"觀衡(A001993)"
   },
   "X0294": {
     "title": "楞嚴經說約",
     "byline": "明 陸西星述",
     "creators": "陸西星"
+	"creators_with_id":"陸西星(A001168)"
   },
   "X0295": {
     "title": "楞嚴經述旨",
     "byline": "明 陸西星述",
     "creators": "陸西星"
+	"creators_with_id":"陸西星(A001168)"
   },
   "X0296": {
     "title": "楞嚴經截流",
     "byline": "明 傳如述",
     "creators": "傳如"
+	"creators_with_id":"傳如(A001395)"
   },
   "X0297": {
     "title": "楞嚴經圓通疏前茅",
     "byline": "明 傳燈述",
     "creators": "傳燈"
+	"creators_with_id":"傳燈(A007274)"
   },
   "X0298": {
     "title": "楞嚴經直解",
     "byline": "明 廣莫直解",
     "creators": "廣莫"
+	"creators_with_id":"廣莫(A001663)"
   },
   "X0299": {
     "title": "楞嚴經講錄",
     "byline": "明 乘旹講錄",
     "creators": "乘旹"
+	"creators_with_id":"乘旹(A000893)"
   },
   "X0300": {
     "title": "楞嚴經纂註",
     "byline": "明 真界纂註",
     "creators": "真界"
+	"creators_with_id":"真界(A000948)"
   },
   "X0301": {
     "title": "楞嚴經精解評林",
     "byline": "明 焦竑纂",
     "creators": "焦竑"
+	"creators_with_id":"焦竑(A001310)"
   },
   "X0302": {
     "title": "楞嚴經略疏",
     "byline": "明 元賢述",
     "creators": "元賢"
+	"creators_with_id":"元賢(A000135)"
   },
   "X0303": {
     "title": "楞嚴經貫攝",
     "byline": "清 劉道開纂述",
     "creators": "劉道開"
+	"creators_with_id":"劉道開(A001649)"
   },
   "X0304": {
     "title": "楞嚴經觀心定解科",
     "byline": "清 靈耀述",
     "creators": "靈耀"
+	"creators_with_id":"靈耀(A001987)"
   },
   "X0305": {
     "title": "楞嚴經觀心定解大綱",
     "byline": "清 靈耀述",
     "creators": "靈耀"
+	"creators_with_id":"靈耀(A001987)"
   },
   "X0306": {
     "title": "楞嚴經觀心定解",
     "byline": "清 靈耀述",
     "creators": "靈耀"
+	"creators_with_id":"靈耀(A001987)"
   },
   "X0307": {
     "title": "楞嚴經指掌疏懸示",
     "byline": "清 通理述",
     "creators": "通理"
+	"creators_with_id":"通理(A001152)"
   },
   "X0308": {
     "title": "楞嚴經指掌疏",
     "byline": "清 通理述",
     "creators": "通理"
+	"creators_with_id":"通理(A001152)"
   },
   "X0309": {
     "title": "楞嚴經指掌疏事義",
     "byline": "清 通理述",
     "creators": "通理"
+	"creators_with_id":"通理(A001152)"
   },
   "X0310": {
     "title": "楞嚴經勢至圓通章科解",
     "byline": "明 正相解",
     "creators": "正相"
+	"creators_with_id":"正相(A000267)"
   },
   "X0311": {
     "title": "楞嚴經勢至圓通章疏鈔",
     "byline": "清 續法集",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X0312": {
     "title": "楞嚴經勢至圓通章解",
     "byline": "清 行策撰",
     "creators": "行策"
+	"creators_with_id":"行策(A000421)"
   },
   "X0313": {
     "title": "楞嚴經序指味疏",
     "byline": "清 諦閑述",
     "creators": "諦閑"
+	"creators_with_id":"諦閑(A001825)"
   },
   "X0314": {
     "title": "楞嚴經寶鏡疏科文",
     "byline": "清 溥畹撰",
     "creators": "溥畹"
+	"creators_with_id":"溥畹(A001452)"
   },
   "X0315": {
     "title": "楞嚴經寶鏡疏懸談",
     "byline": "清 溥畹述",
     "creators": "溥畹"
+	"creators_with_id":"溥畹(A001452)"
   },
   "X0316": {
     "title": "楞嚴經寶鏡疏",
     "byline": "清 溥畹述",
     "creators": "溥畹"
+	"creators_with_id":"溥畹(A001452)"
   },
   "X0317": {
     "title": "楞嚴經正見",
     "byline": "清 濟時述",
     "creators": "濟時"
+	"creators_with_id":"濟時(A001855)"
   },
   "X0318": {
     "title": "楞嚴經宗通",
     "byline": "明 曾鳳儀宗通",
     "creators": "曾鳳儀"
+	"creators_with_id":"曾鳳儀(A001305)"
   },
   "X0321": {
     "title": "楞伽經註",
     "byline": "唐 智嚴註",
     "creators": "智嚴"
+	"creators_with_id":"智嚴(A006310)"
   },
   "X0322": {
     "title": "楞伽經疏"
@@ -659,91 +779,109 @@
     "title": "楞伽經通義",
     "byline": "宋 善月述",
     "creators": "善月"
+	"creators_with_id":"善月(A000848)"
   },
   "X0324": {
     "title": "楞伽經集註",
     "byline": "宋 正受集記",
     "creators": "正受"
+	"creators_with_id":"正受(A000264)"
   },
   "X0325": {
     "title": "楞伽經纂",
     "byline": "宋 楊彥國纂",
     "creators": "楊彥國"
+	"creators_with_id":"楊彥國(A001442)"
   },
   "X0326": {
     "title": "觀楞伽經記",
     "byline": "明 德清筆記",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0327": {
     "title": "楞伽補遺",
     "byline": "明 德清撰",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0328": {
     "title": "楞伽經玄義",
     "byline": "明 智旭撰述",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0329": {
     "title": "楞伽經義疏",
     "byline": "明 智旭疏義",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0330": {
     "title": "楞伽經宗通",
     "byline": "明 曾鳳儀宗通",
     "creators": "曾鳳儀"
+	"creators_with_id":"曾鳳儀(A001305)"
   },
   "X0331": {
     "title": "楞伽經合轍",
     "byline": "明 通潤述",
     "creators": "通潤"
+	"creators_with_id":"通潤(A001156)"
   },
   "X0332": {
     "title": "楞伽經參訂疏",
     "byline": "明 廣莫參訂",
     "creators": "廣莫"
+	"creators_with_id":"廣莫(A001663)"
   },
   "X0333": {
     "title": "楞伽經精解評林",
     "byline": "明 焦竑纂",
     "creators": "焦竑"
+	"creators_with_id":"焦竑(A001310)"
   },
   "X0334": {
     "title": "楞伽經心印",
     "byline": "清 圅昰疏",
     "creators": "圅昰"
+	"creators_with_id":"圅昰(A010057)"
   },
   "X0338": {
     "title": "維摩經文疏",
     "byline": "隋 智顗撰",
     "creators": "智顗"
+	"creators_with_id":"智顗(A001301)"
   },
   "X0340": {
     "title": "維摩經疏記",
     "byline": "唐 湛然述",
     "creators": "湛然"
+	"creators_with_id":"湛然(A001307)"
   },
   "X0343": {
     "title": "維摩經略疏",
     "byline": "胡 吉藏撰",
     "creators": "吉藏"
+	"creators_with_id":"吉藏(A000329)"
   },
   "X0345": {
     "title": "維摩經疏記鈔",
     "byline": "唐 道暹私記",
     "creators": "道暹"
+	"creators_with_id":"道暹(A001552)"
   },
   "X0347": {
     "title": "維摩經評註",
     "byline": "明 楊起元評註",
     "creators": "楊起元"
+	"creators_with_id":"楊起元(A001443)"
   },
   "X0348": {
     "title": "維摩經無我疏",
     "byline": "明 傳燈著",
     "creators": "傳燈"
+	"creators_with_id":"傳燈(A007274)"
   },
   "X0349": {
     "title": "維摩經疏科",
@@ -753,66 +891,79 @@
     "title": "勝鬘經義記",
     "byline": "隋 慧遠撰",
     "creators": "慧遠"
+	"creators_with_id":"慧遠(A002000)"
   },
   "X0352": {
     "title": "勝鬘經述記",
     "byline": "唐 大乘基說　義令記",
     "creators": "大乘基,義令"
+	"creators_with_id":"大乘基(A001019);義令(A001463)"
   },
   "X0353": {
     "title": "勝鬘經疏義私鈔",
     "byline": "日本 聖德太子疏　唐 明空私鈔",
     "creators": "聖德太子,明空"
+	"creators_with_id":"聖德太子(A001486);明空(A000659)"
   },
   "X0355": {
     "title": "金光明經玄義科",
     "byline": "明 明得排定",
     "creators": "明得"
+	"creators_with_id":"明得(A008323)"
   },
   "X0356": {
     "title": "金光明經玄義拾遺記會本",
     "byline": "隋 智顗說　唐 灌頂錄　宋 知禮述　明 明得會",
     "creators": "智顗,灌頂,知禮,明得"
+	"creators_with_id":"智顗(A001301);灌頂(A004896);知禮(A000756);明得(A008323)"
   },
   "X0357": {
     "title": "金光明經文句科",
     "byline": "明 明得排定",
     "creators": "明得"
+	"creators_with_id":"明得(A008323)"
   },
   "X0358": {
     "title": "金光明經文句文句記會本",
     "byline": "隋 智顗說　唐 灌頂錄　宋 知禮述　明 明得會",
     "creators": "智顗,灌頂,知禮,明得"
+	"creators_with_id":"智顗(A001301);灌頂(A004896);知禮(A000756);明得(A008323)"
   },
   "X0359": {
     "title": "金光明經玄義順正記",
     "byline": "宋 從義撰",
     "creators": "從義"
+	"creators_with_id":"從義(A001057)"
   },
   "X0360": {
     "title": "金光明經文句新記",
     "byline": "宋 從義撰",
     "creators": "從義"
+	"creators_with_id":"從義(A001057)"
   },
   "X0361": {
     "title": "金光明經照解",
     "byline": "宋 宗曉述",
     "creators": "宗曉"
+	"creators_with_id":"宗曉(A000601)"
   },
   "X0362": {
     "title": "金光明經科註",
     "byline": "明 受汰集",
     "creators": "受汰"
+	"creators_with_id":"受汰(A000553)"
   },
   "X0364": {
     "title": "思益梵天所問經簡註",
     "byline": "明 圓澄註",
     "creators": "圓澄"
+	"creators_with_id":"圓澄(A005648)"
   },
   "X0365": {
     "title": "大乘本生心地觀經淺註懸示",
     "byline": "清 來舟述",
     "creators": "來舟"
+	"creators_with_id":"來舟(A000549)"
   },
   "X0366": {
     "title": "大乘本生心地觀經淺註科文"
@@ -821,86 +972,103 @@
     "title": "大乘本生心地觀經淺註(第1卷-第3卷)",
     "byline": "清 來舟集",
     "creators": "來舟"
+	"creators_with_id":"來舟(A000549)"
   },
   "X0368": {
     "title": "大乘密嚴經疏",
     "byline": "唐 法藏撰",
     "creators": "法藏"
+	"creators_with_id":"法藏(A002450)"
   },
   "X0369": {
     "title": "解深密經疏",
     "byline": "唐 圓測撰",
     "creators": "圓測"
+	"creators_with_id":"圓測(A001414)"
   },
   "X0370": {
     "title": "占察善惡業報經玄義",
     "byline": "明 智旭撰",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0371": {
     "title": "占察善惡業報經義疏",
     "byline": "明 智旭撰",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0372": {
     "title": "盂蘭盆經疏新記",
     "byline": "唐 宗密疏　宋 元照記",
     "creators": "宗密,元照"
+	"creators_with_id":"宗密(A000587);元照(A000129)"
   },
   "X0373": {
     "title": "盂蘭盆經疏會古通今記",
     "byline": "宋 普觀述",
     "creators": "普觀"
+	"creators_with_id":"普觀(A001239)"
   },
   "X0374": {
     "title": "盂蘭盆經疏孝衡鈔科",
     "byline": "宋 遇榮集定",
     "creators": "遇榮"
+	"creators_with_id":"遇榮(A001577)"
   },
   "X0375": {
     "title": "盂蘭盆經疏孝衡鈔",
     "byline": "宋 遇榮鈔",
     "creators": "遇榮"
+	"creators_with_id":"遇榮(A001577)"
   },
   "X0376": {
     "title": "盂蘭盆經疏鈔餘義",
     "byline": "宋 日新錄",
     "creators": "日新"
+	"creators_with_id":"日新(A000193)"
   },
   "X0377": {
     "title": "盂蘭盆經新疏",
     "byline": "明 智旭疏",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0378": {
     "title": "盂蘭盆經疏折中疏",
     "byline": "清 靈耀撰",
     "creators": "靈耀"
+	"creators_with_id":"靈耀(A001987)"
   },
   "X0379": {
     "title": "盂蘭盆經略疏",
     "byline": "清 元奇書",
     "creators": "元奇"
+	"creators_with_id":"元奇(A000115)"
   },
   "X0381": {
     "title": "藥師經直解",
     "byline": "清 靈耀撰",
     "creators": "靈耀"
+	"creators_with_id":"靈耀(A001987)"
   },
   "X0382": {
     "title": "地藏本願經科文",
     "byline": "清 岳玄排",
     "creators": "岳玄"
+	"creators_with_id":"岳玄(A000618)"
   },
   "X0383": {
     "title": "地藏本願經綸貫",
     "byline": "清 靈椉撰",
     "creators": "靈椉"
+	"creators_with_id":"靈椉(A001980)"
   },
   "X0384": {
     "title": "地藏本願經科註",
     "byline": "清 靈椉輯",
     "creators": "靈椉"
+	"creators_with_id":"靈椉(A001980)"
   },
   "X0388": {
     "title": "彌勒上生經述贊"
@@ -912,756 +1080,907 @@
     "title": "彌勒上生經瑞應鈔科",
     "byline": "宋 守千集",
     "creators": "守千"
+	"creators_with_id":"守千(A000357)"
   },
   "X0394": {
     "title": "彌勒上生經瑞應鈔",
     "byline": "宋 守千集",
     "creators": "守千"
+	"creators_with_id":"守千(A000357)"
   },
   "X0397": {
     "title": "無量壽經記",
     "byline": "唐 玄一集",
     "creators": "玄一"
+	"creators_with_id":"玄一(A000289)"
   },
   "X0400": {
     "title": "無量壽經起信論",
     "byline": "清 彭際清述",
     "creators": "彭際清"
+	"creators_with_id":"彭際清(A001188)"
   },
   "X0401": {
     "title": "摩訶阿彌陀經衷論",
     "byline": "清 王耕心衷論",
     "creators": "王耕心"
+	"creators_with_id":"王耕心(A000207)"
   },
   "X0405": {
     "title": "釋觀無量壽佛經記",
     "byline": "唐 法聰撰",
     "creators": "法聰"
+	"creators_with_id":"法聰(A000744)"
   },
   "X0406": {
     "title": "觀無量壽經疏妙宗鈔科",
     "byline": "宋 知禮排定　明 真覺重排",
     "creators": "知禮,真覺"
+	"creators_with_id":"知禮(A000756);真覺(A000964)"
   },
   "X0407": {
     "title": "觀無量壽佛經疏妙宗鈔",
     "byline": "隋 智顗說　宋 知禮述　日本 實觀分會",
     "creators": "智顗,知禮,實觀"
+	"creators_with_id":"智顗(A001301);知禮(A000756);真覺(A000964)"
   },
   "X0408": {
     "title": "觀無量壽佛經融心解",
     "byline": "宋 知禮撰",
     "creators": "知禮"
+	"creators_with_id":"知禮(A000756)"
   },
   "X0410": {
     "title": "觀無量壽經扶新論",
     "byline": "宋 戒度述",
     "creators": "戒度"
+	"creators_with_id":"戒度(A000511)"
   },
   "X0411": {
     "title": "觀無量壽經義疏正觀記",
     "byline": "宋 戒度述",
     "creators": "戒度"
+	"creators_with_id":"戒度(A000511)"
   },
   "X0412": {
     "title": "觀無量壽佛經圖頌",
     "byline": "明 傳燈述",
     "creators": "傳燈"
+	"creators_with_id":"傳燈(A007274)"
   },
   "X0413": {
     "title": "觀無量壽經直指疏",
     "byline": "清 續法集",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X0414": {
     "title": "觀無量壽佛經約論",
     "byline": "清 彭際清述",
     "creators": "彭際清"
+	"creators_with_id":"彭際清(A001188)"
   },
   "X0420": {
     "title": "阿彌陀經義疏聞持記",
     "byline": "宋 元照述　戒度記",
     "creators": "元照,戒度"
+	"creators_with_id":"元照(A000129);戒度(A000511)"
   },
   "X0421": {
     "title": "阿彌陀經句解",
     "byline": "元 性澄句解",
     "creators": "性澄"
+	"creators_with_id":"性澄(A000640)"
   },
   "X0422": {
     "title": "阿彌陀經略解",
     "byline": "明 大佑述",
     "creators": "大佑"
+	"creators_with_id":"大佑(A000055)"
   },
   "X0423": {
     "title": "阿彌陀經略解圓中鈔",
     "byline": "明 大佑述　傳燈鈔",
     "creators": "大佑,傳燈"
+	"creators_with_id":"大佑(A000055);傳燈(A007274)"
   },
   "X0424": {
     "title": "阿彌陀經疏鈔",
     "byline": "明 袾宏述",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X0425": {
     "title": "阿彌陀經疏鈔事義",
     "byline": "明 袾宏述",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X0426": {
     "title": "阿彌陀經疏鈔問辯",
     "byline": "明 袾宏述",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X0427": {
     "title": "阿彌陀經疏鈔演義",
     "byline": "明 古德法師演義　慈航智願定本",
     "creators": "古德法師,慈航智願"
+	"creators_with_id":"古德法師(A000229);慈航智願(A001429)"
   },
   "X0428": {
     "title": "阿彌陀經疏鈔擷",
     "byline": "明 袾宏疏鈔　清 徐槐廷擷",
     "creators": "袾宏,徐槐廷"
+	"creators_with_id":"袾宏(A001394);徐槐廷(A000924)"
   },
   "X0429": {
     "title": "阿彌陀經已決",
     "byline": "明 大慧釋",
     "creators": "大慧"
+	"creators_with_id":"大慧(A015856)"
   },
   "X0430": {
     "title": "阿彌陀經要解便蒙鈔",
     "byline": "明 智旭要解　清 達默造鈔　達林參訂",
     "creators": "智旭,達默,達林"
+	"creators_with_id":"智旭(A001257);達默(A001575);達林(A001568)"
   },
   "X0431": {
     "title": "阿彌陀經略註",
     "byline": "清 續法錄註",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X0432": {
     "title": "阿彌陀經註",
     "byline": "清 鄭澄德．鄭澄源註",
     "creators": "鄭澄德,鄭澄源"
+	"creators_with_id":"鄭澄德(A001769);鄭澄源(A001768)"
   },
   "X0433": {
     "title": "阿彌陀經約論",
     "byline": "清 彭際清述",
     "creators": "彭際清"
+	"creators_with_id":"彭際清(A001188)"
   },
   "X0434": {
     "title": "阿彌陀經直解正行",
     "byline": "清 了根纂註",
     "creators": "了根"
+	"creators_with_id":"了根(A000028)"
   },
   "X0435": {
     "title": "阿彌陀經摘要易解",
     "byline": "清 真嵩述",
     "creators": "真嵩"
+	"creators_with_id":"真嵩(A000958)"
   },
   "X0438": {
     "title": "大日經義釋",
     "byline": "唐 一行述記",
     "creators": "一行"
+	"creators_with_id":"一行(A000008)"
   },
   "X0439": {
     "title": "大日經義釋演密鈔",
     "byline": "遼 覺苑撰",
     "creators": "覺苑"
+	"creators_with_id":"覺苑(A001945)"
   },
   "X0445": {
     "title": "佛頂尊勝陀羅尼經釋",
     "byline": "清 續法釋",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X0446": {
     "title": "七俱胝佛母所說準提陀羅尼經會釋",
     "byline": "清 弘贊會釋",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X0447": {
     "title": "觀自在菩薩如意心陀羅尼經略疏",
     "byline": "清 續法述",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X0448": {
     "title": "大般若經關法",
     "byline": "宋 大隱．永隆排定",
     "creators": "大隱,永隆"
+	"creators_with_id":"大隱(A000071);永隆(A036502)"
   },
   "X0449": {
     "title": "大般若經綱要",
     "byline": "清 葛䵻提綱",
     "creators": "葛䵻"
+	"creators_with_id":"葛䵻(A001489)"
   },
   "X0451": {
     "title": "大品經義疏",
     "byline": "胡 吉藏撰",
     "creators": "吉藏"
+	"creators_with_id":"吉藏(A000329)"
   },
   "X0454": {
     "title": "金剛經註",
     "byline": "東晉 僧肇注",
     "creators": "僧肇"
+	"creators_with_id":"僧肇(A001598)"
   },
   "X0456": {
     "title": "金剛經註疏",
     "byline": "唐 慧淨註",
     "creators": "慧淨"
+	"creators_with_id":"慧淨(A001723)"
   },
   "X0459": {
     "title": "金剛經解義",
     "byline": "唐 慧能解義",
     "creators": "慧能"
+	"creators_with_id":"慧能(A001719)"
   },
   "X0460": {
     "title": "金剛經口訣",
     "byline": "唐 慧能說",
     "creators": "慧能"
+	"creators_with_id":"慧能(A001719)"
   },
   "X0461": {
     "title": "金剛經註",
     "byline": "宋 道川頌並著語",
     "creators": "道川"
+	"creators_with_id":"道川(A001498)"
   },
   "X0462": {
     "title": "金剛經會解",
     "byline": "宋 善月述",
     "creators": "善月"
+	"creators_with_id":"善月(A000848)"
   },
   "X0463": {
     "title": "金剛經采微科",
     "byline": "宋 曇應排",
     "creators": "曇應"
+	"creators_with_id":"曇應(A001801)"
   },
   "X0464": {
     "title": "金剛經采微",
     "byline": "宋 曇應述",
     "creators": "曇應"
+	"creators_with_id":"曇應(A001801)"
   },
   "X0465": {
     "title": "金剛經采微餘釋",
     "byline": "宋 曇應述",
     "creators": "曇應"
+	"creators_with_id":"曇應(A001801)"
   },
   "X0466": {
     "title": "金剛疏科釋",
     "byline": "元 徐行善科",
     "creators": "徐行善"
+	"creators_with_id":"徐行善(A000921)"
   },
   "X0467": {
     "title": "銷釋金剛經科儀會要註解",
     "byline": "宋 宗鏡述　明 覺連重集",
     "creators": "宗鏡,覺連"
+	"creators_with_id":"宗鏡(A000607);覺連(A001949)"
   },
   "X0468": {
     "title": "金剛經註解",
     "byline": "明 洪蓮編",
     "creators": "洪蓮"
+	"creators_with_id":"洪蓮(A000857)"
   },
   "X0469": {
     "title": "金剛經補註",
     "byline": "明 韓巖集解　程衷懋補註",
     "creators": "韓巖,程衷懋"
+	"creators_with_id":"韓巖(A001874);程衷懋(A001327)"
   },
   "X0470": {
     "title": "金剛經註解鐵鋑錎",
     "byline": "明 屠根註",
     "creators": "屠根"
+	"creators_with_id":"屠根(A001036)"
   },
   "X0471": {
     "title": "金剛經宗通",
     "byline": "明 曾鳳儀宗通",
     "creators": "曾鳳儀"
+	"creators_with_id":"曾鳳儀(A001305)"
   },
   "X0472": {
     "title": "金剛經偈釋",
     "byline": "明 曾鳳儀釋",
     "creators": "曾鳳儀"
+	"creators_with_id":"曾鳳儀(A001305)"
   },
   "X0473": {
     "title": "金剛經釋",
     "byline": "明 真可撰",
     "creators": "真可"
+	"creators_with_id":"真可(A000944)"
   },
   "X0474": {
     "title": "金剛經決疑",
     "byline": "明 德清撰",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0475": {
     "title": "金剛經鎞",
     "byline": "明 廣伸述",
     "creators": "廣伸"
+	"creators_with_id":"廣伸(A001657)"
   },
   "X0476": {
     "title": "金剛經統論",
     "byline": "明 林兆恩撰",
     "creators": "林兆恩"
+	"creators_with_id":"林兆恩(A000682)"
   },
   "X0477": {
     "title": "金剛經正眼",
     "byline": "明 大韻筆記",
     "creators": "大韻"
+	"creators_with_id":"大韻(A000065)"
   },
   "X0478": {
     "title": "金剛經筆記",
     "byline": "明 如觀註",
     "creators": "如觀"
+	"creators_with_id":"如觀(A000353)"
   },
   "X0479": {
     "title": "金剛經破空論",
     "byline": "明 智旭造論",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0480": {
     "title": "金剛經觀心釋",
     "byline": "明 智旭述",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0481": {
     "title": "金剛經略談",
     "byline": "明 觀衡撰",
     "creators": "觀衡"
+	"creators_with_id":"觀衡(A001993)"
   },
   "X0482": {
     "title": "金剛經略疏",
     "byline": "明 元賢述",
     "creators": "元賢"
+	"creators_with_id":"元賢(A000135)"
   },
   "X0483": {
     "title": "金剛經音釋直解",
     "byline": "明 圓杲解註",
     "creators": "圓杲"
+	"creators_with_id":"圓杲(A001407)"
   },
   "X0484": {
     "title": "金剛經大意",
     "byline": "清 王起隆述",
     "creators": "王起隆"
+	"creators_with_id":"王起隆(A000208)"
   },
   "X0485": {
     "title": "金剛經如是解",
     "byline": "清 無是道人註解",
     "creators": "無是道人"
+	"creators_with_id":"無是道人(A001314)"
   },
   "X0486": {
     "title": "金剛經會解了義",
     "byline": "清 徐昌治纂",
-    "creators": "徐昌"
+    "creators": "徐昌治"
+	"creators_with_id":"徐昌治(A000922)"
   },
   "X0487": {
     "title": "金剛新眼疏經偈合釋",
     "byline": "清 通理述",
     "creators": "通理"
+	"creators_with_id":"通理(A001152)"
   },
   "X0488": {
     "title": "金剛經郢說",
     "byline": "清 徐發詮次",
     "creators": "徐發"
+	"creators_with_id":"徐發(A000923)"
   },
   "X0489": {
     "title": "金剛經註正訛",
     "byline": "清 仲之屏彙纂",
     "creators": "仲之屏"
+	"creators_with_id":"仲之屏(A000311)"
   },
   "X0490": {
     "title": "金剛經淺解",
     "byline": "清 翁春．王錫琯解釋",
     "creators": "翁春,王錫琯"
+	"creators_with_id":"翁春(A000991);王錫琯(A000210)"
   },
   "X0491": {
     "title": "金剛經疏記科會",
     "byline": "唐 宗密疏　宋 子璿記　清 大璸科會",
     "creators": "宗密,子璿,大璸"
+	"creators_with_id":"宗密(A000587);子璿(A000085);大璸(A000072)"
   },
   "X0492": {
     "title": "金剛經疏記會編",
     "byline": "清 行策會編",
     "creators": "行策"
+	"creators_with_id":"行策(A000421)"
   },
   "X0493": {
     "title": "金剛經部旨",
     "byline": "清 靈耀撰",
     "creators": "靈耀"
+	"creators_with_id":"靈耀(A001987)"
   },
   "X0494": {
     "title": "金剛經註釋",
     "byline": "清 溥仁乩書　子真乩訂",
     "creators": "溥仁,子真"
+	"creators_with_id":"溥仁(A001451);子真(A000083)"
   },
   "X0495": {
     "title": "金剛經演古",
     "byline": "清 寂燄述",
     "creators": "寂燄"
+	"creators_with_id":"寂燄(A001035)"
   },
   "X0496": {
     "title": "金剛經直說",
     "byline": "清 迹刪鷲述",
     "creators": "迹刪鷲"
+	"creators_with_id":"迹刪鷲(A001495)"
   },
   "X0497": {
     "title": "金剛經石注",
     "byline": "清 石成金撰集",
     "creators": "石成金"
+	"creators_with_id":"石成金(A000310)"
   },
   "X0498": {
     "title": "金剛經正解",
     "byline": "清 龔穊綵註",
     "creators": "龔穊綵"
+	"creators_with_id":"龔穊綵(A001974)"
   },
   "X0499": {
     "title": "金剛經法眼懸判疏鈔",
     "byline": "清 性起述",
     "creators": "性起"
+	"creators_with_id":"性起(A000634)"
   },
   "X0500": {
     "title": "金剛經法眼註疏",
     "byline": "清 性起述",
     "creators": "性起"
+	"creators_with_id":"性起(A000634)"
   },
   "X0501": {
     "title": "金剛經如是經義",
     "byline": "清 行敏述",
     "creators": "行敏"
+	"creators_with_id":"行敏(A000417)"
   },
   "X0502": {
     "title": "金剛經註講",
     "byline": "清 行敏述",
     "creators": "行敏"
+	"creators_with_id":"行敏(A000417)"
   },
   "X0503": {
     "title": "金剛經注解",
     "byline": "清 孚佑帝君註解",
     "creators": "孚佑帝君"
+	"creators_with_id":"孚佑帝君(A000482)"
   },
   "X0504": {
     "title": "金剛經彙纂",
     "byline": "清 孫念劬纂",
     "creators": "孫念劬"
+	"creators_with_id":"孫念劬(A000906)"
   },
   "X0505": {
     "title": "金剛經心印疏",
     "byline": "清 溥畹述",
     "creators": "溥畹"
+	"creators_with_id":"溥畹(A001452)"
   },
   "X0506": {
     "title": "金剛經注",
     "byline": "清 俞樾註",
     "creators": "俞樾"
+	"creators_with_id":"俞樾(A000814)"
   },
   "X0507": {
     "title": "金剛經訂義",
     "byline": "清 俞樾著",
     "creators": "俞樾"
+	"creators_with_id":"俞樾(A000814)"
   },
   "X0508": {
     "title": "金剛經闡說",
     "byline": "清 存吾闡說",
     "creators": "存吾"
+	"creators_with_id":"存吾(A000354)"
   },
   "X0509": {
     "title": "金剛經解義",
     "byline": "清 徐槐廷述",
     "creators": "徐槐廷"
+	"creators_with_id":"徐槐廷(A000924)"
   },
   "X0510": {
     "title": "金剛經易解",
     "byline": "清 謝承謨註釋",
     "creators": "謝承謨"
+	"creators_with_id":"謝承謨(A001868)"
   },
   "X0513": {
     "title": "仁王經合疏",
     "byline": "隋 智顗說　灌頂記　明 道霈合",
     "creators": "智顗,灌頂,道霈"
+	"creators_with_id":"智顗(A001301);灌頂(A004896);道霈(A001551)"
   },
   "X0514": {
     "title": "仁王經疏會本",
     "byline": "隋 智顗說　灌頂記　清 成蓮合",
     "creators": "智顗,灌頂,成蓮"
+	"creators_with_id":"智顗(A001301);灌頂(A004896);成蓮(A017925)"
   },
   "X0515": {
     "title": "仁王經科疏科文",
     "byline": "明 真貴述",
     "creators": "真貴"
+	"creators_with_id":"真貴(A000956)"
   },
   "X0516": {
     "title": "仁王經科疏懸談",
     "byline": "明 真貴述",
     "creators": "真貴"
+	"creators_with_id":"真貴(A000956)"
   },
   "X0517": {
     "title": "仁王經科疏",
     "byline": "明 真貴述",
     "creators": "真貴"
+	"creators_with_id":"真貴(A000956)"
   },
   "X0519": {
     "title": "仁王經疏法衡鈔",
     "byline": "唐 遇榮集",
     "creators": "遇榮"
+	"creators_with_id":"遇榮(A001577)"
   },
   "X0520": {
     "title": "仁王經疏",
     "byline": "宋 淨源撰集",
     "creators": "淨源"
+	"creators_with_id":"淨源(A001113)"
   },
   "X0521": {
     "title": "般若心經疏",
     "byline": "唐 慧淨作",
     "creators": "慧淨"
+	"creators_with_id":"慧淨(A001723)"
   },
   "X0522": {
     "title": "般若心經疏",
     "byline": "唐 靖邁撰",
     "creators": "靖邁"
+	"creators_with_id":"靖邁(A001582)"
   },
   "X0524": {
     "title": "般若心經幽贊添改科",
     "byline": "宋 守千添改",
     "creators": "守千"
+	"creators_with_id":"守千(A000357)"
   },
   "X0525": {
     "title": "般若心經幽贊崆峒記",
     "byline": "宋 守千集",
     "creators": "守千"
+	"creators_with_id":"守千(A000357)"
   },
   "X0526": {
     "title": "般若心經註",
     "byline": "中天竺 提婆註",
     "creators": "提婆"
+	"creators_with_id":"提婆(A036746)"
   },
   "X0528": {
     "title": "般若心經略疏",
     "byline": "唐 明曠述",
     "creators": "明曠"
+	"creators_with_id":"明曠(A000673)"
   },
   "X0529": {
     "title": "般若心經疏",
     "byline": "宋 智圓述",
     "creators": "智圓"
+	"creators_with_id":"智圓(A001282)"
   },
   "X0530": {
     "title": "般若心經疏詒謀鈔",
     "byline": "宋 智圓撰",
     "creators": "智圓"
+	"creators_with_id":"智圓(A001282)"
   },
   "X0531": {
     "title": "般若心經略疏顯正記",
     "byline": "唐 法藏疏　宋 仲希說",
     "creators": "法藏,仲希"
+	"creators_with_id":"法藏(A002450),仲希(A000313)"
   },
   "X0532": {
     "title": "般若心經略疏小鈔",
     "byline": "明 錢謙益集",
     "creators": "錢謙益"
+	"creators_with_id":"錢謙益(A001834)"
   },
   "X0533": {
     "title": "般若心經三注",
-    "byline": "唐 慧忠著　宋 道楷．懷琛述",
-    "creators": "慧忠,道楷,懷琛"
+    "byline": "唐 慧忠著　宋 道楷．懷深述",
+    "creators": "慧忠,道楷,懷深"
+	"creators_with_id":"慧忠(A001707);道楷(A001539);懷深(A001900)"
   },
   "X0534": {
     "title": "般若心經注",
     "byline": "宋 道隆述",
     "creators": "道隆"
+	"creators_with_id":"道隆(A001960)"
   },
   "X0535": {
     "title": "般若心經解義節要",
     "byline": "明 宋濂文句",
     "creators": "宋濂"
+	"creators_with_id":"宋濂(A007271)"
   },
   "X0536": {
     "title": "般若心經注解",
     "byline": "明 真可撰",
     "creators": "真可"
+	"creators_with_id":"真可(A000944)"
   },
   "X0537": {
     "title": "般若心經直談",
     "byline": "明 真可撰",
     "creators": "真可"
+	"creators_with_id":"真可(A000944)"
   },
   "X0538": {
     "title": "般若心經要論",
     "byline": "明 真可說",
     "creators": "真可"
+	"creators_with_id":"真可(A000944)"
   },
   "X0539": {
     "title": "般若心經說",
     "byline": "明 真可說",
     "creators": "真可"
+	"creators_with_id":"真可(A000944)"
   },
   "X0540": {
     "title": "般若心經釋義",
     "byline": "明 謝觀光釋",
     "creators": "謝觀光"
+	"creators_with_id":"謝觀光(A001870)"
   },
   "X0541": {
     "title": "般若心經釋疑",
     "byline": "明 謝觀光釋",
     "creators": "謝觀光"
+	"creators_with_id":"謝觀光(A001870)"
   },
   "X0542": {
     "title": "般若心經直說",
     "byline": "明 德清述",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0543": {
     "title": "般若心經提綱",
     "byline": "明 李贄撰",
     "creators": "李贄"
+	"creators_with_id":"李贄(A009892)"
   },
   "X0544": {
     "title": "般若心經釋略",
     "byline": "明 林兆恩撰",
     "creators": "林兆恩"
+	"creators_with_id":"林兆恩(A000682)"
   },
   "X0545": {
     "title": "般若心經概論",
     "byline": "明 林兆恩撰",
     "creators": "林兆恩"
+	"creators_with_id":"林兆恩(A000682)"
   },
   "X0546": {
     "title": "般若心經說",
     "byline": "明 洪恩述",
     "creators": "洪恩"
+	"creators_with_id":"洪恩(A004672)"
   },
   "X0547": {
     "title": "般若心經註解",
     "byline": "明 諸萬里註",
     "creators": "諸萬里"
+	"creators_with_id":"諸萬里(A001764)"
   },
   "X0548": {
     "title": "般若心經斲輪解",
     "byline": "明 通容述",
     "creators": "通容"
+	"creators_with_id":"通容(A001150)"
   },
   "X0549": {
     "title": "般若心經正眼",
     "byline": "明 大文述",
     "creators": "大文"
+	"creators_with_id":"大文(A000051)"
   },
   "X0550": {
     "title": "般若心經開度",
     "byline": "明 弘麗著",
     "creators": "弘麗"
+	"creators_with_id":"弘麗(A000245)"
   },
   "X0551": {
     "title": "般若心經發隱",
     "byline": "明 正相解",
     "creators": "正相"
+	"creators_with_id":"正相(A000267)"
   },
   "X0552": {
     "title": "般若心經際決",
     "byline": "明 大慧釋",
     "creators": "大慧"
+	"creators_with_id":"大慧(A015856)"
   },
   "X0553": {
     "title": "般若心經添足",
     "byline": "明 弘贊述",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X0554": {
     "title": "般若心經貫義",
     "byline": "明 弘贊述",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X0555": {
     "title": "般若心經釋要",
     "byline": "明 智旭述",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0556": {
     "title": "般若心經小談",
     "byline": "明 觀衡述",
     "creators": "觀衡"
+	"creators_with_id":"觀衡(A001993)"
   },
   "X0557": {
     "title": "般若心經一貫疏",
     "byline": "明 益證疏",
     "creators": "益證"
+	"creators_with_id":"益證(A000943)"
   },
   "X0558": {
     "title": "般若心經指掌",
     "byline": "明 元賢述",
     "creators": "元賢"
+	"creators_with_id":"元賢(A000135)"
   },
   "X0559": {
     "title": "般若心經事觀解",
     "byline": "清 續法述",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X0560": {
     "title": "般若心經理性解",
     "byline": "清 續法述",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X0561": {
     "title": "般若心經大意",
     "byline": "清 王起隆述",
     "creators": "王起隆"
+	"creators_with_id":"王起隆(A000208)"
   },
   "X0562": {
     "title": "般若心經解",
     "byline": "清 徐昌治解",
     "creators": "徐昌治"
+	"creators_with_id":"徐昌治(A000922)"
   },
   "X0563": {
     "title": "般若心經請益說",
     "byline": "清 道霈說",
     "creators": "道霈"
+	"creators_with_id":"道霈(A001551)"
   },
   "X0564": {
     "title": "般若心經註疏",
     "byline": "清 仲之屏纂註",
     "creators": "仲之屏"
+	"creators_with_id":"仲之屏(A000311)"
   },
   "X0565": {
     "title": "般若心經論",
     "byline": "清 圅昰撰",
     "creators": "圅昰"
+	"creators_with_id":"圅昰(A010057)"
   },
   "X0566": {
     "title": "般若心經彙纂",
     "byline": "清 孫念劬纂",
     "creators": "孫念劬"
+	"creators_with_id":"孫念劬(A000906)"
   },
   "X0567": {
     "title": "般若心經如是經義",
     "byline": "清 行敏述",
     "creators": "行敏"
+	"creators_with_id":"行敏(A000417)"
   },
   "X0568": {
     "title": "般若心經註講",
     "byline": "清 行敏述",
     "creators": "行敏"
+	"creators_with_id":"行敏(A000417)"
   },
   "X0569": {
     "title": "般若心經句解易知",
     "byline": "清 王澤泩註解",
     "creators": "王澤泩"
+	"creators_with_id":"王澤泩(A000209)"
   },
   "X0570": {
     "title": "般若心經解義",
     "byline": "清 徐槐廷解義",
     "creators": "徐槐廷"
+	"creators_with_id":"徐槐廷(A000924)"
   },
   "X0571": {
     "title": "般若心經註解",
     "byline": "清 敬止撰",
     "creators": "敬止"
+	"creators_with_id":"敬止(A001435)"
   },
   "X0572": {
     "title": "般若心經易解",
     "byline": "清 謝承謨註釋",
     "creators": "謝承謨"
+	"creators_with_id":"謝承謨(A001868)"
   },
   "X0573": {
     "title": "般若心經註解",
     "byline": "唐 大顛祖師註解",
     "creators": "大顛祖師"
+	"creators_with_id":"大顛祖師(A000074)"
   },
   "X0574": {
     "title": "般若心經註解",
     "byline": "明 何道全註",
     "creators": "何道全"
+	"creators_with_id":"何道全(A000446)"
   },
   "X0575": {
     "title": "般若心經註解"
@@ -1670,106 +1989,127 @@
     "title": "般若心經註解",
     "byline": "清 孚佑帝君註解",
     "creators": "孚佑帝君"
+	"creators_with_id":"孚佑帝君(A000482)"
   },
   "X0577": {
     "title": "法華經疏",
     "byline": "宋 竺道生撰",
     "creators": "竺道生"
+	"creators_with_id":"竺道生(A001502)"
   },
   "X0582": {
     "title": "法華統略",
     "byline": "胡 吉藏撰",
     "creators": "吉藏"
+	"creators_with_id":"吉藏(A000329)"
   },
   "X0583": {
     "title": "法華經大意",
     "byline": "唐 湛然述",
     "creators": "湛然"
+	"creators_with_id":"湛然(A001307)"
   },
   "X0584": {
     "title": "法華三大部科文",
     "byline": "唐 湛然述",
     "creators": "湛然"
+	"creators_with_id":"湛然(A001307)"
   },
   "X0585": {
     "title": "法華經三大部讀教記",
     "byline": "宋 法照撰",
     "creators": "法照"
+	"creators_with_id":"法照(A000731)"
   },
   "X0586": {
     "title": "法華經三大部補注",
     "byline": "宋 從義撰",
     "creators": "從義"
+	"creators_with_id":"從義(A001057)"
   },
   "X0587": {
     "title": "大部妙玄格言",
     "byline": "宋 善月述",
     "creators": "善月"
+	"creators_with_id":"善月(A000848)"
   },
   "X0588": {
     "title": "法華經玄籤備撿",
     "byline": "宋 有嚴述",
     "creators": "有嚴"
+	"creators_with_id":"有嚴(A000383)"
   },
   "X0589": {
     "title": "法華經玄義節要",
     "byline": "明 智旭節",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0590": {
     "title": "法華經玄義輯略",
     "byline": "明 傳燈錄",
     "creators": "傳燈"
+	"creators_with_id":"傳燈(A007274)"
   },
   "X0591": {
     "title": "法華經釋籤緣起序指明",
     "byline": "清 靈耀述",
     "creators": "靈耀"
+	"creators_with_id":"靈耀(A001987)"
   },
   "X0592": {
     "title": "法華經玄籤證釋",
     "byline": "清 智銓述",
     "creators": "智銓"
+	"creators_with_id":"智銓(A001289)"
   },
   "X0593": {
     "title": "法華經文句輔正記",
     "byline": "唐 道暹述",
     "creators": "道暹"
+	"creators_with_id":"道暹(A001552)"
   },
   "X0594": {
     "title": "法華經疏義纘",
     "byline": "唐 智度述",
     "creators": "智度"
+	"creators_with_id":"智度(A001265)"
   },
   "X0595": {
     "title": "妙經文句私志諸品要義",
     "byline": "唐 智雲述",
     "creators": "智雲"
+	"creators_with_id":"智雲(A001281)"
   },
   "X0596": {
     "title": "妙經文句私志記",
     "byline": "唐 智雲撰",
     "creators": "智雲"
+	"creators_with_id":"智雲(A001281)"
   },
   "X0597": {
     "title": "法華經文句記箋難",
     "byline": "宋 有嚴箋",
     "creators": "有嚴"
+	"creators_with_id":"有嚴(A000383)"
   },
   "X0598": {
     "title": "法華經文句格言",
     "byline": "宋 善月述",
     "creators": "善月"
+	"creators_with_id":"善月(A000848)"
   },
   "X0599": {
     "title": "法華經文句纂要",
     "byline": "清 道霈纂要",
     "creators": "道霈"
+	"creators_with_id":"道霈(A001551)"
   },
   "X0600": {
     "title": "法華經入疏",
     "byline": "宋 道威入注",
     "creators": "道威"
+	"creators_with_id":"道威(A001518)"
   },
   "X0601": {
     "title": "法華經要解科"
@@ -1778,176 +2118,211 @@
     "title": "法華經要解",
     "byline": "宋 戒環解",
     "creators": "戒環"
+	"creators_with_id":"戒環(A000514)"
   },
   "X0603": {
     "title": "法華經合論",
     "byline": "宋 慧洪造　張商英撰",
     "creators": "慧洪,張商英"
+	"creators_with_id":"慧洪(A001673);張商英(A001050)"
   },
   "X0604": {
     "title": "法華經句解",
     "byline": "宋 聞達解",
     "creators": "聞達"
+	"creators_with_id":"聞達(A001635)"
   },
   "X0605": {
     "title": "法華經科註",
     "byline": "宋 守倫註　明 法濟參訂",
     "creators": "守倫,法濟"
+	"creators_with_id":"守倫(A000359);法濟(A000743)"
   },
   "X0606": {
     "title": "法華經科註",
     "byline": "元 徐行善科註",
     "creators": "徐行善"
+	"creators_with_id":"徐行善(A000921)"
   },
   "X0607": {
     "title": "法華經科註",
     "byline": "明 一如集註",
     "creators": "一如"
+	"creators_with_id":"一如(A000007)"
   },
   "X0608": {
     "title": "法華經知音",
     "byline": "明 如愚著",
     "creators": "如愚"
+	"creators_with_id":"如愚(A000349)"
   },
   "X0609": {
     "title": "法華經大意",
     "byline": "明 無相說",
     "creators": "無相"
+	"creators_with_id":"無相(A001315)"
   },
   "X0610": {
     "title": "法華經擊節",
     "byline": "明 德清述",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0611": {
     "title": "法華經通義",
     "byline": "明 德清述",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0612": {
     "title": "法華經精解評林",
     "byline": "明 焦竑纂",
     "creators": "焦竑"
+	"creators_with_id":"焦竑(A001310)"
   },
   "X0613": {
     "title": "法華經意語",
     "byline": "明 圓澄說　明海重訂",
     "creators": "圓澄,明海"
+	"creators_with_id":"圓澄(A005648);明海(A000662)"
   },
   "X0614": {
     "title": "法華經大窾",
     "byline": "明 通潤箋",
     "creators": "通潤"
+	"creators_with_id":"通潤(A001156)"
   },
   "X0615": {
     "title": "法華經綸貫",
     "byline": "明 智旭述",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0616": {
     "title": "法華經會義",
     "byline": "明 智旭述",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0617": {
     "title": "法華經卓解",
     "byline": "清 徐昌治著",
     "creators": "徐昌治"
+	"creators_with_id":"徐昌治(A000922)"
   },
   "X0618": {
     "title": "法華經大成科",
     "byline": "清 際慶排錄",
     "creators": "際慶"
+	"creators_with_id":"際慶(A001644)"
   },
   "X0619": {
     "title": "法華經大成",
     "byline": "清 大義集",
     "creators": "大義"
+	"creators_with_id":"大義(A000064)"
   },
   "X0620": {
     "title": "法華經大成音義",
     "byline": "清 淨昇集",
     "creators": "淨昇"
+	"creators_with_id":"淨昇(A001102)"
   },
   "X0621": {
     "title": "法華經授手〔卷首〕",
     "byline": "清 智祥集",
     "creators": "智祥"
+	"creators_with_id":"智祥(A001274)"
   },
   "X0622": {
     "title": "法華經授手科",
     "byline": "清 智祥排",
     "creators": "智祥"
+	"creators_with_id":"智祥(A001274)"
   },
   "X0623": {
     "title": "法華經授手",
     "byline": "清 智祥集",
     "creators": "智祥"
+	"creators_with_id":"智祥(A001274)"
   },
   "X0624": {
     "title": "法華經演義科",
     "byline": "清 廣和標科",
     "creators": "廣和"
+	"creators_with_id":"廣和(A000432)"
   },
   "X0625": {
     "title": "法華經演義",
     "byline": "清 一松講錄　廣和編定",
     "creators": "一松,廣和"
+	"creators_with_id":"一松(A000012);廣和(A000432)"
   },
   "X0626": {
     "title": "法華經科拾懸談卷首",
     "byline": "清 佛閑立科　智一拾遺",
     "creators": "佛閑,智一"
+	"creators_with_id":"佛閑(A000444);智一(A001251)"
   },
   "X0627": {
     "title": "法華經科拾科",
     "byline": "清 佛閑立科　智一重訂",
     "creators": "佛閑,智一"
+	"creators_with_id":"佛閑(A000444);智一(A001251)"
   },
   "X0628": {
     "title": "法華經科拾",
     "byline": "清 佛閑立科　智一拾遺",
     "creators": "佛閑,智一"
+	"creators_with_id":"佛閑(A000444);智一(A001251)"
   },
   "X0629": {
     "title": "法華經指掌疏科文",
     "byline": "清 通理述",
     "creators": "通理"
+	"creators_with_id":"通理(A001152)"
   },
   "X0630": {
     "title": "法華經指掌疏懸示",
     "byline": "清 通理述",
     "creators": "通理"
+	"creators_with_id":"通理(A001152)"
   },
   "X0631": {
     "title": "法華經指掌疏",
     "byline": "清 通理述",
     "creators": "通理"
+	"creators_with_id":"通理(A001152)"
   },
   "X0632": {
     "title": "法華經指掌疏事義",
     "byline": "清 通理述",
     "creators": "通理"
+	"creators_with_id":"通理(A001152)"
   },
   "X0633": {
     "title": "法華經為為章",
     "byline": "唐 窺基撰",
     "creators": "窺基"
+	"creators_with_id":"窺基(A001019)"
   },
   "X0636": {
     "title": "法華經玄贊攝釋",
     "byline": "唐 智周撰",
     "creators": "智周"
+	"creators_with_id":"智周(A001260)"
   },
   "X0637": {
     "title": "法華經玄贊決擇記",
     "byline": "唐 崇俊撰　法清集疏",
     "creators": "崇俊,法清"
+	"creators_with_id":"崇俊(A001038);法清(A013848)"
   },
   "X0638": {
     "title": "法華經玄贊要集",
     "byline": "唐 栖復集",
     "creators": "栖復"
+	"creators_with_id":"栖復(A001009)"
   },
   "X0639": {
     "title": "法華經玄贊釋"
@@ -1962,6 +2337,7 @@
     "title": "觀音經玄義記會本",
     "byline": "隋 智顗說　宋 知禮述",
     "creators": "智顗,知禮"
+	"creators_with_id":"智顗(A001301);知禮(A000756)"
   },
   "X0643": {
     "title": "觀音經義疏記會本科"
@@ -1973,21 +2349,25 @@
     "title": "觀音經義疏記會本",
     "byline": "隋 智顗說　宋 知禮述",
     "creators": "智顗,知禮"
+	"creators_with_id":"智顗(A001301);知禮(A000756)"
   },
   "X0646": {
     "title": "觀音經普門品重頌",
     "byline": "宋 遵式述",
     "creators": "遵式"
+	"creators_with_id":"遵式(A001832)"
   },
   "X0647": {
     "title": "觀音經普門品膚說",
     "byline": "清 靈耀說",
     "creators": "靈耀"
+	"creators_with_id":"靈耀(A001987)"
   },
   "X0648": {
     "title": "高王觀音經註釋",
     "byline": "清 周上智錄出",
     "creators": "周上智"
+	"creators_with_id":"周上智(A000556)"
   },
   "X0649": {
     "title": "普賢觀經義疏科"
@@ -1996,26 +2376,31 @@
     "title": "普賢觀經義疏",
     "byline": "宋 本如述　處咸續解　日本 亮潤分會",
     "creators": "本如,處咸,亮潤"
+	"creators_with_id":"本如(A000252);處咸(A001140);亮潤(A000804)"
   },
   "X0651": {
     "title": "金剛三昧經注解",
     "byline": "明 圓澄註",
     "creators": "圓澄"
+	"creators_with_id":"圓澄(A005648)"
   },
   "X0652": {
     "title": "金剛三昧經通宗記",
     "byline": "清 𧧌震述",
     "creators": "𧧌震"
+	"creators_with_id":"𧧌震(A000002)"
   },
   "X0656": {
     "title": "涅槃經玄義文句",
     "byline": "隋 灌頂撰　唐 道暹撰　日本 守篤分會",
     "creators": "灌頂,道暹,守篤"
+	"creators_with_id":"灌頂(A004896);道暹(A001552);守篤(A036505)"
   },
   "X0657": {
     "title": "涅槃經治定疏科",
     "byline": "宋 智圓撰",
     "creators": "智圓"
+	"creators_with_id":"智圓(A001282)"
   },
   "X0658": {
     "title": "涅槃經會疏條箇"
@@ -2024,161 +2409,193 @@
     "title": "涅槃經會疏",
     "byline": "隋 灌頂撰　唐 湛然再治　日本 本純分會",
     "creators": "灌頂,湛然,本純"
+	"creators_with_id":"灌頂(A004896);湛然(A001307);本純(A000255)"
   },
   "X0660": {
     "title": "涅槃經疏私記",
     "byline": "唐 行滿集",
     "creators": "行滿"
+	"creators_with_id":"行滿(A000423)"
   },
   "X0661": {
     "title": "涅槃經疏私記",
     "byline": "唐 道暹述",
     "creators": "道暹"
+	"creators_with_id":"道暹(A001552)"
   },
   "X0662": {
     "title": "涅槃經疏三德指歸",
     "byline": "宋 智圓述",
     "creators": "智圓"
+	"creators_with_id":"智圓(A001282)"
   },
   "X0663": {
     "title": "科南本涅槃經",
     "byline": "元 師正排科　可度重訂",
     "creators": "師正,可度"
+	"creators_with_id":"師正(A022326);可度(A000221)"
   },
   "X0664": {
     "title": "涅槃經會疏解",
     "byline": "元 師正分科　明 圓澄會疏",
     "creators": "師正,圓澄"
+	"creators_with_id":"師正(A022326);圓澄(A005648)"
   },
   "X0665": {
     "title": "遺教經補註",
     "byline": "宋 守遂註　明 了童補註",
     "creators": "守遂,了童"
+	"creators_with_id":"守遂(A000362);了童(A000036)"
   },
   "X0666": {
     "title": "遺教經解",
     "byline": "明 智旭述",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0669": {
     "title": "四十二章經註",
     "byline": "宋 守遂註　明 了童補註",
     "creators": "守遂,了童"
+	"creators_with_id":"守遂(A000362);了童(A000036)"
   },
   "X0670": {
     "title": "四十二章經解",
     "byline": "明 智旭著",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0671": {
     "title": "四十二章經疏鈔",
     "byline": "清 續法述",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X0672": {
     "title": "八大人覺經略解",
     "byline": "明 智旭解",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0673": {
     "title": "八大人覺經疏",
     "byline": "清 續法述",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X0674": {
     "title": "閱經十二種",
     "byline": "清 淨挺著",
     "creators": "淨挺"
+	"creators_with_id":"淨挺(A001106)"
   },
   "X0675": {
     "title": "佛祖三經指南",
     "byline": "明 道霈述",
     "creators": "道霈"
+	"creators_with_id":"道霈(A001551)"
   },
   "X0676": {
     "title": "梵網菩薩戒經義疏",
     "byline": "隋 智顗說　唐 灌頂記",
     "creators": "智顗,灌頂"
+	"creators_with_id":"智顗(A001301);灌頂(A004896)"
   },
   "X0678": {
     "title": "梵網菩薩戒經疏註",
     "byline": "宋 與咸(入疏箋經加註釋疏)",
     "creators": "與咸"
+	"creators_with_id":"與咸(A001637)"
   },
   "X0679": {
     "title": "梵網菩薩戒經義疏發隱",
     "byline": "明 袾宏發隱",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X0680": {
     "title": "梵網菩薩戒經義疏發隱事義",
     "byline": "明 袾宏述",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X0681": {
     "title": "梵網菩薩戒經義疏發隱問辯",
     "byline": "明 袾宏述",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X0682": {
     "title": "梵網經記",
     "byline": "唐 傳奧述",
     "creators": "傳奧"
+	"creators_with_id":"傳奧(A001396)"
   },
   "X0683": {
     "title": "梵網經菩薩戒本私記",
     "byline": "新羅 元曉造",
     "creators": "元曉"
+	"creators_with_id":"元曉(A000136)"
   },
   "X0686": {
     "title": "梵網經菩薩戒本述記",
     "byline": "唐 勝莊撰",
     "creators": "勝莊"
+	"creators_with_id":"勝莊(A001179)"
   },
   "X0687": {
     "title": "梵網經菩薩戒本疏",
     "byline": "唐 知周撰",
     "creators": "知周"
+	"creators_with_id":"知周(A000754)"
   },
   "X0690": {
     "title": "梵網經菩薩戒疏",
     "byline": "唐 法銑撰",
     "creators": "法銑"
+	"creators_with_id":"法銑(A000735)"
   },
   "X0691": {
     "title": "梵網經菩薩戒注",
     "byline": "宋 慧因註",
     "creators": "慧因"
+	"creators_with_id":"慧因(A001705)"
   },
   "X0692": {
     "title": "菩薩戒疏隨見錄",
     "byline": "明 今釋造",
     "creators": "今釋"
+	"creators_with_id":"今釋(A000112)"
   },
   "X0693": {
     "title": "梵網經玄義",
     "byline": "明 智旭述　道昉訂",
     "creators": "智旭,道昉"
+	"creators_with_id":"智旭(A001257);道昉(A001515)"
   },
   "X0694": {
     "title": "梵網經合註",
     "byline": "明 智旭註　道昉訂",
     "creators": "智旭,道昉"
+	"creators_with_id":"智旭(A001257);道昉(A001515)"
   },
   "X0695": {
     "title": "梵網經菩薩戒略疏",
     "byline": "明 弘贊述",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X0696": {
     "title": "半月誦菩薩戒儀式註",
     "byline": "明 弘贊注",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X0697": {
     "title": "梵網經直解",
     "byline": "明 寂光直解",
     "creators": "寂光"
+	"creators_with_id":"寂光(A001028)"
   },
   "X0698": {
     "title": "梵網經直解事義"
@@ -2187,296 +2604,355 @@
     "title": "梵網經順硃",
     "byline": "清 德玉順硃",
     "creators": "德玉"
+	"creators_with_id":"德玉(A001669)"
   },
   "X0700": {
     "title": "梵網經菩薩戒初津",
     "byline": "清 書玉述",
     "creators": "書玉"
+	"creators_with_id":"書玉(A000935)"
   },
   "X0702": {
     "title": "菩薩戒本箋要",
     "byline": "明 智旭箋",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0703": {
     "title": "菩薩戒羯磨文釋",
     "byline": "明 智旭釋",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0704": {
     "title": "地持論義記",
     "byline": "隋 慧遠述",
     "creators": "慧遠"
+	"creators_with_id":"慧遠(A002000)"
   },
   "X0705": {
     "title": "瓔珞本業經疏",
     "byline": "新羅 元曉撰",
     "creators": "元曉"
+	"creators_with_id":"元曉(A000136)"
   },
   "X0706": {
     "title": "十善業道經節要",
     "byline": "清 蕅益編訂",
     "creators": "蕅益"
+	"creators_with_id":"蕅益(A001257)"
   },
   "X0707": {
     "title": "新刪定四分僧戒本",
     "byline": "唐 道宣刪定",
     "creators": "道宣"
+	"creators_with_id":"道宣(A001519)"
   },
   "X0708": {
     "title": "毗尼珍敬錄",
     "byline": "明 廣承輯錄　智旭會補",
     "creators": "廣承,智旭"
+	"creators_with_id":"廣承(A001134);智旭(A001257)"
   },
   "X0709": {
     "title": "毗尼止持會集",
     "byline": "清 讀體集",
     "creators": "讀體"
+	"creators_with_id":"讀體(A001972)"
   },
   "X0712": {
     "title": "四分律含注戒本疏發揮記",
     "byline": "宋 允堪述",
     "creators": "允堪"
+	"creators_with_id":"允堪(A000138)"
   },
   "X0713": {
     "title": "四分律含注戒本疏科",
     "byline": "宋 元照錄",
     "creators": "元照"
+	"creators_with_id":"元照(A000129)"
   },
   "X0714": {
     "title": "四分律含注戒本疏行宗記(第1卷-第3卷)",
     "byline": "唐 道宣撰　宋 元照述　日本 即靜分會",
     "creators": "道宣,元照,即靜"
+	"creators_with_id":"道宣(A001519);元照(A000129);即靜(A000455)"
   },
   "X0715": {
     "title": "釋四分戒本序",
     "byline": "宋 道言述",
     "creators": "道言"
+	"creators_with_id":"道言(A001508)"
   },
   "X0716": {
     "title": "四分戒本緣起事義",
     "byline": "明 廣莫輯錄",
     "creators": "廣莫"
+	"creators_with_id":"廣莫(A001663)"
   },
   "X0717": {
     "title": "四分戒本如釋",
     "byline": "明 弘贊繹",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X0718": {
     "title": "四分戒本約義",
     "byline": "明 元賢述",
     "creators": "元賢"
+	"creators_with_id":"元賢(A000135)"
   },
   "X0719": {
     "title": "重治毗尼事義集要",
     "byline": "明 智旭輯繹",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0720": {
     "title": "毗尼關要",
     "byline": "清 德基輯",
     "creators": "德基"
+	"creators_with_id":"德基(A001679)"
   },
   "X0721": {
     "title": "毗尼關要事義",
     "byline": "清 德基輯",
     "creators": "德基"
+	"creators_with_id":"德基(A001679)"
   },
   "X0722": {
     "title": "四分刪定比丘尼戒本",
     "byline": "宋 元照重定",
     "creators": "元照"
+	"creators_with_id":"元照(A000129)"
   },
   "X0723": {
     "title": "四分比丘尼鈔科",
     "byline": "宋 允堪述",
     "creators": "允堪"
+	"creators_with_id":"允堪(A000138)"
   },
   "X0724": {
     "title": "四分比丘尼鈔",
     "byline": "唐 道宣述",
     "creators": "道宣"
+	"creators_with_id":"道宣(A001519)"
   },
   "X0725": {
     "title": "式叉摩那尼戒本",
     "byline": "明 弘贊輯",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X0726": {
     "title": "四分律隨機羯磨疏正源記",
     "byline": "宋 允堪述",
     "creators": "允堪"
+	"creators_with_id":"允堪(A000138)"
   },
   "X0727": {
     "title": "四分律刪補隨機羯磨疏科",
     "byline": "宋 元照錄",
     "creators": "元照"
+	"creators_with_id":"元照(A000129)"
   },
   "X0728": {
     "title": "四分律刪補隨機羯磨疏濟緣記",
     "byline": "唐 道宣疏　宋 元照述　日本 禪能合會",
     "creators": "道宣,元照,禪能"
+	"creators_with_id":"道宣(A001519);元照(A000129);禪能(A001863)"
   },
   "X0729": {
     "title": "羯磨經序解",
     "byline": "宋 則安述",
     "creators": "則安"
+	"creators_with_id":"則安(A000815)"
   },
   "X0730": {
     "title": "毗尼作持續釋",
     "byline": "唐 道宣撰集　清 讀體續釋",
     "creators": "道宣,讀體"
+	"creators_with_id":"道宣(A001519);讀體(A001972)"
   },
   "X0731": {
     "title": "四分律疏",
     "byline": "唐 法礪撰述",
     "creators": "法礪"
+	"creators_with_id":"法礪(A000747)"
   },
   "X0732": {
     "title": "四分律搜玄錄",
     "byline": "唐 志鴻撰述",
     "creators": "志鴻"
+	"creators_with_id":"志鴻(A000504)"
   },
   "X0733": {
     "title": "四分律疏飾宗義記",
     "byline": "唐 定賓作",
     "creators": "定賓"
+	"creators_with_id":"定賓(A000614)"
   },
   "X0734": {
     "title": "四分律疏",
     "byline": "唐 智首撰",
     "creators": "智首"
+	"creators_with_id":"智首(A001269)"
   },
   "X0735": {
     "title": "四分律開宗記",
     "byline": "唐 懷素撰",
     "creators": "懷素"
+	"creators_with_id":"懷素(A001899)"
   },
   "X0736": {
     "title": "四分律行事鈔批",
     "byline": "唐 大覺撰",
     "creators": "大覺"
+	"creators_with_id":"大覺(A000075)"
   },
   "X0737": {
     "title": "四分律行事鈔簡正記",
     "byline": "後唐 景霄纂",
     "creators": "景霄"
+	"creators_with_id":"景霄(A001248)"
   },
   "X0738": {
     "title": "四分律行事鈔科",
     "byline": "宋 元照錄",
     "creators": "元照"
+	"creators_with_id":"元照(A000129)"
   },
   "X0740": {
     "title": "資持記序解并五例講義",
     "byline": "宋 則安述",
     "creators": "則安"
+	"creators_with_id":"則安(A000815)"
   },
   "X0741": {
     "title": "行事鈔諸家記標目",
     "byline": "宋 慧顯集　日本 戒月改錄",
     "creators": "慧顯,戒月"
+	"creators_with_id":"慧顯(A001745);戒月(A000509)"
   },
   "X0742": {
     "title": "資持記立題拾義",
     "byline": "宋 道標出",
     "creators": "道標"
+	"creators_with_id":"道標(A001548)"
   },
   "X0743": {
     "title": "毗尼討要",
     "byline": "唐 玄惲纂",
     "creators": "玄惲"
+	"creators_with_id":"玄惲(A000296)"
   },
   "X0744": {
     "title": "四分律名義標釋",
     "byline": "明 弘贊輯",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X0745": {
     "title": "四分律藏大小持戒犍度略釋",
     "byline": "明 智旭釋",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0746": {
     "title": "四分律拾毗尼義鈔科",
     "byline": "宋 元照錄",
     "creators": "元照"
+	"creators_with_id":"元照(A000129)"
   },
   "X0747": {
     "title": "四分律拾毗尼義鈔",
     "byline": "唐 道宣撰",
     "creators": "道宣"
+	"creators_with_id":"道宣(A001519)"
   },
   "X0748": {
     "title": "四分律拾毗尼義鈔輔要記",
     "byline": "宋 允堪述",
     "creators": "允堪"
+	"creators_with_id":"允堪(A000138)"
   },
   "X0749": {
     "title": "佛說齋經科註",
     "byline": "明 智旭科註",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0750": {
     "title": "佛說目連五百問經略解",
     "byline": "明 性祇述",
     "creators": "性祇"
+	"creators_with_id":"性祇(A000630)"
   },
   "X0751": {
     "title": "佛說目連五百問戒律中輕重事經釋",
     "byline": "明 永海述",
     "creators": "永海"
+	"creators_with_id":"永海(A000284)"
   },
   "X0753": {
     "title": "十地經論義記",
     "byline": "隋 慧遠撰",
     "creators": "慧遠"
+	"creators_with_id":"慧遠(A002000)"
   },
   "X0754": {
     "title": "起信論一心二門大意",
     "byline": "陳 智愷作",
     "creators": "智愷"
+	"creators_with_id":"智愷(A001283)"
   },
   "X0755": {
     "title": "起信論義疏",
     "byline": "隋 曇延撰",
     "creators": "曇延"
+	"creators_with_id":"曇延(A001779)"
   },
   "X0757": {
     "title": "起信論疏記",
     "byline": "新羅 元曉疏並別記",
     "creators": "元曉"
+	"creators_with_id":"元曉(A000136)"
   },
   "X0759": {
     "title": "起信論同異集",
     "byline": "唐 見登集",
     "creators": "見登"
+	"creators_with_id":"見登(A000543)"
   },
   "X0762": {
     "title": "起信論纂註",
     "byline": "明 真界纂註",
     "creators": "真界"
+	"creators_with_id":"真界(A000948)"
   },
   "X0763": {
     "title": "起信論捷要",
     "byline": "明 正遠註",
     "creators": "正遠"
+	"creators_with_id":"正遠(A000275)"
   },
   "X0764": {
     "title": "起信論續疏",
     "byline": "明 通潤述疏",
     "creators": "通潤"
+	"creators_with_id":"通潤(A001156)"
   },
   "X0765": {
     "title": "大乘起信論疏略",
     "byline": "唐 法藏造疏　明 德清纂略",
     "creators": "法藏,德清"
+	"creators_with_id":"法藏(A002450);德清(A001681)"
   },
   "X0766": {
     "title": "起信論直解",
     "byline": "明 德清述",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0767": {
     "title": "起信論疏記會閱卷首"
@@ -2485,61 +2961,73 @@
     "title": "起信論疏記會閱",
     "byline": "清 續法會編",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X0770": {
     "title": "釋摩訶衍論記",
     "byline": "唐 聖法鈔",
     "creators": "聖法"
+	"creators_with_id":"聖法(A001481)"
   },
   "X0771": {
     "title": "釋摩訶衍論疏",
     "byline": "唐 法敏集",
     "creators": "法敏"
+	"creators_with_id":"法敏(A005825)"
   },
   "X0772": {
     "title": "釋摩訶衍論贊玄疏",
     "byline": "宋 法悟撰",
     "creators": "法悟"
+	"creators_with_id":"法悟(A000711)"
   },
   "X0773": {
     "title": "釋摩訶衍論科",
     "byline": "宋 普觀治定",
     "creators": "普觀"
+	"creators_with_id":"普觀(A001239)"
   },
   "X0774": {
     "title": "釋摩訶衍論記",
     "byline": "宋 普觀述",
     "creators": "普觀"
+	"creators_with_id":"普觀(A001239)"
   },
   "X0775": {
     "title": "釋摩訶衍論通玄鈔",
     "byline": "遼 志福撰",
     "creators": "志福"
+	"creators_with_id":"志福(A000500)"
   },
   "X0776": {
     "title": "大宗地玄文本論略註",
     "byline": "清 楊文會略註",
     "creators": "楊文會"
+	"creators_with_id":"楊文會(A001440)"
   },
   "X0777": {
     "title": "金剛頂菩提心論略記",
     "byline": "唐 遍滿撰",
     "creators": "遍滿"
+	"creators_with_id":"遍滿(A001579)"
   },
   "X0784": {
     "title": "大乘四論玄義",
     "byline": "唐 均正撰",
     "creators": "均正"
+	"creators_with_id":"均正(A000460)"
   },
   "X0786": {
     "title": "大乘法界無差別論疏領要鈔科",
     "byline": "宋 普觀錄",
     "creators": "普觀"
+	"creators_with_id":"普觀(A001239)"
   },
   "X0787": {
     "title": "大乘法界無差別論疏領要鈔",
     "byline": "宋 普觀述",
     "creators": "普觀"
+	"creators_with_id":"普觀(A001239)"
   },
   "X0788": {
     "title": "掌珍論疏"
@@ -2552,81 +3040,97 @@
     "title": "大智度論疏",
     "byline": "南北朝 慧影抄撰",
     "creators": "慧影"
+	"creators_with_id":"慧影(A001735)"
   },
   "X0794": {
     "title": "瑜伽論劫章頌",
     "byline": "唐 窺基撰",
     "creators": "窺基"
+	"creators_with_id":"窺基(A001019)"
   },
   "X0796": {
     "title": "雜集論述記",
     "byline": "唐 窺基撰",
     "creators": "窺基"
+	"creators_with_id":"窺基(A001019)"
   },
   "X0797": {
     "title": "中邊分別論疏",
     "byline": "新羅 元曉撰",
     "creators": "元曉"
+	"creators_with_id":"元曉(A000136)"
   },
   "X0799": {
     "title": "百法論顯幽鈔",
     "byline": "宋 從芳述",
     "creators": "從芳"
+	"creators_with_id":"從芳(A001055)"
   },
   "X0802": {
     "title": "百法明門論論義",
     "byline": "明 德清述",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0803": {
     "title": "百法明門論纂",
     "byline": "明 廣益纂釋",
     "creators": "廣益"
+	"creators_with_id":"廣益(A001661)"
   },
   "X0804": {
     "title": "百法明門論贅言",
     "byline": "唐 窺基解　明 明昱贅言",
     "creators": "窺基,明昱"
+	"creators_with_id":"窺基(A001019);明昱(A000660)"
   },
   "X0805": {
     "title": "百法明門論直解",
     "byline": "明 智旭解",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0806": {
     "title": "成唯識論料簡",
     "byline": "唐 窺基撰",
     "creators": "窺基"
+	"creators_with_id":"窺基(A001019)"
   },
   "X0808": {
     "title": "成唯識論別抄",
     "byline": "唐 窺基撰",
     "creators": "窺基"
+	"creators_with_id":"窺基(A001019)"
   },
   "X0810": {
     "title": "成唯識論掌中樞要記",
     "byline": "唐 智周述",
     "creators": "智周"
+	"creators_with_id":"智周(A001260)"
   },
   "X0812": {
     "title": "成唯識論了義燈記",
     "byline": "唐 智周撰",
     "creators": "智周"
+	"creators_with_id":"智周(A001260)"
   },
   "X0814": {
     "title": "成唯識論義蘊",
     "byline": "唐 道邑撰",
     "creators": "道邑"
+	"creators_with_id":"道邑(A001509)"
   },
   "X0815": {
     "title": "成唯識論疏義演",
     "byline": "唐 如理集",
     "creators": "如理"
+	"creators_with_id":"如理(A000347)"
   },
   "X0816": {
     "title": "成唯識論演秘釋",
     "byline": "唐 如理撰",
     "creators": "如理"
+	"creators_with_id":"如理(A000347)"
   },
   "X0817": {
     "title": "註成唯識論"
@@ -2635,101 +3139,121 @@
     "title": "成唯識論學記",
     "byline": "新羅 太賢集",
     "creators": "太賢"
+	"creators_with_id":"太賢(A000152)"
   },
   "X0819": {
     "title": "成唯識論疏抄",
     "byline": "唐 靈泰撰",
     "creators": "靈泰"
+	"creators_with_id":"靈泰(A001983)"
   },
   "X0820": {
     "title": "成唯識論俗詮",
     "byline": "明 明昱俗詮",
     "creators": "明昱"
+	"creators_with_id":"明昱(A000660)"
   },
   "X0821": {
     "title": "成唯識論集解",
     "byline": "明 通潤集解",
     "creators": "通潤"
+	"creators_with_id":"通潤(A001156)"
   },
   "X0822": {
     "title": "成唯識論證義(第1卷-第3卷)",
     "byline": "明 王肯堂證義",
     "creators": "王肯堂"
+	"creators_with_id":"王肯堂(A000205)"
   },
   "X0823": {
     "title": "成唯識論自攷",
     "byline": "明 大惠錄",
     "creators": "大惠"
+	"creators_with_id":"大惠(A000061)"
   },
   "X0824": {
     "title": "成唯識論觀心法要",
     "byline": "明 智旭述",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0825": {
     "title": "成唯識論音響補遺科",
     "byline": "清 智素科",
     "creators": "智素"
+	"creators_with_id":"智素(A001271)"
   },
   "X0826": {
     "title": "成唯識論音響補遺",
     "byline": "清 智素補遺",
     "creators": "智素"
+	"creators_with_id":"智素(A001271)"
   },
   "X0827": {
     "title": "唯識三十論約意",
     "byline": "明 明昱約意",
     "creators": "明昱"
+	"creators_with_id":"明昱(A000660)"
   },
   "X0828": {
     "title": "唯識三十論直解",
     "byline": "明 智旭解",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0830": {
     "title": "觀所緣緣論會釋",
     "byline": "明 明昱會釋",
     "creators": "明昱"
+	"creators_with_id":"明昱(A000660)"
   },
   "X0831": {
     "title": "觀所緣緣論直解",
     "byline": "明 智旭解",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0832": {
     "title": "觀所緣緣論釋記",
     "byline": "明 明昱錄記",
     "creators": "明昱"
+	"creators_with_id":"明昱(A000660)"
   },
   "X0833": {
     "title": "觀所緣緣論釋直解",
     "byline": "明 智旭解",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0836": {
     "title": "俱舍論疏",
     "byline": "唐 神泰述",
     "creators": "神泰"
+	"creators_with_id":"神泰(A000987)"
   },
   "X0837": {
     "title": "俱舍論法宗原",
     "byline": "唐 普光撰",
     "creators": "普光"
+	"creators_with_id":"普光(A000060)"
   },
   "X0838": {
     "title": "俱舍論頌疏序記",
     "byline": "唐 法盈修",
     "creators": "法盈"
+	"creators_with_id":"法盈(A000708)"
   },
   "X0839": {
     "title": "俱舍論頌疏義鈔",
     "byline": "唐 慧暉述",
     "creators": "慧暉"
+	"creators_with_id":"慧暉(A001732)"
   },
   "X0841": {
     "title": "俱舍論頌疏記",
     "byline": "唐 遁麟述",
     "creators": "遁麟"
+	"creators_with_id":"遁麟(A001581)"
   },
   "X0842": {
     "title": "俱舍論頌疏",
@@ -2739,521 +3263,625 @@
     "title": "順正理論述文記",
     "byline": "唐 元瑜述",
     "creators": "元瑜"
+	"creators_with_id":"元瑜(A000130)"
   },
   "X0844": {
     "title": "異部宗輪論疏述記",
     "byline": "唐 窺基記",
     "creators": "窺基"
+	"creators_with_id":"窺基(A001019)"
   },
   "X0845": {
     "title": "遺教經論住法記",
     "byline": "宋 元照述",
     "creators": "元照"
+	"creators_with_id":"元照(A000129)"
   },
   "X0846": {
     "title": "遺教經論記",
     "byline": "宋 觀復述",
     "creators": "觀復"
+	"creators_with_id":"觀復(A001991)"
   },
   "X0847": {
     "title": "因明入正理門論述記",
     "byline": "唐 神泰述",
     "creators": "神泰"
+	"creators_with_id":"神泰(A000987)"
   },
   "X0848": {
     "title": "因明入正理論疏",
     "byline": "唐 文軌述",
     "creators": "文軌"
+	"creators_with_id":"文軌(A000170)"
   },
   "X0852": {
     "title": "因明入正理論續疏",
     "byline": "唐 慧沼述",
     "creators": "慧沼"
+	"creators_with_id":"慧沼(A001708)"
   },
   "X0853": {
     "title": "因明入正理論疏前記",
     "byline": "唐 智周撰",
     "creators": "智周"
+	"creators_with_id":"智周(A001260)"
   },
   "X0854": {
     "title": "因明入正理論疏後記",
     "byline": "唐 智周撰",
     "creators": "智周"
+	"creators_with_id":"智周(A001260)"
   },
   "X0855": {
     "title": "因明入正理論疏抄",
     "byline": "唐 智周撰",
     "creators": "智周"
+	"creators_with_id":"智周(A001260)"
   },
   "X0856": {
     "title": "因明入正理論解",
     "byline": "明 真界集解",
     "creators": "真界"
+	"creators_with_id":"真界(A000948)"
   },
   "X0857": {
     "title": "因明入正理論集解",
     "byline": "明 王肯堂集釋",
     "creators": "王肯堂"
+	"creators_with_id":"王肯堂(A000205)"
   },
   "X0858": {
     "title": "因明入正理論直疏",
     "byline": "明 明昱疏",
     "creators": "明昱"
+	"creators_with_id":"明昱(A000660)"
   },
   "X0859": {
     "title": "因明入正理論直解",
     "byline": "明 智旭述",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0860": {
     "title": "判比量論",
     "byline": "新羅 元曉述",
     "creators": "元曉"
+	"creators_with_id":"元曉(A000136)"
   },
   "X0861": {
     "title": "三支比量義鈔",
     "byline": "唐 玄奘立　宋 延壽造　明 明昱鈔",
     "creators": "玄奘,延壽,明昱"
+	"creators_with_id":";明昱(A000660);延壽(A000282);明昱(A000660)"
   },
   "X0862": {
     "title": "真唯識量略解",
     "byline": "明 智旭略解",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0866": {
     "title": "肇論疏",
     "byline": "晉 惠達撰",
     "creators": "惠達"
+	"creators_with_id": "惠達(A001203)"
   },
   "X0868": {
     "title": "肇論疏科",
     "byline": "宋 遵式排定",
     "creators": "遵式"
+	"creators_with_id":"遵式(A014878)"
   },
   "X0869": {
     "title": "夾科肇論序注",
     "byline": "宋 曉月注",
     "creators": "曉月"
+	"creators_with_id": "曉月(A001776)"
   },
   "X0870": {
     "title": "注肇論疏",
     "byline": "宋 遵式述",
     "creators": "遵式"
+	"creators_with_id":"遵式(A014878)"
   },
   "X0872": {
     "title": "肇論新疏游刃",
     "byline": "宋 文才述",
     "creators": "文才"
+	"creators_with_id": "文才(A000166)"
   },
   "X0873": {
     "title": "肇論略註",
     "byline": "明 德清述",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0876": {
     "title": "三論略章",
     "byline": "隋 吉藏撰",
     "creators": "吉藏"
+	"creators_with_id": "吉藏(A000329)"
   },
   "X0878": {
     "title": "物不遷正量證",
     "byline": "明 道衡述",
     "creators": "道衡"
+	"creators_with_id": "道衡(A001557)"
   },
   "X0879": {
     "title": "物不遷正量論",
     "byline": "明 鎮澄著",
     "creators": "鎮澄"
+	"creators_with_id": "鎮澄(A001889)"
   },
   "X0880": {
     "title": "物不遷論辯解",
     "byline": "明 真界解",
     "creators": "真界"
+	"creators_with_id":"真界(A000948)"
   },
   "X0882": {
     "title": "大乘法苑義林章補闕",
     "byline": "唐 慧沼撰",
     "creators": "慧沼"
+	"creators_with_id":"慧沼(A001708)"
   },
   "X0883": {
     "title": "大乘法苑義林章決擇記",
     "byline": "唐 智周撰",
     "creators": "智周"
+	"creators_with_id":"智周(A001260)"
   },
   "X0884": {
     "title": "表無表章栖翫記",
     "byline": "宋 守千述",
     "creators": "守千"
+	"creators_with_id":"守千(A000357)"
   },
   "X0888": {
     "title": "唯識開蒙問答",
     "byline": "元 雲峯集",
     "creators": "雲峯"
+	"creators_with_id":"雲峯(A001388)"
   },
   "X0890": {
     "title": "八識規矩補註證義",
     "byline": "明 明昱證義",
     "creators": "明昱"
+	"creators_with_id":"明昱(A000660)"
   },
   "X0891": {
     "title": "八識規矩略說",
     "byline": "明 正誨略說",
     "creators": "正誨"
+	"creators_with_id":"正誨(A000274)"
   },
   "X0892": {
     "title": "八識規矩頌解",
     "byline": "明 真可述",
     "creators": "真可"
+	"creators_with_id":"真可(A000944)"
   },
   "X0893": {
     "title": "八識規矩通說",
     "byline": "明 德清述",
     "creators": "德清"
+	"creators_with_id":"德清(A001681)"
   },
   "X0894": {
     "title": "八識規矩纂釋",
     "byline": "明 廣益纂釋",
     "creators": "廣益"
+	"creators_with_id":"廣益(A001661)"
   },
   "X0895": {
     "title": "八識規矩直解",
     "byline": "明 智旭解",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0896": {
     "title": "八識規矩淺說",
     "byline": "清 行舟說",
     "creators": "行舟"
+	"creators_with_id":"行舟(A000406)"
   },
   "X0897": {
     "title": "八識規矩頌注",
     "byline": "清 行舟註",
     "creators": "行舟"
+	"creators_with_id":"行舟(A000406)"
   },
   "X0898": {
     "title": "八識規矩論義",
     "byline": "清 性起論釋　善漳等錄",
     "creators": "性起,善漳"
+	"creators_with_id":"性起(A000634);善漳(A001348)"
   },
   "X0899": {
     "title": "相宗八要",
     "byline": "明 洪恩輯",
     "creators": "洪恩"
+	"creators_with_id":"洪恩(A004672)"
   },
   "X0900": {
     "title": "相宗八要解",
     "byline": "明 明昱著",
     "creators": "明昱"
+	"creators_with_id":"明昱(A000660)"
   },
   "X0901": {
     "title": "相宗八要直解",
     "byline": "明 智旭解",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0902": {
     "title": "一乘佛性究竟論",
     "byline": "唐 法寶述",
     "creators": "法寶"
+	"creators_with_id":"法寶(A000746)"
   },
   "X0903": {
     "title": "隨自意三昧",
-    "byline": "隋 慧思撰",
+    "byline": "陳 慧思撰",
     "creators": "慧思"
+	"creators_with_id":"慧思(A001711)"
   },
   "X0904": {
     "title": "大乘止觀法門宗圓記",
     "byline": "宋 了然述",
     "creators": "了然"
+	"creators_with_id":"了然(A000035)"
   },
   "X0905": {
     "title": "大乘止觀法門釋要",
     "byline": "明 智旭述",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0907": {
     "title": "禪門章",
     "byline": "隋 智顗說",
     "creators": "智顗"
+	"creators_with_id":"智顗(A001301)"
   },
   "X0908": {
     "title": "禪門要略",
     "byline": "隋 智顗出",
     "creators": "智顗"
+	"creators_with_id":"智顗(A001301)"
   },
   "X0909": {
     "title": "三觀義",
     "byline": "隋 智顗撰",
     "creators": "智顗"
+	"creators_with_id":"智顗(A001301)"
   },
   "X0911": {
     "title": "觀心食法",
     "byline": "隋 智顗述",
     "creators": "智顗"
+	"creators_with_id":"智顗(A001301)"
   },
   "X0912": {
     "title": "觀心誦經法記",
     "byline": "隋 智顗說　唐 湛然述",
     "creators": "智顗,湛然"
+	"creators_with_id":"智顗(A001301);湛然(A001307)"
   },
   "X0913": {
     "title": "天台智者大師發願文",
     "byline": "隋 智顗撰",
     "creators": "智顗"
+	"creators_with_id":"智顗(A001301)"
   },
   "X0914": {
     "title": "普賢菩薩發願文",
     "byline": "隋 智顗撰",
     "creators": "智顗"
+	"creators_with_id":"智顗(A001301)"
   },
   "X0915": {
     "title": "刪定止觀",
     "byline": "唐 梁肅述",
     "creators": "梁肅"
+	"creators_with_id":"梁肅(A001081)"
   },
   "X0916": {
     "title": "天台智者大師傳論",
     "byline": "唐 梁肅述",
     "creators": "梁肅"
+	"creators_with_id":"梁肅(A001081)"
   },
   "X0917": {
     "title": "止觀科節",
     "byline": "唐 法藏撰",
     "creators": "法藏"
+	"creators_with_id":"法藏(A002450)"
   },
   "X0918": {
     "title": "止觀記中異義",
     "byline": "唐 道邃說　乾淑集",
     "creators": "道邃,乾淑"
+	"creators_with_id":"道邃(A001563);乾淑(A001011)"
   },
   "X0919": {
     "title": "止觀輔行搜要記",
     "byline": "唐 湛然述",
     "creators": "湛然"
+	"creators_with_id":"湛然(A001307)"
   },
   "X0920": {
     "title": "止觀輔行助覽",
     "byline": "宋 有嚴注",
     "creators": "有嚴"
+	"creators_with_id":"有嚴(A000383)"
   },
   "X0921": {
     "title": "摩訶止觀義例纂要",
     "byline": "宋 從義撰",
     "creators": "從義"
+	"creators_with_id":"從義(A001057)"
   },
   "X0922": {
     "title": "摩訶止觀義例科",
     "byline": "宋 從義排",
     "creators": "從義"
+	"creators_with_id":"從義(A001057)"
   },
   "X0923": {
     "title": "摩訶止觀義例隨釋",
     "byline": "宋 處元述",
     "creators": "處元"
+	"creators_with_id":"處元(A001138)"
   },
   "X0924": {
     "title": "摩訶止觀貫義科",
     "byline": "明 天溪說　清 靈耀補定",
     "creators": "天溪,靈耀"
+	"creators_with_id":"天溪(A000555);靈耀(A001987)"
   },
   "X0925": {
     "title": "十不二門義",
     "byline": "唐 道邃錄出",
     "creators": "道邃"
+	"creators_with_id":"道邃(A001563)"
   },
   "X0926": {
     "title": "法華十妙不二門示珠指",
     "byline": "宋 源清述",
     "creators": "源清"
+	"creators_with_id":"源清(A001449)"
   },
   "X0927": {
     "title": "註法華本迹十不二門",
     "byline": "宋 宗翌述",
     "creators": "宗翌"
+	"creators_with_id":"宗翌(A000591)"
   },
   "X0928": {
     "title": "十不二門文心解",
     "byline": "宋 仁岳述",
     "creators": "仁岳"
+	"creators_with_id":"仁岳(A000106)"
   },
   "X0929": {
     "title": "法華玄記十不二門顯妙",
     "byline": "宋 處謙述",
     "creators": "處謙"
+	"creators_with_id": "處謙(A001142)"
   },
   "X0930": {
     "title": "十不二門樞要",
     "byline": "宋 了然述",
     "creators": "了然"
+	"creators_with_id":"了然(A000035)"
   },
   "X0931": {
     "title": "十不二門指要鈔詳解",
     "byline": "宋 可度詳解　明 正謐分會",
     "creators": "可度,正謐"
+	"creators_with_id":"可度(A000221);正謐(A000277)"
   },
   "X0932": {
     "title": "金剛錍論私記",
     "byline": "唐 明曠記　日本 辯才會",
     "creators": "明曠,辯才"
+	"creators_with_id":"明曠(A000673);辯才(A001964)"
   },
   "X0933": {
     "title": "金剛錍科",
-    "byline": "宋 仁岳撰",
-    "creators": "仁岳"
+    "byline": "宋 淨岳撰",
+    "creators": "淨岳"
+	"creators_with_id": "淨岳(A001117)"
   },
   "X0934": {
     "title": "金剛錍科",
     "byline": "宋 智圓集",
     "creators": "智圓"
+	"creators_with_id":"智圓(A001282)"
   },
   "X0935": {
     "title": "金剛錍顯性錄",
     "byline": "宋 智圓集",
     "creators": "智圓"
+	"creators_with_id":"智圓(A001282)"
   },
   "X0936": {
     "title": "金剛錍論義解",
     "byline": "宋 善月述",
     "creators": "善月"
+	"creators_with_id":"善月(A000848)"
   },
   "X0937": {
     "title": "金剛錍論釋文",
     "byline": "宋 時舉釋　明 海眼會",
     "creators": "時舉,海眼"
+	"creators_with_id":"時舉(A000934);海眼(A000937)"
   },
   "X0938": {
     "title": "始終心要注",
     "byline": "宋 從義注",
     "creators": "從義"
+	"creators_with_id":"從義(A001057)"
   },
   "X0939": {
     "title": "法華五百問論",
     "byline": "唐 湛然述",
     "creators": "湛然"
+	"creators_with_id":"湛然(A001307)"
   },
   "X0940": {
     "title": "學天台宗法門大意",
     "byline": "唐 行滿述",
     "creators": "行滿"
+	"creators_with_id":"行滿(A000423)"
   },
   "X0941": {
     "title": "六即義",
     "byline": "唐 行滿述",
     "creators": "行滿"
+	"creators_with_id":"行滿(A000423)"
   },
   "X0942": {
     "title": "天台宗未決（附釋疑）",
     "byline": "日本 最澄．圓澄．義真．光定．德圓 問　唐 道邃．廣修．維蠲．宗頴 答",
     "creators": "最澄,圓澄,義真,光定,德圓,道邃,廣修,維蠲,宗頴"
+	"creators_with_id":"最澄(A001177);圓澄(A001420);義真(A001467);光定(A000317);德圓(A036506);道邃(A001563);廣修(A001660);維蠲(A014724);宗頴(A036507)"
   },
   "X0943": {
     "title": "法華龍女成佛權實義",
     "byline": "宋 源清述",
     "creators": "源清"
+	"creators_with_id":"源清(A001449)"
   },
   "X0944": {
     "title": "寶雲振祖集",
     "byline": "宋 宗曉編",
     "creators": "宗曉"
+	"creators_with_id":"宗曉(A000601)"
   },
   "X0946": {
     "title": "螺溪振祖集",
     "byline": "宋 元悟編",
     "creators": "元悟"
+	"creators_with_id":"元悟(A000118)"
   },
   "X0948": {
     "title": "四明仁岳異說叢書",
     "byline": "宋 繼忠集",
     "creators": "繼忠"
+	"creators_with_id":"繼忠(A001931)"
   },
   "X0949": {
     "title": "閑居編",
     "byline": "宋 智圓著",
     "creators": "智圓"
+	"creators_with_id":"智圓(A001282)"
   },
   "X0950": {
     "title": "金園集",
     "byline": "宋 遵式述　慧觀重編",
     "creators": "遵式,慧觀"
+	"creators_with_id":"遵式(A001832);慧觀(A036508)"
   },
   "X0951": {
     "title": "天竺別集",
     "byline": "宋 遵式述　慧觀重編",
     "creators": "遵式,慧觀"
+	"creators_with_id":"遵式(A001832);慧觀(A036508)"
   },
   "X0952": {
     "title": "重編天台諸文類集",
     "byline": "宋 如吉編",
     "creators": "如吉"
+	"creators_with_id":"如吉(A000339)"
   },
   "X0953": {
     "title": "別傳心法議",
     "byline": "宋 戒珠撰",
     "creators": "戒珠"
+	"creators_with_id":"戒珠(A000513)"
   },
   "X0954": {
     "title": "三千有門頌略解",
     "byline": "明 真覺略解",
     "creators": "真覺"
+	"creators_with_id":"真覺(A000964)"
   },
   "X0955": {
     "title": "復宗集",
     "byline": "宋 與咸述",
     "creators": "與咸"
+	"creators_with_id":"與咸(A001637)"
   },
   "X0956": {
     "title": "山家義苑",
     "byline": "宋 可觀 述　智增 證",
     "creators": "可觀,智增"
+	"creators_with_id":"可觀(A000226);智增(A001290)"
   },
   "X0957": {
     "title": "竹菴艸錄",
     "byline": "宋 可觀撰",
     "creators": "可觀"
+	"creators_with_id":"可觀(A000226)"
   },
   "X0958": {
     "title": "圓頓宗眼",
     "byline": "宋 法登述",
     "creators": "法登"
+	"creators_with_id":"法登(A000727)"
   },
   "X0959": {
     "title": "議中興教觀",
     "byline": "宋 法登述",
     "creators": "法登"
+	"creators_with_id":"法登(A000727)"
   },
   "X0960": {
     "title": "三教出興頌註",
     "byline": "宋 宗曉注",
     "creators": "宗曉"
+	"creators_with_id":"宗曉(A000601)"
   },
   "X0961": {
     "title": "施食通覽",
     "byline": "宋 宗曉編",
     "creators": "宗曉"
+	"creators_with_id":"宗曉(A000601)"
   },
   "X0962": {
     "title": "不可剎那無此君",
     "byline": "宋 義銛述",
     "creators": "義銛"
+	"creators_with_id":"義銛(A001476)"
   },
   "X0963": {
     "title": "北峯教義",
     "byline": "宋 宗印撰",
     "creators": "宗印"
+	"creators_with_id":"宗印(A000571)"
   },
   "X0964": {
     "title": "台宗十類因革論",
     "byline": "宋 善月述",
     "creators": "善月"
+	"creators_with_id":"善月(A000848)"
   },
   "X0965": {
     "title": "山家緒餘集",
     "byline": "宋 善月述",
     "creators": "善月"
+	"creators_with_id":"善月(A000848)"
   },
   "X0966": {
     "title": "台宗精英集",
     "byline": "宋 普容集",
     "creators": "普容"
+	"creators_with_id":"普容(A001216)"
   },
   "X0967": {
     "title": "教觀撮要論",
@@ -3263,176 +3891,211 @@
     "title": "增修教苑清規",
     "byline": "元 自慶編述",
     "creators": "自慶"
+	"creators_with_id":"自慶(A000399)"
   },
   "X0969": {
     "title": "天台傳佛心印記註",
     "byline": "明 傳燈註",
     "creators": "傳燈"
+	"creators_with_id":"傳燈(A007274)"
   },
   "X0970": {
     "title": "性善惡論",
     "byline": "明 傳燈註",
     "creators": "傳燈"
+	"creators_with_id":"傳燈(A007274)"
   },
   "X0971": {
     "title": "書",
     "byline": "明 克勤著",
     "creators": "克勤"
+	"creators_with_id":"克勤(A000453)"
   },
   "X0972": {
     "title": "法界安立圖",
     "byline": "明 仁潮錄",
     "creators": "仁潮"
+	"creators_with_id":"仁潮(A000110)"
   },
   "X0974": {
     "title": "教觀綱宗釋義",
     "byline": "明 智旭述",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X0975": {
     "title": "隨緣集",
     "byline": "清 靈耀著",
     "creators": "靈耀"
+	"creators_with_id":"靈耀(A001987)"
   },
   "X0976": {
     "title": "四教儀集解",
     "byline": "宋 從義撰",
     "creators": "從義"
+	"creators_with_id":"從義(A001057)"
   },
   "X0977": {
     "title": "四教儀備釋",
     "byline": "元 元粹述",
     "creators": "元粹"
+	"creators_with_id":"元粹(A000132)"
   },
   "X0978": {
     "title": "四教儀集註科",
     "byline": "元 蒙潤排定",
     "creators": "蒙潤"
+	"creators_with_id":"蒙潤(A001638)"
   },
   "X0979": {
     "title": "四教儀集註節義",
     "byline": "清 靈耀節",
     "creators": "靈耀"
+	"creators_with_id":"靈耀(A001987)"
   },
   "X0980": {
     "title": "四教儀註彙補輔宏記",
     "byline": "清 性權記",
     "creators": "性權"
+	"creators_with_id":"性權(A000645)"
   },
   "X0985": {
     "title": "華嚴融會一乘義章明宗記",
     "byline": "宋 師會述",
     "creators": "師會"
+	"creators_with_id":"師會(A000915)"
   },
   "X0991": {
     "title": "華嚴經普賢觀行法門",
     "byline": "唐 法藏撰",
     "creators": "法藏"
+	"creators_with_id":"法藏(A002450)"
   },
   "X0993": {
     "title": "華嚴還源觀科",
     "byline": "宋 淨源刊正",
     "creators": "淨源"
+	"creators_with_id":"淨源(A001113)"
   },
   "X0994": {
     "title": "華嚴妄盡還源觀疏鈔補解",
     "byline": "宋 淨源述",
     "creators": "淨源"
+	"creators_with_id":"淨源(A001113)"
   },
   "X0995": {
     "title": "華嚴一乘教義分齊章義苑疏",
     "byline": "宋 道亭述",
     "creators": "道亭"
+	"creators_with_id":"道亭(A001516)"
   },
   "X0996": {
     "title": "華嚴一乘教義分齊章焚薪",
     "byline": "宋 師會錄",
     "creators": "師會"
+	"creators_with_id":"師會(A000915)"
   },
   "X0997": {
     "title": "華嚴一乘教義分齊章科",
     "byline": "宋 師會述",
     "creators": "師會"
+	"creators_with_id":"師會(A000915)"
   },
   "X0998": {
     "title": "華嚴一乘教義分齊章復古記",
     "byline": "宋 師會．善熹述",
     "creators": "師會,善熹"
+	"creators_with_id":"師會(A000915);善熹(A001350)"
   },
   "X0999": {
     "title": "五教章集成記",
     "byline": "宋 希迪述",
     "creators": "希迪"
+	"creators_with_id":"希迪(A000487)"
   },
   "X1000": {
     "title": "評復古記",
     "byline": "宋 希迪錄",
     "creators": "希迪"
+	"creators_with_id":"希迪(A000487)"
   },
   "X1004": {
     "title": "五蘊觀",
     "byline": "唐 澄觀述",
     "creators": "澄觀"
+	"creators_with_id":"澄觀(A001755)"
   },
   "X1005": {
     "title": "華嚴心要法門註",
     "byline": "唐 宗密述",
     "creators": "宗密"
+	"creators_with_id":"宗密(A000587)"
   },
   "X1007": {
     "title": "註華嚴法界觀科文",
     "byline": "唐 宗密述",
     "creators": "宗密"
+	"creators_with_id":"宗密(A000587)"
   },
   "X1008": {
     "title": "註華嚴法界觀科文",
     "byline": "唐 宗豫述",
     "creators": "宗豫"
+	"creators_with_id":"宗豫(A000602)"
   },
   "X1010": {
     "title": "勸發菩提心文",
     "byline": "唐 裴休述",
     "creators": "裴休"
+	"creators_with_id":"裴休(A003624)"
   },
   "X1013": {
     "title": "華嚴法相槃節",
     "byline": "宋 道通述",
     "creators": "道通"
+	"creators_with_id":"道通(A012731)"
   },
   "X1014": {
     "title": "法界觀披雲集",
     "byline": "宋 道通述",
     "creators": "道通"
+	"creators_with_id":"道通(A012731)"
   },
   "X1015": {
     "title": "圓宗文類",
     "byline": "高麗 義天集",
     "creators": "義天"
+	"creators_with_id":"義天(A001462)"
   },
   "X1016": {
     "title": "註華嚴同教一乘策",
     "byline": "宋 師會述　希迪註",
     "creators": "師會,希迪"
+	"creators_with_id":"師會(A000915);希迪(A000487)"
   },
   "X1017": {
     "title": "註同教問答",
     "byline": "宋 師會述　善熹註",
     "creators": "師會,善熹"
+	"creators_with_id":"師會(A000915);善熹(A001350)"
   },
   "X1018": {
     "title": "評金剛錍",
     "byline": "宋 善熹述",
     "creators": "善熹"
+	"creators_with_id":"善熹(A001350)"
   },
   "X1019": {
     "title": "辨非集",
     "byline": "宋 善熹述",
     "creators": "善熹"
+	"creators_with_id":"善熹(A001350)"
   },
   "X1020": {
     "title": "斥謬",
     "byline": "宋 善熹書",
     "creators": "善熹"
+	"creators_with_id":"善熹(A001350)"
   },
   "X1022": {
     "title": "五相智識頌",
@@ -3443,376 +4106,451 @@
     "title": "華嚴大意",
     "byline": "明 善堅撰",
     "creators": "善堅"
+	"creators_with_id":"善堅(A001339)"
   },
   "X1024": {
     "title": "賢首五教儀",
     "byline": "清 續法集錄",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X1025": {
     "title": "賢首五教儀開蒙",
     "byline": "清 續法集",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X1026": {
     "title": "賢首五教斷證三覺揀濫圖",
     "byline": "清 續法集",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X1027": {
     "title": "法界宗蓮花章",
     "byline": "清 續法集",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X1028": {
     "title": "華嚴鏡燈章",
     "byline": "清 續法集",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X1029": {
     "title": "一乘決疑論",
     "byline": "清 彭際清述",
     "creators": "彭際清"
+	"creators_with_id":"彭際清(A001188)"
   },
   "X1030": {
     "title": "華嚴念佛三昧論",
     "byline": "清 彭際清述",
     "creators": "彭際清"
+	"creators_with_id":"彭際清(A001188)"
   },
   "X1031": {
     "title": "華嚴原人論發微錄",
     "byline": "宋 淨源述",
     "creators": "淨源"
+	"creators_with_id":"淨源(A001113)"
   },
   "X1032": {
     "title": "華嚴原人論解",
     "byline": "元 圓覺解",
     "creators": "圓覺"
+	"creators_with_id":"圓覺(A001422)"
   },
   "X1033": {
     "title": "華嚴原人論合解",
     "byline": "元 圓覺解　明 楊嘉祚刪合",
     "creators": "圓覺,楊嘉祚"
+	"creators_with_id":"圓覺(A001422);楊嘉祚(A007822)"
   },
   "X1043": {
     "title": "看命一掌金",
     "byline": "唐 一行著",
     "creators": "一行"
+	"creators_with_id":"一行(A000008)"
   },
   "X1048": {
     "title": "持咒仙人飛鉢儀軌",
     "byline": "唐 不空拔出",
     "creators": "不空"
+	"creators_with_id":"不空(A000095)"
   },
   "X1052": {
     "title": "成就夢想法",
     "byline": "唐 不空述",
     "creators": "不空"
+	"creators_with_id":"不空(A000095)"
   },
   "X1054": {
     "title": "多利心菩薩念誦法",
     "byline": "南天竺 跋折羅菩提集撰",
     "creators": "跋折羅菩提"
+	"creators_with_id":"跋折羅菩提(A001375)"
   },
   "X1069": {
     "title": "釋迦牟尼如來拔除苦惱現大神變飛空大鉢法",
     "byline": "唐 般若 傳",
     "creators": "般若"
+	"creators_with_id":"般若(A036834)"
   },
   "X1073": {
     "title": "金胎兩界師資相承",
     "byline": "唐 海雲集",
     "creators": "海雲"
+	"creators_with_id":"海雲(A000938)"
   },
   "X1074": {
     "title": "胎金兩界血脈",
     "byline": "唐 造玄增補",
     "creators": "造玄"
+	"creators_with_id":"造玄(A001158)"
   },
   "X1077": {
     "title": "準提淨業",
     "byline": "明 謝于教 著",
     "creators": "謝于教"
+	"creators_with_id":"謝于教(A001866)"
   },
   "X1078": {
     "title": "準提心要",
     "byline": "明 施堯挺撰",
     "creators": "施堯挺"
+	"creators_with_id":"施堯挺(A019146)"
   },
   "X1079": {
     "title": "持誦準提真言法要",
     "byline": "清 弘贊輯",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1080": {
     "title": "瑜伽集要施食儀軌",
     "byline": "明 袾宏重訂",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X1081": {
     "title": "修設瑜伽集要施食壇儀",
     "byline": "明 袾宏補註",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X1082": {
     "title": "於密滲施食旨槩",
     "byline": "清 法藏著",
     "creators": "法藏"
+	"creators_with_id": "法藏(A003668)"
   },
   "X1083": {
     "title": "修習瑜伽集要施食壇儀",
     "byline": "清 法藏著",
     "creators": "法藏"
+	"creators_with_id": "法藏(A003668)"
   },
   "X1084": {
     "title": "瑜伽燄口註集纂要儀軌",
     "byline": "清 寂暹纂",
     "creators": "寂暹"
+	"creators_with_id": "寂暹(A001034)"
   },
   "X1085": {
     "title": "受菩薩戒儀",
     "byline": "陳 慧思撰",
     "creators": "慧思"
+	"creators_with_id":"慧思(A001711)"
   },
   "X1086": {
     "title": "授菩薩戒儀",
     "byline": "唐 湛然述",
     "creators": "湛然"
+	"creators_with_id":"湛然(A001307)"
   },
   "X1087": {
     "title": "略授三歸五八戒並菩薩戒",
     "byline": "唐 澄照讚",
     "creators": "澄照"
+	"creators_with_id": "澄照(A001753)"
   },
   "X1088": {
     "title": "受菩薩戒法",
     "byline": "宋 延壽撰",
     "creators": "延壽"
+	"creators_with_id": "延壽(A000282)"
   },
   "X1094": {
     "title": "釋門歸敬儀護法記",
     "byline": "宋 彥起撰",
     "creators": "彥起"
+	"creators_with_id": "彥起(A000826)"
   },
   "X1095": {
     "title": "釋門歸敬儀通真記",
     "byline": "宋 了然述　日本 慧光合",
     "creators": "了然,慧光"
+	"creators_with_id":"了然(A000035);慧光(A036835)"
   },
   "X1096": {
     "title": "淨心誡觀法發真鈔",
     "byline": "宋 允堪述　日本 慧光合",
     "creators": "允堪,慧光"
+	"creators_with_id":"允堪(A000138);慧光(A036835)"
   },
   "X1097": {
     "title": "釋門章服儀應法記",
     "byline": "宋 元照述　日本 良信合",
     "creators": "元照,良信"
+	"creators_with_id":"元照(A000129);良信(A000536)"
   },
   "X1098": {
     "title": "衣鉢名義章",
     "byline": "宋 允堪述",
     "creators": "允堪"
+	"creators_with_id":"允堪(A000138)"
   },
   "X1099": {
     "title": "新受戒比丘六念五觀法",
     "byline": "宋 允堪撰錄",
     "creators": "允堪"
+	"creators_with_id":"允堪(A000138)"
   },
   "X1100": {
     "title": "道具賦",
     "byline": "宋 元照撰",
     "creators": "元照"
+	"creators_with_id":"元照(A000129)"
   },
   "X1102": {
     "title": "佛制六物圖辯訛",
     "byline": "宋 妙生述",
     "creators": "妙生"
+	"creators_with_id": "妙生(A000462)"
   },
   "X1103": {
     "title": "三衣顯正圖",
     "byline": "宋 妙生述",
     "creators": "妙生"
+	"creators_with_id": "妙生(A000462)"
   },
   "X1104": {
     "title": "芝園遺編",
     "byline": "宋 元照錄　道詢集",
     "creators": "元照,道詢"
+	"creators_with_id":"元照(A000129);道詢(A001543)"
   },
   "X1105": {
     "title": "芝園集",
     "byline": "宋 元照作",
     "creators": "元照"
+	"creators_with_id":"元照(A000129)"
   },
   "X1106": {
     "title": "補續芝園集",
     "byline": "宋 元照撰",
     "creators": "元照"
+	"creators_with_id":"元照(A000129)"
   },
   "X1107": {
     "title": "律宗新學名句",
     "byline": "宋 惟顯編",
     "creators": "惟顯"
+	"creators_with_id": "惟顯(A001078)"
   },
   "X1108": {
     "title": "律宗問答",
-    "byline": "日本 俊艿問　宋 了然．智瑞．妙音答",
-    "creators": "俊艿,了然,智瑞,妙音"
+    "byline": "日本 俊芿問　宋 了然．智瑞．妙音答",
+    "creators": "俊芿,了然,智瑞,妙音"
+	"creators_with_id":"俊芿(A000811);了然(A000035);智瑞(A001285);妙音(A000469)"
   },
   "X1109": {
     "title": "終南家業",
     "byline": "宋 守一述　行枝編",
     "creators": "守一,行枝"
+	"creators_with_id": "守一(A011485);行枝(A000410)"
   },
   "X1110": {
     "title": "律宗會元",
     "byline": "宋 守一集",
     "creators": "守一"
+	"creators_with_id": "守一(A011485)"
   },
   "X1111": {
     "title": "蓬折直辨",
     "byline": "宋 妙蓮撰",
     "creators": "妙蓮"
+	"creators_with_id": "妙蓮(A000477)"
   },
   "X1112": {
     "title": "蓬折箴",
     "byline": "宋 妙蓮撰",
     "creators": "妙蓮"
+	"creators_with_id": "妙蓮(A000477)"
   },
   "X1113": {
     "title": "律苑事規",
     "byline": "元 省悟編述　嗣良參訂",
     "creators": "省悟,嗣良"
+	"creators_with_id": "省悟(A000860);嗣良(A001399)"
   },
   "X1114": {
     "title": "毗尼日用錄",
     "byline": "明 性祇述",
     "creators": "性祇"
+	"creators_with_id":"性祇(A000630)"
   },
   "X1115": {
     "title": "毗尼日用切要",
     "byline": "清 讀體彙集",
     "creators": "讀體"
+	"creators_with_id":"讀體(A001972)"
   },
   "X1116": {
     "title": "毗尼日用切要香乳記",
     "byline": "清 書玉箋記",
     "creators": "書玉"
+	"creators_with_id":"書玉(A000935)"
   },
   "X1117": {
     "title": "沙門日用",
     "byline": "清 弘贊編",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1118": {
     "title": "沙彌律儀要略增註",
     "byline": "清 弘贊註",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1119": {
     "title": "沙彌律儀要略述義",
     "byline": "清 書玉科釋",
     "creators": "書玉"
+	"creators_with_id":"書玉(A000935)"
   },
   "X1120": {
     "title": "沙彌律儀毗尼日用合參",
     "byline": "清 戒顯訂閱　濟岳彙箋",
     "creators": "戒顯,濟岳"
+	"creators_with_id":"戒顯(A004077);濟岳(A001854)"
   },
   "X1121": {
     "title": "沙彌十戒威儀錄要",
     "byline": "明 智旭重輯",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X1122": {
     "title": "沙彌尼律儀要略",
     "byline": "清 讀體輯集",
     "creators": "讀體"
+	"creators_with_id":"讀體(A001972)"
   },
   "X1123": {
     "title": "在家律要廣集",
     "byline": "明 智旭集　清 儀潤．陳熙願增訂",
     "creators": "智旭,儀潤,陳熙願"
+	"creators_with_id":"智旭(A001257);儀潤(A001647);陳熙願(A001166)"
   },
   "X1124": {
     "title": "律要後集",
     "byline": "明 智旭集",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X1125": {
     "title": "律學發軔",
     "byline": "明 元賢述",
     "creators": "元賢"
+	"creators_with_id":"元賢(A000135)"
   },
   "X1126": {
     "title": "弘戒法儀",
     "byline": "明 法藏輯",
     "creators": "法藏"
+	"creators_with_id": "法藏(A003668)"
   },
   "X1127": {
     "title": "傳授三壇弘戒法儀",
     "byline": "明 法藏 撰集　清 超遠 檢錄",
     "creators": "法藏,超遠"
+	"creators_with_id": "法藏(A003668);超遠(A001373)"
   },
   "X1128": {
     "title": "傳戒正範",
     "byline": "清 讀體撰",
     "creators": "讀體"
+	"creators_with_id":"讀體(A001972)"
   },
   "X1129": {
     "title": "歸戒要集",
     "byline": "清 弘贊輯",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1130": {
     "title": "八關齋法",
     "byline": "清 弘贊輯",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1131": {
     "title": "比丘受戒錄",
     "byline": "清 弘贊述",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1132": {
     "title": "比丘尼受戒錄",
     "byline": "清 弘贊述",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1133": {
     "title": "沙彌學戒儀軌頌註",
     "byline": "清 弘贊述並註",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1134": {
     "title": "二部僧授戒儀式",
     "byline": "清 書玉述",
     "creators": "書玉"
+	"creators_with_id":"書玉(A000935)"
   },
   "X1135": {
     "title": "羯磨儀式",
     "byline": "清 書玉述",
     "creators": "書玉"
+	"creators_with_id":"書玉(A000935)"
   },
   "X1136": {
     "title": "經律戒相布薩軌儀",
     "byline": "明 如馨纂要",
     "creators": "如馨"
+	"creators_with_id": "如馨(A000352)"
   },
   "X1137": {
     "title": "梵網經懺悔行法",
     "byline": "明 智旭述",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X1138": {
     "title": "戒殺四十八問",
     "byline": "清 周思仁述",
     "creators": "周思仁"
+	"creators_with_id": "周思仁(A000562)"
   },
   "X1139": {
     "title": "體仁要術",
     "byline": "清 彭紹升著",
     "creators": "彭紹升"
+	"creators_with_id": "彭紹升(A001188)"
   },
   "X1145": {
     "title": "西方要決科註"
@@ -3821,446 +4559,536 @@
     "title": "注十疑論",
     "byline": "宋 澄彧註",
     "creators": "澄彧"
+	"creators_with_id": "澄彧(A001751)"
   },
   "X1154": {
     "title": "淨土指歸集",
     "byline": "明 大佑集",
     "creators": "大佑"
+	"creators_with_id": "大佑(A000055)"
   },
   "X1155": {
     "title": "淨土簡要錄",
     "byline": "明 道衍編",
     "creators": "道衍"
+	"creators_with_id": "道衍(A001522)"
   },
   "X1156": {
     "title": "歸元直指集",
     "byline": "明 宗本集",
     "creators": "宗本"
+	"creators_with_id": "宗本(A000568)"
   },
   "X1157": {
     "title": "淨土決",
     "byline": "明 李贄集",
     "creators": "李贄"
+	"creators_with_id":"李贄(A009892)"
   },
   "X1158": {
     "title": "答四十八問",
     "byline": "明 袾宏著",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X1160": {
     "title": "西方願文",
     "byline": "明 袾宏著並釋",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X1161": {
     "title": "西方發願文註",
     "byline": "清 實賢註",
     "creators": "實賢"
+	"creators_with_id": "實賢(A001617)"
   },
   "X1162": {
     "title": "淨土資糧全集",
     "byline": "明 袾宏校正　莊廣還輯",
     "creators": "袾宏,莊廣還"
+	"creators_with_id":"袾宏(A001394);莊廣還(A001137)"
   },
   "X1163": {
     "title": "西方直指",
     "byline": "明 一念編",
     "creators": "一念"
+	"creators_with_id": "一念(A000011)"
   },
   "X1164": {
     "title": "淨土十要",
     "byline": "明 成時(評點節要)",
     "creators": "成時"
+	"creators_with_id": "成時(A000375)"
   },
   "X1165": {
     "title": "西方合論標註",
     "byline": "明 明教標註",
     "creators": "明教"
+	"creators_with_id": "明教(A000665)"
   },
   "X1166": {
     "title": "淨慈要語",
     "byline": "明 元賢述",
     "creators": "元賢"
+	"creators_with_id":"元賢(A000135)"
   },
   "X1167": {
     "title": "淨土生無生論註",
     "byline": "明 正寂註",
     "creators": "正寂"
+	"creators_with_id": "正寂(A000270)"
   },
   "X1168": {
     "title": "淨土生無生論親聞記",
     "byline": "明 受教記",
     "creators": "受教"
+	"creators_with_id": "受教(A000554)"
   },
   "X1169": {
     "title": "淨土生無生論會集",
     "byline": "清 達默集",
     "creators": "達默"
+	"creators_with_id": "達默(A001575)"
   },
   "X1170": {
     "title": "雲棲淨土彙語",
     "byline": "清 虞執西．嚴培西同錄",
     "creators": "虞執西,嚴培西"
+	"creators_with_id": "虞執西(A001490);嚴培西(A001913)"
   },
   "X1171": {
     "title": "淨土旨訣",
     "byline": "清 道霑撰",
     "creators": "道霑"
+	"creators_with_id": "道霑(A001551)"
   },
   "X1172": {
     "title": "淨土晨鐘",
     "byline": "清 周克復纂",
     "creators": "周克復"
+	"creators_with_id": "周克復(A000558)"
   },
   "X1173": {
     "title": "西歸直指",
     "byline": "清 周夢顏彙集",
     "creators": "周夢顏"
+	"creators_with_id": "周夢顏(A000562)"
   },
   "X1174": {
     "title": "淨土警語",
     "byline": "清 行策著",
     "creators": "行策"
+	"creators_with_id": "行策(A000421)"
   },
   "X1175": {
     "title": "起一心精進念佛七期規式",
     "byline": "清 行策定",
     "creators": "行策"
+	"creators_with_id": "行策(A000421)"
   },
   "X1176": {
     "title": "淨土全書",
     "byline": "清 俞行敏重輯",
     "creators": "俞行敏"
+	"creators_with_id":"俞行敏(A000813)"
   },
   "X1177": {
     "title": "角虎集",
     "byline": "清 濟能纂輯",
     "creators": "濟能"
+	"creators_with_id": "濟能(A001856)"
   },
   "X1178": {
     "title": "東海若解",
     "byline": "清 實賢解",
     "creators": "實賢"
+	"creators_with_id": "實賢(A001617)"
   },
   "X1179": {
     "title": "省菴法師語錄",
     "byline": "清 彭際清重訂",
     "creators": "彭際清"
+	"creators_with_id":"彭際清(A001188)"
   },
   "X1180": {
     "title": "重訂西方公據",
     "byline": "清 彭際清集",
     "creators": "彭際清"
+	"creators_with_id":"彭際清(A001188)"
   },
   "X1181": {
     "title": "念佛警策",
     "byline": "清 彭際清纂",
     "creators": "彭際清"
+	"creators_with_id":"彭際清(A001188)"
   },
   "X1182": {
     "title": "徹悟禪師語錄",
     "byline": "清 了亮等集",
     "creators": "了亮"
+	"creators_with_id": "了亮(A000023)"
   },
   "X1183": {
     "title": "淨業知津",
     "byline": "清 悟開述",
     "creators": "悟開"
+	"creators_with_id": "悟開(A000930)"
   },
   "X1184": {
     "title": "念佛百問",
     "byline": "清 悟開著",
     "creators": "悟開"
+	"creators_with_id": "悟開(A000930)"
   },
   "X1185": {
     "title": "徑中徑又徑",
     "byline": "清 張師誠著",
     "creators": "張師誠"
+	"creators_with_id": "張師誠(A001049)"
   },
   "X1186": {
     "title": "勸修淨土切要",
     "byline": "清 真益願纂述",
     "creators": "真益願"
+	"creators_with_id": "真益願(A001166)"
   },
   "X1187": {
     "title": "淨土隨學",
     "byline": "清 古崑編",
     "creators": "古崑"
+	"creators_with_id": "古崑(A000228)"
   },
   "X1188": {
     "title": "淨土必求",
     "byline": "清 古崑集",
     "creators": "古崑"
+	"creators_with_id": "古崑(A000228)"
   },
   "X1189": {
     "title": "淨土承恩集",
     "byline": "清 芳慧編",
     "creators": "芳慧"
+	"creators_with_id": "芳慧(A000768)"
   },
   "X1190": {
     "title": "念佛三昧",
-    "byline": "瑞聖歎註",
-    "creators": "瑞聖歎"
+    "byline": "金聖歎註",
+    "creators": "金聖歎"
+	"creators_with_id": "金聖歎(A001456)"
   },
   "X1191": {
     "title": "西方確指",
     "byline": "清 覺明菩薩說　常攝集",
     "creators": "覺明菩薩,常攝"
+	"creators_with_id": "覺明菩薩(A018267);常攝(A001044)"
   },
   "X1192": {
     "title": "清珠集",
     "byline": "清 治兆輯",
     "creators": "治兆"
+	"creators_with_id": "治兆(A000752)"
   },
   "X1193": {
     "title": "蓮邦消息",
     "byline": "清 妙空子述",
     "creators": "妙空子"
+	"creators_with_id": "妙空子(A001769)"
   },
   "X1194": {
     "title": "淨土極信錄",
     "byline": "清 戒香述",
     "creators": "戒香"
+	"creators_with_id": "戒香(A000512)"
   },
   "X1195": {
     "title": "念佛起緣彌陀觀偈直解",
     "byline": "清 張淵述",
     "creators": "張淵"
+	"creators_with_id": "張淵(A001051)"
   },
   "X1196": {
     "title": "淨土證心集",
     "byline": "清 卍蓮述",
     "creators": "卍蓮"
+	"creators_with_id": "卍蓮(A000432)"
   },
   "X1197": {
     "title": "蓮宗必讀",
     "byline": "清 古崑集",
     "creators": "古崑"
+	"creators_with_id": "古崑(A000228)"
   },
   "X1198": {
     "title": "淨土神珠",
     "byline": "清 古崑集",
     "creators": "古崑"
+	"creators_with_id": "古崑(A000228)"
   },
   "X1199": {
     "title": "淨業痛策",
     "byline": "清 照瑩集",
     "creators": "照瑩"
+	"creators_with_id": "照瑩(A001455)"
   },
   "X1200": {
     "title": "時時好念佛",
     "byline": "清 果能述",
     "creators": "果能"
+	"creators_with_id": "果能(A000680)"
   },
   "X1201": {
     "title": "啟信雜說",
     "byline": "清 周思仁輯",
     "creators": "周思仁"
+	"creators_with_id": "周思仁(A000562)"
   },
   "X1202": {
     "title": "淨土紺珠",
     "byline": "清 德真輯",
     "creators": "德真"
+	"creators_with_id": "德真(A001677)"
+	
   },
   "X1203": {
     "title": "修西輯要",
     "byline": "清 信菴輯",
     "creators": "信菴"
+	"creators_with_id": "信菴(A000807)"
   },
   "X1204": {
     "title": "蓮修起信錄",
     "byline": "清 程兆鸞錄存",
     "creators": "程兆鸞"
+	"creators_with_id": "程兆鸞(A001326)"
   },
   "X1205": {
     "title": "報恩論",
     "byline": "清 沈善登述",
     "creators": "沈善登"
+	"creators_with_id": "沈善登(A000531)"
   },
   "X1206": {
     "title": "持名四十八法",
     "byline": "清 鄭韋庵述",
     "creators": "鄭韋庵"
+	"creators_with_id": "鄭韋庵(A001767)"
   },
   "X1207": {
     "title": "蓮邦詩選",
     "byline": "明 廣貴輯",
     "creators": "廣貴"
+	"creators_with_id": "廣貴(A001665)"
   },
   "X1208": {
     "title": "唯心集",
     "byline": "清 乘戒著",
     "creators": "乘戒"
+	"creators_with_id": "乘戒(A000892)"
   },
   "X1209": {
     "title": "影響集",
-    "byline": "清 尼量海著",
-    "creators": "尼量海"
+    "byline": "清 量海著",
+    "creators": "量海"
+	"creators_with_id": "量海(A000232)"
   },
   "X1210": {
     "title": "二林唱和詩",
     "byline": "清 彭紹升集",
     "creators": "彭紹升"
+	"creators_with_id": "彭紹升(A001188)"
   },
   "X1211": {
     "title": "觀河集節鈔",
     "byline": "清 彭紹升著　弟子節鈔",
     "creators": "彭紹升"
+	"creators_with_id": "彭紹升(A001188)"
   },
   "X1212": {
     "title": "測海集節鈔",
     "byline": "清 彭紹升著　弟子節鈔",
     "creators": "彭紹升"
+	"creators_with_id": "彭紹升(A001188)"
   },
   "X1213": {
     "title": "瓊樓吟稿節鈔",
     "byline": "清 陶善著　弟子節鈔",
     "creators": "陶善"
+	"creators_with_id": "陶善(A001170)"
   },
   "X1214": {
     "title": "蓮修必讀",
     "byline": "清 觀如輯",
     "creators": "觀如"
+	"creators_with_id": "觀如(A001988)"
   },
   "X1215": {
     "title": "普能嵩禪師淨土詩",
     "byline": "清 德潤錄",
     "creators": "德潤"
+	"creators_with_id": "德潤(A001692)"
   },
   "X1216": {
     "title": "淨土救生船詩",
     "byline": "清 寬量集",
     "creators": "寬量"
+	"creators_with_id": "寬量(A001655)"
   },
   "X1217": {
     "title": "菩提達磨大師略辨大乘入道四行觀",
     "byline": "梁 菩提達磨說",
     "creators": "菩提達磨"
+	"creators_with_id": "菩提達磨(A001361)"
   },
   "X1218": {
     "title": "達磨大師血脉論",
     "byline": "梁 菩提達磨述",
     "creators": "菩提達磨"
+	"creators_with_id": "菩提達磨(A001361)"
   },
   "X1219": {
     "title": "達磨大師悟性論",
     "byline": "梁 菩提達磨述",
     "creators": "菩提達磨"
+	"creators_with_id": "菩提達磨(A001361)"
   },
   "X1220": {
     "title": "達磨大師破相論",
     "byline": "梁 菩提達磨述",
     "creators": "菩提達磨"
+	"creators_with_id": "菩提達磨(A001361)"
   },
   "X1222": {
     "title": "修禪要訣",
     "byline": "北天竺 覺愛略說　唐 明恂隨錄　慧智傳",
     "creators": "覺愛,明恂,慧智"
+	"creators_with_id": "覺愛(A000438);明恂(A000661);慧智(A001727)"
   },
   "X1223": {
     "title": "頓悟入道要門論",
     "byline": "唐 慧海撰",
     "creators": "慧海"
+	"creators_with_id": "慧海(A019007)"
   },
   "X1224": {
     "title": "諸方門人參問語錄",
     "byline": "唐 慧海撰",
     "creators": "慧海"
+	"creators_with_id": "慧海(A019007)"
   },
   "X1225": {
     "title": "中華傳心地禪門師資承襲圖",
     "byline": "唐 裴休問　宗密答",
     "creators": "裴休,宗密"
+	"creators_with_id":"裴休(A003624);宗密(A000587)"
   },
   "X1226": {
     "title": "宗門十規論",
     "byline": "唐 文益撰",
     "creators": "文益"
+	"creators_with_id": "文益(A000174)"
   },
   "X1229": {
     "title": "定慧相資歌",
     "byline": "宋 延壽撰",
     "creators": "延壽"
+	"creators_with_id": "延壽(A000282)"
   },
   "X1230": {
     "title": "警世",
     "byline": "宋 延壽撰",
     "creators": "延壽"
+	"creators_with_id": "延壽(A000282)"
   },
   "X1231": {
     "title": "心賦注",
     "byline": "宋 延壽述",
     "creators": "延壽"
+	"creators_with_id": "延壽(A000282)"
   },
   "X1232": {
     "title": "智覺禪師自行錄",
     "byline": "宋 文冲(重校編集)",
     "creators": "文冲"
+	"creators_with_id": "文冲(A000168)"
   },
   "X1233": {
     "title": "祇園正儀",
     "byline": "宋 道楷撰",
     "creators": "道楷"
+	"creators_with_id": "道楷(A001539)"
   },
   "X1234": {
     "title": "臨濟宗旨",
     "byline": "宋 慧洪撰",
     "creators": "慧洪"
+	"creators_with_id": "慧洪(A001673)"
   },
   "X1235": {
     "title": "智證傳",
     "byline": "宋 慧洪撰　覺慈編",
     "creators": "慧洪,覺慈"
+	"creators_with_id": "慧洪(A001673);覺慈(A001952)"
   },
   "X1236": {
     "title": "(重編)曹洞五位顯訣",
     "byline": "宋 慧霞編　廣輝釋",
     "creators": "慧霞,廣輝"
+	"creators_with_id": "慧霞(A001739);廣輝(A001666)"
   },
   "X1237": {
     "title": "寶鏡三昧本義",
     "byline": "清 行策述",
     "creators": "行策"
+	"creators_with_id": "行策(A000421)"
   },
   "X1238": {
     "title": "寶鏡三昧原宗辨謬說",
     "byline": "清 淨訥述",
     "creators": "淨訥"
+	"creators_with_id": "淨訥(A001109)"
   },
   "X1239": {
     "title": "溈山警策註",
     "byline": "宋 守遂註",
     "creators": "守遂"
+	"creators_with_id":"守遂(A000362)"
   },
   "X1240": {
     "title": "溈山警策句釋記",
     "byline": "明 弘贊註　開詗記",
     "creators": "弘贊,開詗"
+	"creators_with_id":"弘贊(A000244);開詗(A001382)"
   },
   "X1241": {
     "title": "證道歌註",
     "byline": "宋 彥琪註",
     "creators": "彥琪"
+	"creators_with_id": "彥琪(A000828)"
   },
   "X1242": {
     "title": "永嘉禪宗集註",
     "byline": "明 傳燈重編並註",
     "creators": "傳燈"
+	"creators_with_id":"傳燈(A007274)"
   },
   "X1244": {
     "title": "百丈清規證義記",
     "byline": "清 儀潤證義",
     "creators": "儀潤"
+	"creators_with_id": "儀潤(A001647)"
   },
   "X1245": {
     "title": "(重雕補註)禪苑清規",
     "byline": "宋 宗賾集",
     "creators": "宗賾"
+	"creators_with_id": "宗賾(A000606)"
   },
   "X1246": {
     "title": "入眾日用",
     "byline": "宋 宗壽集",
     "creators": "宗壽"
+	"creators_with_id": "宗壽(A000596)"
   },
   "X1247": {
     "title": "入眾須知"
@@ -4269,111 +5097,133 @@
     "title": "幻住庵清規",
     "byline": "元 明本著",
     "creators": "明本"
+	"creators_with_id": "明本(A000655)"
   },
   "X1249": {
     "title": "叢林校定清規總要",
     "byline": "宋 惟勉編次",
     "creators": "惟勉"
+	"creators_with_id": "惟勉(A001065)"
   },
   "X1250": {
     "title": "禪林備用清規",
     "byline": "元 弋咸編",
     "creators": "弋咸"
+	"creators_with_id": "弋咸(A000092)"
   },
   "X1251": {
     "title": "叢林兩序須知",
     "byline": "明 通容述",
     "creators": "通容"
+	"creators_with_id":"通容(A001150)"
   },
   "X1252": {
     "title": "禪林疏語考證",
     "byline": "明 元賢集",
     "creators": "元賢"
+	"creators_with_id":"元賢(A000135)"
   },
   "X1253": {
     "title": "初學記",
-    "byline": "元 清覺述　道安注",
+    "byline": "宋 清覺述　元 道安注",
     "creators": "清覺,道安"
+	"creators_with_id": "清覺(A001096);道安(A036836)"
   },
   "X1254": {
     "title": "正行集",
-    "byline": "元 清覺述",
+    "byline": "宋 清覺述",
     "creators": "清覺"
+	"creators_with_id": "清覺(A001096)"
   },
   "X1255": {
     "title": "禪家龜鑑",
     "byline": "朝鮮 退隱述",
     "creators": "退隱"
+	"creators_with_id": "退隱(A001002)"
   },
   "X1256": {
     "title": "宗門玄鑑圖",
     "byline": "明 虗一撰",
     "creators": "虗一"
+	"creators_with_id": "虗一(A001362)"
   },
   "X1257": {
     "title": "博山禪警語",
     "byline": "明 元來說　成正集",
     "creators": "元來,成正"
+	"creators_with_id": "元來(A000114);成正(A000374)"
   },
   "X1258": {
     "title": "禪宗直指",
     "byline": "明 石成金著",
     "creators": "石成金"
+	"creators_with_id": "石成金(A000310)"
   },
   "X1259": {
     "title": "禪門鍛鍊說",
     "byline": "明 戒顯著",
     "creators": "戒顯"
+	"creators_with_id":"戒顯(A004077)"
   },
   "X1260": {
     "title": "列祖提綱錄",
     "byline": "清 行悅集",
     "creators": "行悅"
+	"creators_with_id": "行悅(A000412)"
   },
   "X1261": {
     "title": "祖庭事苑",
     "byline": "宋 善卿編正",
     "creators": "善卿"
+	"creators_with_id": "善卿(A001335)"
   },
   "X1262": {
     "title": "禪林寶訓音義",
     "byline": "明 大建較",
     "creators": "大建"
+	"creators_with_id": "大建(A000057)"
   },
   "X1263": {
     "title": "禪林寶訓合註",
     "byline": "清 張文嘉較定　張文憲參閱",
     "creators": "張文嘉,張文憲"
+	"creators_with_id": "張文嘉(A001047);張文憲(A001048)"
   },
   "X1264": {
     "title": "禪林寶訓拈頌",
     "byline": "清 行盛著　超記錄",
-    "creators": "行盛,超"
+    "creators": "行盛,超記"
+	"creators_with_id": "行盛(A000418);超記(A001370)"
   },
   "X1265": {
     "title": "禪林寶訓順硃",
     "byline": "清 德玉順硃",
     "creators": "德玉"
+	"creators_with_id":"德玉(A001669)"
   },
   "X1266": {
     "title": "禪林寶訓筆說",
     "byline": "清 智祥述",
     "creators": "智祥"
+	"creators_with_id":"智祥(A001274)"
   },
   "X1268": {
     "title": "叢林公論",
     "byline": "宋 惠彬述",
     "creators": "惠彬"
+	"creators_with_id": "惠彬(A013249)"
   },
   "X1269": {
     "title": "十牛圖頌",
     "byline": "宋 師遠述",
     "creators": "師遠"
+	"creators_with_id": "師遠(A000918)"
   },
   "X1270": {
     "title": "十牛圖頌",
     "byline": "明 胡文煥著",
     "creators": "胡文煥"
+	"creators_with_id": "胡文煥(A000865)"
   },
   "X1271": {
     "title": "十牛圖和頌"
@@ -4382,101 +5232,121 @@
     "title": "禪門寶藏錄",
     "byline": "高麗 天頙撰",
     "creators": "天頙"
+	"creators_with_id": "天頙(A000142)"
   },
   "X1277": {
     "title": "高峰龍泉院因師集賢語錄",
     "byline": "元 如瑛編",
     "creators": "如瑛"
+	"creators_with_id": "如瑛(A000350)"
   },
   "X1278": {
     "title": "禪宗雜毒海",
     "byline": "清 性音重編",
     "creators": "性音"
+	"creators_with_id": "性音(A000632)"
   },
   "X1279": {
     "title": "五宗原",
     "byline": "明 法藏著",
     "creators": "法藏"
+	"creators_with_id": "法藏(A003668)"
   },
   "X1280": {
     "title": "闢妄救略說",
     "byline": "明 圓悟著　真啟編",
     "creators": "圓悟,真啟"
+	"creators_with_id": "圓悟(A003688);真啟(A000952)"
   },
   "X1281": {
     "title": "御製揀魔辨異錄",
     "byline": "清 世宗皇帝製",
     "creators": "清世宗皇帝"
+	"creators_with_id": "清世宗(A000212)"
   },
   "X1282": {
     "title": "五家宗旨纂要",
     "byline": "清 性統編",
     "creators": "性統"
+	"creators_with_id": "性統(A000635)"
   },
   "X1283": {
     "title": "宗範",
     "byline": "清 錢伊庵編緝",
     "creators": "錢伊庵"
+	"creators_with_id": "錢伊庵(A001833)"
   },
   "X1285": {
     "title": "慨古錄",
     "byline": "明 圓澄著",
     "creators": "圓澄"
+	"creators_with_id":"圓澄(A005648)"
   },
   "X1286": {
     "title": "祖庭鉗鎚錄",
     "byline": "明 通容輯著",
     "creators": "通容"
+	"creators_with_id":"通容(A001150)"
   },
   "X1287": {
     "title": "千松筆記",
     "byline": "明 大韶著",
     "creators": "大韶"
+	"creators_with_id": "大韶(A000065)"
   },
   "X1288": {
     "title": "萬法歸心錄",
     "byline": "清 超溟著",
     "creators": "超溟"
+	"creators_with_id": "超溟(A001372)"
   },
   "X1289": {
     "title": "禪宗指掌",
     "byline": "清 行海述",
     "creators": "行海"
+	"creators_with_id": "行海(A000413)"
   },
   "X1290": {
     "title": "觀心玄樞",
     "byline": "宋 延壽撰",
     "creators": "延壽"
+	"creators_with_id": "延壽(A000282)"
   },
   "X1291": {
     "title": "證道歌頌",
     "byline": "宋 法泉繼頌",
     "creators": "法泉"
+	"creators_with_id": "法泉(A000704)"
   },
   "X1292": {
     "title": "證道歌註",
     "byline": "宋 知訥述",
     "creators": "知訥"
+	"creators_with_id": "知訥(A012839)"
   },
   "X1293": {
     "title": "證道歌註",
     "byline": "元 永盛述　德弘編",
     "creators": "永盛,德弘"
+	"creators_with_id": "永盛(A000285);德弘(A001668)"
   },
   "X1294": {
     "title": "溈山警策註",
     "byline": "明 大香註",
     "creators": "大香"
+	"creators_with_id": "大香(A000058)"
   },
   "X1295": {
     "title": "禪宗頌古聯珠通集",
     "byline": "宋 法應集　元 普會續集",
     "creators": "法應,普會"
+	"creators_with_id": "法應(A000742);普會(A001226)"
   },
   "X1296": {
     "title": "宗門拈古彙集",
     "byline": "清 淨符彙集",
     "creators": "淨符"
+	"creators_with_id": "淨符(A001108)"
   },
   "X1297": {
     "title": "宗鑑法林",
@@ -4487,96 +5357,115 @@
     "title": "禪門諸祖師偈頌",
     "byline": "宋 子昇錄　如祐錄",
     "creators": "子昇,如祐"
+	"creators_with_id": "子昇(A000081);如祐(A000344)"
   },
   "X1299": {
     "title": "禪林類聚",
     "byline": "元 道泰集",
     "creators": "道泰"
+	"creators_with_id": "道泰(A022463)"
   },
   "X1301": {
     "title": "佛果擊節錄",
     "byline": "宋 重顯拈古　克勤擊節",
     "creators": "重顯,克勤"
+	"creators_with_id": "重顯(A000885);克勤(A001411)"
   },
   "X1302": {
     "title": "焭絕老人天奇直註雪竇顯和尚頌古",
     "byline": "明 本瑞直註　道霖．性福編集",
     "creators": "本瑞,道霖,性福"
+	"creators_with_id": "本瑞(A000259);道霖(A001559);性福(A000639)"
   },
   "X1303": {
     "title": "林泉老人評唱投子青和尚頌古空谷集",
     "byline": "宋 義青頌古　元 從倫評唱",
     "creators": "義青,從倫"
+	"creators_with_id": "義青(A001466);從倫(A020886)"
   },
   "X1304": {
     "title": "林泉老人評唱丹霞淳禪師頌古虗堂集",
     "byline": "宋 子淳頌古　元 從倫評唱",
     "creators": "子淳,從倫"
+	"creators_with_id": "子淳(A000084);從倫(A020886)"
   },
   "X1306": {
     "title": "焭絕老人天奇直註天童覺和尚頌古",
     "byline": "明 本瑞直註　性福編集",
     "creators": "本瑞,性福"
+	"creators_with_id": "本瑞(A000259);性福(A000639)"
   },
   "X1307": {
     "title": "萬松老人評唱天童覺和尚拈古請益錄",
     "byline": "宋 正覺拈古　元 行秀評唱",
     "creators": "正覺,行秀"
+	"creators_with_id": "正覺(A000278);行秀(A000408)"
   },
   "X1308": {
     "title": "徑石滴乳集",
     "byline": "清 真在編　機雲重續",
     "creators": "真在,機雲"
+	"creators_with_id": "真在(A000945);機雲(A001806)"
   },
   "X1309": {
     "title": "正法眼藏",
     "byline": "宋 宗杲集並著語",
     "creators": "宗杲"
+	"creators_with_id": "宗杲(A000475)"
   },
   "X1310": {
     "title": "拈八方珠玉集",
     "byline": "宋 祖慶重編",
     "creators": "祖慶"
+	"creators_with_id": "祖慶(A000982)"
   },
   "X1312": {
     "title": "通玄百問",
     "byline": "元 圓通設問　行秀仰答",
-    "creators": "圓通,行秀仰"
+    "creators": "圓通,行秀"
+	"creators_with_id": "圓通(A001413);行秀(A000408)"
   },
   "X1313": {
     "title": "青州百問",
     "byline": "元 一辯問　覺答",
     "creators": "一辯,覺和尚"
+	"creators_with_id": "一辯(A014695);覺(A022466)"
   },
   "X1314": {
     "title": "古尊宿語錄目錄",
     "byline": "日本 道忠編",
     "creators": "道忠"
+	"creators_with_id": "道忠(A001319)"
   },
   "X1315": {
     "title": "古尊宿語錄",
     "byline": "宋 賾藏主集",
     "creators": "賾藏主"
+	"creators_with_id": "賾藏主(A001893)"
   },
   "X1316": {
     "title": "古尊宿語要目錄",
     "byline": "日本 道忠編",
     "creators": "道忠"
+	"creators_with_id": "道忠(A001319)"
   },
   "X1317": {
     "title": "續古尊宿語要目錄",
     "byline": "日本 道忠編",
     "creators": "道忠"
+	"creators_with_id": "道忠(A001319)"
   },
   "X1318": {
     "title": "續古尊宿語要",
     "byline": "宋 師明集",
     "creators": "師明"
+	"creators_with_id": "師明(A000913)"
   },
   "X1319": {
     "title": "御選語錄",
     "byline": "清 世宗皇帝御選",
     "creators": "清世宗皇帝"
+	"creators_with_id": "清世宗(A000212)"
   },
   "X1320": {
     "title": "四家語錄（序．引．跋）"
@@ -4594,36 +5483,43 @@
     "title": "五家語錄（序）",
     "byline": "明 圓信．郭凝之 編集",
     "creators": "圓信,郭凝之"
+	"creators_with_id": "圓信(A001408);郭凝之(A001771)"
   },
   "X1333": {
     "title": "雪峰義存禪師語錄（真覺禪師語錄）",
     "byline": "明 林弘衍編次",
     "creators": "林弘衍"
+	"creators_with_id": "林弘衍(A000681)"
   },
   "X1335": {
     "title": "善慧大士語錄",
     "byline": "唐 樓頴錄",
-    "creators": "樓頴錄"
+    "creators": "樓頴"
+	"creators_with_id": "樓頴(A001750)"
   },
   "X1336": {
     "title": "龐居士語錄",
     "byline": "唐 于頔編集",
     "creators": "于頔"
+	"creators_with_id": "于頔(A000047)"
   },
   "X1338": {
     "title": "石霜楚圓禪師語錄",
     "byline": "(小師)慧南重編",
     "creators": "慧南"
+	"creators_with_id": "慧南(A003921)"
   },
   "X1339": {
     "title": "瑯琊慧覺禪師語錄（序）",
     "byline": "(參學)用孫序",
     "creators": "用孫"
+	"creators_with_id": "用孫(A036837)"
   },
   "X1340": {
     "title": "黃龍四家錄（序）",
     "byline": "宋 秀人錢密序",
     "creators": "秀人錢密"
+	"creators_with_id": "錢密(A036838)"
   },
   "X1342": {
     "title": "雲菴克文禪師語錄（敘．疏．附錄）"
@@ -4632,6 +5528,7 @@
     "title": "寶覺祖心禪師語錄（黃龍四家錄第二）",
     "byline": "(侍者)子和錄　(門人)仲介重編",
     "creators": "子和,仲介"
+	"creators_with_id": "子和(A000080);仲介(A000312)"
   },
   "X1344": {
     "title": "死心悟新禪師語錄（黃龍四家錄第三）"
@@ -4643,11 +5540,13 @@
     "title": "雪峰慧空禪師語錄",
     "byline": "(嗣法)慧弼編",
     "creators": "慧弼"
+	"creators_with_id": "慧弼(A001726)"
   },
   "X1347": {
     "title": "長靈守卓禪師語錄",
     "byline": "(嗣法)介諶編",
     "creators": "介諶"
+	"creators_with_id": "介諶(A000113)"
   },
   "X1348": {
     "title": "雪菴從瑾禪師頌古"
@@ -4656,6 +5555,7 @@
     "title": "保寧仁勇禪師語錄",
     "byline": "(參學門人)道勝．圓淨 錄",
     "creators": "道勝,圓淨"
+	"creators_with_id": "道勝(A036840);圓淨(A036839)"
   },
   "X1351": {
     "title": "白雲守端禪師語錄"
@@ -4664,21 +5564,25 @@
     "title": "白雲守端禪師廣錄",
     "byline": "(參學小師)處凝．智本．智華．法演 編集、海譚錄",
     "creators": "處凝,智本,智華,法演,海譚"
+	"creators_with_id": "處凝(A001141);智本(A036841);智華(A001280);法演(A036842);海譚(A000940)"
   },
   "X1353": {
     "title": "開福道寧禪師語錄",
     "byline": "(嗣法小師)善果集",
     "creators": "善果"
+	"creators_with_id": "善果(A001334)"
   },
   "X1354": {
     "title": "月林師觀禪師語錄",
     "byline": "(侍者)法寶．法璹．慶會．法清．有宗．惟珪．道果．慧開．德秀 編",
     "creators": "法寶,法璹,慶會,法清,有宗,惟珪,道果,慧開,德秀"
+	"creators_with_id": "法寶(A036843);法璹(A000688);慶會(A001699);法清(A000718);有宗(A000380);惟珪(A001068);道果(A001512);慧開(A001730);德秀(A001670)"
   },
   "X1355": {
     "title": "無門慧開禪師語錄",
     "byline": "(侍者)普敬．普通．了心．普禮．法孜．普巖．普覺．光祖．一見 錄",
     "creators": "普敬,普通,了心,普禮,法孜,普巖,普覺,光祖,一見"
+	"creators_with_id": "普敬(A001224);普通(A001223);了心(A000020);普禮(A001236);法孜(A000698);普巖(A001238);普覺(A001237);光祖(A000319);一見(A000010)"
   },
   "X1356": {
     "title": "普菴印肅禪師語錄"
@@ -4687,206 +5591,247 @@
     "title": "佛果克勤禪師心要",
     "byline": "(嗣法)子文編",
     "creators": "子文"
+	"creators_with_id": "子文(A025113)"
   },
   "X1358": {
     "title": "虎丘紹隆禪師語錄",
     "byline": "(參學)嗣端 等編",
     "creators": "嗣端"
+	"creators_with_id": "嗣端(A001401)"
   },
   "X1359": {
     "title": "應菴曇華禪師語錄",
     "byline": "(嗣法)守詮 等編",
     "creators": "守詮"
+	"creators_with_id": "守詮(A000361)"
   },
   "X1360": {
     "title": "瞎堂慧遠禪師廣錄",
     "byline": "(參學)齊己．如本．祖淳．法慧 編",
     "creators": "齊己,如本,祖淳,法慧"
+	"creators_with_id": "齊己(A001646);如本(A000337);祖淳(A000974);法慧(A000737)"
   },
   "X1361": {
     "title": "濟顛道濟禪師語錄",
     "byline": "宋 沈孟柈敘述",
     "creators": "沈孟柈"
+	"creators_with_id": "沈孟柈(A000530)"
   },
   "X1362": {
     "title": "普覺宗杲禪師語錄",
     "byline": "(參學)法宏．道謙 編",
     "creators": "法宏,道謙"
+	"creators_with_id": "法宏(A000699);道謙(A001561)"
   },
   "X1363": {
     "title": "西山亮禪師語錄",
     "byline": "(侍者)覺心．志清 編",
     "creators": "覺心,志清"
+	"creators_with_id": "覺心(A001938);志清(A000497)"
   },
   "X1364": {
     "title": "率菴梵琮禪師語錄",
     "byline": "(小師)了見、(侍者)文郁．本空 編",
     "creators": "了見,文郁,本空"
+	"creators_with_id": "了見(A000022);文郁(A000171);本空(A000253)"
   },
   "X1365": {
     "title": "北磵居簡禪師語錄",
     "byline": "(參學)大觀編",
     "creators": "大觀"
+	"creators_with_id": "大觀(A000076)"
   },
   "X1366": {
     "title": "物初大觀禪師語錄",
     "byline": "(門人)德溥 等編校",
     "creators": "德溥"
+	"creators_with_id": "德溥(A001687)"
   },
   "X1367": {
     "title": "笑隱大訢禪師語錄",
     "byline": "(門人)延俊．慧曇．中孚．崇裕 等編",
     "creators": "延俊,慧曇,中孚,崇裕"
+	"creators_with_id": "延俊(A000621);慧曇(A001737);中孚(A000096);崇裕(A001039)"
   },
   "X1368": {
     "title": "偃溪廣聞禪師語錄",
     "byline": "(侍者門人)元清．淨志．普暉．元偉．光從．道鑑．道隆．惟實．妙高 編",
     "creators": "元清,淨志,普暉,元偉,光從,道鑑,道隆,惟實,妙高"
+	"creators_with_id": "元清(A000124);淨志(A001100);普暉(A001225);元偉(A000121);光從(A000320);道鑑(A001565);道隆(A001538);惟實(A001074);妙高(A000472)"
   },
   "X1369": {
     "title": "大川普濟禪師語錄",
     "byline": "(門人)元愷編",
     "creators": "元愷"
+	"creators_with_id": "元愷(A000127)"
   },
   "X1370": {
     "title": "淮海原肇禪師語錄",
     "byline": "(侍者門人)實仁．宗文．法奇．守愿．行佑．了元．善之．淨證．法從．紹熏．普璋．文煥．淨伏．慧行．文謙．正因．法恩．德紀．可能．持志．覺孫．惟康．宗和．如止．有智．慧雲．若舟 編",
     "creators": "實仁,宗文,法奇,守愿,行佑,了元,善之,淨證,法從,紹熏,普璋,文煥,淨伏,慧行,文謙,正因,法恩,德紀,可能,持志,覺孫,惟康,宗和,如止,有智,慧雲,若舟"
+	"creators_with_id": "實仁(A001607);宗文(A000567);法奇(A000702);守愿(A000363);行佑(A000407);了元(A000019);善之(A001331);淨證(A001118);法從(A000715);紹熏(A001130);普璋(A001232);文煥(A000183);淨伏(A001099);慧行(A001706);文謙(A000186);正因(A000263);法恩(A000710);德紀(A001675);可能(A000223);持志(A000840);覺孫(A001946);惟康(A001071);宗和(A000574);如止(A000336);有智(A000381);慧雲(A036844);若舟(A000869)"
   },
   "X1371": {
     "title": "介石智朋禪師語錄",
     "byline": "(參學侍者)正賢．宗坦．延輝．淨球．智瑾．志諶．祖誾 編",
     "creators": "正賢,宗坦,延輝,淨球,智瑾,志諶,祖誾"
+	"creators_with_id": "正賢(A000276);宗坦(A000575);延輝(A000622);淨球(A001107);智瑾(A001295);志諶(A000503);祖誾(A000983)"
   },
   "X1372": {
     "title": "無文道燦禪師語錄",
     "byline": "(小師)惟康編",
     "creators": "惟康"
+	"creators_with_id": "惟康(A001071)"
   },
   "X1374": {
     "title": "龍源介清禪師語錄",
     "byline": "(侍者)士洵．德高．懷珠 編",
     "creators": "士洵,德高,懷珠"
+	"creators_with_id": "士洵(A000048);德高(A001678);懷珠(A001898)"
   },
   "X1375": {
     "title": "曹源道生禪師語錄",
     "byline": "(侍者)道冲編",
     "creators": "道冲"
+	"creators_with_id": "道冲(A001507)"
   },
   "X1376": {
     "title": "痴絕道冲禪師語錄",
     "byline": "(嗣法門人)智沂．悟開．行彌．紹甄．智圓．元省．元樞 編",
     "creators": "智沂,悟開,行彌,紹甄,智圓,元省,元樞"
+	"creators_with_id":"智沂(A001259);悟開(A036845);行彌(A000425);紹甄(A001129);智圓(A035516);元省(A000117);元樞(A000133)"
   },
   "X1377": {
     "title": "松源崇嶽禪師語錄",
     "byline": "(參學)善開．光睦．普巖．師肇．道巖．了能 等錄",
     "creators": "善開,光睦,普巖,師肇,道巖,了能"
+	"creators_with_id": "善開(A001343);光睦(A021432);普巖(A009658);師肇(A000917);道巖(A001567);了能(A000031)"
   },
   "X1378": {
     "title": "無明慧性禪師語錄",
     "byline": "(侍者)妙儼．圓澄．妙全．道隆．圓照．法洪．唯道 編",
     "creators": "妙儼,圓澄,妙全,道隆,圓照,法洪,唯道"
+	"creators_with_id": "妙儼(A000479);圓澄(A036846);妙全(A000463);道隆(A001960);圓照(A036847);法洪(A000705);唯道(A001016)"
   },
   "X1379": {
     "title": "運菴普巖禪師語錄",
     "byline": "(侍者)元靖．智能．惟衍 編",
     "creators": "元靖,智能,惟衍"
+	"creators_with_id": "元靖(A000131);智能(A001272);惟衍(A001067)"
   },
   "X1381": {
     "title": "破菴祖先禪師語錄",
     "byline": "(參學)圓照等編",
     "creators": "圓照"
+	"creators_with_id": "圓照(A036848)"
   },
   "X1382": {
     "title": "無準師範禪師語錄",
     "byline": "(侍者)宗會．智折．覺圓．如海．妙倫．惟一．了禪．了心．普明．了南．紹曇．了覺．師坦．妙因．至慧 編",
     "creators": "宗會,智折,覺圓,如海,妙倫,惟一,了禪,了心,普明,了南,紹曇,了覺,師坦,妙因,至慧"
+	"creators_with_id": "宗會(A000593);智折(A001258);覺圓(A001951);如海(A000343);妙倫(A000470);惟一(A001060);了禪(A000040);了心(A000020);普明(A001214);了南(A000024);紹曇(A001133);了覺(A000041);師坦(A000912);妙因(A000464);至慧(A000404)"
   },
   "X1383": {
     "title": "無準和尚奏對語錄",
     "byline": "(侍者)了南．了垠 編",
     "creators": "了南,了垠"
+	"creators_with_id": "了南(A000024),了垠(A000025)"
   },
   "X1384": {
     "title": "絕岸可湘禪師語錄",
     "byline": "(嗣法門人)妙恩．正從．自永．守靜．慈證．宗永 等編",
     "creators": "妙恩,正從,自永,守靜,慈證,宗永"
+	"creators_with_id": "妙恩(A000471);正從(A000271);自永(A000394);守靜(A000364);慈證(A001433);宗永(A036849)"
   },
   "X1385": {
     "title": "樵隱悟逸禪師語錄",
     "byline": "(侍者)正定編",
     "creators": "正定"
+	"creators_with_id": "正定(A000265)"
   },
   "X1386": {
     "title": "石田法薰禪師語錄",
     "byline": "(門人)了覺．師坦 等編",
     "creators": "了覺,師坦"
+	"creators_with_id": "了覺(A000041);師坦(A000912)"
   },
   "X1387": {
     "title": "劍關子益禪師語錄",
     "byline": "(侍者)善珙．德修．慧澄．銳彰．心寧．慧恭 編",
     "creators": "善珙,德修,慧澄,銳彰,心寧,慧恭"
+	"creators_with_id": "善珙(A001338);德修(A001676);慧澄(A001736);銳彰(A001770);心寧(A000158);慧恭(A001714)"
   },
   "X1388": {
     "title": "環溪惟一禪師語錄",
     "byline": "(參學)覺此編",
     "creators": "覺此"
+	"creators_with_id": "覺此(A001943)"
   },
   "X1389": {
     "title": "希叟紹曇禪師語錄",
     "byline": "(侍者)自悟．了舜．妙恩．普和．惠洇．希革．彌紹．道信．宗壽．道亨 編",
     "creators": "自悟,了舜,妙恩,普和,惠洇,希革,彌紹,道信,宗壽,道亨"
+	"creators_with_id": "自悟(A000397);了舜(A000037);妙恩(A000471);普和(A001213);惠洇(A001200);希革(A000488);彌紹(A001850);道信(A001517);宗壽(A000596);道亨(A001505)"
   },
   "X1390": {
     "title": "希叟紹曇禪師廣錄",
     "byline": "(侍者)法澄．了舜．普和．希革．惠洇．彌紹．道亨．宗壽 編",
     "creators": "法澄,了舜,普和,希革,惠洇,彌紹,道亨,宗壽"
+	"creators_with_id": "法澄(A000738);了舜(A000037);普和(A001213);希革(A000488);惠洇(A001200);彌紹(A001850);道亨(A001505);宗壽(A000596)"
   },
   "X1391": {
     "title": "西巖了慧禪師語錄",
     "byline": "(門人侍者)修義．景元．宗清．繼燖．宗應 編",
     "creators": "修義,景元,宗清,繼燖,宗應"
+	"creators_with_id": "修義(A000894);景元(A001241);宗清(A000588);繼燖(A001934);宗應(A000604)"
   },
   "X1392": {
     "title": "月磵禪師語錄",
     "byline": "(嗣法)妙寅、(侍者)法嚴．德圓．覺靜．永仁．宗煥 等編",
     "creators": "妙寅,法嚴,德圓,覺靜,永仁,宗煥"
+	"creators_with_id": "妙寅(A000473);法嚴(A000745);德圓(A001685);覺靜(A001953);永仁(A000280);宗煥(A000594)"
   },
   "X1393": {
     "title": "平石如砥禪師語錄",
     "byline": "(嗣法門人)文才．子昶．了因．彌安．元勗．師楷．文斌．汝均．處林．雲岑 等編",
     "creators": "文才,子昶,了因,彌安,元勗,師楷,文斌,汝均,處林,雲岑"
+	"creators_with_id": "文才();子昶(A000082);了因(A000021);彌安(A001848);元勗(A000123);師楷(A000916);文斌(A000181);汝均(A000387);處林(A001139);雲岑(A001386)"
   },
   "X1394": {
     "title": "斷橋妙倫禪師語錄",
     "byline": "(侍者)文寶．善靖 編",
     "creators": "文寶,善靖"
+	"creators_with_id": "文寶(A000187);善靖(A001346)"
   },
   "X1395": {
     "title": "方山文寶禪師語錄",
     "byline": "(嗣法)先覩．祖燈 等錄　(法孫)機雲編",
     "creators": "先覩,祖燈,機雲"
+	"creators_with_id": "先覩(A000325);祖燈(A000984);機雲(A001806)"
   },
   "X1396": {
     "title": "無見先覩禪師語錄",
     "byline": "(嗣法門人)智度等編",
     "creators": "智度"
+	"creators_with_id": "智度(A010645)"
   },
   "X1397": {
     "title": "雪巖祖欽禪師語錄",
     "byline": "(嗣法門人)昭如．希陵 等編",
     "creators": "昭如,希陵"
+	"creators_with_id": "昭如(A000846);希陵(A000489)"
   },
   "X1398": {
     "title": "海印昭如禪師語錄",
     "byline": "(門人)行純．道彰．從心 集",
     "creators": "行純,道彰,從心"
+	"creators_with_id": "行純(A000415);道彰(A001546);從心(A001054)"
   },
   "X1399": {
     "title": "石屋清洪禪師語錄",
     "byline": "(參學門人)至柔等編",
     "creators": "至柔"
+	"creators_with_id": "至柔(A000402)"
   },
   "X1400": {
     "title": "高峰原妙禪師語錄",
@@ -4896,6 +5841,7 @@
     "title": "高峰原妙禪師禪要",
     "byline": "(侍者)持正錄　(參學)洪喬祖編",
     "creators": "持正,洪喬祖"
+	"creators_with_id": "持正(A000839);洪喬祖(A000856)"
   },
   "X1402": {
     "title": "天目明本禪師雜錄"
@@ -4904,16 +5850,19 @@
     "title": "天如惟則禪師語錄",
     "byline": "(小師)善遇編",
     "creators": "善遇"
+	"creators_with_id": "善遇(A001345)"
   },
   "X1404": {
     "title": "兀菴普寧禪師語錄",
     "byline": "(侍者)淨韻．清澤．道昭．景用．禪了 編",
     "creators": "淨韻,清澤,道昭,景用,禪了"
+	"creators_with_id": "淨韻(A001119);清澤(A001095);道昭(A001520);景用(A001242);禪了(A001859)"
   },
   "X1405": {
     "title": "石溪心月禪師語錄",
     "byline": "(侍者)住顯．宗煥．祖定．宗茙．光玉．仁安．應儼．永珍．祖森 編",
     "creators": "住顯,宗煥,祖定,宗茙,光玉,仁安,應儼,永珍,祖森"
+	"creators_with_id": "住顯(A000433);宗煥(A000594);祖定(A000972);宗茙(A000585);光玉(A000315);仁安(A000104);應儼(A001853);永珍(A000283);祖森(A000976)"
   },
   "X1406": {
     "title": "石溪心月禪師雜錄"
@@ -4922,271 +5871,326 @@
     "title": "虛舟普度禪師語錄",
     "byline": "(嗣法)淨伏、(門人)行佑．德珍．瓊林 等編",
     "creators": "淨伏,行佑,德珍,瓊林"
+	"creators_with_id": "淨伏(A001099);行佑(A000407);德珍(A001674);瓊林(A001903)"
   },
   "X1408": {
     "title": "即休契了禪師拾遺集",
     "byline": "日本 及藏主集錄",
     "creators": "及藏主"
+	"creators_with_id": "及藏主(A000141)"
   },
   "X1409": {
     "title": "月江正印禪師語錄",
     "byline": "(門人)居簡．妙心．大機．慧忠．可橖．祖安．具德．宗滿．自然．慧觀．壽椿．德粹．思敬．良圭．景行．本真．紹宗．文闡．寶生．文藻．自成 編",
     "creators": "居簡,妙心,大機,慧忠,可橖,祖安,具德,宗滿,自然,慧觀,壽椿,德粹,思敬,良圭,景行,本真,紹宗,文闡,寶生,文藻,自成"
+	"creators_with_id": "居簡(A007997);妙心(A000461);大機(A000068);慧忠(A036850);可橖(A000225);祖安(A000971);具德(A000550);宗滿(A000598);自然(A000398);慧觀(A036851);壽椿(A001603);德粹(A001689);思敬(A000834);良圭(A000533);景行(A001243);本真(A000254);紹宗(A001127);文闡(A000189);寶生(A001917);文藻(A000188);自成(A000396)"
   },
   "X1410": {
     "title": "曇芳守忠禪師語錄",
     "byline": "(嗣法)繼祖等編",
     "creators": "繼祖"
+	"creators_with_id": "繼祖(A001932)"
   },
   "X1411": {
     "title": "橫川行珙禪師語錄",
     "byline": "(門人)本光等編",
     "creators": "本光"
+	"creators_with_id": "本光(A000251)"
   },
   "X1412": {
     "title": "古林清茂禪師語錄",
     "byline": "(小師)元浩．清欲．應槐 編",
     "creators": "元浩,清欲,應槐"
+	"creators_with_id": "元浩(A000120);清欲(A001089);應槐(A001852)"
   },
   "X1413": {
     "title": "古林清茂禪師拾遺偈頌",
     "byline": "日本 海壽編次",
     "creators": "海壽"
+	"creators_with_id": "海壽(A000939)"
   },
   "X1414": {
     "title": "了菴清欲禪師語錄",
     "byline": "(參學)一志．元皓．可興．文康．祖運．志道．祖杲．得度．文煥．克明．宗成．宗胤．起宗．汝現．元寶．慧朗．景毅．大圓．海壽．祖灊 等編",
     "creators": "一志,元皓,可興,文康,祖運,志道,祖杲,得度,文煥,克明,宗成,宗胤,起宗,汝現,元寶,慧朗,景毅,大圓,海壽,祖灊"
+	"creators_with_id": "一志(A000009);元皓(A000126);可興(A000224);文康(A000177);祖運(A000980);志道(A000498);祖杲(A000973);得度(A001053);文煥(A036852);克明(A000452);宗成(A000572);宗胤(A000583);起宗(A001001);汝現(A000388);元寶(A000137);慧朗(A001715);景毅(A001247);大圓(A000063);海壽(A000939);祖灊(A000986)"
   },
   "X1415": {
     "title": "穆菴文康禪師語錄",
     "byline": "(嗣法參學)清逸．智辯．寶日 等編",
     "creators": "清逸,智辯,寶日"
+	"creators_with_id": "清逸(A001091);智辯(A001303);寶日(A001916)"
   },
   "X1416": {
     "title": "恕中無慍禪師語錄",
     "byline": "(嗣法參學)宗黼．道瑄．宗亘．居頂．惟寂．宗寄．慧浩．清歲 等編",
     "creators": "宗黼,道瑄,宗亘,居頂,惟寂,宗寄,慧浩,清歲"
+	"creators_with_id": "宗黼(A000608);道瑄(A001544);宗亘(A000565);居頂(A000616);惟寂(A001070);宗寄(A000586);慧浩(A001717);清歲(A001092)"
   },
   "X1417": {
     "title": "了堂惟一禪師語錄",
     "byline": "(門人)宗義．有端．思齊．思靜．妙淨．無我．文暐．雲澹．思謙．普莊．宗遠．思廉．文度．文朗 等編",
     "creators": "宗義,有端,思齊,思靜,妙淨,無我,文暐,雲澹,思謙,普莊,宗遠,思廉,文度,文朗"
+	"creators_with_id": "宗義(A000595);有端(A000382);思齊(A000835);思靜(A000836);妙淨(A000474);無我(A001312);文暐(A000184);雲澹(A001389);思謙(A000837);普莊(A001222);宗遠(A000600);思廉(A000833);文度(A000169);文朗(A000173)"
   },
   "X1418": {
     "title": "呆菴普莊禪師語錄",
     "byline": "(門人)慧啟．智粵．智勝．德琇．曇頓．道哲 等編",
     "creators": "慧啟,智粵,智勝,德琇,曇頓,道哲"
+	"creators_with_id": "慧啟(A001722);智粵(A001286);智勝(A001277);德琇(A001683);曇頓(A001791);道哲(A001524)"
   },
   "X1419": {
     "title": "元叟行端禪師語錄",
     "byline": "(門人)法林．曇噩．祖銘．梵琦 等編",
     "creators": "法林,曇噩,祖銘,梵琦"
+	"creators_with_id": "法林(A000703);曇噩(A001799);祖銘(A000981);梵琦(A001082)"
   },
   "X1420": {
     "title": "楚石梵琦禪師語錄",
     "byline": "(門人)祖光．文玹．曇紹．祖灊．景瓛．良彥．應訢．明遠．胤丘．文晟．正隆．善成．文斌．中端．正參 等編",
     "creators": "祖光,文玹,曇紹,祖灊,景瓛,良彥,應訢,明遠,胤丘,文晟,正隆,善成,文斌,中端,正參"
+	"creators_with_id": "祖光(A000970);文玹(A000172);曇紹(A001783);祖灊(A000986);景瓛(A001249);良彥(A000537);應訢(A001851);明遠(A000669);胤丘(A000867);文晟(A000176);正隆(A000272);善成(A001333);文斌(A000181);中端(A000099);正參(A000269)"
   },
   "X1421": {
     "title": "愚菴智及禪師語錄",
     "byline": "(門人)觀通．溥震．正除．希顏．忻悟．寶盈．至寶．慧鏡．護位．道彝 等編",
     "creators": "觀通,溥震,正除,希顏,忻悟,寶盈,至寶,慧鏡,護位,道彝"
+	"creators_with_id": "觀通(A001990);溥震(A001453);正除(A000268);希顏(A000491);忻悟(A000548);寶盈(A001924);至寶(A000405);慧鏡(A001740);護位(A001961);道彝(A001562)"
   },
   "X1422": {
     "title": "南石文琇禪師語錄",
     "byline": "(門人)宗謐．妙門．復初．廷璨．良玓 等編",
     "creators": "宗謐,妙門,復初,廷璨,良玓"
+	"creators_with_id": "宗謐(A000605);妙門(A000468);復初(A001191);廷璨(A000493);良玓(A000534)"
   },
   "X1423": {
     "title": "投子義青禪師語錄",
     "byline": "(傳法)自覺重編",
     "creators": "自覺"
+	"creators_with_id": "自覺(A014564)"
   },
   "X1424": {
     "title": "投子義青禪師語錄",
     "byline": "(嗣法)道楷編",
     "creators": "道楷"
+	"creators_with_id": "道楷(A001539)"
   },
   "X1425": {
     "title": "丹霞子淳禪師語錄",
     "byline": "(嗣法小師)慶預校勘",
     "creators": "慶預"
+	"creators_with_id": "慶預(A001700)"
   },
   "X1426": {
     "title": "真歇清了禪師語錄",
     "byline": "(侍者)德初．義初 等編",
     "creators": "德初,義初"
+	"creators_with_id": "德初(A001672);義初(A001465)"
   },
   "X1428": {
     "title": "淨慈慧暉禪師語錄",
     "byline": "(弟子)明總下語寄言、了廣編",
     "creators": "明總,了廣"
+	"creators_with_id": "明總(A000672);了廣(A000039)"
+	
   },
   "X1431": {
     "title": "雲外雲岫禪師語錄",
     "byline": "(小師)士慘 編",
     "creators": "士慘"
+	"creators_with_id": "士慘(A000049)"
   },
   "X1432": {
     "title": "無明慧經禪師語錄",
     "byline": "(嗣法)元賢重編",
     "creators": "元賢"
+	"creators_with_id":"元賢(A000135)"
   },
   "X1433": {
     "title": "晦臺元鏡禪師語錄",
     "byline": "(嗣法)道盛集",
     "creators": "道盛"
+	"creators_with_id": "道盛(A007948)"
   },
   "X1434": {
     "title": "見如元謐禪師語錄",
     "byline": "(門人)道璞集",
     "creators": "道璞"
+	"creators_with_id": "道璞(A001555)"
   },
   "X1435": {
     "title": "無異元來禪師廣錄",
     "byline": "(法孫)弘瀚彙編、弘裕同集",
     "creators": "弘瀚,弘裕"
+	"creators_with_id": "弘瀚(A000243);弘裕(A000240)"
   },
   "X1436": {
     "title": "博山無異大禪語錄集要",
     "byline": "(首座)成正錄",
     "creators": "成正"
+	"creators_with_id": "成正(A000374)"
   },
   "X1437": {
     "title": "永覺元賢禪師廣錄",
     "byline": "(嗣法)道霈重編",
     "creators": "道霈"
+	"creators_with_id":"道霈(A001551)"
   },
   "X1438": {
     "title": "為霖道霈禪師秉拂語錄",
     "byline": "(書記)太靖錄",
     "creators": "太靖"
+	"creators_with_id": "太靖(A000151)"
   },
   "X1439": {
     "title": "為霖道霈禪師餐香錄",
     "byline": "(書記)太泉錄",
     "creators": "太泉"
+	"creators_with_id": "太泉(A000150)"
   },
   "X1440": {
     "title": "為霖道霈禪師還山錄",
     "byline": "(侍者)興燈．心亮．法雲．性朗 錄",
     "creators": "興燈,心亮,法雲,性朗"
+	"creators_with_id": "興燈(A001819);心亮(A000155);法雲(A009936);性朗(A000633)"
   },
   "X1441": {
     "title": "為霖禪師雲山法會錄",
     "byline": "(弟子)謝大材．潘道靖．黃大廣 同錄",
     "creators": "謝大材,潘道靖,黃大廣"
+	"creators_with_id": "謝大材(A001867);潘道靖(A001757);黃大廣(A001392)"
   },
   "X1442": {
     "title": "為霖禪師旅泊菴稿",
     "byline": "(弟子)太泉．等純．興燈．心亮．淨煥 錄",
     "creators": "太泉,等純,興燈,心亮,淨煥"
+	"creators_with_id": "太泉(A000150);等純(A001328);興燈(A001819);心亮(A000155);淨煥(A001114)"
   },
   "X1443": {
     "title": "宗寶道獨禪師語錄",
     "byline": "(法孫)今釋重編",
     "creators": "今釋"
+	"creators_with_id":"今釋(A000112)"
   },
   "X1444": {
     "title": "湛然圓澄禪師語錄",
     "byline": "(門人)明凡錄　丁元公．祁駿隹 編",
     "creators": "明凡,丁元公,祁駿隹"
+	"creators_with_id": "明凡(A000654);丁元公(A000017);祁駿隹(A000757)"
   },
   "X1445": {
     "title": "玄沙師備禪師廣錄",
     "byline": "(參學)智嚴集",
     "creators": "智嚴"
+	"creators_with_id": "智嚴"
   },
   "X1446": {
     "title": "玄沙師備禪師語錄",
     "byline": "明 林弘衍編次",
     "creators": "林弘衍"
+	"creators_with_id": "林弘衍(A000681)"
   },
   "X1447": {
     "title": "薦福承古禪師語錄",
     "byline": "(門人)文智編",
     "creators": "文智"
+	"creators_with_id": "文智(A000179)"
   },
   "X1448": {
     "title": "法昌倚遇禪師語錄",
     "byline": "(小師)宗密錄",
     "creators": "宗密"
+	"creators_with_id":"宗密(A000587)"
+	
   },
   "X1449": {
     "title": "吳山淨端禪師語錄",
     "byline": "(法孫)師皎重編",
     "creators": "師皎"
+	"creators_with_id": "師皎(A000914)"
   },
   "X1450": {
     "title": "慧林宗本禪師別錄",
     "byline": "(嗣法)慧辯錄",
     "creators": "慧辯"
+	"creators_with_id": "慧辯(A001744)"
   },
   "X1451": {
     "title": "慈受懷深禪師廣錄",
     "byline": "(侍者)善清．善隨．宗先．普紹 編",
     "creators": "善清,善隨,宗先,普紹"
+	"creators_with_id": "善清(A001341);善隨(A001351);宗先(A000570);普紹(A001221)"
   },
   "X1452": {
     "title": "紫柏尊者全集",
     "byline": "明 德清閱",
     "creators": "德清"
+	"creators_with_id": "德清(A001681)"
   },
   "X1453": {
     "title": "紫柏尊者別集",
     "byline": "明 錢謙益纂閱",
     "creators": "錢謙益"
+	"creators_with_id":"錢謙益(A001834)"
   },
   "X1454": {
     "title": "雲谷和尚語錄",
     "byline": "(參學)宗敬．道傑．惟能．宗㞧．祖祿 編",
     "creators": "宗敬,道傑,惟能,宗㞧,祖祿"
+	"creators_with_id": "宗敬(A000592);道傑(A001537);惟能(A001069);宗㞧(A036908);祖祿(A000979)"
   },
   "X1455": {
     "title": "聖箭堂述古",
     "byline": "清 道霈述",
     "creators": "道霈"
+	"creators_with_id":"道霈(A001551)"
   },
   "X1456": {
     "title": "憨山老人夢遊集",
     "byline": "(侍者)福善日錄 (門人)通炯編輯",
-    "creators": "通炯"
+    "creators": "福善(A001631);通炯(A001149)"
   },
   "X1457": {
     "title": "雲門麥浪懷禪師宗門設難",
     "byline": "明 許元釗錄",
     "creators": "許元釗"
+	"creators_with_id": "許元釗(A001145)"
   },
   "X1458": {
     "title": "宗門寶積錄（序．凡例．目錄）",
     "byline": "清 本晳輯",
     "creators": "本晳"
+	"creators_with_id": "本晳(A010705)"
   },
   "X1464": {
     "title": "三時繫念佛事",
     "byline": "宋 延壽述",
     "creators": "延壽"
+	"creators_with_id": "延壽(A000282)"
   },
   "X1465": {
     "title": "三時繫念儀範",
     "byline": "宋 延壽述",
     "creators": "延壽"
+	"creators_with_id": "延壽(A000282)"
   },
   "X1466": {
     "title": "無量壽佛讚註",
     "byline": "宋 元照撰　戒度注",
     "creators": "元照,戒度"
+	"creators_with_id":"元照(A000129);"
   },
   "X1467": {
     "title": "禮念彌陀道場懺法",
     "byline": "元 王子成集",
     "creators": "王子成"
+	"creators_with_id": "王子成(A000202)"
   },
   "X1468": {
     "title": "西歸行儀",
     "byline": "清 古崑錄輯",
     "creators": "古崑"
+	"creators_with_id": "古崑(A000228)"
   },
   "X1469": {
     "title": "華嚴經海印道場九會請佛儀"
@@ -5195,21 +6199,25 @@
     "title": "華嚴經海印道場懺儀",
     "byline": "唐 一行慧覺依經錄　宋 普瑞補註　明 讀徹參閱　明 木增訂正　明 正止治定",
     "creators": "一行慧覺,普瑞,讀徹,木增,正止"
+	"creators_with_id": "一行慧覺(A009472);普瑞(A001228);讀徹(A001971);木增(A000200);正止(A000262)"
   },
   "X1471": {
     "title": "華嚴清涼國師禮讚文",
     "byline": "宋 智肱述",
     "creators": "智肱"
+	"creators_with_id": "智肱(A001262)"
   },
   "X1472": {
     "title": "華嚴普賢行願修證儀",
     "byline": "宋 淨源集",
     "creators": "淨源"
+	"creators_with_id":"淨源(A001113)"
   },
   "X1473": {
     "title": "華嚴普賢行願修證儀",
     "byline": "宋 淨源集",
     "creators": "淨源"
+	"creators_with_id":"淨源(A001113)"
   },
   "X1474": {
     "title": "華嚴道場起止大略",
@@ -5219,21 +6227,25 @@
     "title": "圓覺經道場修證儀",
     "byline": "唐 宗密述",
     "creators": "宗密"
+	"creators_with_id":"宗密(A000587)"
   },
   "X1476": {
     "title": "圓覺經道場略本修證儀",
     "byline": "宋 淨源錄",
     "creators": "淨源"
+	"creators_with_id":"淨源(A001113)"
   },
   "X1477": {
     "title": "首楞嚴壇場修證儀",
     "byline": "宋 淨源編敘",
     "creators": "淨源"
+	"creators_with_id":"淨源(A001113)"
   },
   "X1478": {
     "title": "依楞嚴究竟事懺",
     "byline": "明 禪修述",
     "creators": "禪修"
+	"creators_with_id": "禪修(A001861)"
   },
   "X1479": {
     "title": "佛母孔雀尊經科式",
@@ -5243,21 +6255,25 @@
     "title": "千手千眼大悲心咒行法",
     "byline": "宋 知禮始集　清 讀體重纂",
     "creators": "知禮,讀體"
+	"creators_with_id":";讀體(A001972)"
   },
   "X1481": {
     "title": "准提三昧行法",
     "byline": "明 受登集",
     "creators": "受登"
+	"creators_with_id": "受登(A000555)"
   },
   "X1482": {
     "title": "准提焚修悉地懺悔玄文",
     "byline": "清 夏道人集",
     "creators": "夏道人"
+	"creators_with_id": "夏道人(A000904)"
   },
   "X1483": {
     "title": "藥師三昧行法",
     "byline": "明 受登集",
     "creators": "受登"
+	"creators_with_id": "受登(A000555)"
   },
   "X1484": {
     "title": "慈悲藥師寶懺",
@@ -5267,11 +6283,13 @@
     "title": "占察善惡業報經行法",
     "byline": "明 智旭集",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X1486": {
     "title": "讚禮地藏菩薩懺願儀",
     "byline": "明 智旭述",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X1487": {
     "title": "慈悲地藏菩薩懺法",
@@ -5281,121 +6299,145 @@
     "title": "得遇龍華修證懺儀",
     "byline": "明 如惺撰",
     "creators": "如惺"
+	"creators_with_id": "如惺(A000348)"
   },
   "X1489": {
     "title": "吳中石佛相好懺儀",
     "byline": "明 傳燈集",
     "creators": "傳燈"
+	"creators_with_id":"傳燈(A007274)"
   },
   "X1490": {
     "title": "舍利懺法",
     "byline": "清 繼僧著",
     "creators": "繼僧"
+	"creators_with_id": "繼僧(A001933)"
   },
   "X1491": {
     "title": "禮舍利塔儀式",
     "byline": "清 弘贊編",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1492": {
     "title": "禮佛儀式",
     "byline": "清 弘贊編",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1493": {
     "title": "供諸天科儀",
     "byline": "清 弘贊集",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1494": {
     "title": "金剛經科儀",
     "byline": "清 建基錄",
     "creators": "建基"
+	"creators_with_id": "建基(A000825)"
   },
   "X1495": {
     "title": "慈悲道場水懺法隨聞錄",
     "byline": "清 智證錄",
     "creators": "智證"
+	"creators_with_id": "智證(A001300)"
   },
   "X1496": {
     "title": "慈悲道場水懺法科註",
     "byline": "清 西宗集註",
     "creators": "西宗"
+	"creators_with_id": "西宗(A000429)"
   },
   "X1497": {
     "title": "法界聖凡水陸勝會修齋儀軌",
     "byline": "宋 志磐謹撰　明 袾宏重訂",
     "creators": "志磐,袾宏"
+	"creators_with_id":"志磐(A000502);袾宏(A001394)"
   },
   "X1498": {
     "title": "法界聖凡水陸大齋普利道場性相通論",
     "byline": "清 咫觀述",
     "creators": "咫觀"
+	"creators_with_id": "咫觀(A000820)"
   },
   "X1499": {
     "title": "法界聖凡水陸大齋法輪寶懺",
     "byline": "清 咫觀記",
     "creators": "咫觀"
+	"creators_with_id": "咫觀(A000820)"
   },
   "X1500": {
     "title": "蘭盆獻供儀",
     "byline": "宋 元照重集",
     "creators": "元照"
+	"creators_with_id":"元照(A000129)"
   },
   "X1501": {
     "title": "釋迦如來降生禮讚文",
     "byline": "宋 仁岳撰",
     "creators": "仁岳"
+	"creators_with_id": "仁岳(A000106)"
   },
   "X1504": {
     "title": "南山祖師禮讚文",
     "byline": "宋 智圓述",
     "creators": "智圓"
+	"creators_with_id":"智圓(A001282)"
   },
   "X1505": {
     "title": "南山祖師禮讚文",
     "byline": "宋 仁岳述",
     "creators": "仁岳"
+	"creators_with_id": "仁岳(A000106)"
   },
   "X1506": {
     "title": "南山祖師禮讚文",
     "byline": "宋 允堪述",
     "creators": "允堪"
+	"creators_with_id":"允堪(A000138)"
   },
   "X1507": {
     "title": "大智律師禮讚文",
     "byline": "宋 則安述",
     "creators": "則安"
+	"creators_with_id":"則安(A000815)"
   },
   "X1508": {
     "title": "釋迦如來成道記",
     "byline": "唐 王勃撰",
     "creators": "王勃"
+	"creators_with_id": "王勃(A000206)"
   },
   "X1509": {
     "title": "釋迦如來成道記註",
     "byline": "唐 道誠註",
     "creators": "道誠"
+	"creators_with_id": "道誠(A001542)"
   },
   "X1510": {
     "title": "釋迦如來行蹟頌",
     "byline": "元 無寄撰集",
     "creators": "無寄"
+	"creators_with_id": "無寄(A001317)"
   },
   "X1511": {
     "title": "釋迦如來應化錄",
     "byline": "明 寶成編集",
     "creators": "寶成"
+	"creators_with_id": "寶成(A001918)"
   },
   "X1512": {
     "title": "隆興編年通論",
     "byline": "宋 祖琇撰",
     "creators": "祖琇"
+	"creators_with_id": "祖琇(A000975)"
   },
   "X1513": {
     "title": "釋門正統",
     "byline": "宋 宗鑑集",
     "creators": "宗鑑"
+	"creators_with_id": "宗鑑(A000611)"
   },
   "X1515": {
     "title": "續佛祖統紀"
@@ -5404,11 +6446,13 @@
     "title": "釋氏通鑑",
     "byline": "宋 本覺編集",
     "creators": "本覺"
+	"creators_with_id": "本覺(A000260)"
   },
   "X1517": {
     "title": "歷朝釋氏資鑑",
     "byline": "元 熙仲集",
     "creators": "熙仲"
+	"creators_with_id": "熙仲(A001627)"
   },
   "X1521": {
     "title": "(古今圖書集成)釋教部彙考"
@@ -5417,71 +6461,85 @@
     "title": "新修科分六學僧傳",
     "byline": "元 曇噩述",
     "creators": "曇噩"
+	"creators_with_id": "曇噩(A001799)"
   },
   "X1523": {
     "title": "名僧傳抄",
     "byline": "梁 寶唱撰",
     "creators": "寶唱"
+	"creators_with_id": "寶唱(A001926)"
   },
   "X1524": {
     "title": "補續高僧傳",
     "byline": "明 明河撰",
     "creators": "明河"
+	"creators_with_id": "明河(A000658)"
   },
   "X1526": {
     "title": "武林西湖高僧事略",
     "byline": "宋 元敬．元復同述",
     "creators": "元敬,元復"
+	"creators_with_id": "元敬(A000128);元復(A000134)"
   },
   "X1527": {
     "title": "續武林西湖高僧事略",
     "byline": "明 袾宏輯",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X1530": {
     "title": "法界宗五祖略記",
     "byline": "清 續法輯",
     "creators": "續法"
+	"creators_with_id":"續法(A001959)"
   },
   "X1532": {
     "title": "華嚴經感應略記",
     "byline": "明 袾宏輯錄",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X1533": {
     "title": "華嚴感應緣起傳",
     "byline": "清 弘璧輯",
     "creators": "弘璧"
+	"creators_with_id": "弘璧(A000242)"
   },
   "X1534": {
     "title": "華嚴經持驗記",
     "byline": "清 周克復纂",
     "creators": "周克復"
+	"creators_with_id": "周克復(A000558)"
   },
   "X1535": {
     "title": "智者大師別傳註",
     "byline": "宋 曇照註",
     "creators": "曇照"
+	"creators_with_id": "曇照(A001790)"
   },
   "X1539": {
     "title": "法華靈驗傳",
     "byline": "明 了圓錄",
     "creators": "了圓"
+	"creators_with_id": "了圓(A000038)"
   },
   "X1540": {
     "title": "法華經顯應錄",
     "byline": "宋 宗曉編",
     "creators": "宗曉"
+	"creators_with_id": "宗曉(A000601)"
   },
   "X1541": {
     "title": "法華經持驗記",
     "byline": "清 周克復纂",
     "creators": "周克復"
+	"creators_with_id": "周克復(A000558)"
   },
   "X1542": {
     "title": "觀音經持驗記",
     "byline": "清 周克復集",
     "creators": "周克復"
+	"creators_with_id": "周克復(A000558)"
   },
   "X1543": {
     "title": "東林十八高賢傳"
@@ -5490,126 +6548,151 @@
     "title": "新修往生傳",
     "byline": "宋 王古輯撰",
     "creators": "王古"
+	"creators_with_id": "王古(A009477)"
   },
   "X1547": {
     "title": "諸上善人詠",
     "byline": "明 道衍撰",
     "creators": "道衍"
+	"creators_with_id": "道衍(A001522)"
   },
   "X1549": {
     "title": "淨土聖賢錄",
     "byline": "清 彭希涑述",
     "creators": "彭希涑"
+	"creators_with_id": "彭希涑"
   },
   "X1550": {
     "title": "淨土聖賢錄續編",
-    "byline": "清 胡𤥻述",
-    "creators": "胡𤥻"
+    "byline": "清 胡珽述",
+    "creators": "胡珽"
+	"creators_with_id": "胡珽(A018442)"
   },
   "X1551": {
     "title": "西舫彙征",
     "byline": "清 瑞璋輯",
     "creators": "瑞璋"
+	"creators_with_id": "瑞璋(A001457)"
   },
   "X1552": {
     "title": "修西聞見錄",
     "byline": "清 咫觀輯",
     "creators": "咫觀"
+	"creators_with_id": "咫觀(A000820)"
   },
   "X1553": {
     "title": "天聖廣燈錄",
     "byline": "宋 李遵勗勅編",
     "creators": "李遵勗"
+	"creators_with_id": "李遵勗(A000520)"
   },
   "X1554": {
     "title": "五家正宗贊",
     "byline": "宋 紹曇記",
     "creators": "紹曇"
+	"creators_with_id": "紹曇(A001133)"
   },
   "X1555": {
     "title": "建中靖國續燈錄目錄",
     "byline": "宋 惟白集",
     "creators": "惟白"
+	"creators_with_id": "惟白(A001061)"
   },
   "X1556": {
     "title": "建中靖國續燈錄",
     "byline": "宋 惟白集",
     "creators": "惟白"
+	"creators_with_id": "惟白(A001061)"
   },
   "X1557": {
     "title": "聯燈會要",
     "byline": "宋 悟明集",
     "creators": "悟明"
+	"creators_with_id": "悟明(A000929)"
   },
   "X1558": {
     "title": "嘉泰普燈錄總目錄",
     "byline": "宋 正受編",
     "creators": "正受"
+	"creators_with_id": "正受(A000264)"
   },
   "X1559": {
     "title": "嘉泰普燈錄",
     "byline": "宋 正受編",
     "creators": "正受"
+	"creators_with_id": "正受(A000264)"
   },
   "X1560": {
     "title": "禪林僧寶傳",
     "byline": "宋 惠洪撰",
     "creators": "惠洪"
+	"creators_with_id": "惠洪(A001673)"
   },
   "X1561": {
     "title": "僧寶正續傳",
     "byline": "宋 祖琇撰",
     "creators": "祖琇"
+	"creators_with_id": "祖琇(A000975)"
   },
   "X1562": {
     "title": "南宋元明禪林僧寶傳",
     "byline": "清 自融撰　性磊補輯",
     "creators": "自融,性磊"
+	"creators_with_id": "自融(A000400);性磊(A000641)"
   },
   "X1563": {
     "title": "大光明藏",
     "byline": "宋 寶曇述",
     "creators": "寶曇"
+	"creators_with_id": "寶曇(A001930)"
   },
   "X1564": {
     "title": "五燈會元目錄",
     "byline": "宋 普濟集",
     "creators": "普濟"
+	"creators_with_id": "普濟(A001234)"
   },
   "X1565": {
     "title": "五燈會元",
     "byline": "宋 普濟集",
     "creators": "普濟"
+	"creators_with_id": "普濟(A001234)"
   },
   "X1566": {
     "title": "五燈會元續略",
     "byline": "明 淨柱輯",
     "creators": "淨柱"
+	"creators_with_id": "淨柱(A001103)"
   },
   "X1567": {
     "title": "五燈嚴統目錄",
     "byline": "明 通容集",
     "creators": "通容"
+	"creators_with_id":"通容(A001150)"
   },
   "X1568": {
     "title": "五燈嚴統(第1卷-第9卷)",
     "byline": "明 通容集",
     "creators": "通容"
+	"creators_with_id":"通容(A001150)"
   },
   "X1569": {
     "title": "五燈嚴統解惑編",
     "byline": "明 通容述",
     "creators": "通容"
+	"creators_with_id":"通容(A001150)"
   },
   "X1570": {
     "title": "五燈全書目錄",
     "byline": "清 超永編輯",
     "creators": "超永"
+	"creators_with_id": "超永(A001366)"
   },
   "X1571": {
     "title": "五燈全書(第1卷-第33卷)",
     "byline": "清 超永編輯",
     "creators": "超永"
+	"creators_with_id": "超永(A001366)"
   },
   "X1572": {
     "title": "續傳燈錄目錄"
@@ -5618,46 +6701,55 @@
     "title": "增集續傳燈錄",
     "byline": "明 文琇集",
     "creators": "文琇"
+	"creators_with_id": "文琇(A000178)"
   },
   "X1576": {
     "title": "雪堂行拾遺錄",
     "byline": "宋 道行編",
     "creators": "道行"
+	"creators_with_id": "道行(A001504)"
   },
   "X1577": {
     "title": "羅湖野錄",
     "byline": "宋 曉瑩集",
     "creators": "曉瑩"
+	"creators_with_id": "曉瑩(A001777)"
   },
   "X1578": {
     "title": "指月錄",
     "byline": "明 瞿汝稷集",
     "creators": "瞿汝稷"
+	"creators_with_id": "瞿汝稷(A001877)"
   },
   "X1579": {
     "title": "續指月錄",
     "byline": "清 聶先編輯",
     "creators": "聶先"
+	"creators_with_id": "聶先(A001881)"
   },
   "X1580": {
     "title": "教外別傳",
     "byline": "明 黎眉等編",
     "creators": "黎眉"
+	"creators_with_id": "黎眉(A001771)"
   },
   "X1581": {
     "title": "皇明名僧輯略",
     "byline": "明 袾宏輯",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X1582": {
     "title": "續燈正統目錄",
     "byline": "清 性統編集",
     "creators": "性統"
+	"creators_with_id": "性統(A000635)"
   },
   "X1583": {
     "title": "續燈正統",
     "byline": "清 性統編集",
     "creators": "性統"
+	"creators_with_id": "性統(A000635)"
   },
   "X1584": {
     "title": "續燈存稿目錄"
@@ -5666,6 +6758,7 @@
     "title": "續燈存稿",
     "byline": "明 通問編定　施沛彙集",
     "creators": "通問,施沛"
+	"creators_with_id": "通問(A013268);施沛(A000843)"
   },
   "X1586": {
     "title": "正源略集目錄"
@@ -5674,56 +6767,67 @@
     "title": "正源略集",
     "byline": "清 際源．了貞輯　達珍編",
     "creators": "際源,了貞,達珍"
+	"creators_with_id": "際源(A001643);了貞(A000026);達珍(A001569)"
   },
   "X1588": {
     "title": "正源略集補遺",
     "byline": "清 達珍編",
     "creators": "達珍"
+	"creators_with_id": "達珍(A001569)"
   },
   "X1589": {
     "title": "錦江禪燈目錄",
     "byline": "清 通醉輯",
     "creators": "通醉"
+	"creators_with_id": "通醉(A001157)"
   },
   "X1590": {
     "title": "錦江禪燈",
     "byline": "清 通醉輯",
     "creators": "通醉"
+	"creators_with_id": "通醉(A001157)"
   },
   "X1591": {
     "title": "黔南會燈錄",
     "byline": "清 如純輯",
     "creators": "如純"
+	"creators_with_id": "如純(A000345)"
   },
   "X1592": {
     "title": "揞黑豆集",
     "byline": "清 心圓拈別　火蓮集梓",
     "creators": "心圓,火蓮"
+	"creators_with_id": "心圓(A000157);火蓮(A000201)"
   },
   "X1593": {
     "title": "禪宗正脉",
     "byline": "明 如巹集",
     "creators": "如巹"
+	"creators_with_id": "如巹(A000342)"
   },
   "X1594": {
     "title": "佛祖綱目",
     "byline": "明 朱時恩著",
     "creators": "朱時恩"
+	"creators_with_id": "朱時恩(A000385)"
   },
   "X1595": {
     "title": "佛祖正傳古今捷錄",
     "byline": "清 果性集",
     "creators": "果性"
+	"creators_with_id": "果性(A000679)"
   },
   "X1596": {
     "title": "南嶽單傳記",
     "byline": "清 弘儲表",
     "creators": "弘儲"
+	"creators_with_id": "弘儲(A000241)"
   },
   "X1597": {
     "title": "定應大師布袋和尚傳",
     "byline": "曇噩撰",
     "creators": "曇噩"
+	"creators_with_id": "曇噩(A001799)"
   },
   "X1598": {
     "title": "曹溪大師別傳"
@@ -5732,81 +6836,97 @@
     "title": "永明道蹟",
     "byline": "宋 大壑輯",
     "creators": "大壑"
+	"creators_with_id": "大壑(A000069)"
   },
   "X1600": {
     "title": "宗統編年",
     "byline": "清 紀蔭編纂",
     "creators": "紀蔭"
+	"creators_with_id": "紀蔭(A000861)"
   },
   "X1601": {
     "title": "禪燈世譜",
     "byline": "明 道忞編修　吳侗集",
     "creators": "道忞,吳侗"
+	"creators_with_id": "道忞(A001513);吳侗(A000456)"
   },
   "X1602": {
     "title": "佛祖宗派世譜",
     "byline": "清 悟進編輯",
     "creators": "悟進"
+	"creators_with_id": "悟進(A010710)"
   },
   "X1603": {
     "title": "緇門世譜",
     "byline": "清 明喜撰輯",
     "creators": "明喜"
+	"creators_with_id": "明喜(A000666)"
   },
   "X1604": {
     "title": "法門鋤宄",
     "byline": "清 淨符著",
     "creators": "淨符"
+	"creators_with_id": "淨符(A001108)"
   },
   "X1605": {
     "title": "繼燈錄",
     "byline": "明 元賢輯",
     "creators": "元賢"
+	"creators_with_id":"元賢(A000135)"
   },
   "X1606": {
     "title": "建州弘釋錄",
     "byline": "明 元賢集",
     "creators": "元賢"
+	"creators_with_id":"元賢(A000135)"
   },
   "X1607": {
     "title": "居士分燈錄",
     "byline": "明 朱時恩輯",
     "creators": "朱時恩"
+	"creators_with_id": "朱時恩(A000385)"
   },
   "X1608": {
     "title": "八十八祖道影傳贊",
     "byline": "明 德清述　高承埏補",
     "creators": "德清,高承埏"
+	"creators_with_id":"德清(A001681);高承埏(A001004)"
   },
   "X1609": {
     "title": "普陀列祖錄",
     "byline": "清 通旭集",
     "creators": "通旭"
+	"creators_with_id": "通旭(A001147)"
   },
   "X1610": {
     "title": "雲臥紀譚",
     "byline": "宋 曉瑩錄",
     "creators": "曉瑩"
+	"creators_with_id": "曉瑩(A001777)"
   },
   "X1611": {
     "title": "叢林盛事",
     "byline": "宋 道融撰",
     "creators": "道融"
+	"creators_with_id": "道融(A001556)"
   },
   "X1612": {
     "title": "人天寶鑑",
     "byline": "宋 曇秀輯",
     "creators": "曇秀"
+	"creators_with_id": "曇秀(A001778)"
   },
   "X1613": {
     "title": "枯崖漫錄",
     "byline": "宋 圓悟錄",
     "creators": "圓悟"
+	"creators_with_id": "圓悟(A008261)"
   },
   "X1614": {
     "title": "禪苑蒙求瑤林",
     "byline": "金 志明撰　元 德諫注",
     "creators": "志明,德諫"
+	"creators_with_id": "志明(A000496);德諫(A001694)"
   },
   "X1615": {
     "title": "禪苑蒙求拾遺"
@@ -5815,76 +6935,91 @@
     "title": "山菴雜錄",
     "byline": "明 無溫錄",
     "creators": "無溫"
+	"creators_with_id": "無溫(A001320)"
   },
   "X1617": {
     "title": "正宗心印後續聯芳",
     "byline": "明 善燦著",
     "creators": "善燦"
+	"creators_with_id": "善燦(A001352)"
   },
   "X1618": {
     "title": "祖庭指南",
     "byline": "清 徐昌治編述",
     "creators": "徐昌治"
+	"creators_with_id":"徐昌治(A000922)"
   },
   "X1619": {
     "title": "先覺集",
     "byline": "明 陶明潛輯",
     "creators": "陶明潛"
+	"creators_with_id": "陶明潛(A001169)"
   },
   "X1620": {
     "title": "先覺宗乘",
     "byline": "清 圓信較定　郭凝之彙編",
     "creators": "圓信,郭凝之"
+	"creators_with_id": "圓信(A001408);郭凝之(A001771)"
   },
   "X1621": {
     "title": "優婆夷志",
     "byline": "清 圓信較定　郭凝之彙編",
     "creators": "圓信,郭凝之"
+	"creators_with_id": "圓信(A001408);郭凝之(A001771)"
   },
   "X1622": {
     "title": "朝鮮禪教考",
     "byline": "朝鮮 朴永善輯",
     "creators": "朴永善"
+	"creators_with_id": "朴永善(A000384)"
   },
   "X1623": {
     "title": "釋氏蒙求",
     "byline": "靈操撰",
     "creators": "靈操"
+	"creators_with_id": "靈操(A001985)"
   },
   "X1624": {
     "title": "林間錄",
     "byline": "宋 慧洪集",
     "creators": "慧洪"
+	"creators_with_id": "慧洪(A001673)"
   },
   "X1625": {
     "title": "林間錄後集",
     "byline": "宋 慧洪集",
     "creators": "慧洪"
+	"creators_with_id": "慧洪(A001673)"
   },
   "X1626": {
     "title": "高僧摘要",
     "byline": "清 徐昌治編輯",
     "creators": "徐昌治"
+	"creators_with_id":"徐昌治(A000922)"
   },
   "X1627": {
     "title": "緇門崇行錄",
     "byline": "明 袾宏輯",
     "creators": "袾宏"
+	"creators_with_id":"袾宏(A001394)"
   },
   "X1628": {
     "title": "佛法金湯編",
     "byline": "明 心泰編",
     "creators": "心泰"
+	"creators_with_id": "心泰(A000156)"
   },
   "X1629": {
     "title": "金剛般若經集驗記",
     "byline": "唐 孟獻忠撰",
     "creators": "孟獻忠"
+	"creators_with_id": "孟獻忠(A000563)"
   },
   "X1630": {
     "title": "金剛經鳩異",
     "byline": "唐 段成式撰",
     "creators": "段成式"
+	"creators_with_id": "段成式(A000850)"
   },
   "X1631": {
     "title": "金剛經受持感應錄"
@@ -5896,76 +7031,91 @@
     "title": "金剛經新異錄",
     "byline": "明 王起隆輯著",
     "creators": "王起隆"
+	"creators_with_id":"王起隆(A000208)"
   },
   "X1634": {
     "title": "金剛經靈驗傳",
     "byline": "日本 淨慧集",
     "creators": "淨慧"
+	"creators_with_id": "淨慧(A001116)"
   },
   "X1635": {
     "title": "金剛經持驗記",
     "byline": "清 周克復纂",
     "creators": "周克復"
+	"creators_with_id": "周克復(A000558)"
   },
   "X1636": {
     "title": "金剛經感應分類輯要",
     "byline": "清 王澤泩編集",
     "creators": "王澤泩"
+	"creators_with_id":"王澤泩(A000209)"
   },
   "X1638": {
     "title": "地藏菩薩像靈驗記",
     "byline": "宋 常謹集",
     "creators": "常謹"
+	"creators_with_id":"常謹(A001043)"
   },
   "X1640": {
     "title": "心性罪福因緣集",
     "byline": "宋 智覺注",
     "creators": "智覺"
+	"creators_with_id":"智覺(A000282)"
   },
   "X1641": {
     "title": "見聞錄",
     "byline": "明 智旭隨筆",
     "creators": "智旭"
+	"creators_with_id":"智旭(A001257)"
   },
   "X1642": {
     "title": "現果隨錄",
     "byline": "明 戒顯筆記",
     "creators": "戒顯"
+	"creators_with_id":"戒顯(A004077)"
   },
   "X1643": {
     "title": "兜率龜鏡集",
     "byline": "清 弘贊輯",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1644": {
     "title": "觀音慈林集",
     "byline": "清 弘贊輯",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1645": {
     "title": "六道集",
     "byline": "清 弘贊輯",
     "creators": "弘贊"
+	"creators_with_id":"弘贊(A000244)"
   },
   "X1646": {
     "title": "居士傳",
     "byline": "清 彭際清述",
     "creators": "彭際清"
+	"creators_with_id":"彭際清(A001188)"
   },
   "X1648": {
     "title": "冥報記輯書",
     "byline": "日本 佐佐木憲德輯",
     "creators": "佐佐木憲德"
+	"creators_with_id": "佐佐木憲德(A000447)"
   },
   "X1649": {
     "title": "名公法喜志",
     "byline": "明 夏樹芳輯",
     "creators": "夏樹芳"
+	"creators_with_id": "夏樹芳(A000905)"
   },
   "X1651": {
     "title": "玄奘三藏師資傳叢書",
     "byline": "日本 佐伯定胤．中野達慧共編",
     "creators": "佐伯定胤,中野達慧"
+	"creators_with_id": "佐伯定胤(A000448);中野達慧(A000097)"
   },
   "X1654": {
     "title": "惠果和尚行狀"
@@ -5974,6 +7124,7 @@
     "title": "得依釋序文緣起",
     "byline": "日本 慧堅撰",
     "creators": "慧堅"
+	"creators_with_id": "慧堅(A001721)"
   },
   "X1656": {
     "title": "伯亭大師傳記總帙"
@@ -5982,11 +7133,13 @@
     "title": "善女人傳",
     "byline": "清 彭際清述",
     "creators": "彭際清"
+	"creators_with_id":"彭際清(A001188)"
   },
   "X1658": {
     "title": "重編諸天傳",
     "byline": "宋 行霆述",
     "creators": "行霆"
+	"creators_with_id": "行霆(A000424)"
   },
   "X1660": {
     "title": "(古今圖書集成)神異典二氏部彙考"
@@ -6001,11 +7154,13 @@
     "title": "宗教律諸宗演派",
     "byline": "清 守一重編",
     "creators": "守一"
+	"creators_with_id": "守一(A000356)"
   },
   "X1668": {
     "title": "西藏剌麻溯源",
     "byline": "清 守一編輯",
     "creators": "守一"
+	"creators_with_id": "守一(A000356)"
   },
   "X1671": {
     "title": "東國僧尼錄"
