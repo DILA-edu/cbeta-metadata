@@ -48,6 +48,10 @@ def handle_work(path)
   traverse(doc.root)
 end
 
+def thousand_seperator(i)
+  i.to_s.reverse.gsub(/...(?=.)/,'\&,').reverse
+end
+
 def traverse(e)
   e.children.each { |c| 
     next if c.comment?
@@ -76,25 +80,38 @@ end
 
 def write_char_counts(canon)
   folder = File.join('..', 'with-puncs')
-  write_to_folder(folder, canon, $counts_with_puncs)
+  write_to_folder(folder, canon, $counts_with_puncs, true)
   
   folder = File.join('..', 'without-puncs')
-  write_to_folder(folder, canon, $counts_without_puncs)
+  write_to_folder(folder, canon, $counts_without_puncs, false)
 end
 
-def write_to_folder(folder, canon, data)
+def write_to_folder(folder, canon, data, puncs)
   Dir.mkdir(folder) unless Dir.exist? folder
   fn = File.join(folder, "#{canon}.csv")
   CSV.open(fn, "wb") do |csv|
     csv << ["work_id", "char_count"]
     data.each_pair do |k,v|
       csv << [k, v]
+      if puncs
+        $total_with_puncs += v
+      else
+        $total_without_puncs += v
+      end
     end
   end
 end
+
+$total_with_puncs = 0
+$total_without_puncs = 0
 
 Dir.entries(XML).each do |canon|
   next if canon.start_with? '.'
   next if canon.size > 2
   handle_canon(canon)
+end
+
+File.open('../summary.txt', 'w') do |f|
+  f.puts "含標點總字數：%s" % thousand_seperator($total_with_puncs)
+  f.puts "不含標點總字數：%s" % thousand_seperator($total_without_puncs)
 end

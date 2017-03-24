@@ -11,4 +11,6 @@ csv 檔之中有 `work_id`, `char_count` 兩個欄位:
 
 校勘欄中的文字不列入計算。
 
+summary.txt 裡面有總字數合計。
+
 bin/count.rb 是做字數統計的 ruby 程式，統計根據的是 CBETA XML P5a.
