@@ -10,3 +10,5 @@ csv 檔之中有 `work_id`, `char_count` 兩個欄位:
 * char_count: 字數
 
 校勘欄中的文字不列入計算。
+
+bin/count.rb 是做字數統計的 ruby 程式，統計根據的是 CBETA XML P5a.
