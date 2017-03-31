@@ -4,6 +4,19 @@
 
 檔案名稱使用 CBETA [藏經代碼](http://www.cbeta.org/format/id.php)
 
+# 檔案
+
+有 ID 的全部作譯者列表，使用 bin/list-all.rb 程式轉出。
+
+* all-creators.json
+* all-creators.txt
+
+# 資料夾
+
+* 轉檔程式
+* creators-by-canon: JSON 格式的作譯者資料
+* csv: 由 JSON 檔轉出的 csv 檔。使用 bin/json2csv.rb 程式轉出。
+
 # 類別
 
 比較重要的貢獻者資訊可能有這些類別 (2016-01-14 maha 提供)：
