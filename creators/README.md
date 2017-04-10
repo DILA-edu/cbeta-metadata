@@ -6,10 +6,9 @@
 
 # 檔案
 
-有 ID 的全部作譯者列表，使用 bin/list-all.rb 程式轉出。
-
-* all-creators.json
+* all-creators.json: 有 ID 的全部作譯者列表，使用 bin/list-all.rb 程式轉出。
 * all-creators.txt
+* stat.md: 列出「一人多名」及「多人同名」，使用 bin/stat.rb 程式轉出。
 
 # 資料夾
 
