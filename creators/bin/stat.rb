@@ -48,15 +48,15 @@ folder = File.dirname(OUT)
 Dir.mkdir(folder) unless Dir.exists? folder
 puts "write to #{OUT}"
 File.open(OUT, 'w') do |f|
-  f.puts "# 一人多名\n"
+  f.puts "# 一人多名\n\n"
   $id2name.each_pair do |k,v|
     next unless v.size > 1
-    f.puts "#{k}: " + v.to_a.join(',')
+    f.puts "* #{k}: " + v.to_a.join(',')
   end
 
-  f.puts "\n# 多人同名\n"
+  f.puts "\n# 多人同名\n\n"
   $name2id.each_pair do |k,v|
     next unless v.size > 1
-    f.puts "#{k}: " + v.to_a.join(',')
+    f.puts "* #{k}: " + v.to_a.join(',')
   end
 end
