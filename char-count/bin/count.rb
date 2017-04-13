@@ -4,8 +4,15 @@
 require 'cbeta'
 
 XML = '/Users/ray/git-repos/cbeta-xml-p5a'
-PUNCS = ' .[]　「」『』《》＜＞〈〉〔〕［］【】〖〗（）•．：，、；？！。'
-PUNCS_REG = Regexp.escape(PUNCS)
+PUNCS = /[ \.\[\]　「」『』《》＜＞〈〉〔〕［］【】〖〗（）•．：，、；？！。]/
+
+def add_char_freq(c)
+  if $char_freq.key? c
+    $char_freq[c] += 1
+  else
+    $char_freq[c] = 1
+  end
+end
 
 def handle_canon(canon)
   canon_folder = File.join(XML, canon)
@@ -23,8 +30,9 @@ def handle_text(e)
   s = e.content().gsub(/[\t\r\n]/, '')
   $counts_with_puncs[$work_id] += s.size
   
-  s.gsub! /[#{PUNCS_REG}]/, ''
+  s.gsub! PUNCS, ''
   $counts_without_puncs[$work_id] += s.size
+  s.each_char { |c| add_char_freq(c) }
 end
 
 def handle_vol(folder)
@@ -42,7 +50,7 @@ def handle_vol(folder)
 end
 
 def handle_work(path)
-  puts "handle work #{path}"
+  print File.basename(path, '.xml') + ' '
   doc = File.open(path) { |f| Nokogiri::XML(f) }
   doc.remove_namespaces!()
   traverse(doc.root)
@@ -66,6 +74,7 @@ def traverse(e)
     when 'g'
       $counts_with_puncs[$work_id]    += 1
       $counts_without_puncs[$work_id] += 1
+      add_char_freq(c['ref'][1..-1])
     when 't'
       if c.key? 'place'
         traverse(c) unless c['place'].include? 'foot'
@@ -102,16 +111,29 @@ def write_to_folder(folder, canon, data, puncs)
   end
 end
 
+$char_freq = {}
 $total_with_puncs = 0
 $total_without_puncs = 0
 
+puts "read xml files"
 Dir.entries(XML).each do |canon|
   next if canon.start_with? '.'
   next if canon.size > 2
   handle_canon(canon)
 end
 
+puts "write ../summary.txt"
 File.open('../summary.txt', 'w') do |f|
   f.puts "含標點總字數：%s" % thousand_seperator($total_with_puncs)
   f.puts "不含標點總字數：%s" % thousand_seperator($total_without_puncs)
+end
+
+puts "字頻排序"
+chars = $char_freq.to_a
+chars.sort! { |x,y| y[1] <=> x[1] }
+
+puts "write ../char-freq.csv"
+File.open('../char-freq.csv', 'w') do |f|
+  f.puts "char,count"
+  chars.each { |a| f.puts "#{a[0]},#{a[1]}"}
 end
