@@ -1,3 +1,7 @@
+# dynasty-all.csv
+
+所有朝代的列表，及其間成立的典籍數。（無典籍成立的朝代不列）
+
 # dynasty-year.csv
 
 中國朝代對應公元年
