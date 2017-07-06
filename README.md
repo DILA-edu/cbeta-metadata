@@ -6,6 +6,10 @@
 
 http://www.cbeta.org/
 
+# titles
+
+典籍名稱列表，典籍編號 與 典籍名稱 對照的 CSV 檔。
+
 # catalog
 
 CBETA 部類目類、各藏部別目錄、冊別目錄，詳見 [catalog](catalog) 資料夾。
