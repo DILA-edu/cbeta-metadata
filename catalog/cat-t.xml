@@ -55,8 +55,8 @@
   <node name="TB13 毘曇部 T26b-29 (T1536-1563)">
     <node name="T26b 毘曇部一 (T1536-1544)" work="T1536..T1544"/>
     <node name="T27 毘曇部二 (T1545)" vol="T27" work="T1545"/>
-    <node name="T28 毘曇部三 (T1546-1557)" vol="T28"/>
-    <node name="T29 毘曇部四 (T1558-1563)" vol="T29"/>
+    <node name="T28 毘曇部三 (T1546-1557)" vol="T28" work="T1546..T1557"/>
+    <node name="T29 毘曇部四 (T1558-1563)" vol="T29" work="T1558..T1563"/>
   </node>
   <node name="TB14 中觀部 T30a (T1564-1578)">
     <node name="T30a 中觀部全 (T1564-1578)" work="T1564..T1578"/>
