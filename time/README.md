@@ -1,6 +1,12 @@
 # dynasty-all.csv
 
-所有朝代的列表，及其間成立的典籍數。（無典籍成立的朝代不列）
+* 所有朝代的列表，及其間成立的典籍數。（無典籍成立的朝代不列）
+* 由 bin/dynasty-all.rb 程式產生
+
+# dynasty-works.csv
+
+* 所有朝代的列表，及其間成立的典籍列表。（無典籍成立的朝代不列）
+* 由 bin/dynasty-all.rb 程式產生
 
 # dynasty-year.csv
 
