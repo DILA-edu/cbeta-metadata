@@ -1,3 +1,4 @@
+require 'csv'
 require 'json'
 require 'pp'
 require 'set'
@@ -12,6 +13,11 @@ def handle_file(fn)
   s = File.read(fn)
   creators = JSON.parse(s)
   creators.each do |work_id, v|
+    title = v['title'].sub(/\(第\d+卷\-第\d+卷\)$/, '')
+    title.sub!(/\(第\d+卷\)$/, '')
+    v['long_title'] = "#{work_id} #{title} (#{$juans[work_id]}卷)"
+    v['long_title'] += "【#{v['byline']}】" if v.key? 'byline'
+    
     if v.key? 'creators_with_id'
       s = v['creators_with_id']
       if s.include? ','
@@ -26,7 +32,7 @@ def handle_file(fn)
           name = $1
           k = $2
           $creators[k]=name unless $creators.key? k
-          record_by_stroke(k, name, work_id, v['title'])
+          record_by_stroke(k, name, work_id, v)
         else
           puts "#{k} 格式錯誤：#{c}"
         end
@@ -34,7 +40,7 @@ def handle_file(fn)
     else
       $unknown << {
         key: work_id,
-        title: v['title']
+        title: v['long_title']
       }
     end
   end
@@ -85,7 +91,19 @@ def output_by_strokes
   File.write(OUT_STROKE, s)
 end
 
-def record_by_stroke(creator_key, name, work_id, title)
+def read_extent(folder)
+  r = {}
+  Dir.entries(folder).each do |f|
+    next if f.start_with? '.'
+    path = File.join(folder, f)
+    CSV.foreach(path, headers: true) do |row|
+      r[row['典籍編號']] = row['卷數']
+    end
+  end
+  r
+end
+
+def record_by_stroke(creator_key, name, work_id, work_hash)
   char = name[0]
   stroke = $unihan.strokes(char)
   $strokes[stroke]={} unless $strokes.key? stroke
@@ -104,9 +122,11 @@ def record_by_stroke(creator_key, name, work_id, title)
   a = $strokes[stroke][char][creator_key][:children]
   a << {
     key: work_id,
-    title: title
+    title: work_hash['long_title']
   }
 end
+
+$juans = read_extent('../../titles/titles-by-canon')
 
 $creators = {}
 $strokes = {}

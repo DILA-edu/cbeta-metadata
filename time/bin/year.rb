@@ -25,7 +25,6 @@ def handle_canon(canon)
 end
 
 def handle_vol(vol)
-  puts "handle vol: #{vol}"
   vol_folder = File.join(IN, $canon, vol)
   Dir.entries(vol_folder).sort.each do |f|
     next if f.start_with? '.'
@@ -35,8 +34,8 @@ def handle_vol(vol)
 end
 
 def handle_file(fn)
-  puts "handle file: #{fn}"
   basename = File.basename(fn, '.xml')
+  print basename + ' '
   work = basename.sub /^([A-Z]{1,2})\d+n(.*)$/, '\1\2'
   return if $works.include? work  
   
@@ -74,6 +73,13 @@ def handle_file(fn)
   else
     $log.puts "#{work} 朝代沒有西元年：#{d}" unless $canon=='B'
   end
+  
+  extent = doc.at_xpath('//extent')
+  if extent.nil?
+    $log.puts "#{__LINE__} #{fn} 找不到 extent 元素"
+    return
+  end
+  w[:extent] = extent.text
 end
 
 def read_d2y

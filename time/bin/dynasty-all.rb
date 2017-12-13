@@ -41,15 +41,32 @@ def combine_and_sort(all)
   }
 end
 
+def read_extent(folder)
+  r = {}
+  Dir.entries(folder).each do |f|
+    next if f.start_with? '.'
+    path = File.join(folder, f)
+    CSV.foreach(path, headers: true) do |row|
+      r[row['典籍編號']] = row['卷數']
+    end
+  end
+  r
+end
+
 def read_works_dynasty
   r = {}
   Dir["../year-by-canon/*.json"].each do |f|
     s = File.read(f)
     data = JSON.parse(s)
     data.each_pair do |work_id,v|
+      title = v['title'].sub(/\(第\d+卷\-第\d+卷\)$/, '')
+      title.sub!(/\(第\d+卷\)$/, '')
+      v['long_title'] = "#{work_id} #{title} (#{$juans[work_id]}卷)"
+      v['long_title'] += "【#{v['byline']}】" if v.key? 'byline'
+      
       work_h = {
         key: work_id,
-        title: v['title']
+        title: v['long_title']
       }
       if v.key? 'dynasty'
         d = v['dynasty']
@@ -82,6 +99,8 @@ def write_works
   s = JSON.pretty_generate(r)
   File.write(OUT_WORKS, s)
 end
+
+$juans = read_extent('../../titles/titles-by-canon')
 
 $unknown = []
 all = read_works_dynasty
