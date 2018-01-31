@@ -1,6 +1,6 @@
 Field,Value
-MetaURL,https://github.com/DILA-edu/cbeta-metadata/textref/cbeta-meta.csv
-DataURL,https://github.com/DILA-edu/cbeta-metadata/textref/cbeta.csv
+MetaURL,https://github.com/DILA-edu/cbeta-metadata/blob/master/textref/cbeta-meta.csv
+DataURL,https://github.com/DILA-edu/cbeta-metadata/blob/master/textref/cbeta.csv
 ShortName,CBETA
 LongName,CBETA
 ResourceTemplate,http://cbetaonline.dila.edu.tw/{primary_id}
