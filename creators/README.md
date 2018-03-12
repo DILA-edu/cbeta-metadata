@@ -8,8 +8,10 @@
 
 * all-creators.json: 有 ID 的全部作譯者列表，使用 bin/list-all.rb 程式轉出。
 * all-creators.txt
-* creators-by-strokes
-  * 全部作譯者依首字筆劃分群，並列出該作譯者之作品典籍，供 Web UI 全文檢索選擇範圍。
+* creators-by-strokes.json
+  * 全部作譯者依首字筆劃分群，供 Web UI 全文檢索選擇範圍。
+* creators-by-strokes-with-works.json
+  * 同上，並列出該作譯者之作品典籍
 * stat.md: 列出「一人多名」及「多人同名」，使用 bin/stat.rb 程式轉出。
 
 # 資料夾

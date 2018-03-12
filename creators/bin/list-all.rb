@@ -7,7 +7,8 @@ require 'unihan2'
 IN = '../creators-by-canon'
 OUT = '../all-creators.txt'
 OUT_JSON = '../all-creators.json'
-OUT_STROKE = '../creators-by-strokes.json'
+OUT_STROKE = '../creators-by-strokes-with-works.json'
+OUT_STROKE2 = '../creators-by-strokes.json'
 
 def handle_file(fn)
   s = File.read(fn)
@@ -89,6 +90,20 @@ def output_by_strokes
   
   s = JSON.pretty_generate(r)
   File.write(OUT_STROKE, s)
+  
+  r.first[:children].pop
+  
+  r.first[:children].each do |stroke|
+    stroke[:children].each do |char|
+      char[:children].each do |creator|
+        creator.delete(:children)
+      end
+    end
+  end
+  
+  s = JSON.pretty_generate(r)
+  File.write(OUT_STROKE2, s)
+  
 end
 
 def read_extent(folder)
