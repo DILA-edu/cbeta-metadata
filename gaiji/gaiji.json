@@ -20299,7 +20299,8 @@
     "zzs": "[王*梨]"
   },
   "CB01418": {
-    "zzs": "[(匕/示)*(入/米)]"
+    "zzs": "[(匕/示)*(入/米)]",
+    "normal": "隸"
   },
   "CB05473": {
     "zzs": "[月*氏]",
@@ -29506,8 +29507,8 @@
   "CB15264": {
     "zzs": "[膏-月+土]",
     "normal": "臺",
-    "unicode": "365C",
-    "unicode-char": "㙜"
+    "unicode": "213B2",
+    "unicode-char": "𡎲"
   },
   "CB15417": {
     "zzs": "[仁-二+卯]",
@@ -49992,7 +49993,9 @@
   },
   "CB24659": {
     "zzs": "[高/土]",
-    "normal": "臺"
+    "normal": "臺",
+    "unicode": "365C",
+    "unicode-char": "㙜"
   },
   "CB24661": {
     "zzs": "[鬲*火]"
@@ -116750,6 +116753,7 @@
     ]
   },
   "CB02407": {
+    "zzs": "[木*聶]",
     "zhuyin": [
       "ㄕㄜˋ"
     ]
@@ -131255,7 +131259,7 @@
     "zzs": "[目*府]"
   },
   "CB34544": {
-    "zzs": "|[怡-台+吏]",
+    "zzs": "[怡-台+吏]",
     "unicode": "3926",
     "unicode-char": "㤦"
   },
@@ -131264,5 +131268,338 @@
     "normal": "腦",
     "unicode": "266C1",
     "unicode-char": "𦛁"
+  },
+  "CB34547": {
+    "zzs": "[(栗-木+夸)*爪]"
+  },
+  "CB34404": {
+    "zzs": "[！？]",
+    "unicode": "2049",
+    "unicode-char": "⁉"
+  },
+  "CB34453": {
+    "zzs": "[音*甚]"
+  },
+  "CB34454": {
+    "zzs": "[目*而]",
+    "normal": "胹",
+    "unicode": "25161",
+    "unicode-char": "𥅡"
+  },
+  "CB34410": {
+    "zzs": "[病-丙+答]",
+    "normal": "瘩",
+    "unicode": "24EA5",
+    "unicode-char": "𤺥"
+  },
+  "CB34411": {
+    "zzs": "[修-(攸-ㄆ)+彳]"
+  },
+  "CB34413": {
+    "zzs": "[日*虛]"
+  },
+  "CB34546": {
+    "zzs": "[言*(狂-王+主)]"
+  },
+  "CB34409": {
+    "zzs": "[女*匕]",
+    "unicode": "216A7",
+    "unicode-char": "𡚧"
+  },
+  "CB34545": {
+    "zzs": "[穎-頁+(入/米)]",
+    "normal": "隸"
+  },
+  "CB34543": {
+    "zzs": "[殼/心]",
+    "normal": "愨",
+    "unicode": "22871",
+    "unicode-char": "𢡱"
+  },
+  "CB34425": {
+    "zzs": "[虫*夤]",
+    "normal": "螾",
+    "unicode": "274D2",
+    "unicode-char": "𧓒"
+  },
+  "CB34430": {
+    "zzs": "[竺-二+差]",
+    "unicode": "25C2D",
+    "unicode-char": "𥰭"
+  },
+  "CB34436": {
+    "zzs": "[(臼@ㄠ)/月]",
+    "normal": "胤",
+    "unicode": "267A9",
+    "unicode-char": "𦞩"
+  },
+  "CB34438": {
+    "zzs": "[然-(烈-列)+火]",
+    "normal": "然",
+    "unicode": "24277",
+    "unicode-char": "𤉷"
+  },
+  "CB34422": {
+    "zzs": "[夫*隹]",
+    "normal": "鳺",
+    "unicode": "28F9A",
+    "unicode-char": "𨾚"
+  },
+  "CB34423": {
+    "zzs": "[目*堯]",
+    "unicode": "4071",
+    "unicode-char": "䁱"
+  },
+  "CB34427": {
+    "zzs": "[永-、+旦]",
+    "normal": "昶",
+    "unicode": "3AE4",
+    "unicode-char": "㫤"
+  },
+  "CB34428": {
+    "zzs": "[序-予+朿]",
+    "unicode": "3880",
+    "unicode-char": "㢀"
+  },
+  "CB34431": {
+    "zzs": "[袖-由+殳]",
+    "normal": "袾",
+    "unicode": "27623",
+    "unicode-char": "𧘣"
+  },
+  "CB34432": {
+    "zzs": "[敲-高+番]",
+    "normal": "播",
+    "unicode": "22FE5",
+    "unicode-char": "𢿥"
+  },
+  "CB34435": {
+    "zzs": "[鼬-由+晏]",
+    "normal": "鼴",
+    "normal_unicode": "鼹"
+  },
+  "CB34440": {
+    "zzs": "[金*坒]"
+  },
+  "CB34441": {
+    "zzs": "[跳-兆+夆]"
+  },
+  "CB34445": {
+    "zzs": "[王*兵]",
+    "unicode": "2AEE4",
+    "unicode-char": "𪻤"
+  },
+  "CB34446": {
+    "zzs": "[目*行]",
+    "unicode": "402A",
+    "unicode-char": "䀪"
+  },
+  "CB34449": {
+    "zzs": "[車*勾]",
+    "normal": "軥",
+    "unicode": "282B5",
+    "unicode-char": "𨊵"
+  },
+  "CB34450": {
+    "zzs": "[利-禾+鼎]",
+    "normal": "則",
+    "unicode": "207ED",
+    "unicode-char": "𠟭"
+  },
+  "CB34451": {
+    "zzs": "[餐-食+土]",
+    "unicode": "212F9",
+    "unicode-char": "𡋹"
+  },
+  "CB34452": {
+    "zzs": "[飢-几+((茲-卄)/几)]",
+    "unicode": "29706",
+    "unicode-char": "𩜆"
+  },
+  "CB34456": {
+    "zzs": "[乞*幾]",
+    "normal_unicode": "𢇓"
+  },
+  "CB34457": {
+    "zzs": "[山*介]",
+    "unicode": "21D5A",
+    "unicode-char": "𡵚"
+  },
+  "CB34459": {
+    "zzs": "[立*屈]",
+    "unicode": "25A8A",
+    "unicode-char": "𥪊"
+  },
+  "CB34460": {
+    "zzs": "[雨/會]",
+    "unicode": "29181",
+    "unicode-char": "𩆁"
+  },
+  "CB34461": {
+    "zzs": "[睪/廾]",
+    "unicode": "22370",
+    "unicode-char": "𢍰"
+  },
+  "CB34462": {
+    "zzs": "[寍-皿+(咒-几+一)]",
+    "unicode": "21A95",
+    "unicode-char": "𡪕"
+  },
+  "CB34479": {
+    "zzs": "[斥*鳥]",
+    "unicode": "29FEA",
+    "unicode-char": "𩿪"
+  },
+  "CB34480": {
+    "zzs": "[齒*責]",
+    "normal": "齰",
+    "unicode": "4DA6",
+    "unicode-char": "䶦"
+  },
+  "CB34481": {
+    "zzs": "[打-丁+隼]",
+    "unicode": "22C9C",
+    "unicode-char": "𢲜"
+  },
+  "CB34483": {
+    "zzs": "[卄/脣]",
+    "unicode": "451A",
+    "unicode-char": "䔚"
+  },
+  "CB34484": {
+    "zzs": "[山/名]",
+    "unicode": "21DC2",
+    "unicode-char": "𡷂"
+  },
+  "CB34485": {
+    "zzs": "[鼓/因]",
+    "unicode": "2A517",
+    "unicode-char": "𪔗"
+  },
+  "CB34486": {
+    "zzs": "[賓*羽]",
+    "unicode": "4399",
+    "unicode-char": "䎙"
+  },
+  "CB34488": {
+    "zzs": "[邱-丘+安]",
+    "unicode": "48BF",
+    "unicode-char": "䢿"
+  },
+  "CB34510": {
+    "zzs": "[琥-儿+ㄆ]"
+  },
+  "CB34511": {
+    "zzs": "[泳-永+(亟-ㄎ+了)]",
+    "normal": "涵",
+    "unicode": "23DAC",
+    "unicode-char": "𣶬"
+  },
+  "CB34512": {
+    "zzs": "[山/集]",
+    "unicode": "380D",
+    "unicode-char": "㠍"
+  },
+  "CB34515": {
+    "zzs": "[彤*見]"
+  },
+  "CB34516": {
+    "zzs": "[辰*欠]",
+    "unicode": "3C2E",
+    "unicode-char": "㰮"
+  },
+  "CB34517": {
+    "zzs": "[軍*羽]",
+    "normal": "翬",
+    "normal_unicode": "𦑩"
+  },
+  "CB34518": {
+    "zzs": "[常/心]",
+    "normal": "常",
+    "unicode": "3982",
+    "unicode-char": "㦂"
+  },
+  "CB34519": {
+    "zzs": "[襄*皮]",
+    "unicode": "25036",
+    "unicode-char": "𥀶"
+  },
+  "CB34520": {
+    "zzs": "[塭-囚+太]",
+    "unicode": "2138C",
+    "unicode-char": "𡎌"
+  },
+  "CB34522": {
+    "zzs": "[唚-口+豆]",
+    "unicode": "4737",
+    "unicode-char": "䜷"
+  },
+  "CB34524": {
+    "zzs": "[霠-立+云]",
+    "normal": "霒",
+    "unicode": "290EC",
+    "unicode-char": "𩃬"
+  },
+  "CB34527": {
+    "zzs": "[仁-二+(王/(木-十+子))]",
+    "normal": "寶"
+  },
+  "CB34530": {
+    "zzs": "[山/靈]",
+    "normal": "岭",
+    "unicode": "21FE1",
+    "unicode-char": "𡿡"
+  },
+  "CB34531": {
+    "zzs": "[木*雨]",
+    "unicode": "2352F",
+    "unicode-char": "𣔯"
+  },
+  "CB34532": {
+    "zzs": "[艮*頁]",
+    "unicode": "4AC0",
+    "unicode-char": "䫀"
+  },
+  "CB34533": {
+    "zzs": "[雨/禹]",
+    "unicode": "4A1E",
+    "unicode-char": "䨞"
+  },
+  "CB34534": {
+    "zzs": "[宋-木+丐]",
+    "unicode": "219CE",
+    "unicode-char": "𡧎"
+  },
+  "CB34535": {
+    "zzs": "[宋-木+丏]",
+    "unicode": "219CD",
+    "unicode-char": "𡧍"
+  },
+  "CB34528": {
+    "zzs": "[土*罕]",
+    "unicode": "2A8DF",
+    "unicode-char": "𪣟"
+  },
+  "CB34536": {
+    "zzs": "[泳-永+與]",
+    "normal": "漵",
+    "unicode": "3D70",
+    "unicode-char": "㵰"
+  },
+  "CB34538": {
+    "zzs": "[聰-耳+禾]",
+    "unicode": "25865",
+    "unicode-char": "𥡥"
+  },
+  "CB34539": {
+    "zzs": "[雨/裔]",
+    "unicode": "2CC0F",
+    "unicode-char": "𬰏"
+  },
+  "CB34537": {
+    "zzs": "[熬-士+出]",
+    "normal": "熬",
+    "unicode": "243FA",
+    "unicode-char": "𤏺"
   }
 }
