@@ -18171,63 +18171,15 @@
     "category_ids": "23",
     "category_names": "新編部類"
   },
-  "GA0008": {
-    "category_ids": "23",
-    "category_names": "新編部類"
-  },
-  "GA0009": {
-    "category_ids": "23",
-    "category_names": "新編部類"
-  },
-  "GA0010": {
-    "category_ids": "23",
-    "category_names": "新編部類"
-  },
-  "GA0011": {
-    "category_ids": "23",
-    "category_names": "新編部類"
-  },
-  "GA0017": {
-    "category_ids": "23",
-    "category_names": "新編部類"
-  },
-  "GA0032": {
-    "category_ids": "23",
-    "category_names": "新編部類"
-  },
-  "GA0043": {
-    "category_ids": "23",
-    "category_names": "新編部類"
-  },
-  "GA0049": {
-    "category_ids": "23",
-    "category_names": "新編部類"
-  },
-  "GA0062": {
-    "category_ids": "23",
-    "category_names": "新編部類"
-  },
-  "GA0077": {
-    "category_ids": "23",
-    "category_names": "新編部類"
-  },
-  "GA0081": {
-    "category_ids": "23",
-    "category_names": "新編部類"
-  },
-  "GA0084": {
-    "category_ids": "23",
-    "category_names": "新編部類"
-  },
-  "GA0086": {
-    "category_ids": "23",
-    "category_names": "新編部類"
-  },
-  "GA0089": {
+  "GA0004..GA0089": {
     "category_ids": "23",
     "category_names": "新編部類"
   },
   "GB0109": {
+    "category_ids": "23",
+    "category_names": "新編部類"
+  },
+  "Y0001..Y0042": {
     "category_ids": "23",
     "category_names": "新編部類"
   }

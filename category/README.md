@@ -11,6 +11,13 @@ work_categories.json 內容是「典籍編號」與「部類編號」、「部�
       "category_names": "般若部類,敦煌寫本部類"
     }
 
+典籍編號可能使用範圍：
+
+    "Y0001..Y0042": {
+      "category_ids": "23",
+      "category_names": "新編部類"
+    }
+
 # 來源檔
 
 來源是 CBETA 2016年發行的光碟裡的檔案：
