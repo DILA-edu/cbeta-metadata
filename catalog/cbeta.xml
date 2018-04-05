@@ -1722,6 +1722,7 @@
     </node>
   </node>
   <node name="23 新編部類 ZS01, ZW01-09, I01, B01-36, GA009-090, GB078">
+    <node name="ZS0001 正史佛教資料類編" work="ZS0001"/>
     <node name="ZW0001-77 藏外佛教文獻">
       <node name="ZW0001-16 第一輯">
         <node name="ZW0001-3 敦煌禪籍" work="ZW0001..ZW0003"/>        
@@ -1780,7 +1781,7 @@
         <node name="ZW0076-77 研究論文" work="ZW0076..ZW0077"/>
       </node>
     </node>
-    <node name="ZS0001 正史佛教資料類編" work="ZS0001"/>
+    
     
     <node name="I0001-100 北朝佛教石刻拓片百品">
       <node name="朝代">
@@ -1856,14 +1857,24 @@
       <node name="B35 大藏經補編 (B0194-7)" work="B0194..B0197"/>
       <node name="B36 大藏經補編 (B0198)"/>
     </node>
-    <node name="GA0008-89, GB0109 中國佛寺志">
-      <node name="中國佛寺史志彙刊 (14 志)">
-        <node work="GA0008..GA0011"/>
-        <node work="GA0017,GA0032,GA0043,GA0049,GA0062,GA0077,GA0081,GA0084,GA0086,GA0089"/>
-      </node>
-      <node name="中國佛寺志叢刊 (1 志)">
-        <node work="GB0109"/>
-      </node>
+    <node name="GA0002-89 中國佛寺史志彙刊">
+      <node work="GA0002..GA0005"/>
+      <node work="GA0008..GA0015"/>
+      <node work="GA0017..GA0025"/>
+      <node work="GA0028..GA0032"/>
+      <node work="GA0036,GA0043,GA0049,GA0062,GA0077,GA0081,GA0084,GA0086,GA0089"/>
     </node>
+    <node name="GB0109 中國佛寺志叢刊">
+      <node work="GB0109"/>
+    </node>
+  </node>
+  <node name="Y0001-42 印順法師佛學著作集">
+    <node name="妙雲集">
+      <node name="上篇" work="Y0001..Y0007"/>
+      <node name="中篇" work="Y0008..Y0012,Y0040,Y0013"/>      
+      <node name="下篇" work="Y0014..Y0023,Y0039,Y0024"/>
+    </node>
+    <node name="華雨集" work="Y0025..Y0029"/>
+    <node name="專書" work="Y0030..Y0038,Y0041,Y0042"/>   
   </node>
 </tree>
