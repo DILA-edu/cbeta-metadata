@@ -35,6 +35,7 @@
 * vol-u.xml: 洪武南藏
 * vol-w.xml: 藏外佛教文獻
 * vol-x.xml: 卍續藏
+* vol-y.xml: 印順法師佛學著作集
 
 # XML 標記說明
 
