@@ -1817,7 +1817,6 @@
       <node name="年代" work="I0001..I0100"/>
     </node>
     <node name="B0001-198 大藏經補編">
-      <node name="T0310(5) 無量壽如來會 2 菩提流志"  work="T0310" juan="17..18"/>
       <node name="B01-02">
         <node work="B0001"/>
       </node>
