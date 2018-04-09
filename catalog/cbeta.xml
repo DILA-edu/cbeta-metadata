@@ -1818,42 +1818,44 @@
     </node>
     <node name="B0001-198 大藏經補編">
       <node name="T0310(5) 無量壽如來會 2 菩提流志"  work="T0310" juan="17..18"/>
-      <node name="B01 大藏經補編 (B0001: 1-9卷)"    work="B0001" juan="1..9"/>
-      <node name="B02 大藏經補編 (B0001: 10-20卷)"  work="B0001" juan="10..20"/>
-      <node name="B03 大藏經補編 (B0002: 1-46卷)"   work="B0002" juan="1..46"/>
-      <node name="B04 大藏經補編 (B0002: 47-85卷)"  work="B0002" juan="47..85"/>
-      <node name="B05 大藏經補編 (B0002: 86-120卷)" work="B0002" juan="86..120"/>
-      <node name="B06 大藏經補編 (B0003-9)"   work="B0003..B0009"/>
-      <node name="B07 大藏經補編 (B0010-25)" work="B0010..B0025"/>
-      <node name="B08 大藏經補編 (B0026-9)" work="B0026..B0029"/>
-      <node name="B09 大藏經補編 (B0030-47)" work="B0030..B0047"/>
-      <node name="B10 大藏經補編 (B0048-68)" work="B0048..B0068"/>
-      <node name="B11 大藏經補編 (B0069-76)" work="B0069..B0076"/>
-      <node name="B12 大藏經補編 (B0077-8)" work="B0077,B0078"/>
-      <node name="B13 大藏經補編 (B0079-80)" work="B0079,B0080"/>
-      <node name="B14 大藏經補編 (B0081-7)" work="B0071..B0087"/>
-      <node name="B15 大藏經補編 (B0088: 55-124卷)" work="B0088" juan="55..124"/>
-      <node name="B16 大藏經補編 (B0088: 125-212卷)" work="B0088" juan="125..212"/>
-      <node name="B17 大藏經補編 (B0089-94)" work="B0089..B0094"/>
-      <node name="B18 大藏經補編 (B0095-102)" work="B0095..B0102"/>
-      <node name="B19 大藏經補編 (B0103)" work="B0103"/>
-      <node name="B20 大藏經補編 (B0104-8)" work="B0104..B0108"/>
-      <node name="B21 大藏經補編 (B0109-16)" work="B0109..B0116"/>
-      <node name="B22 大藏經補編 (B0117-9)" work="B0117..B0119"/>
-      <node name="B23 大藏經補編 (B0120-30)" work="B0120..B0130"/>
-      <node name="B24 大藏經補編 (B0131-41)" work="B0131..B0141"/>
-      <node name="B25 大藏經補編 (B0142-5)" work="B0142..B0145"/>
-      <node name="B26 大藏經補編 (B0146-50)" work="B0146..B0150"/>
-      <node name="B27 大藏經補編 (B0151-3)" work="B0151..B0153"/>
-      <node name="B28 大藏經補編 (B0154-9)" work="B0154..B0159"/>
-      <node name="B29 大藏經補編 (B0160-2)" work="B0160..B0162"/>
-      <node name="B30 大藏經補編 (B0163-8)" work="B0163..B0168"/>
-      <node name="B31 大藏經補編 (B0169-70)" work="B0169,B0170"/>
-      <node name="B32 大藏經補編 (B0171-91)" work="B0171..B0191"/>
-      <node name="B33 大藏經補編 (B0192)" work="B0192"/>
-      <node name="B34 大藏經補編 (B0193)" work="B0193"/>
-      <node name="B35 大藏經補編 (B0194-7)" work="B0194..B0197"/>
-      <node name="B36 大藏經補編 (B0198)"/>
+      <node name="B01-02">
+        <node work="B0001"/>
+      </node>
+      <node name="B03-05">
+        <node work="B0002" />
+      </node>
+      <node name="B06" work="B0003..B0009"/>
+      <node name="B07" work="B0010..B0025"/>
+      <node name="B08" work="B0026..B0029"/>
+      <node name="B09" work="B0030..B0047"/>
+      <node name="B10" work="B0048..B0068"/>
+      <node name="B11" work="B0069..B0076"/>
+      <node name="B12" work="B0077,B0078"/>
+      <node name="B13" work="B0079,B0080"/>
+      <node name="B14" work="B0071..B0087"/>
+      <node name="B15-16">
+        <node work="B0088"/>
+      </node>
+      <node name="B17" work="B0089..B0094"/>
+      <node name="B18" work="B0095..B0102"/>
+      <node name="B19" work="B0103"/>
+      <node name="B20" work="B0104..B0108"/>
+      <node name="B21" work="B0109..B0116"/>
+      <node name="B22" work="B0117..B0119"/>
+      <node name="B23" work="B0120..B0130"/>
+      <node name="B24" work="B0131..B0141"/>
+      <node name="B25" work="B0142..B0145"/>
+      <node name="B26" work="B0146..B0150"/>
+      <node name="B27" work="B0151..B0153"/>
+      <node name="B28" work="B0154..B0159"/>
+      <node name="B29" work="B0160..B0162"/>
+      <node name="B30" work="B0163..B0168"/>
+      <node name="B31" work="B0169,B0170"/>
+      <node name="B32" work="B0171..B0191"/>
+      <node name="B33" work="B0192"/>
+      <node name="B34" work="B0193"/>
+      <node name="B35" work="B0194..B0196"/>
+      <node name="B36" work="B0197..B0198"/>
     </node>
     <node name="GA0002-89 中國佛寺史志彙刊">
       <node work="GA0002..GA0005"/>
