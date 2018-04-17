@@ -89,6 +89,7 @@ def output_by_strokes
   }
   
   s = JSON.pretty_generate(r)
+  puts "write #{OUT_STROKE}"
   File.write(OUT_STROKE, s)
   
   r.first[:children].pop
@@ -102,8 +103,8 @@ def output_by_strokes
   end
   
   s = JSON.pretty_generate(r)
+  puts "write #{OUT_STROKE2}"
   File.write(OUT_STROKE2, s)
-  
 end
 
 def read_extent(folder)
@@ -161,6 +162,7 @@ end
 fo.close
 
 s = JSON.pretty_generate($creators)
+puts "write #{OUT_JSON}"
 File.write(OUT_JSON, s)
 
 output_by_strokes
