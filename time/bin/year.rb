@@ -103,8 +103,12 @@ $d2y = read_d2y
 
 Dir.mkdir(OUT) unless Dir.exist? OUT
 
-Dir.entries(IN).sort.each do |canon|
-  next if canon.start_with? '.'
-  next if canon.size > 2
-  handle_canon(canon)
+if ARGV.size > 0
+  handle_canon(ARGV[0].upcase)
+else
+  Dir.entries(IN).sort.each do |canon|
+    next if canon.start_with? '.'
+    next if canon.size > 2
+    handle_canon(canon)
+  end
 end
