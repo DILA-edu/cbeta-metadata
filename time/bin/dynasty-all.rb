@@ -56,12 +56,16 @@ end
 def read_works_dynasty
   r = {}
   Dir["../year-by-canon/*.json"].each do |f|
+    canon = File.basename(f, '.json')
     s = File.read(f)
     data = JSON.parse(s)
     data.each_pair do |work_id,v|
       title = v['title'].sub(/\(第\d+卷\-第\d+卷\)$/, '')
       title.sub!(/\(第\d+卷\)$/, '')
-      v['long_title'] = "#{work_id} #{title} (#{$juans[work_id]}卷)"
+      v['long_title'] = "#{work_id} #{title}"
+      unless %w(N Y ZS ZW).include? canon
+        v['long_title'] += " (#{$juans[work_id]}卷)"
+      end
       v['long_title'] += "【#{v['byline']}】" if v.key? 'byline'
       
       work_h = {
