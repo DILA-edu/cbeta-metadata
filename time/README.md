@@ -18,8 +18,6 @@ Julian Calendar before 1582 / Gregorian Calendar after 1582 (without year zero)
 
 # year-by-canon
 
-佛典成立的年代概估。
+一部藏經一個 JSON 檔，條列出所有典籍成立的年代概估。
 
-資料來源：由朝代查表概估。
-
-X0343、X0451、X0582 三部典籍以作者吉藏的生卒年概估。
+詳見 [README](year-by-canon/README.md)
