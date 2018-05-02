@@ -117,7 +117,7 @@ write_count
 write_works
 
 unless all.empty?
-  puts "未列到的朝代"
+  puts "某些朝代不存在已知的朝代總表裡，必須找朝代資料編輯人員確認資料是否正確。"
   all.each_pair do |k,v|
     puts k
   end
