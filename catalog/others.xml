@@ -132,10 +132,10 @@
   </node>
   <node name="永樂北藏">
     <node name="P154 永樂北藏 (P1519: 卷1-12)">
-      <node work="P1519" file="L154n1519" juan="1..12"/>
+      <node work="P1519" file="P154n1519" juan="1..12"/>
     </node>
     <node name="P155 永樂北藏 (P1519: 卷13-20)">
-      <node work="P1519" file="L155n1519" juan="13..20"/>
+      <node work="P1519" file="P155n1519" juan="13..20"/>
     </node>
     <node name="P167 永樂北藏 (P1573)" work="P1573"/>
     <node name="P168 永樂北藏 (P1581)" work="P1581"/>
