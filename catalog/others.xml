@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tree xml:id="others">
   <node name="金藏">
-    <node name="A091 金藏 (A1066)" work="A1066"/>    
-    <node name="A097 金藏 (A1276: 卷3-4)">
-      <node work="A1276" file="A097n1276" juan="3..4"/>
+    <node name="A091 金藏 (A1057)" work="A1057"/>    
+    <node name="A097 金藏 (A1267: 卷3-4)">
+      <node work="A1267" file="A097n1267" juan="3..4"/>
     </node>
-    <node name="A098 金藏 (A1276: 卷5-20)">
-      <node work="A1276" file="A098n1276" juan="5..20"/>
+    <node name="A098 金藏 (A1267: 卷5-20)">
+      <node work="A1267" file="A098n1267" juan="5..20"/>
     </node>
-    <node name="A110 金藏 (A1499)" work="A1499"/>    
-    <node name="A111 金藏 (A1501)">
-      <node work="A1501" file="A111n1501" juan="3..12"/>
+    <node name="A110 金藏 (A1490)" work="A1490"/>    
+    <node name="A111 金藏 (A1493)">
+      <node work="A1493" file="A111n1493" juan="3..12"/>
     </node>
-    <node name="A112 金藏 (A1502)">
-      <node work="A1501" file="A112n1501" juan="13..20"/>
-      <node work="A1502"/>
+    <node name="A112 金藏 (A1493-4)">
+      <node work="A1493" file="A112n1493" juan="13..20"/>
+      <node work="A1494"/>
     </node>
-    <node name="A114 金藏 (A1510-1)" work="A1510..A1511"/>
-    <node name="A119 金藏 (A1553)" work="A1553"/>    
-    <node name="A120 金藏 (A1565)" work="A1565"/>    
+    <node name="A114 金藏 (A1504-5)" work="A1504..A1505"/>
+    <node name="A119 金藏 (A1548)" work="A1548"/>
+    <node name="A120 金藏 (A1561: 1-32卷)">
+      <node work="A1561" file="A120n1561" juan="1..32"/>
+    </node>
+    <node name="A121 金藏 (A1561: 33-40卷)">
+      <node work="A1561" file="A121n1561" juan="33..40"/>
+    </node>
   </node>
   <node name="中華藏">
     <node name="C056 中華藏 (C1163: 卷1-15)">

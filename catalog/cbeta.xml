@@ -448,7 +448,7 @@
         <node work="X1486..X1487"/>
       </node>
       <node work="T0413..T0423"/>
-      <node work="A1510"/>
+      <node work="A1504"/>
       <node work="T0424"/>
     </node>
     <node work="T1526"/>
@@ -803,7 +803,7 @@
           <node work="X0750..X0751"/>
         </node>
       </node>
-      <node name="T1484-1504, A1511 菩薩戒藏 T24, A114／疏 T40a,85, X38-39">
+      <node name="T1484-1504, A1505 菩薩戒藏 T24, A114／疏 T40a,85, X38-39">
         <node name="T1484 梵網經 T24／疏 T40a,85, X38-39">
           <node work="T1484"/>
           <node name="T1811-15 etc. 梵網經疏 T40a, X38-39">
@@ -821,7 +821,7 @@
           <node work="X0705"/>
         </node>
         <node work="T1486..T1504"/>
-        <node work="A1511"/>
+        <node work="A1505"/>
       </node>
     </node>
     <node name="T40a,85, X39-44 四分律疏">
@@ -961,7 +961,7 @@
         <node work="T2801..T2803"/>
         <node work="X0704"/>
         <node work="X0794"/>
-        <node work="A1565"/>
+        <node work="A1561"/>
       </node>
       <node name="T1585-87,1618 成唯識論／疏 T43,85, X48-51">
         <node work="T1585..T1587"/>
@@ -1060,7 +1060,7 @@
         <node work="T1839..T1842"/>
         <node work="X0847..X0848"/>
         <node work="X0852..X0862"/>
-        <node work="A1553"/>
+        <node work="A1548"/>
       </node>
     </node>
     <node name="T1634-38 入大乘論 etc. T32" work="T1634..T1638"/>
@@ -1549,7 +1549,7 @@
       </node>
       <node name="T2128-29 etc. 音義 T54b, J19, C056-057,059, A091, K32,34-35">
         <node work="C1163"/>
-        <node work="A1066"/>
+        <node work="A1057"/>
         <node work="K1064"/>
         <node work="T2128..T2129"/>
         <node work="K1257"/>
@@ -1599,11 +1599,11 @@
         <node work="T2153"/>
         <node name="T2154-55 開元釋教錄">
           <node work="T2154..T2155"/>
-          <node work="A1276"/>
+          <node work="A1267"/>
         </node>
         <node name="T2156-58 貞元錄" work="T2156..T2158"/>        
-        <node work="A1499"/>
-        <node work="A1501..A1502"/>
+        <node work="A1490"/>
+        <node work="A1493..A1494"/>
         <node work="L1608"/>
         <node work="C1937"/>
         <node work="JB271"/>
