@@ -6,6 +6,7 @@ require 'unihan2'
 
 IN = '../creators-by-canon'
 OUT = '../all-creators.txt'
+OUT_CSV = '../all-title-byline.csv'
 OUT_JSON = '../all-creators.json'
 OUT_STROKE = '../creators-by-strokes-with-works.json'
 OUT_STROKE2 = '../creators-by-strokes.json'
@@ -16,6 +17,11 @@ def handle_file(fn)
   creators.each do |work_id, v|
     title = v['title'].sub(/\(第\d+卷\-第\d+卷\)$/, '')
     title.sub!(/\(第\d+卷\)$/, '')
+
+    unless $works.key? work_id
+      $works[work_id] = { title: title, byline: v['byline'] }
+    end
+
     v['long_title'] = "#{work_id} #{title} (#{$juans[work_id]}卷)"
     v['long_title'] += "【#{v['byline']}】" if v.key? 'byline'
     
@@ -54,8 +60,6 @@ def output_by_strokes
     }
   ]
   all_strokes = $strokes.to_a.sort
-  s = JSON.pretty_generate(all_strokes)
-  File.write('temp.json', s)
   
   all_strokes.each do |stroke_a|
     stroke = stroke_a[0]
@@ -107,6 +111,16 @@ def output_by_strokes
   File.write(OUT_STROKE2, s)
 end
 
+def output_csv
+  puts "write #{OUT_CSV}"
+  CSV.open(OUT_CSV, "wb") do |csv|
+    csv << %w(id title byline)
+    $works.each_pair do |k, v|
+      csv << [k, v[:title], v[:byline]]
+    end
+  end
+end
+
 def read_extent(folder)
   r = {}
   Dir.entries(folder).each do |f|
@@ -148,8 +162,9 @@ $creators = {}
 $strokes = {}
 $unihan = Unihan2.new
 $unknown = []
+$works = {}
 
-Dir["#{IN}/*.json"].each do |f|
+Dir["#{IN}/*.json"].sort.each do |f|
   handle_file(f)
 end
 
@@ -166,3 +181,4 @@ puts "write #{OUT_JSON}"
 File.write(OUT_JSON, s)
 
 output_by_strokes
+output_csv
