@@ -8,6 +8,7 @@
 
 * all-creators.json: 有 ID 的全部作譯者列表，使用 bin/list-all.rb 程式轉出。
 * all-creators.txt
+* all-title-byline.csv: 典籍編號、標題、作譯者 全部列表。
 * creators-by-strokes.json
   * 全部作譯者依首字筆劃分群，供 Web UI 全文檢索選擇範圍。
 * creators-by-strokes-with-works.json
