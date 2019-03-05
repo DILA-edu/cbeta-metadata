@@ -1,7 +1,9 @@
 require 'cbeta'
+require 'csv'
 
 IN = '/Users/ray/git-repos/cbeta-xml-p5a'
 OUT = '../titles-by-canon'
+OUT_ALL = '../all-title-byline.csv'
 
 def handle_canon(canon)
   $result = {}
@@ -12,10 +14,13 @@ def handle_canon(canon)
     handle_vol(canon, f)
   end
   fn = File.join(OUT, canon+'.csv')
-  File.open(fn, 'w') do |f|
-    f.puts "典籍編號,典籍名稱,卷數"
+  CSV.open(fn, "wb") do |csv|
+    csv << %w(典籍編號 典籍名稱 卷數 作譯者)
     $result.keys.sort.each do |k|
-      f.puts "#{k},#{$result[k]},#{$extent[k]}"
+      v = $result[k]
+      row = [k, v[:title], $extent[k], v[:byline]]
+      csv << row
+      $csv_all << row
     end
   end
 end
@@ -28,7 +33,14 @@ def handle_file(fn)
   basename = File.basename(fn, '.xml')
   print basename + ' '
   work = CBETA.get_work_id_from_file_basename(basename)
-  $result[work] = title
+
+  $result[work] = {} unless $result.key? work
+  $result[work][:title] = title
+
+  node = doc.at('//titleStmt/author')
+  unless node.nil?
+    $result[work][:byline] = node.text
+  end
   
   node = doc.at('//extent')
   abort '找不到 extent 元素' if node.nil?
@@ -54,6 +66,9 @@ end
 Dir.mkdir(OUT) unless Dir.exist?(OUT)
 
 $count = 0
+$csv_all = CSV.open(OUT_ALL, "wb")
+$csv_all << %w(典籍編號 典籍名稱 卷數 作譯者)
+
 Dir.entries(IN).sort.each do |f|
   next if f.start_with? '.'
   next if f.size > 2
