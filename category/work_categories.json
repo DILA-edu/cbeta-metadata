@@ -18182,5 +18182,9 @@
   "Y0001..Y0042": {
     "category_ids": "23",
     "category_names": "新編部類"
+  },
+  "LC0007": {
+    "category_ids": "23",
+    "category_names": "新編部類"
   }
 }

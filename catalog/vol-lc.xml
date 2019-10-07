@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
+<tree xml:id="Vol-LC" title="呂澂佛學著作集">
+  <node name="LC07 經論講要（上）(第1卷-第11卷)" work="LC0007" file="LC07n0007" juan="1..11"/>
+  <node name="LC08 經論講要（上）(第1卷-第11卷)" work="LC0007" file="LC08n0007" juan="12..21"/>
+</tree>
