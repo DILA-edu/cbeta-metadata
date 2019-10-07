@@ -2007,5 +2007,8 @@
       <node name="華雨集" work="Y0025..Y0029"/>
       <node name="專書" work="Y0030..Y0038,Y0041,Y0042"/>   
     </node>
+    <node name="LC0007 呂澂佛學著作集">
+      <node work="LC0007"/>
+    </node>
   </node>
 </tree>
