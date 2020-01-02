@@ -11,8 +11,10 @@
 * all-title-byline.csv: 典籍編號、標題、作譯者 全部列表。(如果 CBETA XML 裡沒有作譯者資訊，就整部典籍都不列出)
 * creators-by-strokes.json
   * 全部作譯者依首字筆劃分群，供 Web UI 全文檢索選擇範圍。
+  * 由 bin/list-all.rb 產生
 * creators-by-strokes-with-works.json
   * 同上，並列出該作譯者之作品典籍
+  * 由 bin/list-all.rb 產生
 * stat.md: 列出「一人多名」及「多人同名」，使用 bin/stat.rb 程式轉出。
 
 ## 資料夾
