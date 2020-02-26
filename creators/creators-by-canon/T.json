@@ -9102,13 +9102,13 @@
     "title": "廣百論本",
     "byline": "聖天菩薩造 唐 玄奘譯",
     "creators": "玄奘,聖天",
-    "creators_with_id": "玄奘(A000294);聖天(A001478)"
+    "creators_with_id": "玄奘(A000294);聖天(A001207)"
   },
   "T1571": {
     "title": "大乘廣百論釋論",
     "byline": "聖天菩薩本 護法菩薩釋 唐 玄奘譯",
     "creators": "玄奘,聖天,護法",
-    "creators_with_id": "玄奘(A000294);聖天(A001478);護法(A001963)"
+    "creators_with_id": "玄奘(A000294);聖天(A001207);護法(A001963)"
   },
   "T1572": {
     "title": "百字論",
@@ -9150,7 +9150,7 @@
     "title": "大乘掌珍論",
     "byline": "清辯菩薩造 唐 玄奘譯",
     "creators": "玄奘,清辯",
-    "creators_with_id": "玄奘(A000294);清辯(A001097)"
+    "creators_with_id": "玄奘(A000294);清辯(A000139)"
   },
   "T1579": {
     "title": "瑜伽師地論",
@@ -12119,8 +12119,8 @@
   "T2077": {
     "title": "續傳燈錄",
     "byline": "明 居頂輯",
-    "creators": "居頂,玄極",
-    "creators_with_id": "居頂(A000616);玄極(A000297)"
+    "creators": "居頂",
+    "creators_with_id": "居頂(A000616)"
   },
   "T2078": {
     "title": "傳法正宗記",
