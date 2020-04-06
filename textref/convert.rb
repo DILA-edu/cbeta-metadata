@@ -15,6 +15,11 @@ def handle_file(f)
   CSV.foreach(f, headers: true) do |row|
     work = row['典籍編號']
     title = row['典籍名稱']
+
+    unless work_dynasty.key?(work)
+      abort "#{__LINE__} 典籍編號 #{work} 不存在於 time/year-by-canon"
+    end
+
     dynasty = work_dynasty[work]['dynasty']
     
     begin

@@ -4,6 +4,7 @@ require 'pp'
 require 'set'
 require 'unihan2'
 
+TITLES = '../../titles/titles-by-canon'
 IN = '../creators-by-canon'
 OUT = '../all-creators.txt'
 OUT_CSV = '../all-title-byline.csv'
@@ -156,7 +157,7 @@ def record_by_stroke(creator_key, name, work_id, work_hash)
   }
 end
 
-$juans = read_extent('../../titles/titles-by-canon')
+$juans = read_extent(TITLES)
 
 $creators = {}
 $strokes = {}

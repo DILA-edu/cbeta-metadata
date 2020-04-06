@@ -3,6 +3,7 @@
 require 'csv'
 require 'json'
 
+TITLES = '../../titles/titles-by-canon'
 OUT = '../dynasty-all.csv'
 OUT_WORKS = '../dynasty-works.json'
 
@@ -104,7 +105,7 @@ def write_works
   File.write(OUT_WORKS, s)
 end
 
-$juans = read_extent('../../titles/titles-by-canon')
+$juans = read_extent(TITLES)
 
 $unknown = []
 all = read_works_dynasty

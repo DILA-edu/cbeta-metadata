@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
 <tree xml:id="Vol-LC" title="呂澂佛學著作集">
-  <node name="LC01 印度佛學源流略講 (第1卷-第17卷)" work="LC0001" file="LC01n0001" juan="1..17"/>
-  <node name="LC02 中國佛學源流略講 (第1卷-第26卷)" work="LC0002" file="LC02n0002" juan="1..26"/>
+  <node name="LC01 印度佛學源流略講 (17卷)" work="LC0001" file="LC01n0001" juan="1..17"/>
+  <node name="LC02 中國佛學源流略講 (26卷)" work="LC0002" file="LC02n0002" juan="1..26"/>
+  <node name="LC03 西藏佛學原論及佛學論著選集 (14卷)" work="LC0003" file="LC03n0003" juan="1..14"/>
+  <node name="LC04 因明入正理論講解及相關論著 (14卷)" work="LC0004" file="LC04n0004" juan="1..14"/>
+  <node name="LC05 佛教重要名相釋義及經論攷證 (18卷)" work="LC0005" file="LC05n0005" juan="1..18"/>
+  <node name="LC06 歷朝藏經略考及新編漢文大藏經目錄 (17卷)" work="LC0006" file="LC06n0006" juan="1..17"/>
   <node name="LC07 經論講要（上）(第1卷-第11卷)" work="LC0007" file="LC07n0007" juan="1..11"/>
-  <node name="LC08 經論講要（上）(第1卷-第11卷)" work="LC0007" file="LC08n0007" juan="12..21"/>
+  <node name="LC08 經論講要（下）(第12卷-第21卷)" work="LC0007" file="LC08n0007" juan="12..21"/>
 </tree>
