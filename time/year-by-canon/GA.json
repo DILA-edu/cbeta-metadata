@@ -10,11 +10,15 @@
     "title": "洛陽伽藍記鉤沈",
     "byline": "民國 唐晏鉤沈",
     "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 9999
   },
     "GA0004": {
     "title": "洛陽伽藍記合校本",
     "byline": "民國 張宗祥合校",
     "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 9999
   },
   "GA0005": {
     "title": "南朝佛寺志",
@@ -33,7 +37,9 @@
   "GA0009": {
     "title": "普陀洛迦新志",
     "byline": "民國 王亨彥撰",
-    "dynasty": "民國"
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 9999
   },
   "GA0010": {
     "title": "明州阿育王山志(第1卷-第8卷)",
@@ -59,7 +65,9 @@
   "GA0013": {
     "title": "七塔寺志",
     "byline": "民國 陳寥士撰",
-    "dynasty": "民國"
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 9999
   },
   "GA0014": {
     "title": "明州岳林寺志",
@@ -211,12 +219,16 @@
   "GA0077": {
     "title": "九華山志",
     "byline": "民國 釋印光重修",
-    "dynasty": "民國"
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 9999
   },
   "GA0081": {
     "title": "清涼山志",
     "byline": "民國 釋印光重修",
-    "dynasty": "民國"
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 9999
   },
   "GA0084": {
     "title": "雞足山寺志(第1卷-第6卷)",
