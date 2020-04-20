@@ -1202,7 +1202,9 @@
     <node name="T2003-6 公案集 T48" work="T2003..T2006"/>
     <node name="T2007-25 壇經等歷代禪宗典籍 T48">
       <node name="T2007-15 隋唐著作">
-        <node work="T2007..T2012B"/>
+        <node work="T2007"/>
+        <node name="附錄：敦博本六祖壇經校訂全文" html="help/other/T48/T2007_ps.htm"/>
+        <node work="T2008..T2012B"/>
         <node name="T2013-14 永嘉著作" work="T2013..T2014"/>        
         <node work="T2015"/>
       </node>
@@ -1686,14 +1688,103 @@
     <node work="D9031"/>
   </node>
   <node name="22 南傳大藏經部類 N01-70">
-    <node name="N0001-03 律藏 N01-05N0001-03 律藏 N01-05">
+    <node name="CBETA 元亨寺版《漢譯南傳大藏經》編輯說明" html="help/other/N/guide/N-readme.htm"/>
+    <node name="序" html="help/other/N/N01/N01a.htm"/>
+    <node name="漢譯南傳大藏經目錄">
+      <node name="南傳大藏經一覽" html="help/other/N/main_menu/list.htm"/>
+      <node name="各冊目錄">
+        <node name="第一冊" html="help/other/N/main_menu/N01.htm"/>
+        <node name="第二冊" html="help/other/N/main_menu/N02.htm"/>
+        <node name="第三冊" html="help/other/N/main_menu/N03.htm"/>
+        <node name="第四冊" html="help/other/N/main_menu/N04.htm"/>
+        <node name="第五冊" html="help/other/N/main_menu/N05.htm"/>
+        <node name="第六冊" html="help/other/N/main_menu/N06.htm"/>
+        <node name="第七冊" html="help/other/N/main_menu/N07.htm"/>
+        <node name="第八冊" html="help/other/N/main_menu/N08.htm"/>
+        <node name="第九冊" html="help/other/N/main_menu/N09.htm"/>
+        <node name="第十冊" html="help/other/N/main_menu/N10.htm"/>
+        <node name="第十一冊" html="help/other/N/main_menu/N11.htm"/>
+        <node name="第十二冊" html="help/other/N/main_menu/N12.htm"/>
+        <node name="第十三冊" html="help/other/N/main_menu/N13.htm"/>
+        <node name="第十四冊" html="help/other/N/main_menu/N14.htm"/>
+        <node name="第十五冊" html="help/other/N/main_menu/N15.htm"/>
+        <node name="第十六冊" html="help/other/N/main_menu/N16.htm"/>
+        <node name="第十七冊" html="help/other/N/main_menu/N17.htm"/>
+        <node name="第十八冊" html="help/other/N/main_menu/N18.htm"/>
+        <node name="第十九冊" html="help/other/N/main_menu/N19.htm"/>
+        <node name="第二十冊" html="help/other/N/main_menu/N20.htm"/>
+        <node name="第二十一冊" html="help/other/N/main_menu/N21.htm"/>
+        <node name="第二十二冊" html="help/other/N/main_menu/N22.htm"/>
+        <node name="第二十三冊" html="help/other/N/main_menu/N23.htm"/>
+        <node name="第二十四冊" html="help/other/N/main_menu/N24.htm"/>
+        <node name="第二十五冊" html="help/other/N/main_menu/N25.htm"/>
+        <node name="第二十六冊" html="help/other/N/main_menu/N26.htm"/>
+        <node name="第二十七冊" html="help/other/N/main_menu/N27.htm"/>
+        <node name="第二十八冊" html="help/other/N/main_menu/N28.htm"/>
+        <node name="第二十九冊" html="help/other/N/main_menu/N29.htm"/>
+        <node name="第三十冊" html="help/other/N/main_menu/N30.htm"/>
+        <node name="第三十一冊" html="help/other/N/main_menu/N31.htm"/>
+        <node name="第三十二冊" html="help/other/N/main_menu/N32.htm"/>
+        <node name="第三十三冊" html="help/other/N/main_menu/N33.htm"/>
+        <node name="第三十四冊" html="help/other/N/main_menu/N34.htm"/>
+        <node name="第三十五冊" html="help/other/N/main_menu/N35.htm"/>
+        <node name="第三十六冊" html="help/other/N/main_menu/N36.htm"/>
+        <node name="第三十七冊" html="help/other/N/main_menu/N37.htm"/>
+        <node name="第三十八冊" html="help/other/N/main_menu/N38.htm"/>
+        <node name="第三十九冊" html="help/other/N/main_menu/N39.htm"/>
+        <node name="第四十冊" html="help/other/N/main_menu/N40.htm"/>
+        <node name="第四十一冊" html="help/other/N/main_menu/N41.htm"/>
+        <node name="第四十二冊" html="help/other/N/main_menu/N42.htm"/>
+        <node name="第四十三冊" html="help/other/N/main_menu/N43.htm"/>
+        <node name="第四十四冊" html="help/other/N/main_menu/N44.htm"/>
+        <node name="第四十五冊" html="help/other/N/main_menu/N45.htm"/>
+        <node name="第四十六冊" html="help/other/N/main_menu/N46.htm"/>
+        <node name="第四十七冊" html="help/other/N/main_menu/N47.htm"/>
+        <node name="第四十八冊" html="help/other/N/main_menu/N48.htm"/>
+        <node name="第四十九冊" html="help/other/N/main_menu/N49.htm"/>
+        <node name="第五十冊" html="help/other/N/main_menu/N50.htm"/>
+        <node name="第五十一冊" html="help/other/N/main_menu/N51.htm"/>
+        <node name="第五十二冊" html="help/other/N/main_menu/N52.htm"/>
+        <node name="第五十三冊" html="help/other/N/main_menu/N53.htm"/>
+        <node name="第五十四冊" html="help/other/N/main_menu/N54.htm"/>
+        <node name="第五十五冊" html="help/other/N/main_menu/N55.htm"/>
+        <node name="第五十六冊" html="help/other/N/main_menu/N56.htm"/>
+        <node name="第五十七冊" html="help/other/N/main_menu/N57.htm"/>
+        <node name="第五十八冊" html="help/other/N/main_menu/N58.htm"/>
+        <node name="第五十九冊" html="help/other/N/main_menu/N59.htm"/>
+        <node name="第六十冊" html="help/other/N/main_menu/N60.htm"/>
+        <node name="第六十一冊" html="help/other/N/main_menu/N61.htm"/>
+        <node name="第六十二冊" html="help/other/N/main_menu/N62.htm"/>
+        <node name="第六十三冊" html="help/other/N/main_menu/N63.htm"/>
+        <node name="第六十四冊" html="help/other/N/main_menu/N64.htm"/>
+        <node name="第六十五冊" html="help/other/N/main_menu/N65.htm"/>
+        <node name="第六十六冊" html="help/other/N/main_menu/N66.htm"/>
+        <node name="第六十七冊" html="help/other/N/main_menu/N67.htm"/>
+        <node name="第六十八冊" html="help/other/N/main_menu/N68.htm"/>
+        <node name="第六十九冊" html="help/other/N/main_menu/N69.htm"/>
+        <node name="第七十冊" html="help/other/N/main_menu/N70.htm"/>        
+      </node>
+    </node>
+    <node name="N0001-03 律藏 N01-05">
+      <node name="巴利律藏導讀" html="help/other/N/N01/N01b.htm"/>
       <node name="N0001 經分別 N01-02N0001 經分別 N01-02" work="N0001"/>
       <node name="N0002 犍度 N03-04" work="N0002"/>
       <node name="N05n0003 附隨【通妙譯】" work="N0003"/>
+      <node name="附表">
+        <node name="諸部戒本條數對照表 P1" html="help/other/N/N05/table1_P1.html"/>
+        <node name="諸部戒本條數對照表 P2" html="help/other/N/N05/table1_P2.html"/>
+        <node name="諸部戒本戒條對照表　一、比丘戒本" html="help/other/N/N05/table2.html"/>
+        <node name="諸部戒本戒條對照表　二、比丘尼戒本" html="help/other/N/N05/table3.html"/>
+        <node name="南傳律藏與三漢譯律之對照表　犍度部" html="help/other/N/N05/table4.html"/>
+        <node name="南傳律藏與三漢譯律之對照表　滅諍犍度" html="help/other/N/N05/table5.html"/>
+        <node name="比丘波羅提木叉" html="help/other/N/N05/appendix_1.html"/>
+        <node name="比丘尼波羅提木叉" html="help/other/N/N05/appendix_2.html"/>        
+      </node>
     </node>
     <node name="N0004-23 經藏 N06-47">
       <node name="N0004 長部 N06-08" work="N0004"/>
       <node name="N0005 中部 N09-12" work="N0005"/>
+      <node name="相應部總說" html="help/other/N/N13/N13-intro.html"/>
       <node name="N0006 相應部 N13-18" work="N0006"/>
       <node name="N0007 增支部 N19-25" work="N0007"/>
       <node name="N0008-23 小部 N26-47">
@@ -1720,15 +1811,236 @@
       <node name="N0035 清淨道論 N67-69" work="N0035"/>
       <node work="N0036..N0038"/>
     </node>
+    <node name="相關文件">
+      <node name="各冊凡例">
+        <node name="第一冊" html="help/other/N/N01/N01c.htm"/>
+        <node name="第二冊" html="help/other/N/guide/N02.htm"/>
+        <node name="第三冊" html="help/other/N/guide/N03.htm"/>
+        <node name="第四冊" html="help/other/N/guide/N03.htm"/>
+        <node name="第五冊" html="help/other/N/guide/N05.htm"/>
+        <node name="第六冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第七冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第八冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第九冊" html="help/other/N/guide/N09.htm"/>
+        <node name="第十冊" html="help/other/N/guide/N09.htm"/>
+        <node name="第十一冊" html="help/other/N/guide/N09.htm"/>
+        <node name="第十二冊" html="help/other/N/guide/N09.htm"/>
+        <node name="第十三冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第十四冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第十五冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第十六冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第十七冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第十八冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第十九冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第二十冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第二十一冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第二十二冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第二十三冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第二十四冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第二十五冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第二十六冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第二十七冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第二十八冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第二十九冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第三十冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第三十一冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第三十二冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第三十三冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第三十四冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第三十五冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第三十六冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第三十七冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第三十八冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第三十九冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第四十冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第四十一冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第四十二冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第四十三冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第四十四冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第四十五冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第四十六冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第四十七冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第四十八冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第四十九冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第五十冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第五十一冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第五十二冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第五十三冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第五十四冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第五十五冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第五十六冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第五十七冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第五十八冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第五十九冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第六十冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第六十一冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第六十二冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第六十三冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第六十四冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第六十五冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第六十六冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第六十七冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第六十八冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第六十九冊" html="help/other/N/guide/N06.htm"/>
+        <node name="第七十冊" html="help/other/N/guide/N06.htm"/>        
+      </node>
+      <node name="各冊目次">
+        <node name="第一冊" html="help/other/N/content/N01_content.htm"/>
+        <node name="第二冊" html="help/other/N/content/N02_content.htm"/>
+        <node name="第三冊" html="help/other/N/content/N03_content.htm"/>
+        <node name="第四冊" html="help/other/N/content/N04_content.htm"/>
+        <node name="第五冊" html="help/other/N/content/N05_content.htm"/>
+        <node name="第六冊" html="help/other/N/content/N06_content.htm"/>
+        <node name="第七冊" html="help/other/N/content/N07_content.htm"/>
+        <node name="第八冊" html="help/other/N/content/N08_content.htm"/>
+        <node name="第九冊" html="help/other/N/content/N09_content.htm"/>
+        <node name="第十冊" html="help/other/N/content/N10_content.htm"/>
+        <node name="第十一冊" html="help/other/N/content/N11_content.htm"/>
+        <node name="第十二冊" html="help/other/N/content/N12_content.htm"/>
+        <node name="第十三冊" html="help/other/N/content/N13_content.htm"/>
+        <node name="第十四冊" html="help/other/N/content/N14_content.htm"/>
+        <node name="第十五冊" html="help/other/N/content/N15_content.htm"/>
+        <node name="第十六冊" html="help/other/N/content/N16_content.htm"/>
+        <node name="第十七冊" html="help/other/N/content/N17_content.htm"/>
+        <node name="第十八冊" html="help/other/N/content/N18_content.htm"/>
+        <node name="第十九冊" html="help/other/N/content/N19_content.htm"/>
+        <node name="第二十冊" html="help/other/N/content/N20_content.htm"/>
+        <node name="第二十一冊" html="help/other/N/content/N21_content.htm"/>
+        <node name="第二十二冊" html="help/other/N/content/N22_content.htm"/>
+        <node name="第二十三冊" html="help/other/N/content/N23_content.htm"/>
+        <node name="第二十四冊" html="help/other/N/content/N24_content.htm"/>
+        <node name="第二十五冊" html="help/other/N/content/N25_content.htm"/>
+        <node name="第二十六冊" html="help/other/N/content/N26_content.htm"/>
+        <node name="第二十七冊" html="help/other/N/content/N27_content.htm"/>
+        <node name="第二十八冊" html="help/other/N/content/N28_content.htm"/>
+        <node name="第二十九冊" html="help/other/N/content/N29_content.htm"/>
+        <node name="第三十冊" html="help/other/N/content/N30_content.htm"/>
+        <node name="第三十一冊" html="help/other/N/content/N31_content.htm"/>
+        <node name="第三十二冊" html="help/other/N/content/N32_content.htm"/>
+        <node name="第三十三冊" html="help/other/N/content/N33_content.htm"/>
+        <node name="第三十四冊" html="help/other/N/content/N34_content.htm"/>
+        <node name="第三十五冊" html="help/other/N/content/N35_content.htm"/>
+        <node name="第三十六冊" html="help/other/N/content/N36_content.htm"/>
+        <node name="第三十七冊" html="help/other/N/content/N37_content.htm"/>
+        <node name="第三十八冊" html="help/other/N/content/N38_content.htm"/>
+        <node name="第三十九冊" html="help/other/N/content/N39_content.htm"/>
+        <node name="第四十冊" html="help/other/N/content/N40_content.htm"/>
+        <node name="第四十一冊" html="help/other/N/content/N41_content.htm"/>
+        <node name="第四十二冊" html="help/other/N/content/N42_content.htm"/>
+        <node name="第四十三冊" html="help/other/N/content/N43_content.htm"/>
+        <node name="第四十四冊" html="help/other/N/content/N44_content.htm"/>
+        <node name="第四十五冊" html="help/other/N/content/N45_content.htm"/>
+        <node name="第四十六冊" html="help/other/N/content/N46_content.htm"/>
+        <node name="第四十七冊" html="help/other/N/content/N47_content.htm"/>
+        <node name="第四十八冊" html="help/other/N/content/N48_content.htm"/>
+        <node name="第四十九冊" html="help/other/N/content/N49_content.htm"/>
+        <node name="第五十冊" html="help/other/N/content/N50_content.htm"/>
+        <node name="第五十一冊" html="help/other/N/content/N51_content.htm"/>
+        <node name="第五十二冊" html="help/other/N/content/N52_content.htm"/>
+        <node name="第五十三冊" html="help/other/N/content/N53_content.htm"/>
+        <node name="第五十四冊" html="help/other/N/content/N54_content.htm"/>
+        <node name="第五十五冊" html="help/other/N/content/N55_content.htm"/>
+        <node name="第五十六冊" html="help/other/N/content/N56_content.htm"/>
+        <node name="第五十七冊" html="help/other/N/content/N57_content.htm"/>
+        <node name="第五十八冊" html="help/other/N/content/N58_content.htm"/>
+        <node name="第五十九冊" html="help/other/N/content/N59_content.htm"/>
+        <node name="第六十冊" html="help/other/N/content/N60_content.htm"/>
+        <node name="第六十一冊" html="help/other/N/content/N61_content.htm"/>
+        <node name="第六十二冊" html="help/other/N/content/N62_content.htm"/>
+        <node name="第六十三冊" html="help/other/N/content/N63_content.htm"/>
+        <node name="第六十四冊" html="help/other/N/content/N64_content.htm"/>
+        <node name="第六十五冊" html="help/other/N/content/N65_content.htm"/>
+        <node name="第六十六冊" html="help/other/N/content/N66_content.htm"/>
+        <node name="第六十七冊" html="help/other/N/content/N67_content.htm"/>
+        <node name="第六十八冊" html="help/other/N/content/N68_content.htm"/>
+        <node name="第六十九冊" html="help/other/N/content/N69_content.htm"/>
+        <node name="第七十冊之一" html="help/other/N/content/N70_1content.htm"/>
+        <node name="第七十冊之二" html="help/other/N/content/N70_2content.htm"/>
+        <node name="第七十冊之三" html="help/other/N/content/N70_3content.htm"/>      
+      </node>
+      <node name="各冊索引">
+        <node name="第一冊 中巴索引" html="help/other/N/index/N01C2P_index.htm"/>
+        <node name="第一冊 巴中索引" html="help/other/N/index/N01P2C_index.htm"/>
+        <node name="第二冊 中巴索引" html="help/other/N/index/N02C2P_index.htm"/>
+        <node name="第二冊 巴中索引" html="help/other/N/index/N02P2C_index.htm"/>
+        <node name="第三冊 中巴索引" html="help/other/N/index/N03C2P_index.htm"/>
+        <node name="第三冊 巴中索引" html="help/other/N/index/N03P2C_index.htm"/>
+        <node name="第四冊 中巴索引" html="help/other/N/index/N04C2P_index.htm"/>
+        <node name="第四冊 巴中索引" html="help/other/N/index/N04P2C_index.htm"/>
+        <node name="第五冊 中巴索引" html="help/other/N/index/N05C2P_index.htm"/>
+        <node name="第五冊 巴中索引" html="help/other/N/index/N05P2C_index.htm"/>
+        <node name="第六冊 中文索引" html="help/other/N/index/N06index.htm"/>
+        <node name="第七冊 中文索引" html="help/other/N/index/N07index.htm"/>
+        <node name="第八冊 中文索引" html="help/other/N/index/N08index.htm"/>
+        <node name="第九冊 中文索引" html="help/other/N/index/N09index.htm"/>
+        <node name="第十冊 中文索引" html="help/other/N/index/N10index.htm"/>
+        <node name="第十一冊 中文索引" html="help/other/N/index/N11index.htm"/>
+        <node name="第十二冊 中文索引" html="help/other/N/index/N12index.htm"/>
+        <node name="第十三冊 中文索引" html="help/other/N/index/N13index.htm"/>
+        <node name="第十四冊 中文索引" html="help/other/N/index/N14index.htm"/>
+        <node name="第十五冊 中文索引" html="help/other/N/index/N15index.htm"/>
+        <node name="第十六冊 中文索引" html="help/other/N/index/N16index.htm"/>
+        <node name="第十七冊 中文索引" html="help/other/N/index/N17index.htm"/>
+        <node name="第十八冊 中文索引" html="help/other/N/index/N18index.htm"/>
+        <node name="第十九冊 中文索引" html="help/other/N/index/N19index.htm"/>
+        <node name="第二十冊 中文索引" html="help/other/N/index/N20index.htm"/>
+        <node name="第二十一冊 中文索引" html="help/other/N/index/N21index.htm"/>
+        <node name="第二十二冊 中文索引" html="help/other/N/index/N22index.htm"/>
+        <node name="第二十三冊 中文索引" html="help/other/N/index/N23index.htm"/>
+        <node name="第二十四冊 中文索引" html="help/other/N/index/N24index.htm"/>
+        <node name="第二十五冊 中文索引" html="help/other/N/index/N25index.htm"/>
+        <node name="第二十六冊 中文索引" html="help/other/N/index/N26index.htm"/>
+        <node name="第二十七冊 中文索引" html="help/other/N/index/N27index.htm"/>
+        <node name="第二十八冊 中文索引" html="help/other/N/index/N28index.htm"/>
+        <node name="第二十九冊 中文索引" html="help/other/N/index/N29index.htm"/>
+        <node name="第三十冊 中文索引" html="help/other/N/index/N30index.htm"/>
+        <node name="第三十一冊 中文索引" html="help/other/N/index/N31index.htm"/>
+        <node name="第三十二冊 中文索引" html="help/other/N/index/N32index.htm"/>
+        <node name="第三十三冊 中文索引" html="help/other/N/index/N33index.htm"/>
+        <node name="第三十四冊 中文索引" html="help/other/N/index/N34index.htm"/>
+        <node name="第三十五冊 中文索引" html="help/other/N/index/N35index.htm"/>
+        <node name="第三十六冊 中文索引" html="help/other/N/index/N36index.htm"/>
+        <node name="第三十七冊 中文索引" html="help/other/N/index/N37index.htm"/>
+        <node name="第三十八冊 中文索引" html="help/other/N/index/N38index.htm"/>
+        <node name="第三十九冊 中文索引" html="help/other/N/index/N39index.htm"/>
+        <node name="第四十冊 中文索引" html="help/other/N/index/N40index.htm"/>
+        <node name="第四十一冊 中文索引" html="help/other/N/index/N41index.htm"/>
+        <node name="第四十二冊 中文索引" html="help/other/N/index/N42index.htm"/>
+        <node name="第四十三冊 中文索引" html="help/other/N/index/N43index.htm"/>
+        <node name="第四十四冊 中文索引" html="help/other/N/index/N44index.htm"/>
+        <node name="第四十五冊 中文索引" html="help/other/N/index/N45index.htm"/>
+        <node name="第四十六冊 中文索引" html="help/other/N/index/N46index.htm"/>
+        <node name="第四十七冊 中文索引" html="help/other/N/index/N47index.htm"/>
+        <node name="第四十八冊 中文索引" html="help/other/N/index/N48index.htm"/>
+        <node name="第四十九冊 中文索引" html="help/other/N/index/N49index.htm"/>
+        <node name="第五十冊 中文索引" html="help/other/N/index/N50index.htm"/>
+        <node name="第五十一冊 中文索引" html="help/other/N/index/N51index.htm"/>
+        <node name="第五十二冊 中文索引" html="help/other/N/index/N52index.htm"/>
+        <node name="第五十三冊 中文索引" html="help/other/N/index/N53index.htm"/>
+        <node name="第五十四冊 中文索引" html="help/other/N/index/N54index.htm"/>
+        <node name="第五十五冊 中文索引" html="help/other/N/index/N55index.htm"/>
+        <node name="第五十六冊 中文索引" html="help/other/N/index/N56index.htm"/>
+        <node name="第五十七冊 中文索引" html="help/other/N/index/N57index.htm"/>
+        <node name="第五十八冊 中文索引" html="help/other/N/index/N58index.htm"/>
+        <node name="第五十九冊 中文索引" html="help/other/N/index/N59index.htm"/>
+        <node name="第六十冊 中文索引" html="help/other/N/index/N60index.htm"/>
+        <node name="第六十一冊 中文索引" html="help/other/N/index/N61index.htm"/>
+        <node name="第六十二冊 中文索引" html="help/other/N/index/N62index.htm"/>
+        <node name="第六十三冊 中文索引" html="help/other/N/index/N63index.htm"/>
+        <node name="第六十四冊 中文索引" html="help/other/N/index/N64index.htm"/>
+        <node name="第六十五冊 中文索引" html="help/other/N/index/N65index.htm"/>
+        <node name="第六十六冊 中文索引" html="help/other/N/index/N66index.htm"/>
+        <node name="第六十七冊 中文索引" html="help/other/N/index/N67index.htm"/>
+        <node name="第六十八冊 中文索引" html="help/other/N/index/N68index.htm"/>
+        <node name="第六十九冊 中文索引" html="help/other/N/index/N69index.htm"/>
+        <node name="第七十冊之一 中文索引" html="help/other/N/index/N70-1index.htm"/>
+        <node name="第七十冊之二 中文索引" html="help/other/N/index/N70-2index.htm"/>
+        <node name="第七十冊之三 中文索引" html="help/other/N/index/N70-3index.htm"/>
+        <node name="N70 新舊頁碼對照表" html="help/other/N/N70/N70pagenumber.htm"/>
+      </node>      
+    </node>        
   </node>
   <node name="23 新編部類 ZS, ZW, I, B, GA, GB, Y, LC">
-    <node name="ZS0001 正史佛教資料類編">
-      <node name="緣起" html="help/other/ZS01/ZS01a.htm"/>
-      <node name="前言" html="help/other/ZS01/ZS01b.htm"/>
-      <node name="說明" html="help/other/ZS01/ZS01c.htm"/>
-      <node name="目錄" html="help/other/ZS01/ZS01d.htm"/>
-      <node work="ZS0001"/>
-    </node>
     <node name="ZW0001-77 藏外佛教文獻">
       <node name="ZW0001-16 第一輯">
         <node name="緣起" html="help/other/ZW01/ZW01a.htm"></node>
@@ -1872,8 +2184,8 @@
         <node name="徵稿啟事" html="help/other/ZW07/ZW07e.htm"/>
       </node>
       <node name="ZW0067-71 第八輯">
-        <node name="卷首語" href="help/other/ZW08/ZW08a.htm"/>
-        <node name="目錄" href="help/other/ZW08/ZW08b.htm"/>
+        <node name="卷首語" html="help/other/ZW08/ZW08a.htm"/>
+        <node name="目錄" html="help/other/ZW08/ZW08b.htm"/>
         <node name="錄文校勘體例">
           <node name="錄文校勘體例" html="help/other/ZW08/ZW08c-1.htm"/>
           <node name="附：一般組字法基本規則" html="help/other/ZW08/ZW08c-2.htm"/>
@@ -1903,7 +2215,15 @@
         <node name="鳴謝" html="help/other/ZW09/ZW09g.htm"/>
       </node>
     </node>
+    <node name="ZS0001 正史佛教資料類編">
+      <node name="緣起" html="help/other/ZS01/ZS01a.htm"/>
+      <node name="前言" html="help/other/ZS01/ZS01b.htm"/>
+      <node name="說明" html="help/other/ZS01/ZS01c.htm"/>
+      <node name="目錄" html="help/other/ZS01/ZS01d.htm"/>
+      <node work="ZS0001"/>
+    </node>
     <node name="I0001-100 北朝佛教石刻拓片百品">
+      <node name="說明" html="help/other/I01/I01.htm"/>
       <node name="朝代">
         <node name="北魏" work="I0001..I0033"/>
         <node name="東魏">
@@ -1939,64 +2259,187 @@
       <node name="年代" work="I0001..I0100"/>
     </node>
     <node name="B0001-198 大藏經補編">
+      <node name="出版說明" html="help/other/B/0-1-Imprint.html"/>
+      <node name="全書內容簡介" html="help/other/B/0-2-Introduction.html"/>
       <node name="B01-02">
         <node work="B0001"/>
       </node>
       <node name="B03-05">
+        <node name="編輯說明" html="help/other/B/B03.html"/>
         <node work="B0002" />
       </node>
-      <node name="B06" work="B0003..B0009"/>
-      <node name="B07" work="B0010..B0025"/>
-      <node name="B08" work="B0026..B0029"/>
-      <node name="B09" work="B0030..B0047"/>
-      <node name="B10" work="B0048..B0068"/>
-      <node name="B11" work="B0069..B0076"/>
-      <node name="B12" work="B0077,B0078"/>
-      <node name="B13" work="B0079,B0080"/>
-      <node name="B14" work="B0071..B0087"/>
+      <node name="B06">
+        <node name="編輯說明" html="help/other/B/B06.html"/>
+        <node work="B0003..B0009" />
+      </node>
+      <node name="B07">
+        <node name="編輯說明" html="help/other/B/B07.html"/>
+        <node work="B0010..B0025"/>
+      </node>
+      <node name="B08">
+        <node name="編輯說明" html="help/other/B/B08.html"/>
+        <node work="B0026..B0029"/>
+      </node>
+      <node name="B09">
+        <node name="編輯說明" html="help/other/B/B09.html"/>
+        <node work="B0030..B0047"></node>
+      </node>
+      <node name="B10">
+        <node name="編輯說明" html="help/other/B/B10.html"/>
+        <node work="B0048..B0068"/>
+      </node>
+      <node name="B11">
+        <node name="編輯說明" html="help/other/B/B11.html"/>
+        <node work="B0069..B0076"/>
+      </node>
+      <node name="B12">
+        <node name="洛陽伽藍記解題" html="help/other/B/B12.html"/>
+        <node work="B0077,B0078"/>
+      </node>
+      <node name="B13">
+        <node name="釋氏六帖解題" html="help/other/B/B13-1.html"/>
+        <node work="B0079"/>
+        <node name="大唐西域記解題" html="help/other/B/B13-1.html"/>
+        <node work="B0080"/>
+      </node>
+      <node name="B14">
+        <node name="編輯說明" html="help/other/B/B14.html"/>
+        <node work="B0071..B0087"/>
+      </node>
       <node name="B15-16">
+        <node name="編輯說明（上）" html="help/other/B/B15.html"/>
+        <node name="編輯說明（下）" html="help/other/B/B16.html"/>
         <node work="B0088"/>
       </node>
-      <node name="B17" work="B0089..B0094"/>
-      <node name="B18" work="B0095..B0102"/>
-      <node name="B19" work="B0103"/>
-      <node name="B20" work="B0104..B0108"/>
-      <node name="B21" work="B0109..B0116"/>
-      <node name="B22" work="B0117..B0119"/>
+      <node name="B17">
+        <node name="編輯說明" html="help/other/B/B17.html"/>
+        <node work="B0089..B0094"></node>
+      </node>
+      <node name="B18">
+        <node name="編輯說明" html="help/other/B/B18.html"/>
+        <node work="B0095..B0102"/>
+      </node>
+      <node name="B19">
+        <node name="編輯說明" html="help/other/B/B19-1.html"/>
+        <node name="禪林象器箋序" html="help/other/B/B19-2.html"/>
+        <node work="B0103"/>
+      </node>
+      <node name="B20">
+        <node name="編輯說明" html="help/other/B/B20.html"/>
+        <node work="B0104..B0108"/>
+      </node>
+      <node name="B21">
+        <node name="編輯說明" html="help/other/B/B21.html"/>
+        <node work="B0109..B0116"/>
+      </node>
+      <node name="B22">
+        <node name="編輯說明" html="help/other/B/B22.html"/>
+        <node work="B0117..B0119"/>
+      </node>
       <node name="B23">
+        <node name="編輯說明" html="help/other/B/B23.html"/>
         <node work="B0120..B0129"/>
         <node name="B0130 (=JB348+JB120+X1641+選錄) 靈峰宗論（選錄〈蕅益大師年譜〉、〈書重刻靈峰宗論後〉、〈刻闢邪集序〉）" work="JB348,JB120,X1641,B0130"/>
       </node>
       <node name="B24">
+        <node name="編輯說明" html="help/other/B/B24.html"/>
         <node work="B0131..B0133"/>
         <node name="B0134 (=JB120+B0130+選錄) 闢邪集（選錄〈翻刻闢邪集序〉、〈天學初闢〉、〈統正序〉、〈原道闢邪說〉、〈跋〉）" work="JB120,B0130,B0134"/>
         <node work="B0135..B0141"/>
       </node>
-      <node name="B25" work="B0142..B0145"/>
+      <node name="B25">
+        <node name="編輯說明" html="help/other/B/B25.html"/>
+        <node work="B0142..B0145"/>
+      </node>
       <node name="B26">
+        <node name="編輯說明" html="help/other/B/B26.html"/>
         <node work="B0146..B0149"/>
         <node name="B0150 (=JB091+選錄) 道餘錄（選錄〈姚少師道餘錄跋〉）" work="JB091,B0150"/>
       </node>
-      <node name="B27" work="B0151..B0153"/>
-      <node name="B28" work="B0154..B0159"/>
-      <node name="B29" work="B0160..B0162"/>
-      <node name="B30" work="B0163..B0168"/>
-      <node name="B31" work="B0169,B0170"/>
-      <node name="B32" work="B0171..B0191"/>
-      <node name="B33" work="B0192"/>
-      <node name="B34" work="B0193"/>
-      <node name="B35" work="B0194..B0196"/>
-      <node name="B36" work="B0197..B0198"/>
+      <node name="B27">
+        <node name="編輯說明" html="help/other/B/B27.html"/>
+        <node work="B0151..B0153"/>
+      </node>
+      <node name="B28">
+        <node name="編輯說明" html="help/other/B/B28.html"/>
+        <node work="B0154..B0159"/>
+      </node>
+      <node name="B29">
+        <node name="編輯說明" html="help/other/B/B29.html"/>
+        <node work="B0160..B0162"/>
+      </node>
+      <node name="B30">
+        <node name="編輯說明" html="help/other/B/B30.html"/>
+        <node work="B0163..B0168"/>
+      </node>
+      <node name="B31">
+        <node name="編輯說明" html="help/other/B/B31.html"/>
+        <node work="B0169,B0170"/>
+      </node>
+      <node name="B32">
+        <node name="編輯說明" html="help/other/B/B32.html"/>
+        <node work="B0171..B0191"></node>
+      </node>
+      <node name="B33">
+        <node name="編輯說明" html="help/other/B/B33.html"/>
+        <node work="B0192"/>
+      </node>
+      <node name="B34">
+        <node name="編輯說明" html="help/other/B/B34-1.html"/>
+        <node name="吳都法乘" html="help/other/B/B34-2.html"/>
+        <node work="B0193"/>
+      </node>
+      <node name="B35">
+        <node name="編輯說明" html="help/other/B/B35.html"/>
+        <node work="B0194..B0196"/>
+      </node>
+      <node name="B36">
+        <node name="編輯說明" html="help/other/B/B36.html"/>
+        <node work="B0197..B0198"/>
+      </node>
     </node>
-    <node name="GA0002-89 中國佛寺史志彙刊">
-      <node work="GA0002..GA0005"/>
-      <node work="GA0008..GA0015"/>
-      <node work="GA0017..GA0025"/>
-      <node work="GA0028..GA0032"/>
-      <node work="GA0036,GA0043,GA0049,GA0062,GA0077,GA0081,GA0084,GA0086,GA0089"/>
-    </node>
-    <node name="GB0109 中國佛寺志叢刊">
-      <node work="GB0109"/>
+    <node name="GA0002-89, GB0109 中國佛寺志">
+      <node name="編輯說明" html="help/other/GAB/readme.html"/>      
+      <node name="GA0002-89 中國佛寺史志彙刊">
+        <node name="洛陽伽藍記集證版本說明" html="help/other/GAB/GA0002.html"/>
+        <node work="GA0002"/>
+        <node name="洛陽伽藍記鉤沈版本說明" html="help/other/GAB/GA0003.html"/>
+        <node work="GA0003"/>
+        <node name="洛陽伽藍記合校本版本說明" html="help/other/GAB/GA0004.html"/>
+        <node work="GA0004"/>
+        <node name="南朝佛寺志版本說明" html="help/other/GAB/GA0005.html"/>
+        <node work="GA0005"/>
+        <node name="重修普陀山志版本說明" html="help/other/GAB/GA0008.html"/>
+        <node work="GA0008"/>
+        <node name="普陀洛迦新志版本說明" html="help/other/GAB/GA0009.html"/>
+        <node work="GA0009"/>
+        <node name="明州阿育王山志版本說明" html="help/other/GAB/GA0010.html"/>
+        <node work="GA0010"/>
+        <node name="明州阿育王山續志版本說明" html="help/other/GAB/GA0011.html"/>
+        <node work="GA0011"/>
+        <node name="天童寺志版本說明" html="help/other/GAB/GA0012.html"/>
+        <node work="GA0012"/>
+        <node name="七塔寺志版本說明" html="help/other/GAB/GA0013.html"/>
+        <node work="GA0013"/>
+        <node name="明州岳林寺志版本說明" html="help/other/GAB/GA0014.html"/>
+        <node work="GA0014"/>
+        <node name="大昭慶律寺志版本說明" html="help/other/GAB/GA0015.html"/>
+        <node work="GA0015"/>
+        <node name="玉岑山慧因高麗華嚴教寺志版本說明" html="help/other/GAB/GA0017.html"/>
+        <node work="GA0017..GA0025"/>
+        <node work="GA0028..GA0031"/>
+        <node name="徑山志版本說明" html="help/other/GAB/GA0032.html"/>
+        <node work="GA0032"/>
+        <node work="GA0036"/>
+        <node name="寒山寺志版本說明" html="help/other/GAB/GA0043.html"/>
+        <node work="GA0043"/>
+        <node name="峨眉山志版本說明" html="help/other/GAB/GA0049.html"/>
+        <node work="GA0049,GA0062,GA0077,GA0081,GA0084,GA0086,GA0089"/>        
+      </node>
+      <node name="GB0109 中國佛寺志叢刊">
+        <node name="徑山集版本說明" html="help/other/GAB/GB0109.html"/>
+        <node work="GB0109"/>
+      </node>
     </node>
     <node name="Y0001-42 印順法師佛學著作集">
       <node name="妙雲集">
@@ -2005,7 +2448,24 @@
         <node name="下篇" work="Y0014..Y0023,Y0039,Y0024"/>
       </node>
       <node name="華雨集" work="Y0025..Y0029"/>
-      <node name="專書" work="Y0030..Y0038,Y0041,Y0042"/>   
+      <node name="專書">
+        <node work="Y0030..Y0035"/>
+        <node name="中文索引" html="help/other/Y/index/Y0035-C2P_index.htm"/>
+        <node name="梵巴藏歐文索引" html="help/other/Y/index/Y0035-P2C_index.htm"/>
+        <node work="Y0036"/>        
+        <node name="中文索引" html="help/other/Y/index/Y0036-C2P_index.htm"/>
+        <node name="梵巴藏歐文索引" html="help/other/Y/index/Y0036-P2C_index.htm"/>
+        <node work="Y0037"/>
+        <node name="中文索引" html="help/other/Y/index/Y0037-C2P_index.htm"/>
+        <node name="梵巴藏歐文索引" html="help/other/Y/index/Y0037-P2C_index.htm"/>
+        <node work="Y0038,Y0041,Y0042"></node>
+      </node>
+      <node name="附錄">
+        <node name="一、印順導師著作出版年表" html="help/other/Y/appendix/appendix-1.htm"/>
+        <node name="二、印順導師略傳" html="help/other/Y/appendix/appendix-2.htm"/>
+        <node name="三、印順導師略譜" html="help/other/Y/appendix/appendix-3.htm"/>
+        <node name="四、印順文教基金會簡介" html="help/other/Y/appendix/appendix-4.html"/>        
+      </node>
     </node>
     <node name="LC0001-7 呂澂佛學著作集" work="LC0001..LC0007"/>
   </node>
