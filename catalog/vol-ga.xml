@@ -1,23 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
 <tree xml:id="Vol-GA" title="中國佛寺史志彙刊">
-  <node name="GA009 中國佛寺史志彙刊 (GA0008)" work="GA0008"/>
-  <node name="GA010 中國佛寺史志彙刊 (GA0009)" work="GA0009"/>
+  <node name="GA001 中國佛寺史志彙刊 (GA0002-4)">
+    <node name="洛陽伽藍記集證版本說明" html="help/other/GAB/GA0002.html"/>
+    <node work="GA0002"/>
+    <node name="洛陽伽藍記鉤沈版本說明" html="help/other/GAB/GA0003.html"/>
+    <node work="GA0003"/>
+    <node name="洛陽伽藍記合校本版本說明" html="help/other/GAB/GA0004.html"/>
+    <node work="GA0004"/>    
+  </node>
+  <node name="GA002 中國佛寺史志彙刊 (GA0005)">
+    <node name="南朝佛寺志版本說明" html="help/other/GAB/GA0005.html"/>
+    <node work="GA0005"/>
+  </node>
+  <node name="GA009 中國佛寺史志彙刊 (GA0008)">
+    <node name="重修普陀山志版本說明" html="help/other/GAB/GA0008.html"/>
+    <node work="GA0008"/>    
+  </node>
+  <node name="GA010 中國佛寺史志彙刊 (GA0009)">
+    <node name="普陀洛迦新志版本說明" html="help/other/GAB/GA0009.html"/>
+    <node work="GA0009"/>    
+  </node>
   <node name="GA011 中國佛寺史志彙刊 (GA0010: 1-8卷)">
+    <node name="明州阿育王山志版本說明" html="help/other/GAB/GA0010.html"/>
     <node work="GA0010" file="GA011n0010" juan="1..8"/>
   </node>
   <node name="GA012 中國佛寺史志彙刊 (GA0010: 9-10卷; 11 經)">
     <node work="GA0010" file="GA012n0010" juan="9..10"/>
+    <node name="明州阿育王山續志版本說明" html="help/other/GAB/GA0011.html"/>
     <node work="GA0011"/>
   </node>
-  <node name="GA020 中國佛寺史志彙刊 (GA0017)" work="GA0017"/>
+  <node name="GA013 中國佛寺史志彙刊 (GA0012: 1-4卷)">
+    <node name="天童寺志版本說明" html="help/other/GAB/GA0012.html"/>
+    <node work="GA0012" file="GA013n0012" juan="1..4"/>
+  </node>
+  <node name="GA014 中國佛寺史志彙刊 (GA0012: 5-10卷)">
+    <node work="GA0012" file="GA014n0012" juan="5..10"/>
+  </node>
+  <node name="GA015 中國佛寺史志彙刊 (GA0013-4)">
+    <node name="七塔寺志版本說明" html="help/other/GAB/GA0013.html"/>
+    <node work="GA0013"/>
+    <node name="明州岳林寺志版本說明" html="help/other/GAB/GA0014.html"/>
+    <node work="GA0014"/>
+  </node>
+  <node name="GA016 中國佛寺史志彙刊 (GA0015)">
+    <node name="大昭慶律寺志版本說明" html="help/other/GAB/GA0015.html"/>
+    <node work="GA0015"/>
+  </node>
+  <node name="GA020 中國佛寺史志彙刊 (GA0017-8)">
+    <node name="玉岑山慧因高麗華嚴教寺志版本說明" html="help/other/GAB/GA0017.html"/>
+    <node work="GA0017,GA0018"/>
+  </node>
+  <node name="GA021 中國佛寺史志彙刊 (GA0019)" work="GA0019"/>
+  <node name="GA022 中國佛寺史志彙刊 (GA0020)" work="GA0020"/>
+  <node name="GA023 中國佛寺史志彙刊 (GA0021)" work="GA0021"/>
+  <node name="GA024 中國佛寺史志彙刊 (GA0022)" work="GA0022"/>
+  <node name="GA025 中國佛寺史志彙刊 (GA0023)" work="GA0023"/>
+  <node name="GA026 中國佛寺史志彙刊 (GA0024)" work="GA0024"/>
+  <node name="GA027 中國佛寺史志彙刊 (GA0025)" work="GA0025"/>
+  <node name="GA029 中國佛寺史志彙刊 (GA0028)" work="GA0028"/>
+  <node name="GA030 中國佛寺史志彙刊 (GA0029-31)" work="GA0029..GA0031"/>
   <node name="GA031 中國佛寺史志彙刊 (GA0032: 1-5卷)">
+    <node name="徑山志版本說明" html="help/other/GAB/GA0032.html"/>
     <node work="GA0032" file="GA031n0032" juan="1..10"/>
   </node>
   <node name="GA032 中國佛寺史志彙刊 (GA0032: 6-14卷)">
     <node work="GA0032" file="GA032n0032" juan="6..14"/>
   </node>
-  <node name="GA043 中國佛寺史志彙刊 (GA0043)" work="GA0043"/>
+  <node name="GA035 中國佛寺史志彙刊 (GA0036)" work="GA0036"/>
+  <node name="GA043 中國佛寺史志彙刊 (GA0043)">
+    <node name="寒山寺志版本說明" html="help/other/GAB/GA0043.html"/>
+    <node work="GA0043"/>
+  </node>
   <node name="GA045 中國佛寺史志彙刊 (GA0049)" work="GA0049"/>
   <node name="GA058 中國佛寺史志彙刊 (GA0062)" work="GA0062"/>
   <node name="GA072 中國佛寺史志彙刊 (GA0077)" work="GA0077"/>

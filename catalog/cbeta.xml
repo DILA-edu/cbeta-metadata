@@ -2043,7 +2043,7 @@
   <node name="23 新編部類 ZS, ZW, I, B, GA, GB, Y, LC">
     <node name="ZW0001-77 藏外佛教文獻">
       <node name="ZW0001-16 第一輯">
-        <node name="緣起" html="help/other/ZW01/ZW01a.htm"></node>
+        <node name="緣起" html="help/other/ZW01/ZW01a.htm"/>
         <node name="卷首語">
           <node name="中文" html="help/other/ZW01/ZW01b-1.htm"/>
           <node name="英文" html="help/other/ZW01/ZW01b-2.htm"/>
@@ -2282,7 +2282,7 @@
       </node>
       <node name="B09">
         <node name="編輯說明" html="help/other/B/B09.html"/>
-        <node work="B0030..B0047"></node>
+        <node work="B0030..B0047"/>
       </node>
       <node name="B10">
         <node name="編輯說明" html="help/other/B/B10.html"/>
@@ -2299,12 +2299,12 @@
       <node name="B13">
         <node name="釋氏六帖解題" html="help/other/B/B13-1.html"/>
         <node work="B0079"/>
-        <node name="大唐西域記解題" html="help/other/B/B13-1.html"/>
+        <node name="大唐西域記解題" html="help/other/B/B13-2.html"/>
         <node work="B0080"/>
       </node>
       <node name="B14">
         <node name="編輯說明" html="help/other/B/B14.html"/>
-        <node work="B0071..B0087"/>
+        <node work="B0081..B0087"/>
       </node>
       <node name="B15-16">
         <node name="編輯說明（上）" html="help/other/B/B15.html"/>
