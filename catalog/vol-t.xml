@@ -54,7 +54,11 @@
   <node name="T45 諸宗部二 (T1852-910)" work="T1852..T1910"/>
   <node name="T46 諸宗部三 (T1911-56)" work="T1911..T1956"/>
   <node name="T47 諸宗部四 (T1957-2000)" work="T1957..T2000"/>
-  <node name="T48 諸宗部五 (T2001-25)" work="T2001..T2025"/>
+  <node name="T48 諸宗部五 (T2001-25)">
+    <node work="T2001..T2007"/>
+    <node name="附錄：敦博本六祖壇經校訂全文" html="help/other/T48/T2007_ps.htm"/>
+    <node work="T2008..T2025"/>
+  </node>
   <node name="T49 史傳部一 (T2026-39)" work="T2026..T2039"/>
   <node name="T50 史傳部二 (T2040-65)" work="T2040..T2065"/>
   <node name="T51 史傳部三 (T2066-101)" work="T2066..T2101"/>
