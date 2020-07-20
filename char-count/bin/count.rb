@@ -116,7 +116,7 @@ $total_with_puncs = 0
 $total_without_puncs = 0
 
 puts "read xml files"
-Dir.entries(XML).each do |canon|
+Dir.entries(XML).sort.each do |canon|
   next if canon.start_with? '.'
   next if canon.size > 2
   handle_canon(canon)
