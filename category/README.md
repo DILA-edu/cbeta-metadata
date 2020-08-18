@@ -22,11 +22,8 @@ work_categories.json 內容是「典籍編號」與「部類編號」、「部�
 
 ## 來源檔
 
-來源是 CBETA 2016年發行的光碟裡的檔案：
+CBReader
 
-* 00All.toc: 從這個檔案裡得到「部類編號」與「部類名稱」的對應
-* BulieList.txt: 從這個檔案裡得到「典籍編號」與「部類編號」的對應
-
-## 轉檔程式
-
-cat.rb 根據來源檔產生主檔 categories.json, work_categories.json
+* [部類目錄](https://github.com/cbeta-git/CBReader2X/blob/master/Bookcase/CBETA/bulei_nav.xhtml)
+* [進階原書目錄](https://github.com/cbeta-git/CBReader2X/blob/master/Bookcase/CBETA/advance_nav.xhtml)
+* [簡易原書目錄](https://github.com/cbeta-git/CBReader2X/blob/master/Bookcase/CBETA/simple_nav.xhtml)

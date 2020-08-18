@@ -17,7 +17,11 @@ def handle_file(f)
     title = row['典籍名稱']
 
     unless work_dynasty.key?(work)
-      abort "#{__LINE__} 典籍編號 #{work} 不存在於 time/year-by-canon"
+      if row['type'] == 'editor'
+        next
+      else
+        abort "#{__LINE__} 典籍編號 #{work} 不存在於 time/year-by-canon"
+      end
     end
 
     dynasty = work_dynasty[work]['dynasty']

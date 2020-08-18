@@ -144,4 +144,16 @@
     <node name="徵稿啟事" html="help/other/ZW09/ZW09f.htm"/>
     <node name="鳴謝" html="help/other/ZW09/ZW09g.htm"/>
   </node>
+  <node name="ZW10 藏外佛教文獻第十輯">
+    <node work="ZWa069..ZWa071"/>
+    <node name="ZW0078 梵藏典籍新譯" work="ZW0078"/>
+    <node name="ZW0079 漢譯藏文佛典" work="ZW0079"/>
+    <node name="ZW0080 佚典遺珠" work="ZW0080"/>
+    <node name="ZW0081-82 佛典註疏" work="ZW0081,ZW0082"/>
+    <node name="ZW0083 佛教懺儀" work="ZW0083"/>
+    <node name="ZW0084-85 疑偽經" work="ZW0084,ZW0085"/>
+    <node name="ZW0086 《壇經》整理" work="ZW0086"/>
+    <node name="ZW0087-88 研究論文" work="ZW0087,ZW0088"/> 
+    <node work="ZWa072..ZWa074"/>
+</node>
 </tree>

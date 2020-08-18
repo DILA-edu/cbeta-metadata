@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cbeta (2.7.10)
+    unihan2 (0.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cbeta
+  unihan2
+
+BUNDLED WITH
+   2.1.4

@@ -2041,7 +2041,7 @@
     </node>        
   </node>
   <node name="23 新編部類 ZS, ZW, I, B, GA, GB, Y, LC">
-    <node name="ZW0001-77 藏外佛教文獻">
+    <node name="ZW0001-88 藏外佛教文獻">
       <node name="ZW0001-16 第一輯">
         <node name="緣起" html="help/other/ZW01/ZW01a.htm"/>
         <node name="卷首語">
@@ -2109,7 +2109,7 @@
         </node>
         <node name="鳴謝" html="help/other/ZW03/ZW03g.htm"/>
       </node>
-      <node name="ZW0023-32 第四輯">
+      <node name="ZW0033-44 第四輯">
         <node name="卷首語">
           <node name="中文" html="help/other/ZW04/ZW04a-1.htm"/>
           <node name="英文" html="help/other/ZW04/ZW04a-2.htm"/>
@@ -2214,6 +2214,18 @@
         <node name="徵稿啟事" html="help/other/ZW09/ZW09f.htm"/>
         <node name="鳴謝" html="help/other/ZW09/ZW09g.htm"/>
       </node>
+      <node name="ZW0078-88 第十輯">
+				<node work="ZWa069..ZWa071"/>
+				<node name="ZW0078 梵藏典籍新譯" work="ZW0078"/>
+				<node name="ZW0079 漢譯藏文佛典" work="ZW0079"/>
+				<node name="ZW0080 佚典遺珠" work="ZW0080"/>
+				<node name="ZW0081-82 佛典註疏" work="ZW0081,ZW0082"/>
+				<node name="ZW0083 佛教懺儀" work="ZW0083"/>
+				<node name="ZW0084-85 疑偽經" work="ZW0084,ZW0085"/>
+				<node name="ZW0086 《壇經》整理" work="ZW0086"/>
+				<node name="ZW0087-88 研究論文" work="ZW0087,ZW0088"/>
+				<node work="ZWa072..ZWa074"/>
+			</node>
     </node>
     <node name="ZS0001 正史佛教資料類編">
       <node name="緣起" html="help/other/ZS01/ZS01a.htm"/>
