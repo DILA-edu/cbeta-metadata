@@ -19,8 +19,8 @@ CSV 檔中除了列出作品編號，也記錄該部作品所在冊別：
 
 ## type
 
-type 欄位如果是 `editor`，表示是非正文、藏經編輯者或 CBETA 加的文件。
+type 欄位如果是 `non-textbody`，表示是非正文、藏經編輯者或 CBETA 加的文件。
 例 ZW.csv:
 
     work,vol,type
-    ZWa069,ZW10,editor
+    ZWa069,ZW10,non-textbody
