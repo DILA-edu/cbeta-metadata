@@ -12,4 +12,5 @@
   * Uniocode
   * CText
   * CBETA
-* 教育部異體字字典
+* [教育部異體字字典](https://dict.variants.moe.edu.tw/variants)
+  * 感謝[國家教育研究院](https://www.naer.edu.tw)授權[法鼓文理學院](http://www.dila.edu.tw)使用
