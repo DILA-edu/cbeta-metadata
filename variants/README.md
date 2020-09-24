@@ -2,11 +2,11 @@
 
 ## variants.json
 
-說明詳見 variants.md
+說明詳見 [variants.md](variants.md)
 
 ## vars-for-cbdata.json
 
-說明詳見 vars-for-cbdata.md
+說明詳見 [vars-for-cbdata.md](vars-for-cbdata.md)
 
 ## completely-synonymous.rb
 
