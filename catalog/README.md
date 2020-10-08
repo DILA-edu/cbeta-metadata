@@ -1,6 +1,8 @@
 # 目錄
 
-## 目錄清單
+## 最上層目錄
+
+root.xml
 
 ### 綜合目錄
 
@@ -42,9 +44,21 @@
 
 ## XML 標記說明
 
+### Element: tree
+
 tree 元素表示整個樹狀目錄，id 屬性是該目錄的 ID。
 
+### Element: node
+
 node 元素表示樹狀目錄中的一個節點
+
+### Catalog
+
+指向另一個目錄，屬性值是 catalog id
+
+    <node name="CBETA 部類目錄" catalog="CBETA"/>
+
+### Attribute: work
 
 work 屬性：典籍經號（經號）
 
@@ -68,15 +82,15 @@ work 屬性：典籍經號（經號）
 
     <node name="中篇" work="Y0008..Y0012,Y0040,Y0013"/>
 
-juan 屬性：指到某部典籍的部份卷數
+### Attribute: juan 屬性：指到某部典籍的部份卷數
 
     <node name="T0310(5) 無量壽如來會 2 菩提流志" work="T0310" juan="17..18"/>
 
-file 屬性：指出對應典籍的 XML 檔主檔名
+### Attribute: file 屬性：指出對應典籍的 XML 檔主檔名
 
     <node work="T0220" file="T05n0220a" juan="1..200"/>
 
-### 典籍跨冊
+#### 典籍跨冊
 
 例如 JB271 跨 J31..J32:
 
@@ -90,7 +104,7 @@ file 屬性：指出對應典籍的 XML 檔主檔名
       <node work="JB277" file="J32nB277"/>
     </node>
 
-### 卷跨冊
+#### 卷跨冊
 
 例如 L1557 卷17 跨 L130, L131 兩冊，
 這一卷雖然跨兩冊，但回傳卷17的 HTML 時會包含跨冊的全部卷17,
