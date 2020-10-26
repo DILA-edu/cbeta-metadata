@@ -620,56 +620,67 @@
   "ZW0078": {
     "title": "三自性論",
     "byline": "印度 世親著　金克木譯",
-    "creator": "世親,金克木"
+    "creators": "世親,金克木"
+    "creators_with_id": "世親(A000148);金克木(A043607)"
   },
   "ZW0079": {
     "title": "因相輪抉擇",
     "byline": "印度 陳那著　韓鏡清初譯　釋剛曉校訂註釋",
-    "creator": "陳那,韓鏡清,釋剛曉"
+    "creators": "陳那,韓鏡清,釋剛曉"
+    "creators_with_id": "陳那(A001162);韓鏡清(A043608);釋剛曉(A032510)"
   },
   "ZW0080": {
     "title": "諸經佛名卷上",
     "byline": "章光池整理",
-    "creator": "章光池"
+    "creators": "章光池"
+    "creators_with_id": "章光池(A043776)"
   },
   "ZW0081": {
     "title": "御注金剛般若經",
     "byline": "唐 李隆基著　衣川賢次整理",
-    "creator": "李隆基,衣川賢次"
+    "creators": "李隆基,衣川賢次"
+    "creators_with_id": "李隆基(A000291),衣川賢次(A043777)"
   },
   "ZW0082": {
     "title": "文殊師利所說般若波羅蜜經序偈釋",
     "byline": "曹淩整理",
-    "creator": "曹淩"
+    "creators": "曹淩"
+    "creators_with_id": "曹淩(A043779)"
   },
   "ZW0083": {
     "title": "法華七禮文",
     "byline": "汪娟整理",
-    "creator": "汪娟"
+    "creators": "汪娟"
+    "creators_with_id": "汪娟(A043780)"
   },
   "ZW0084": {
     "title": "照明菩薩經",
     "byline": "林敏整理",
-    "creator": "林敏"
+    "creators": "林敏"
+    "creators_with_id": "林敏(A043783)"
   },
   "ZW0085": {
     "title": "佛說佛名經（二十卷本）",
     "byline": "張麗．張磊整理",
-    "creator": "張麗,張磊"
+    "creators": "張麗,張磊"
+    "creators_with_id": "張麗(A043784);張磊(A043785)"
   },
   "ZW0086": {
     "title": "敦煌本《壇經》校釋疏義",
     "byline": "方廣錩",
-    "creator": "方廣錩"
+    "creators": "方廣錩"
+    "creators_with_id": "方廣錩(A033779)"
   },
   "ZW0087": {
     "title": "敦煌本《壇經》錄校三題",
     "byline": "方廣錩",
-    "creator": "方廣錩"
+    "creators": "方廣錩"
+    "creators_with_id": "方廣錩(A033779)"
   },
   "ZW0088": {
     "title": "明初的兩部南藏",
     "byline": "日 立正大學教授 野澤佳美",
-    "creator": "野澤佳美"
+    "creators": "野澤佳美"
+    "creators_with_id": "野澤佳美(A043786)"
   }
 }
