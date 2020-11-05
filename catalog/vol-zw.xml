@@ -9,12 +9,12 @@
   </node>
   <node name="目錄" html="help/other/ZW01/ZW01c.htm"/>
   <node name="錄文校勘體例" html="help/other/ZW01/ZW01d.htm"/>
-  <node name="ZW01 藏外佛教文獻第一輯 (ZW0001-16)">
+  <node name="ZW01 第一輯 (ZW0001-16)">
     <node work="ZW0001..ZW0016"/>
     <node name="徵稿啟事" html="help/other/ZW01/ZW01e.htm"/>
-    <node name="《藏外佛教文獻》編委會啟事" html="help/other/ZW01/ZW01f.htm"/>    
+    <node name="《藏外佛教文獻》編委會啟事" html="help/other/ZW01/ZW01f.htm"/>
   </node>
-  <node name="ZW02 藏外佛教文獻第二輯 (ZW0017-22)">
+  <node name="ZW02 第二輯 (ZW0017-22)">
     <node name="卷首語">
       <node name="中文" html="help/other/ZW02/ZW02a-1.htm"/>
       <node name="英文" html="help/other/ZW02/ZW02a-2.htm"/>
@@ -41,7 +41,7 @@
     <node name="徵稿啟事" html="help/other/ZW02/ZW02e.htm"/>
     <node name="徵訂啟事" html="help/other/ZW02/ZW02f.htm"/>
   </node>
-  <node name="ZW03 藏外佛教文獻第三輯 (ZW0023-32)">
+  <node name="ZW03 第三輯 (ZW0023-32)">
     <node name="卷首語">
       <node name="中文" html="help/other/ZW03/ZW03a-1.htm"/>
       <node name="英文" html="help/other/ZW03/ZW03a-2.htm"/>
@@ -56,9 +56,9 @@
       <node name="中文" html="help/other/ZW03/ZW03f-1.htm"/>
       <node name="英文" html="help/other/ZW03/ZW03f-2.htm"/>
     </node>
-    <node name="鳴謝" html="help/other/ZW03/ZW03g.htm"/>    
+    <node name="鳴謝" html="help/other/ZW03/ZW03g.htm"/>
   </node>
-  <node name="ZW04 藏外佛教文獻第四輯 (ZW0033-44)">
+  <node name="ZW04 第四輯 (ZW0033-44)">
     <node name="卷首語">
       <node name="中文" html="help/other/ZW04/ZW04a-1.htm"/>
       <node name="英文" html="help/other/ZW04/ZW04a-2.htm"/>
@@ -73,9 +73,9 @@
     <node name="編委會名單">
       <node name="中文" html="help/other/ZW04/ZW04g-1.htm"/>
       <node name="英文" html="help/other/ZW04/ZW04g-2.htm"/>
-    </node>    
+    </node>
   </node>
-  <node name="ZW05 藏外佛教文獻第五輯 (ZW0045-50)">
+  <node name="ZW05 第五輯 (ZW0045-50)">
     <node name="卷首語">
       <node name="中文" html="help/other/ZW05/ZW05a-1.htm"/>
       <node name="英文" html="help/other/ZW05/ZW05a-2.htm"/>
@@ -91,7 +91,7 @@
       <node name="英文" html="help/other/ZW05/ZW05f-2.htm"/>
     </node>
   </node>
-  <node name="ZW06 藏外佛教文獻第六輯 (ZW0051-7)">
+  <node name="ZW06 第六輯 (ZW0051-7)">
     <node name="卷首語">
       <node name="中文" html="help/other/ZW06/ZW06a-1.htm"/>
       <node name="英文" html="help/other/ZW06/ZW06a-2.htm"/>
@@ -99,7 +99,7 @@
     </node>
     <node name="目錄" html="help/other/ZW06/ZW06b.htm"/>
     <node name="錄文校勘體例" html="help/other/ZW06/ZW06c.htm"/>
-    <node work="ZW0051..ZW0057"/>    
+    <node work="ZW0051..ZW0057"/>
     <node name="《藏外佛教文獻》第一～六輯要目" html="help/other/ZW06/ZW06d.htm"/>
     <node name="徵稿啟事" html="help/other/ZW06/ZW06e.htm"/>
     <node name="編委會名單">
@@ -107,7 +107,7 @@
       <node name="英文" html="help/other/ZW06/ZW06f-2.htm"/>
     </node>
   </node>
-  <node name="ZW07 藏外佛教文獻第七輯 (ZW0058-66)">
+  <node name="ZW07 第七輯 (ZW0058-66)">
     <node name="卷首語">
       <node name="中文" html="help/other/ZW07/ZW07a-1.htm"/>
       <node name="英文" html="help/other/ZW07/ZW07a-2.htm"/>
@@ -115,36 +115,36 @@
     </node>
     <node name="目錄" html="help/other/ZW07/ZW07b.htm"/>
     <node name="錄文校勘體例" html="help/other/ZW07/ZW07c.htm"/>
-    <node work="ZW0058..ZW0066"/>    
+    <node work="ZW0058..ZW0066"/>
     <node name="《藏外佛教文獻要目》" html="help/other/ZW07/ZW07d.htm"/>
     <node name="徵稿啟事" html="help/other/ZW07/ZW07e.htm"/>
   </node>
-  <node name="ZW08 藏外佛教文獻第八輯 (ZW0067-71)">
+  <node name="ZW08 第八輯 (ZW0067-71)">
     <node name="卷首語" html="help/other/ZW08/ZW08a.htm"/>
     <node name="目錄" html="help/other/ZW08/ZW08b.htm"/>
     <node name="錄文校勘體例">
       <node name="錄文校勘體例" html="help/other/ZW08/ZW08c-1.htm"/>
       <node name="附：一般組字法基本規則" html="help/other/ZW08/ZW08c-2.htm"/>
     </node>
-    <node work="ZW0067..ZW0071"/>    
+    <node work="ZW0067..ZW0071"/>
     <node name="《藏外佛教文獻》要目" html="help/other/ZW08/ZW08d.htm"/>
     <node name="徵稿啟事" html="help/other/ZW08/ZW08e.htm"/>
     <node name="鳴謝" html="help/other/ZW08/ZW08f.htm"/>
   </node>
-  <node name="ZW09 藏外佛教文獻第九輯 (ZW0072-7)">
+  <node name="ZW09 第九輯 (ZW0072-7)">
     <node name="卷首語" html="help/other/ZW09/ZW09a.htm"/>
     <node name="目錄" html="help/other/ZW09/ZW09b.htm"/>
     <node name="錄文校勘體例">
       <node name="錄文校勘體例" html="help/other/ZW09/ZW09c-1.htm"/>
       <node name="附：一般組字法基本規則" html="help/other/ZW09/ZW09c-2.htm"/>
     </node>
-    <node work="ZW0072..ZW0077"/>    
+    <node work="ZW0072..ZW0077"/>
     <node name="談當前數字圖書館的幾個問題" html="help/other/ZW09/ZW09d.htm"/>
     <node name="《藏外佛教文獻》要目" html="help/other/ZW09/ZW09e.htm"/>
     <node name="徵稿啟事" html="help/other/ZW09/ZW09f.htm"/>
     <node name="鳴謝" html="help/other/ZW09/ZW09g.htm"/>
   </node>
-  <node name="ZW10 藏外佛教文獻第十輯">
+  <node name="ZW10 第十輯 (ZW0078-88)">
     <node work="ZWa069..ZWa071"/>
     <node name="ZW0078 梵藏典籍新譯" work="ZW0078"/>
     <node name="ZW0079 漢譯藏文佛典" work="ZW0079"/>
@@ -153,7 +153,25 @@
     <node name="ZW0083 佛教懺儀" work="ZW0083"/>
     <node name="ZW0084-85 疑偽經" work="ZW0084,ZW0085"/>
     <node name="ZW0086 《壇經》整理" work="ZW0086"/>
-    <node name="ZW0087-88 研究論文" work="ZW0087,ZW0088"/> 
+    <node name="ZW0087-88 研究論文" work="ZW0087,ZW0088"/>
     <node work="ZWa072..ZWa074"/>
-</node>
+  </node>
+  <node name="ZW11 第十一輯 (ZW0089-96)">
+    <node work="ZWa075..ZWa077"/>
+    <node name="ZW0089 三階教資料" work="ZW0089"/>
+    <node name="ZW0090-92 佛教懺儀" work="ZW0090..ZW0092"/>
+    <node name="ZW0093 疑偽經" work="ZW0093"/>
+    <node name="ZW0094 《壇經》整理" work="ZW0094"/>
+    <node name="ZW0095-96 研究論文" work="ZW0095,ZW0096"/>
+    <node work="ZWa078..ZWa080"/>
+  </node>
+  <node name="ZW12 第十二輯 (ZW0097-103)">
+    <node work="ZWa081..ZWa083"/>
+    <node name="ZW0097 三藏論疏" work="ZW0097"/>
+    <node name="ZW0098 佛教懺儀" work="ZW0098"/>
+    <node name="ZW0099 疑偽經" work="ZW0099"/>
+    <node name="ZW0100 《壇經》整理" work="ZW0100"/>
+    <node name="ZW0101-3 研究論文" work="ZW0101..ZW0103"/>
+    <node work="ZWa084,ZWa085"/>
+  </node>
 </tree>

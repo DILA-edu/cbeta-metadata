@@ -2,43 +2,43 @@
 <!-- 近代新編文獻 -->
 <tree xml:id="modern">
   <node name="藏外佛教文獻">
-    <node name="ZW01 藏外佛教文獻第一輯 (ZW0001-16)">
+    <node name="ZW01 第一輯 (ZW0001-16)">
       <node name="ZW0001-3 敦煌禪籍" work="ZW0001..ZW0003"/>
       <node name="ZW0004 密教典籍" work="ZW0004"/>
       <node name="ZW0005-7 三藏論疏" work="ZW0005..ZW0007"/>
       <node name="ZW0008-15 疑偽經" work="ZW0008..ZW0015d"/>
       <node name="ZW0016 研究論文" work="ZW0016"/>
     </node>
-    <node name="ZW02 藏外佛教文獻第二輯 (ZW0017-22)">
+    <node name="ZW02 第二輯 (ZW0017-22)">
       <node name="ZW0017-18 敦煌禪籍" work="ZW0017..ZW0018b"/>
       <node name="ZW0019-20 三藏論疏" work="ZW0019..ZW0020"/>
       <node name="ZW0021 天竺要典" work="ZW0021"/>
       <node name="ZW0022 遺珠集粹" work="ZW0022"/>
     </node>
-    <node name="ZW03 藏外佛教文獻第三輯 (ZW0023-32)">
+    <node name="ZW03 第三輯 (ZW0023-32)">
       <node name="ZW0023-24 敦煌禪籍" work="ZW0023..ZW0024"/>
       <node name="ZW0025-30 三藏論疏" work="ZW0025..ZW0030"/>
       <node name="ZW0031 疑偽經" work="ZW0031a..ZW0031e"/>
       <node name="ZW0032 研究論文" work="ZW0032"/>
     </node>
-    <node name="ZW04 藏外佛教文獻第四輯 (ZW0033-4)">
+    <node name="ZW04 第四輯 (ZW0033-4)">
       <node name="ZW0033 漢譯藏文佛典" work="ZW0033"/>
       <node name="ZW0034-40 石刻資料" work="ZW0034..ZW0040"/>
       <node name="ZW0041-42 三階教典籍" work="ZW0041..ZW0042"/>
       <node name="ZW0043 疑偽經" work="ZW0043a..ZW0043b"/>
       <node name="ZW0044 研究論文" work="ZW0044"/>
     </node>
-    <node name="ZW05 藏外佛教文獻第五輯 (ZW0045-50)">
+    <node name="ZW05 第五輯 (ZW0045-50)">
       <node name="ZW0045-48 南傳佛典" work="ZW0045..ZW0048"/>
       <node name="ZW0049 三藏論疏" work="ZW0049"/>
       <node name="ZW0050 研究論文" work="ZW0050"/>
     </node>
-    <node name="ZW06 藏外佛教文獻第六輯 (ZW0051-7)">
+    <node name="ZW06 第六輯 (ZW0051-7)">
       <node name="ZW0051-55 阿吒力教典籍" work="ZW0051..ZW0055"/>
       <node name="ZW0056 敦煌經錄" work="ZW0056"/>
       <node name="ZW0057 研究論文" work="ZW0057"/>
     </node>
-    <node name="ZW07 藏外佛教文獻第七輯 (ZW0058-66)">
+    <node name="ZW07 第七輯 (ZW0058-66)">
       <node name="ZW0058 三藏論疏" work="ZW0058"/>
       <node name="ZW0059-60 佛教儀軌" work="ZW0059a..ZW0060"/>
       <node name="ZW0061-62 阿吒力教典籍" work="ZW0061..ZW0062"/>
@@ -46,17 +46,47 @@
       <node name="ZW0065 西夏佚典" work="ZW0065"/>
       <node name="ZW0066 研究論文" work="ZW0066"/>
     </node>
-    <node name="ZW08 藏外佛教文獻第八輯 (ZW0067-71)">
+    <node name="ZW08 第八輯 (ZW0067-71)">
       <node name="ZW0067 三藏論疏" work="ZW0067"/>
       <node name="ZW0068 阿吒力教典籍" work="ZW0068"/>
       <node name="ZW0069 疑偽經" work="ZW0069"/>
       <node name="ZW0070-71 研究論文" work="ZW0070..ZW0071"/>
     </node>
-    <node name="ZW09 藏外佛教文獻第九輯 (ZW0072-7)">
+    <node name="ZW09 第九輯 (ZW0072-7)">
       <node name="ZW0072 三階教典籍" work="ZW0072"/>
       <node name="ZW0073 三藏論疏" work="ZW0073a..ZW0073h"/>
       <node name="ZW0074-75 梵文典籍新譯" work="ZW0074..ZW0075"/>
       <node name="ZW0076-77 研究論文" work="ZW0076..ZW0077"/>
+    </node>
+    <node name="ZW10 第十輯 (ZW0078-88)">
+      <node work="ZWa069..ZWa071"/>
+      <node name="ZW0078 梵藏典籍新譯" work="ZW0078"/>
+      <node name="ZW0079 漢譯藏文佛典" work="ZW0079"/>
+      <node name="ZW0080 佚典遺珠" work="ZW0080"/>
+      <node name="ZW0081-82 佛典註疏" work="ZW0081,ZW0082"/>
+      <node name="ZW0083 佛教懺儀" work="ZW0083"/>
+      <node name="ZW0084-85 疑偽經" work="ZW0084,ZW0085"/>
+      <node name="ZW0086 《壇經》整理" work="ZW0086"/>
+      <node name="ZW0087-88 研究論文" work="ZW0087,ZW0088"/>
+      <node work="ZWa072..ZWa074"/>
+    </node>
+    <node name="ZW11 第十一輯 (ZW0089-96)">
+      <node work="ZWa075..ZWa077"/>
+      <node name="ZW0089 三階教資料" work="ZW0089"/>
+      <node name="ZW0090-92 佛教懺儀" work="ZW0090..ZW0092"/>
+      <node name="ZW0093 疑偽經" work="ZW0093"/>
+      <node name="ZW0094 《壇經》整理" work="ZW0094"/>
+      <node name="ZW0095-96 研究論文" work="ZW0095,ZW0096"/>
+      <node work="ZWa078..ZWa080"/>
+    </node>
+    <node name="ZW12 第十二輯 (ZW0097-103)">
+      <node work="ZWa081..ZWa083"/>
+      <node name="ZW0097 三藏論疏" work="ZW0097"/>
+      <node name="ZW0098 佛教懺儀" work="ZW0098"/>
+      <node name="ZW0099 疑偽經" work="ZW0099"/>
+      <node name="ZW0100 《壇經》整理" work="ZW0100"/>
+      <node name="ZW0101-3 研究論文" work="ZW0101..ZW0103"/>
+      <node work="ZWa084,ZWa085"/>
     </node>
   </node>
   <node name="正史佛教資料類編" work="ZS0001"/>
