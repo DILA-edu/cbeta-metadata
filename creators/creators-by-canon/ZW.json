@@ -639,7 +639,7 @@
     "title": "御注金剛般若經",
     "byline": "唐 李隆基著　衣川賢次整理",
     "creators": "李隆基,衣川賢次",
-    "creators_with_id": "李隆基(A000291),衣川賢次(A043777)"
+    "creators_with_id": "李隆基(A000291);衣川賢次(A043777)"
   },
   "ZW0082": {
     "title": "文殊師利所說般若波羅蜜經序偈釋",
@@ -667,7 +667,7 @@
   },
   "ZW0086": {
     "title": "敦煌本《壇經》校釋疏義",
-    "byline": "方廣錩",
+    "byline": "方廣錩．侯沖執筆　研讀班集體討論",
     "creators": "方廣錩",
     "creators_with_id": "方廣錩(A033779)"
   },
@@ -682,5 +682,113 @@
     "byline": "日 立正大學教授 野澤佳美",
     "creators": "野澤佳美",
     "creators_with_id": "野澤佳美(A043786)"
+  },
+  "ZW0089": {
+    "title": "讚禮地藏菩薩懺悔發願法",
+    "byline": "張曉麗整理",
+    "creators": "張曉麗",
+    "creator_with_id": ""
+  },
+  "ZW0090": {
+    "title": "如來九觀（擬）",
+    "byline": "方廣錩整理",
+    "creators": "方廣錩",
+    "creator_with_id": ""
+  },
+  "ZW0091": {
+    "title": "金剛峻經金剛頂一切如來深妙秘密金剛界大三昧耶修行四十二種壇法經作用威儀法則　大毘盧遮那佛金剛心地法門密法戒壇法儀則",
+    "byline": "侯沖整理",
+    "creators": "侯沖",
+    "creator_with_id": ""
+  },
+  "ZW0092": {
+    "title": "金剛峻經金剛頂一切如來深妙秘密金剛界大三昧耶修行四十九種壇法經作用威儀法則　大毘盧遮那佛金剛心地法門密法戒壇法儀則",
+    "byline": "侯沖整理",
+    "creators": "侯沖",
+    "creator_with_id": ""
+  },
+  "ZW0093": {
+    "title": "佛說佛名經（二十卷本——卷第五～卷第七）",
+    "byline": "張麗．張磊整理",
+    "creators": "張麗,張磊",
+    "creator_with_id": ""
+  },
+  "ZW0094": {
+    "title": "敦煌本《壇經》校釋疏義（第三章～第五章）",
+    "byline": "張磊．王侃．李鐵華執筆　研讀班集體討論",
+    "creators": "張磊,王侃,李鐵華",
+    "creator_with_id": ""
+  },
+  "ZW0095": {
+    "title": "日本的漢文大藏經收藏及其特色——以刻本大藏經為中心",
+    "byline": "日本 京都大學人文所 梶浦晉",
+    "creators": "梶浦晉",
+    "creator_with_id": ""
+  },
+  "ZW0096": {
+    "title": "論《高麗再雕藏》中所見的《契丹藏》",
+    "byline": "韓國 大真大學校教授 柳富鉉",
+    "creators": "柳富鉉",
+    "creator_with_id": ""
+  },
+  "ZW0097": {
+    "title": "金剛般若經義疏卷二",
+    "byline": "方廣錩整理",
+    "creators": "方廣錩",
+    "creator_with_id": ""
+  },
+  "ZW0098": {
+    "title": "圓通三慧大齋道場儀",
+    "byline": "宋 侯溥作　侯沖整理",
+    "creators": "侯溥,侯沖",
+    "creator_with_id": ""
+  },
+  "ZW0099": {
+    "title": "佛說佛名經（二十卷本——卷第八～卷第十）",
+    "byline": "張麗．張磊整理",
+    "creators": "張麗,張磊",
+    "creator_with_id": ""
+  },
+  "ZW0100": {
+    "title": "敦煌本《壇經》校釋疏義（第六章～第八章）",
+    "byline": "曹淩．周芳．曾曉紅執筆　研讀班集體討論",
+    "creators": "曹淩,周芳,曾曉紅",
+    "creator_with_id": ""
+  },
+  "ZW0101": {
+    "title": "關於《佛說孝順子修行成佛經》的若干新資料",
+    "byline": "方廣錩",
+    "creators": "方廣錩",
+    "creator_with_id": ""
+  },
+  "ZW0102": {
+    "title": "關於宮內廳書陵部所藏福州版大藏經中的混合冊與印章",
+    "byline": "日本 宮內廳書陵部 中村一紀",
+    "creators": "中村一紀",
+    "creator_with_id": ""
+  },
+  "ZW0103": {
+    "title": "漢文大藏經研究要重視文獻價值的判別",
+    "byline": "熊國禎",
+    "creators": "熊國禎",
+    "creator_with_id": ""
+  },
+  "ZWa070": {
+    "title": "卷首語",
+    "byline": "方廣錩",
+    "creators": "方廣錩",
+    "creator_with_id": ""
+  },
+  "ZWa076": {
+    "title": "卷首語",
+    "byline": "方廣錩",
+    "creators": "方廣錩",
+    "creator_with_id": ""
+  },
+  "ZWa082": {
+    "title": "卷首語",
+    "byline": "方廣錩",
+    "creators": "方廣錩",
+    "creator_with_id": ""
   }
 }

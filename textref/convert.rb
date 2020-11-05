@@ -16,16 +16,14 @@ def handle_file(f)
     work = row['典籍編號']
     title = row['典籍名稱']
 
-    unless work_dynasty.key?(work)
-      if row['type'] == 'editor'
-        next
-      else
-        abort "#{__LINE__} 典籍編號 #{work} 不存在於 time/year-by-canon"
-      end
+    if work_dynasty.key?(work)
+      dynasty = work_dynasty[work]['dynasty']
+    elsif row['type'] == 'editor'
+      next
+    else
+      dynasty = nil
     end
 
-    dynasty = work_dynasty[work]['dynasty']
-    
     begin
       author = work_author[work]['creators']
     rescue

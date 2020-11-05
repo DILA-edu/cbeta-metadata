@@ -4,6 +4,9 @@ require 'csv'
 IN = '/Users/ray/git-repos/cbeta-xml-p5a'
 OUT = '../titles-by-canon'
 OUT_ALL = '../all-title-byline.csv'
+BYLINES = {
+  'N0007' => '第1卷-第3卷：葉慶春譯；第4卷：關世謙譯；第5卷-第12卷：郭哲彰譯'
+}
 
 def handle_canon(canon)
   $result = {}
@@ -32,6 +35,11 @@ def handle_canon(canon)
 end
 
 def handle_file(fn)
+  $count += 1
+  basename = File.basename(fn, '.xml')
+  print basename + ' '
+  work = CBETA.get_work_id_from_file_basename(basename)
+
   doc = CBETA.open_xml(fn)
   title = doc.at("//sourceDesc/bibl/title[@level='m']").text
 
@@ -39,16 +47,23 @@ def handle_file(fn)
   # 例：A097n1267 大唐開元釋教廣品歷章(第3卷-第4卷)
   title.sub!(/^(.*?)\(第\d+卷\-第\d+卷\)$/, '\1')
 
-  basename = File.basename(fn, '.xml')
-  print basename + ' '
-  work = CBETA.get_work_id_from_file_basename(basename)
+  # N0018,本生經(第26卷),26,悟醒譯,text
+  # P1612,諸佛世尊如來菩薩尊者名稱歌曲(第51卷)
+  title.sub!(/\(第\d+卷\)$/, '')
+
+  # 去掉後面的 （下），例： B0088, LC0007, Y0030
+  title.sub!(/（下）$/, '')
 
   $result[work] = {} unless $result.key? work
   $result[work][:title] = title
 
-  node = doc.at('//titleStmt/author')
-  unless node.nil?
-    $result[work][:byline] = node.text
+  if BYLINES.key?(work)
+    $result[work][:byline] = BYLINES[work]
+  else
+    node = doc.at('//titleStmt/author')
+    unless node.nil?
+      $result[work][:byline] = node.text
+    end
   end
   
   node = doc.at('//extent')
@@ -59,8 +74,6 @@ def handle_file(fn)
   else
     $extent[work] = juans
   end
-  
-  $count += 1
 end
 
 def handle_vol(canon, vol)
