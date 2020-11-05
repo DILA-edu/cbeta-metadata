@@ -1189,7 +1189,7 @@
     "title": "大莊嚴論經",
     "byline": "馬鳴菩薩造 後秦 鳩摩羅什譯",
     "creators": "鳩摩羅什,馬鳴",
-    "creators_with_id": "鳩摩羅什(A001583);馬鳴(A001003)"
+    "creators_with_id": "馬鳴(A001003);鳩摩羅什(A001583)"
   },
   "T0202": {
     "title": "賢愚經",
@@ -1229,7 +1229,7 @@
     "title": "眾經撰雜譬喻",
     "byline": "道略集 姚秦 鳩摩羅什譯",
     "creators": "鳩摩羅什,道略",
-    "creators_with_id": "鳩摩羅什(A001583);道略(A001534)"
+    "creators_with_id": "道略(A001534);鳩摩羅什(A001583)"
   },
   "T0209": {
     "title": "百喻經",
@@ -1259,7 +1259,7 @@
     "title": "法集要頌經",
     "byline": "法救集 宋 天息災譯",
     "creators": "天息災,法救",
-    "creators_with_id": "天息災(A000146);法救(A000716)"
+    "creators_with_id": "法救(A000716);天息災(A000146)"
   },
   "T0214": {
     "title": "猘狗經",
@@ -3573,7 +3573,7 @@
     "title": "道地經",
     "byline": "僧伽羅剎造 後漢 安世高譯",
     "creators": "安清,眾護",
-    "creators_with_id": "安清(A000366);眾護(A001124)"
+    "creators_with_id": "眾護(A001124);安清(A000366)"
   },
   "T0608": {
     "title": "小道地經",
@@ -3641,7 +3641,7 @@
     "title": "五門禪經要用法",
     "byline": "佛陀蜜多撰 劉宋 曇摩蜜多譯",
     "creators": "曇摩蜜多,佛陀蜜多",
-    "creators_with_id": "曇摩蜜多(A001786);佛陀蜜多(A000443)"
+    "creators_with_id": "佛陀蜜多(A000443);曇摩蜜多(A001786)"
   },
   "T0620": {
     "title": "治禪病祕要法",
@@ -4241,7 +4241,7 @@
     "title": "分別業報略經",
     "byline": "大勇菩薩撰 劉宋 僧伽跋摩譯",
     "creators": "僧伽跋摩,大勇",
-    "creators_with_id": "僧伽跋摩(A001592);大勇(A000056)"
+    "creators_with_id": "大勇(A000056);僧伽跋摩(A001592)"
   },
   "T0724": {
     "title": "佛說罪業應報教化地獄經",
@@ -8448,13 +8448,13 @@
     "title": "根本薩婆多部律攝",
     "byline": "尊者勝友造 唐 義淨譯",
     "creators": "義淨,勝友",
-    "creators_with_id": "義淨(A001470);勝友(A001178)"
+    "creators_with_id": "勝友(A001178);義淨(A001470)"
   },
   "T1459": {
     "title": "根本說一切有部毘奈耶頌",
     "byline": "尊者毘舍佉造 唐 義淨譯",
     "creators": "義淨,毗舍佉",
-    "creators_with_id": "義淨(A001470);毗舍佉(A000853)"
+    "creators_with_id": "毗舍佉(A000853);義淨(A001470)"
   },
   "T1460": {
     "title": "解脫戒經",
@@ -8466,7 +8466,7 @@
     "title": "律二十二明了論",
     "byline": "弗陀多羅多造 陳 真諦譯",
     "creators": "真諦,弗陀多羅多",
-    "creators_with_id": "真諦(A000962);弗陀多羅多(A000246)"
+    "creators_with_id": "弗陀多羅多(A000246);真諦(A000962)"
   },
   "T1462": {
     "title": "善見律毘婆沙",
@@ -8680,19 +8680,19 @@
     "title": "菩薩戒羯磨文",
     "byline": "彌勒菩薩說 唐 玄奘譯",
     "creators": "玄奘,彌勒菩薩",
-    "creators_with_id": "玄奘(A000294);彌勒菩薩(A001428)"
+    "creators_with_id": "彌勒菩薩(A001428);玄奘(A000294)"
   },
   "T1500": {
     "title": "菩薩戒本",
     "byline": "慈氏菩薩說 北涼 曇無讖譯",
     "creators": "曇無讖,彌勒菩薩",
-    "creators_with_id": "曇無讖(A001789);彌勒菩薩(A001428)"
+    "creators_with_id": "彌勒菩薩(A001428);曇無讖(A001789)"
   },
   "T1501": {
     "title": "菩薩戒本",
     "byline": "彌勒菩薩說 唐 玄奘譯",
     "creators": "玄奘,彌勒菩薩",
-    "creators_with_id": "玄奘(A000294);彌勒菩薩(A001428)"
+    "creators_with_id": "彌勒菩薩(A001428);玄奘(A000294)"
   },
   "T1502": {
     "title": "菩薩受齋經",
@@ -8736,7 +8736,7 @@
     "title": "大智度論",
     "byline": "龍樹菩薩造 後秦 鳩摩羅什譯",
     "creators": "鳩摩羅什,龍樹",
-    "creators_with_id": "鳩摩羅什(A001583);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);鳩摩羅什(A001583)"
   },
   "T1510a": {
     "title": "金剛般若論",
@@ -8754,73 +8754,73 @@
     "title": "金剛般若波羅蜜經論",
     "byline": "天親菩薩造 元魏 菩提流支譯",
     "creators": "菩提流支,世親",
-    "creators_with_id": "菩提流支(A001357);世親(A000148)"
+    "creators_with_id": "世親(A000148);菩提流支(A001357)"
   },
   "T1512": {
     "title": "金剛仙論",
     "byline": "世親菩薩造 金剛仙論師釋 元魏 菩提流支譯",
     "creators": "菩提流支,世親,金剛仙",
-    "creators_with_id": "菩提流支(A001357);世親(A000148);金剛仙(A000773)"
+    "creators_with_id": "世親(A000148);金剛仙(A000773);菩提流支(A001357)"
   },
   "T1513": {
     "title": "能斷金剛般若波羅蜜多經論釋",
     "byline": "無著菩薩造頌 世親菩薩釋 唐 義淨譯",
     "creators": "義淨,無著,世親",
-    "creators_with_id": "義淨(A001470);無著(A001318);世親(A000148)"
+    "creators_with_id": "無著(A001318);世親(A000148);義淨(A001470)"
   },
   "T1514": {
     "title": "能斷金剛般若波羅蜜多經論頌",
     "byline": "無著菩薩造 唐 義淨譯",
     "creators": "義淨,無著",
-    "creators_with_id": "義淨(A001470);無著(A001318)"
+    "creators_with_id": "無著(A001318);義淨(A001470)"
   },
   "T1515": {
     "title": "金剛般若波羅蜜經破取著不壞假名論",
     "byline": "功德施菩薩造 唐 地婆訶羅等譯",
     "creators": "地婆訶羅,功德施",
-    "creators_with_id": "地婆訶羅(A000332);功德施(A000219)"
+    "creators_with_id": "功德施(A000219);地婆訶羅(A000332)"
   },
   "T1516": {
     "title": "聖佛母般若波羅蜜多九頌精義論",
     "byline": "勝德赤衣菩薩造 宋 法護等譯",
     "creators": "法護,勝德赤衣",
-    "creators_with_id": "法護(A014355);勝德赤衣(A001180)"
+    "creators_with_id": "勝德赤衣(A001180);法護(A014355)"
   },
   "T1517": {
     "title": "佛母般若波羅蜜多圓集要義釋論",
     "byline": "三寶尊菩薩造 大域龍菩薩造本論 宋 施護等譯",
     "creators": "施護,三寶尊,陳那",
-    "creators_with_id": "施護(A000844);三寶尊(A000045);陳那(A001162)"
+    "creators_with_id": "三寶尊(A000045);陳那(A001162);施護(A000844)"
   },
   "T1518": {
     "title": "佛母般若波羅蜜多圓集要義論",
     "byline": "大域龍菩薩造 宋 施護等譯",
     "creators": "施護,陳那",
-    "creators_with_id": "施護(A000844);陳那(A001162)"
+    "creators_with_id": "陳那(A001162);施護(A000844)"
   },
   "T1519": {
     "title": "妙法蓮華經憂波提舍",
     "byline": "大乘論師婆藪槃豆釋 後魏 菩提留支共曇林等譯",
     "creators": "菩提流支,曇琳,世親",
-    "creators_with_id": "菩提流支(A001357);曇琳(A001781);世親(A000148)"
+    "creators_with_id": "世親(A000148);菩提流支(A001357);曇琳(A001781)"
   },
   "T1520": {
     "title": "妙法蓮華經論優波提舍",
     "byline": "婆藪般豆菩薩造 元魏 勒那摩提共僧朗等譯",
     "creators": "勒那摩提,僧朗,世親",
-    "creators_with_id": "勒那摩提(A001012);僧朗(A001596);世親(A000148)"
+    "creators_with_id": "世親(A000148);僧朗(A001596);勒那摩提(A001012)"
   },
   "T1521": {
     "title": "十住毘婆沙論",
     "byline": "聖者龍樹造 後秦 鳩摩羅什譯",
     "creators": "鳩摩羅什,龍樹",
-    "creators_with_id": "鳩摩羅什(A001583);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);鳩摩羅什(A001583)"
   },
   "T1522": {
     "title": "十地經論",
     "byline": "天親菩薩造 後魏 菩提流支等譯",
     "creators": "菩提流支,世親",
-    "creators_with_id": "菩提流支(A001357);世親(A000148)"
+    "creators_with_id": "世親(A000148);菩提流支(A001357)"
   },
   "T1523": {
     "title": "大寶積經論",
@@ -8832,7 +8832,7 @@
     "title": "無量壽經優波提舍",
     "byline": "婆藪槃豆菩薩造 元魏 菩提流支譯",
     "creators": "菩提流支,世親",
-    "creators_with_id": "菩提流支(A001357);世親(A000148)"
+    "creators_with_id": "世親(A000148);菩提流支(A001357)"
   },
   "T1525": {
     "title": "彌勒菩薩所問經論",
@@ -8844,49 +8844,49 @@
     "title": "寶髻經四法憂波提舍",
     "byline": "天親菩薩造 元魏 毘目智仙譯",
     "creators": "毗目智仙,世親",
-    "creators_with_id": "毗目智仙(A000852);世親(A000148)"
+    "creators_with_id": "世親(A000148);毗目智仙(A000852)"
   },
   "T1527": {
     "title": "涅槃論",
     "byline": "婆藪槃豆作 元魏 達磨菩提譯",
     "creators": "達摩菩提,世親",
-    "creators_with_id": "達摩菩提(A001573);世親(A000148)"
+    "creators_with_id": "世親(A000148);達摩菩提(A001573)"
   },
   "T1528": {
     "title": "涅槃經本有今無偈論",
     "byline": "天親菩薩造 陳 真諦譯",
     "creators": "真諦,世親",
-    "creators_with_id": "真諦(A000962);世親(A000148)"
+    "creators_with_id": "世親(A000148);真諦(A000962)"
   },
   "T1529": {
     "title": "遺教經論",
     "byline": "天親菩薩造 陳 真諦譯",
     "creators": "真諦,世親",
-    "creators_with_id": "真諦(A000962);世親(A000148)"
+    "creators_with_id": "世親(A000148);真諦(A000962)"
   },
   "T1530": {
     "title": "佛地經論",
     "byline": "親光菩薩等造 唐 玄奘譯",
     "creators": "玄奘,親光",
-    "creators_with_id": "玄奘(A000294);親光(A001821)"
+    "creators_with_id": "親光(A001821);玄奘(A000294)"
   },
   "T1531": {
     "title": "文殊師利菩薩問菩提經論",
     "byline": "天親菩薩造 元魏 菩提流支譯",
     "creators": "菩提流支,世親",
-    "creators_with_id": "菩提流支(A001357);世親(A000148)"
+    "creators_with_id": "世親(A000148);菩提流支(A001357)"
   },
   "T1532": {
     "title": "勝思惟梵天所問經論",
     "byline": "天親菩薩造 後魏 菩提流支譯",
     "creators": "菩提流支,世親",
-    "creators_with_id": "菩提流支(A001357);世親(A000148)"
+    "creators_with_id": "世親(A000148);菩提流支(A001357)"
   },
   "T1533": {
     "title": "轉法輪經憂波提舍",
     "byline": "天親菩薩造 元魏 毘目智仙譯",
     "creators": "毗目智仙,世親",
-    "creators_with_id": "毗目智仙(A000852);世親(A000148)"
+    "creators_with_id": "世親(A000148);毗目智仙(A000852)"
   },
   "T1534": {
     "title": "三具足經憂波提舍",
@@ -8928,13 +8928,13 @@
     "title": "眾事分阿毘曇論",
     "byline": "尊者世友造 宋 求那跋陀羅共菩提耶舍譯",
     "creators": "求那跋陀羅,菩提耶舍,世友",
-    "creators_with_id": "求那跋陀羅(A000527);菩提耶舍(A001359);世友(A000211)"
+    "creators_with_id": "世友(A000211);求那跋陀羅(A000527);菩提耶舍(A001359)"
   },
   "T1542": {
     "title": "阿毘達磨品類足論",
     "byline": "尊者世友造 唐 玄奘譯",
     "creators": "玄奘,世友",
-    "creators_with_id": "玄奘(A000294);世友(A000211)"
+    "creators_with_id": "世友(A000211);玄奘(A000294)"
   },
   "T1543": {
     "title": "阿毘曇八犍度論",
@@ -8964,7 +8964,7 @@
     "title": "鞞婆沙論",
     "byline": "尸陀槃尼撰 符秦 僧伽跋澄譯",
     "creators": "僧伽跋澄,尸陀槃尼",
-    "creators_with_id": "僧伽跋澄(A001593);尸陀槃尼(A000088)"
+    "creators_with_id": "尸陀槃尼(A000088);僧伽跋澄(A001593)"
   },
   "T1548": {
     "title": "舍利弗阿毘曇論",
@@ -8976,25 +8976,25 @@
     "title": "尊婆須蜜菩薩所集論",
     "byline": "尊婆須蜜造 符秦 僧伽跋澄等譯",
     "creators": "僧伽跋澄,尊婆須蜜",
-    "creators_with_id": "僧伽跋澄(A001593);尊婆須蜜(A001184)"
+    "creators_with_id": "尊婆須蜜(A001184);僧伽跋澄(A001593)"
   },
   "T1550": {
     "title": "阿毘曇心論",
     "byline": "尊者法勝造 晉 僧迦提婆共慧遠等譯",
     "creators": "僧伽提婆,慧遠,法勝",
-    "creators_with_id": "僧伽提婆(A001589);慧遠(A001204);法勝(A000722)"
+    "creators_with_id": "法勝(A000722);僧伽提婆(A001589);慧遠(A001204)"
   },
   "T1551": {
     "title": "阿毘曇心論經",
     "byline": "法勝論 優波扇多釋 高齊 那連提耶舍譯",
     "creators": "那連提黎耶舍,法勝,優波扇多",
-    "creators_with_id": "那連提黎耶舍(A000545);法勝(A000722);優波扇多(A001846)"
+    "creators_with_id": "法勝(A000722);優波扇多(A001846);那連提黎耶舍(A000545)"
   },
   "T1552": {
     "title": "雜阿毘曇心論",
     "byline": "尊者法救造 宋 僧伽跋摩等譯",
     "creators": "僧伽跋摩,法救",
-    "creators_with_id": "僧伽跋摩(A001592);法救(A000716)"
+    "creators_with_id": "法救(A000716);僧伽跋摩(A001592)"
   },
   "T1553": {
     "title": "阿毘曇甘露味論",
@@ -9006,13 +9006,13 @@
     "title": "入阿毘達磨論",
     "byline": "塞建陀羅造 唐 玄奘譯",
     "creators": "玄奘,塞建地羅",
-    "creators_with_id": "玄奘(A000294);塞建地羅(A001424)"
+    "creators_with_id": "塞建地羅(A001424);玄奘(A000294)"
   },
   "T1555": {
     "title": "五事毘婆沙論",
     "byline": "尊者法救造 唐 玄奘譯",
     "creators": "玄奘,法救",
-    "creators_with_id": "玄奘(A000294);法救(A000716)"
+    "creators_with_id": "法救(A000716);玄奘(A000294)"
   },
   "T1556": {
     "title": "薩婆多宗五事論",
@@ -9066,103 +9066,103 @@
     "title": "中論",
     "byline": "龍樹菩薩造 梵志青目釋 姚秦 鳩摩羅什譯",
     "creators": "鳩摩羅什,龍樹,青目",
-    "creators_with_id": "鳩摩羅什(A001583);龍樹(A001482);青目(A000802)"
+    "creators_with_id": "龍樹(A001482);青目(A000802);鳩摩羅什(A001583)"
   },
   "T1565": {
     "title": "順中論",
     "byline": "龍樹菩薩造 無著菩薩釋 元魏 瞿曇般若流支譯",
     "creators": "般若流支,龍樹,無著",
-    "creators_with_id": "般若流支(A000996);龍樹(A001482);無著(A001318)"
+    "creators_with_id": "龍樹(A001482);無著(A001318);般若流支(A000996)"
   },
   "T1566": {
     "title": "般若燈論釋",
     "byline": "偈本龍樹菩薩 釋論分別明菩薩 唐 波羅頗蜜多羅譯",
     "creators": "波羅頗迦羅蜜多羅,清辨,龍樹",
-    "creators_with_id": "波羅頗迦羅蜜多羅(A000686);清辨(A000139);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);清辨(A000139);波羅頗迦羅蜜多羅(A000686)"
   },
   "T1567": {
     "title": "大乘中觀釋論(第1卷-第9卷)",
     "byline": "安慧菩薩造 宋 惟淨等譯",
     "creators": "惟淨,安慧",
-    "creators_with_id": "惟淨(A001072);安慧(A000371)"
+    "creators_with_id": "安慧(A000371);惟淨(A001072)"
   },
   "T1568": {
     "title": "十二門論",
     "byline": "龍樹菩薩造 姚秦 鳩摩羅什譯",
     "creators": "鳩摩羅什,龍樹",
-    "creators_with_id": "鳩摩羅什(A001583);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);鳩摩羅什(A001583)"
   },
   "T1569": {
     "title": "百論",
     "byline": "提婆菩薩造 婆藪開士釋 姚秦 鳩摩羅什譯",
     "creators": "鳩摩羅什,婆藪開士,迦那提婆",
-    "creators_with_id": "鳩摩羅什(A001583);婆藪開士(A001025);迦那提婆(A001207)"
+    "creators_with_id": "迦那提婆(A001207);婆藪開士(A001025);鳩摩羅什(A001583)"
   },
   "T1570": {
     "title": "廣百論本",
     "byline": "聖天菩薩造 唐 玄奘譯",
     "creators": "玄奘,聖天",
-    "creators_with_id": "玄奘(A000294);聖天(A001207)"
+    "creators_with_id": "聖天(A001207);玄奘(A000294)"
   },
   "T1571": {
     "title": "大乘廣百論釋論",
     "byline": "聖天菩薩本 護法菩薩釋 唐 玄奘譯",
     "creators": "玄奘,聖天,護法",
-    "creators_with_id": "玄奘(A000294);聖天(A001207);護法(A001963)"
+    "creators_with_id": "聖天(A001207);護法(A001963);玄奘(A000294)"
   },
   "T1572": {
     "title": "百字論",
     "byline": "提婆菩薩造 後魏 菩提流支譯",
     "creators": "菩提流支,迦那提婆",
-    "creators_with_id": "菩提流支(A001357);迦那提婆(A001207)"
+    "creators_with_id": "迦那提婆(A001207);菩提流支(A001357)"
   },
   "T1573": {
     "title": "壹輸盧迦論",
     "byline": "龍樹菩薩造 後魏 瞿曇般若留支譯",
     "creators": "般若流支,龍樹",
-    "creators_with_id": "般若流支(A000996);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);般若流支(A000996)"
   },
   "T1574": {
     "title": "大乘破有論",
     "byline": "龍樹菩薩造 宋 施護譯",
     "creators": "施護,龍樹",
-    "creators_with_id": "施護(A000844);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);施護(A000844)"
   },
   "T1575": {
     "title": "六十頌如理論",
     "byline": "龍樹菩薩造 宋 施護譯",
     "creators": "施護,龍樹",
-    "creators_with_id": "施護(A000844);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);施護(A000844)"
   },
   "T1576": {
     "title": "大乘二十頌論",
     "byline": "龍樹菩薩造 宋 施護譯",
     "creators": "施護,龍樹",
-    "creators_with_id": "施護(A000844);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);施護(A000844)"
   },
   "T1577": {
     "title": "大丈夫論",
     "byline": "提婆羅菩薩造 北涼 道泰譯",
     "creators": "道泰,提婆羅",
-    "creators_with_id": "道泰(A001526);提婆羅(A001209)"
+    "creators_with_id": "提婆羅(A001209);道泰(A001526)"
   },
   "T1578": {
     "title": "大乘掌珍論",
     "byline": "清辯菩薩造 唐 玄奘譯",
     "creators": "玄奘,清辯",
-    "creators_with_id": "玄奘(A000294);清辯(A000139)"
+    "creators_with_id": "清辯(A000139);玄奘(A000294)"
   },
   "T1579": {
     "title": "瑜伽師地論",
     "byline": "彌勒菩薩說 唐 玄奘譯",
     "creators": "玄奘,彌勒菩薩",
-    "creators_with_id": "玄奘(A000294);彌勒菩薩(A001428)"
+    "creators_with_id": "彌勒菩薩(A001428);玄奘(A000294)"
   },
   "T1580": {
     "title": "瑜伽師地論釋",
     "byline": "最勝子等造 唐 玄奘譯",
     "creators": "玄奘,最勝子",
-    "creators_with_id": "玄奘(A000294);最勝子(A001175)"
+    "creators_with_id": "最勝子(A001175);玄奘(A000294)"
   },
   "T1581": {
     "title": "菩薩地持經",
@@ -9192,13 +9192,13 @@
     "title": "成唯識論",
     "byline": "護法等菩薩造 唐 玄奘譯",
     "creators": "玄奘,護法",
-    "creators_with_id": "玄奘(A000294);護法(A001963)"
+    "creators_with_id": "護法(A001963);玄奘(A000294)"
   },
   "T1586": {
     "title": "唯識三十論頌",
     "byline": "世親菩薩造 唐 玄奘譯",
     "creators": "玄奘,世親",
-    "creators_with_id": "玄奘(A000294);世親(A000148)"
+    "creators_with_id": "世親(A000148);玄奘(A000294)"
   },
   "T1587": {
     "title": "轉識論",
@@ -9210,43 +9210,43 @@
     "title": "唯識論",
     "byline": "天親菩薩造 後魏 瞿曇般若流支譯",
     "creators": "般若流支,世親",
-    "creators_with_id": "般若流支(A000996);世親(A000148)"
+    "creators_with_id": "世親(A000148);般若流支(A000996)"
   },
   "T1589": {
     "title": "大乘唯識論",
     "byline": "天親菩薩造 陳 真諦譯",
     "creators": "真諦,世親",
-    "creators_with_id": "真諦(A000962);世親(A000148)"
+    "creators_with_id": "世親(A000148);真諦(A000962)"
   },
   "T1590": {
     "title": "唯識二十論",
     "byline": "世親菩薩造 唐 玄奘譯",
     "creators": "玄奘,世親",
-    "creators_with_id": "玄奘(A000294);世親(A000148)"
+    "creators_with_id": "世親(A000148);玄奘(A000294)"
   },
   "T1591": {
     "title": "成唯識寶生論",
     "byline": "護法菩薩造 唐 義淨譯",
     "creators": "義淨,護法",
-    "creators_with_id": "義淨(A001470);護法(A001963)"
+    "creators_with_id": "護法(A001963);義淨(A001470)"
   },
   "T1592": {
     "title": "攝大乘論",
     "byline": "阿僧伽作 後魏 佛陀扇多譯",
     "creators": "佛陀扇多,無著",
-    "creators_with_id": "佛陀扇多(A000440);無著(A001318)"
+    "creators_with_id": "無著(A001318);佛陀扇多(A000440)"
   },
   "T1593": {
     "title": "攝大乘論",
     "byline": "無著菩薩造 陳 真諦譯",
     "creators": "真諦,無著",
-    "creators_with_id": "真諦(A000962);無著(A001318)"
+    "creators_with_id": "無著(A001318);真諦(A000962)"
   },
   "T1594": {
     "title": "攝大乘論本",
     "byline": "無著菩薩造 唐 玄奘譯",
     "creators": "玄奘,無著",
-    "creators_with_id": "玄奘(A000294);無著(A001318)"
+    "creators_with_id": "無著(A001318);玄奘(A000294)"
   },
   "T1595": {
     "title": "攝大乘論釋",
@@ -9276,37 +9276,37 @@
     "title": "中邊分別論",
     "byline": "天親菩薩造 陳 真諦譯",
     "creators": "真諦,世親",
-    "creators_with_id": "真諦(A000962);世親(A000148)"
+    "creators_with_id": "世親(A000148);真諦(A000962)"
   },
   "T1600": {
     "title": "辯中邊論",
     "byline": "世親菩薩造 唐 玄奘譯",
     "creators": "玄奘,世親",
-    "creators_with_id": "玄奘(A000294);世親(A000148)"
+    "creators_with_id": "世親(A000148);玄奘(A000294)"
   },
   "T1601": {
     "title": "辯中邊論頌",
     "byline": "彌勒菩薩說 唐 玄奘譯",
     "creators": "玄奘,彌勒菩薩",
-    "creators_with_id": "玄奘(A000294);彌勒菩薩(A001428)"
+    "creators_with_id": "彌勒菩薩(A001428);玄奘(A000294)"
   },
   "T1602": {
     "title": "顯揚聖教論",
     "byline": "無著菩薩造 唐 玄奘譯",
     "creators": "玄奘,無著",
-    "creators_with_id": "玄奘(A000294);無著(A001318)"
+    "creators_with_id": "無著(A001318);玄奘(A000294)"
   },
   "T1603": {
     "title": "顯揚聖教論頌",
     "byline": "無著菩薩造 唐 玄奘譯",
     "creators": "玄奘,無著",
-    "creators_with_id": "玄奘(A000294);無著(A001318)"
+    "creators_with_id": "無著(A001318);玄奘(A000294)"
   },
   "T1604": {
     "title": "大乘莊嚴經論",
     "byline": "無著菩薩造 唐 波羅頗蜜多羅譯",
     "creators": "波羅頗迦羅蜜多羅,無著",
-    "creators_with_id": "波羅頗迦羅蜜多羅(A000686);無著(A001318)"
+    "creators_with_id": "無著(A001318);波羅頗迦羅蜜多羅(A000686)"
   },
   "T1605": {
     "title": "大乘阿毘達磨集論",
@@ -9324,25 +9324,25 @@
     "title": "六門教授習定論",
     "byline": "無著本 世親釋 唐 義淨譯",
     "creators": "義淨,無著,世親",
-    "creators_with_id": "義淨(A001470);無著(A001318);世親(A000148)"
+    "creators_with_id": "無著(A001318);世親(A000148);義淨(A001470)"
   },
   "T1608": {
     "title": "業成就論",
     "byline": "天親菩薩造 元魏 毘目智仙譯",
     "creators": "毗目智仙,世親",
-    "creators_with_id": "毗目智仙(A000852);世親(A000148)"
+    "creators_with_id": "世親(A000148);毗目智仙(A000852)"
   },
   "T1609": {
     "title": "大乘成業論",
     "byline": "世親菩薩造 唐 玄奘譯",
     "creators": "玄奘,世親",
-    "creators_with_id": "玄奘(A000294);世親(A000148)"
+    "creators_with_id": "世親(A000148);玄奘(A000294)"
   },
   "T1610": {
     "title": "佛性論",
     "byline": "天親菩薩造 陳 真諦譯",
     "creators": "真諦,世親",
-    "creators_with_id": "真諦(A000962);世親(A000148)"
+    "creators_with_id": "世親(A000148);真諦(A000962)"
   },
   "T1611": {
     "title": "究竟一乘寶性論",
@@ -9354,31 +9354,31 @@
     "title": "大乘五蘊論",
     "byline": "世親菩薩造 唐 玄奘譯",
     "creators": "玄奘,世親",
-    "creators_with_id": "玄奘(A000294);世親(A000148)"
+    "creators_with_id": "世親(A000148);玄奘(A000294)"
   },
   "T1613": {
     "title": "大乘廣五蘊論",
     "byline": "安慧菩薩造 唐 地婆訶羅譯",
     "creators": "地婆訶羅,安慧",
-    "creators_with_id": "地婆訶羅(A000332);安慧(A000371)"
+    "creators_with_id": "安慧(A000371);地婆訶羅(A000332)"
   },
   "T1614": {
     "title": "大乘百法明門論",
     "byline": "天親菩薩造 唐 玄奘譯",
     "creators": "玄奘,世親",
-    "creators_with_id": "玄奘(A000294);世親(A000148)"
+    "creators_with_id": "世親(A000148);玄奘(A000294)"
   },
   "T1615": {
     "title": "王法正理論",
     "byline": "彌勒菩薩造 唐 玄奘譯",
     "creators": "玄奘,彌勒菩薩",
-    "creators_with_id": "玄奘(A000294);彌勒菩薩(A001428)"
+    "creators_with_id": "彌勒菩薩(A001428);玄奘(A000294)"
   },
   "T1616": {
     "title": "十八空論",
     "byline": "龍樹菩薩造 陳 真諦譯",
     "creators": "真諦,龍樹",
-    "creators_with_id": "真諦(A000962);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);真諦(A000962)"
   },
   "T1617": {
     "title": "三無性論",
@@ -9396,79 +9396,79 @@
     "title": "無相思塵論",
     "byline": "陳那菩薩造 陳 真諦譯",
     "creators": "真諦,陳那",
-    "creators_with_id": "真諦(A000962);陳那(A001162)"
+    "creators_with_id": "陳那(A001162);真諦(A000962)"
   },
   "T1620": {
     "title": "解捲論",
     "byline": "陳那菩薩造 陳 真諦譯",
     "creators": "真諦,陳那",
-    "creators_with_id": "真諦(A000962);陳那(A001162)"
+    "creators_with_id": "陳那(A001162);真諦(A000962)"
   },
   "T1621": {
     "title": "掌中論",
     "byline": "陳那菩薩造 唐 義淨譯",
     "creators": "義淨,陳那",
-    "creators_with_id": "義淨(A001470);陳那(A001162)"
+    "creators_with_id": "陳那(A001162);義淨(A001470)"
   },
   "T1622": {
     "title": "取因假設論",
     "byline": "陳那菩薩造 唐 義淨譯",
     "creators": "義淨,陳那",
-    "creators_with_id": "義淨(A001470);陳那(A001162)"
+    "creators_with_id": "陳那(A001162);義淨(A001470)"
   },
   "T1623": {
     "title": "觀總相論頌",
     "byline": "陳那菩薩造 唐 義淨譯",
     "creators": "義淨,陳那",
-    "creators_with_id": "義淨(A001470);陳那(A001162)"
+    "creators_with_id": "陳那(A001162);義淨(A001470)"
   },
   "T1624": {
     "title": "觀所緣緣論",
     "byline": "陳那菩薩造 唐 玄奘譯",
     "creators": "玄奘,陳那",
-    "creators_with_id": "玄奘(A000294);陳那(A001162)"
+    "creators_with_id": "陳那(A001162);玄奘(A000294)"
   },
   "T1625": {
     "title": "觀所緣論釋",
     "byline": "護法菩薩造 唐 義淨譯",
     "creators": "義淨,護法",
-    "creators_with_id": "義淨(A001470);護法(A001963)"
+    "creators_with_id": "護法(A001963);義淨(A001470)"
   },
   "T1626": {
     "title": "大乘法界無差別論",
     "byline": "堅慧菩薩造 唐 提雲般若等譯",
     "creators": "提雲般若,堅慧",
-    "creators_with_id": "提雲般若(A001210);堅慧(A001018)"
+    "creators_with_id": "堅慧(A001018);提雲般若(A001210)"
   },
   "T1627": {
     "title": "大乘法界無差別論",
     "byline": "堅慧菩薩造 唐 提雲般若譯",
     "creators": "提雲般若,堅慧",
-    "creators_with_id": "提雲般若(A001210);堅慧(A001018)"
+    "creators_with_id": "堅慧(A001018);提雲般若(A001210)"
   },
   "T1628": {
     "title": "因明正理門論本",
     "byline": "大域龍菩薩造 唐 玄奘譯",
     "creators": "玄奘,陳那",
-    "creators_with_id": "玄奘(A000294);陳那(A001162)"
+    "creators_with_id": "陳那(A001162);玄奘(A000294)"
   },
   "T1629": {
     "title": "因明正理門論",
     "byline": "大域龍菩薩造 唐 義淨譯",
     "creators": "義淨,陳那",
-    "creators_with_id": "義淨(A001470);陳那(A001162)"
+    "creators_with_id": "陳那(A001162);義淨(A001470)"
   },
   "T1630": {
     "title": "因明入正理論",
     "byline": "南羯羅主菩薩造 唐 玄奘譯",
     "creators": "玄奘,商羯羅主",
-    "creators_with_id": "玄奘(A000294);商羯羅主(A001014)"
+    "creators_with_id": "商羯羅主(A001014);玄奘(A000294)"
   },
   "T1631": {
     "title": "迴諍論",
     "byline": "龍樹菩薩造 後魏 毘目智仙共瞿曇流支譯",
     "creators": "毗目智仙,般若流支,龍樹",
-    "creators_with_id": "毗目智仙(A000852);般若流支(A000996);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);般若流支(A000996);毗目智仙(A000852)"
   },
   "T1632": {
     "title": "方便心論",
@@ -9486,7 +9486,7 @@
     "title": "入大乘論",
     "byline": "堅意菩薩造 北涼 道泰等譯",
     "creators": "道泰,堅意",
-    "creators_with_id": "道泰(A001526);堅意(A001017)"
+    "creators_with_id": "堅意(A001017);道泰(A001526)"
   },
   "T1635": {
     "title": "大乘寶要義論",
@@ -9498,49 +9498,49 @@
     "title": "大乘集菩薩學論",
     "byline": "法稱菩薩造 宋 法護等譯",
     "creators": "法護,法稱",
-    "creators_with_id": "法護(A014355);法稱(A000734)"
+    "creators_with_id": "法稱(A000734);法護(A014355)"
   },
   "T1637": {
     "title": "集大乘相論",
     "byline": "覺吉祥智菩薩造 宋 施護譯",
     "creators": "施護,覺吉祥智",
-    "creators_with_id": "施護(A000844);覺吉祥智(A001940)"
+    "creators_with_id": "覺吉祥智(A001940);施護(A000844)"
   },
   "T1638": {
     "title": "集諸法寶最上義論",
     "byline": "善寂菩薩造 宋 施護譯",
     "creators": "施護,善寂",
-    "creators_with_id": "施護(A000844);善寂(A001340)"
+    "creators_with_id": "善寂(A001340);施護(A000844)"
   },
   "T1639": {
     "title": "提婆菩薩破楞伽經中外道小乘四宗論",
     "byline": "提波菩薩造 後魏 菩提流支譯",
     "creators": "菩提流支,迦那提婆",
-    "creators_with_id": "菩提流支(A001357);迦那提婆(A001207)"
+    "creators_with_id": "迦那提婆(A001207);菩提流支(A001357)"
   },
   "T1640": {
     "title": "提婆菩薩釋楞伽經中外道小乘涅槃論",
     "byline": "提波菩薩造 後魏 菩提流支譯",
     "creators": "菩提流支,迦那提婆",
-    "creators_with_id": "菩提流支(A001357);迦那提婆(A001207)"
+    "creators_with_id": "迦那提婆(A001207);菩提流支(A001357)"
   },
   "T1641": {
     "title": "隨相論",
     "byline": "德慧法師造 陳 真諦譯",
     "creators": "真諦,瞿那末底",
-    "creators_with_id": "真諦(A000962);瞿那末底(A001690)"
+    "creators_with_id": "瞿那末底(A001690);真諦(A000962)"
   },
   "T1642": {
     "title": "金剛針論",
     "byline": "法稱菩薩造 宋 法天譯",
     "creators": "法天,法稱",
-    "creators_with_id": "法天(A000690);法稱(A000734)"
+    "creators_with_id": "法稱(A000734);法天(A000690)"
   },
   "T1643": {
     "title": "尼乾子問無我義經",
     "byline": "馬鳴菩薩集 宋 日稱譯",
     "creators": "日稱,馬鳴",
-    "creators_with_id": "日稱(A000194);馬鳴(A001003)"
+    "creators_with_id": "馬鳴(A001003);日稱(A000194)"
   },
   "T1644": {
     "title": "佛說立世阿毘曇論",
@@ -9552,25 +9552,25 @@
     "title": "彰所知論",
     "byline": "發合思巴造 元 沙羅巴譯",
     "creators": "沙囉巴,發合思巴",
-    "creators_with_id": "沙囉巴(A000529);發合思巴(A000889)"
+    "creators_with_id": "發合思巴(A000889);沙囉巴(A000529)"
   },
   "T1646": {
     "title": "成實論",
     "byline": "訶梨跋摩造 姚秦 鳩摩羅什譯",
     "creators": "鳩摩羅什,訶梨跋摩",
-    "creators_with_id": "鳩摩羅什(A001583);訶梨跋摩(A001363)"
+    "creators_with_id": "訶梨跋摩(A001363);鳩摩羅什(A001583)"
   },
   "T1647": {
     "title": "四諦論",
     "byline": "婆藪跋摩造 陳 真諦譯",
     "creators": "真諦,婆藪跋摩",
-    "creators_with_id": "真諦(A000962);婆藪跋摩(A001024)"
+    "creators_with_id": "婆藪跋摩(A001024);真諦(A000962)"
   },
   "T1648": {
     "title": "解脫道論",
     "byline": "優波底沙造 梁 僧伽婆羅譯",
     "creators": "僧伽婆羅,優波底沙",
-    "creators_with_id": "僧伽婆羅(A001588);優波底沙(A001845)"
+    "creators_with_id": "優波底沙(A001845);僧伽婆羅(A001588)"
   },
   "T1649": {
     "title": "三彌底部論",
@@ -9584,19 +9584,19 @@
     "title": "十二因緣論",
     "byline": "淨意菩薩造 後魏 菩提流支譯",
     "creators": "菩提流支,淨意",
-    "creators_with_id": "菩提流支(A001357);淨意(A001112)"
+    "creators_with_id": "淨意(A001112);菩提流支(A001357)"
   },
   "T1652": {
     "title": "緣生論",
     "byline": "欝楞迦造 隋 達磨笈多譯",
     "creators": "達摩笈多,鬱楞迦",
-    "creators_with_id": "達摩笈多(A001572);鬱楞迦(A000003)"
+    "creators_with_id": "鬱楞迦(A000003);達摩笈多(A001572)"
   },
   "T1653": {
     "title": "大乘緣生論",
     "byline": "欝楞迦造 唐 不空譯",
     "creators": "不空,鬱楞迦",
-    "creators_with_id": "不空(A000095);鬱楞迦(A000003)"
+    "creators_with_id": "鬱楞迦(A000003);不空(A000095)"
   },
   "T1654": {
     "title": "因緣心論頌因緣心論釋",
@@ -9608,7 +9608,7 @@
     "title": "止觀門論頌",
     "byline": "世親菩薩造 唐 義淨譯",
     "creators": "義淨,世親",
-    "creators_with_id": "義淨(A001470);世親(A000148)"
+    "creators_with_id": "世親(A000148);義淨(A001470)"
   },
   "T1656": {
     "title": "寶行王正論",
@@ -9620,37 +9620,37 @@
     "title": "手杖論",
     "byline": "釋迦稱造 唐 義淨譯",
     "creators": "義淨,迦稱",
-    "creators_with_id": "義淨(A001470);迦稱(A001957)"
+    "creators_with_id": "迦稱(A001957);義淨(A001470)"
   },
   "T1658": {
     "title": "諸教決定名義論",
     "byline": "慈氏菩薩造 宋 施護譯",
     "creators": "施護,彌勒菩薩",
-    "creators_with_id": "施護(A000844);彌勒菩薩(A001428)"
+    "creators_with_id": "彌勒菩薩(A001428);施護(A000844)"
   },
   "T1659": {
     "title": "發菩提心經論",
     "byline": "天親菩薩造 後秦 鳩摩羅什譯",
     "creators": "鳩摩羅什,世親",
-    "creators_with_id": "鳩摩羅什(A001583);世親(A000148)"
+    "creators_with_id": "世親(A000148);鳩摩羅什(A001583)"
   },
   "T1660": {
     "title": "菩提資糧論",
     "byline": "龍樹本 自在比丘釋 隋 達磨笈多譯",
     "creators": "達摩笈多,龍樹,自在",
-    "creators_with_id": "達摩笈多(A001572);龍樹(A001482);自在(A000395)"
+    "creators_with_id": "龍樹(A001482);自在(A000395);達摩笈多(A001572)"
   },
   "T1661": {
     "title": "菩提心離相論",
     "byline": "龍樹菩薩造 宋 施護譯",
     "creators": "施護,龍樹",
-    "creators_with_id": "施護(A000844);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);施護(A000844)"
   },
   "T1662": {
     "title": "菩提行經",
     "byline": "龍樹菩薩集頌 宋 天息災譯",
     "creators": "天息災,龍樹",
-    "creators_with_id": "天息災(A000146);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);天息災(A000146)"
   },
   "T1663": {
     "title": "菩提心觀釋",
@@ -9662,7 +9662,7 @@
     "title": "廣釋菩提心論",
     "byline": "蓮華戒菩薩造 宋 施護譯",
     "creators": "施護,蓮華戒",
-    "creators_with_id": "施護(A000844);蓮華戒(A001762)"
+    "creators_with_id": "蓮華戒(A001762);施護(A000844)"
   },
   "T1665": {
     "title": "金剛頂瑜伽中發阿耨多羅三藐三菩提心論",
@@ -9674,25 +9674,25 @@
     "title": "大乘起信論",
     "byline": "馬鳴菩薩造 梁 真諦譯",
     "creators": "真諦,馬鳴",
-    "creators_with_id": "真諦(A000962);馬鳴(A001003)"
+    "creators_with_id": "馬鳴(A001003);真諦(A000962)"
   },
   "T1667": {
     "title": "大乘起信論",
     "byline": "馬鳴菩薩造 唐 實叉難陀譯",
     "creators": "實叉難陀,馬鳴",
-    "creators_with_id": "實叉難陀(A001606);馬鳴(A001003)"
+    "creators_with_id": "馬鳴(A001003);實叉難陀(A001606)"
   },
   "T1668": {
     "title": "釋摩訶衍論",
     "byline": "龍樹菩薩造 姚秦 筏提摩多譯",
     "creators": "筏提摩多,龍樹",
-    "creators_with_id": "筏提摩多(A001329);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);筏提摩多(A001329)"
   },
   "T1669": {
     "title": "大宗地玄文本論",
     "byline": "馬鳴菩薩造 陳 真諦譯",
     "creators": "真諦,馬鳴",
-    "creators_with_id": "真諦(A000962);馬鳴(A001003)"
+    "creators_with_id": "馬鳴(A001003);真諦(A000962)"
   },
   "T1670A": {
     "title": "那先比丘經",
@@ -9706,7 +9706,7 @@
     "title": "福蓋正行所集經",
     "byline": "龍樹菩薩集 宋 日稱等譯",
     "creators": "日稱,龍樹",
-    "creators_with_id": "日稱(A000194);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);日稱(A000194)"
   },
   "T1672": {
     "title": "龍樹菩薩為禪陀迦王說法要偈",
@@ -9718,7 +9718,7 @@
     "title": "勸發諸王要偈",
     "byline": "龍樹菩薩撰 宋 僧伽跋摩譯",
     "creators": "僧伽跋摩,龍樹",
-    "creators_with_id": "僧伽跋摩(A001592);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);僧伽跋摩(A001592)"
   },
   "T1674": {
     "title": "龍樹菩薩勸誡王頌",
@@ -9730,13 +9730,13 @@
     "title": "讚法界頌",
     "byline": "龍樹菩薩造 宋 施護譯",
     "creators": "施護,龍樹",
-    "creators_with_id": "施護(A000844);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);施護(A000844)"
   },
   "T1676": {
     "title": "廣大發願頌",
     "byline": "龍樹菩薩造 宋 施護等譯",
     "creators": "施護,龍樹",
-    "creators_with_id": "施護(A000844);龍樹(A001482)"
+    "creators_with_id": "龍樹(A001482);施護(A000844)"
   },
   "T1677": {
     "title": "三身梵讚",
@@ -9760,13 +9760,13 @@
     "title": "一百五十讚佛頌",
     "byline": "摩咥里制吒造 唐 義淨譯",
     "creators": "義淨,摩咥里制吒",
-    "creators_with_id": "義淨(A001470);摩咥里制吒(A001749)"
+    "creators_with_id": "摩咥里制吒(A001749);義淨(A001470)"
   },
   "T1681": {
     "title": "佛吉祥德讚",
     "byline": "寂友尊者造 宋 施護譯",
     "creators": "施護,寂友",
-    "creators_with_id": "施護(A000844);寂友(A001026)"
+    "creators_with_id": "寂友(A001026);施護(A000844)"
   },
   "T1682": {
     "title": "七佛讚唄伽他",
@@ -9802,7 +9802,7 @@
     "title": "事師法五十頌",
     "byline": "馬鳴菩薩集 宋 日稱等譯",
     "creators": "日稱,馬鳴",
-    "creators_with_id": "日稱(A000194);馬鳴(A001003)"
+    "creators_with_id": "馬鳴(A001003);日稱(A000194)"
   },
   "T1688": {
     "title": "密跡力士大權神王經偈頌",
@@ -10348,7 +10348,7 @@
     "title": "維摩經略疏",
     "byline": "隋 智顗說　唐 湛然略",
     "creators": "湛然,智顗",
-    "creators_with_id": "湛然(A001307);智顗(A001301)"
+    "creators_with_id": "智顗(A001301);湛然(A001307)"
   },
   "T1779": {
     "title": "維摩經略疏垂裕記",
@@ -10888,7 +10888,7 @@
     "title": "華嚴一乘十玄門",
     "byline": "隋 杜順說．唐 智儼撰",
     "creators": "智儼,法順",
-    "creators_with_id": "智儼(A001304);法順(A000525)"
+    "creators_with_id": "法順(A000525);智儼(A001304)"
   },
   "T1869": {
     "title": "華嚴五十要問答",
@@ -11864,7 +11864,7 @@
     "title": "異部宗輪論",
     "byline": "世友菩薩造 唐 玄奘譯",
     "creators": "玄奘,世友",
-    "creators_with_id": "玄奘(A000294);世友(A000211)"
+    "creators_with_id": "世友(A000211);玄奘(A000294)"
   },
   "T2032": {
     "title": "十八部論",
@@ -11876,7 +11876,7 @@
     "title": "部執異論",
     "byline": "天友菩薩造 陳 真諦譯",
     "creators": "真諦,天友",
-    "creators_with_id": "真諦(A000962);天友(A000143)"
+    "creators_with_id": "天友(A000143);真諦(A000962)"
   },
   "T2034": {
     "title": "歷代三寶紀",
@@ -12462,7 +12462,7 @@
     "title": "勝宗十句義論",
     "byline": "慧月造 唐 玄奘譯",
     "creators": "玄奘,慧月",
-    "creators_with_id": "玄奘(A000294);慧月(A001702)"
+    "creators_with_id": "慧月(A001702);玄奘(A000294)"
   },
   "T2141A": {
     "title": "摩尼光佛教法儀略",
