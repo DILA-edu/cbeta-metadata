@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
 <tree xml:id="Vol-ZS" title="正史佛教資料類編">
-  <node name="緣起" html="help/other/ZS01/ZS01a.htm"/>
-  <node name="前言" html="help/other/ZS01/ZS01b.htm"/>
-  <node name="說明" html="help/other/ZS01/ZS01c.htm"/>
-  <node name="目錄" html="help/other/ZS01/ZS01d.htm"/>
+  <node work="ZSa001..ZSa004"/>
   <node name="ZS01 正史佛教資料類編" work="ZS0001"/>
 </tree>
