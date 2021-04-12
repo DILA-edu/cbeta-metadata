@@ -37,30 +37,12 @@
   <node name="Y34 印度佛教思想史" work="Y0032"/>
   <node name="Y35 原始佛教聖典之集成" work="Y0033"/>
   <node name="Y36 說一切有部為主的論書與論師之研究" work="Y0034"/>
-  <node name="Y37 初期大乘佛教之起源與開展">
-    <node work="Y0035"/>
-    <node name="中文索引" html="help/other/Y/index/Y0035-C2P_index.htm"/>
-    <node name="梵巴藏歐文索引" html="help/other/Y/index/Y0035-P2C_index.htm"/>
-  </node>
-  <node name="Y38 空之探究">
-    <node work="Y0036"/>
-    <node name="中文索引" html="help/other/Y/index/Y0036-C2P_index.htm"/>
-    <node name="梵巴藏歐文索引" html="help/other/Y/index/Y0036-P2C_index.htm"/>
-  </node>
-  <node name="Y39 如來藏之研究">
-    <node work="Y0037"/>
-    <node name="中文索引" html="help/other/Y/index/Y0037-C2P_index.htm"/>
-    <node name="梵巴藏歐文索引" html="help/other/Y/index/Y0037-P2C_index.htm"/>    
-  </node>
+  <node name="Y37 初期大乘佛教之起源與開展" work="Y0035"/>
+  <node name="Y38 空之探究" work="Y0036"/>
+  <node name="Y39 如來藏之研究" work="Y0037"/>
   <node name="Y40 中國禪宗史" work="Y0038"/>
   <node name="Y41 平凡的一生" work="Y0039"/>
   <node name="Y42 成佛之道" work="Y0040"/>
   <node name="Y43 永光集" work="Y0041"/>
   <node name="Y44 大乘廣五蘊論講記" work="Y0042"/>
-  <node name="附錄">
-    <node name="一、印順導師著作出版年表" html="help/other/Y/appendix/appendix-1.htm"/>
-    <node name="二、印順導師略傳" html="help/other/Y/appendix/appendix-2.htm"/>
-    <node name="三、印順導師略譜" html="help/other/Y/appendix/appendix-3.htm"/>
-    <node name="四、印順文教基金會簡介" html="help/other/Y/appendix/appendix-4.html"/>        
-  </node>
 </tree>

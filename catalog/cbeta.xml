@@ -2186,10 +2186,6 @@
       </node>
     </node>
     <node name="ZS0001 正史佛教資料類編">
-      <node work="ZSa001" name="緣起"/>
-      <node work="ZSa002" name="前言"/>
-      <node work="ZSa003" name="說明"/>
-      <node work="ZSa004" name="目錄"/>
       <node work="ZS0001"/>
     </node>
     <node name="I0001-100 北朝佛教石刻拓片百品">
@@ -2229,187 +2225,158 @@
       <node name="年代" work="I0001..I0100"/>
     </node>
     <node name="B0001-198 大藏經補編">
-      <node name="出版說明" html="help/other/B/0-1-Imprint.html"/>
-      <node name="全書內容簡介" html="help/other/B/0-2-Introduction.html"/>
+      <node name="B00">
+        <node work="Ba001"/>
+        <node work="Ba002"/>
+      </node>
       <node name="B01-02">
         <node work="B0001"/>
       </node>
       <node name="B03-05">
-        <node name="編輯說明" html="help/other/B/B03.html"/>
+        <node work="Ba003"/>
         <node work="B0002"/>
       </node>
       <node name="B06">
-        <node name="編輯說明" html="help/other/B/B06.html"/>
+        <node work="Ba004"/>
         <node work="B0003..B0009"/>
       </node>
       <node name="B07">
-        <node name="編輯說明" html="help/other/B/B07.html"/>
+        <node work="Ba005"/>
         <node work="B0010..B0025"/>
       </node>
       <node name="B08">
-        <node name="編輯說明" html="help/other/B/B08.html"/>
+        <node work="Ba006"/>
         <node work="B0026..B0029"/>
       </node>
       <node name="B09">
-        <node name="編輯說明" html="help/other/B/B09.html"/>
+        <node work="Ba007"/>
         <node work="B0030..B0047"/>
       </node>
       <node name="B10">
-        <node name="編輯說明" html="help/other/B/B10.html"/>
+        <node work="Ba008"/>
         <node work="B0048..B0068"/>
       </node>
       <node name="B11">
-        <node name="編輯說明" html="help/other/B/B11.html"/>
+        <node work="Ba009"/>
         <node work="B0069..B0076"/>
       </node>
       <node name="B12">
-        <node name="洛陽伽藍記解題" html="help/other/B/B12.html"/>
+        <node work="Ba010"/>
         <node work="B0077,B0078"/>
       </node>
       <node name="B13">
-        <node name="釋氏六帖解題" html="help/other/B/B13-1.html"/>
-        <node work="B0079"/>
-        <node name="大唐西域記解題" html="help/other/B/B13-2.html"/>
-        <node work="B0080"/>
+        <node work="Ba011..Ba012"/>
+        <node work="B0079..B0080"/>
       </node>
       <node name="B14">
-        <node name="編輯說明" html="help/other/B/B14.html"/>
+        <node work="Ba013"/>
         <node work="B0081..B0087"/>
       </node>
       <node name="B15-16">
-        <node name="編輯說明（上）" html="help/other/B/B15.html"/>
-        <node name="編輯說明（下）" html="help/other/B/B16.html"/>
+        <node work="Ba014"/>
+        <node work="Ba015"/>
         <node work="B0088"/>
       </node>
       <node name="B17">
-        <node name="編輯說明" html="help/other/B/B17.html"/>
+        <node work="Ba016"/>
         <node work="B0089..B0094"/>
       </node>
       <node name="B18">
-        <node name="編輯說明" html="help/other/B/B18.html"/>
+        <node work="Ba017"/>
         <node work="B0095..B0102"/>
       </node>
       <node name="B19">
-        <node name="編輯說明" html="help/other/B/B19-1.html"/>
-        <node name="禪林象器箋序" html="help/other/B/B19-2.html"/>
+        <node work="Ba018"/>
+        <node work="Ba019"/>
         <node work="B0103"/>
       </node>
       <node name="B20">
-        <node name="編輯說明" html="help/other/B/B20.html"/>
+        <node work="Ba020"/>
         <node work="B0104..B0108"/>
       </node>
       <node name="B21">
-        <node name="編輯說明" html="help/other/B/B21.html"/>
+        <node work="Ba021"/>
         <node work="B0109..B0116"/>
       </node>
       <node name="B22">
-        <node name="編輯說明" html="help/other/B/B22.html"/>
+        <node work="Ba022"/>
         <node work="B0117..B0119"/>
       </node>
       <node name="B23">
-        <node name="編輯說明" html="help/other/B/B23.html"/>
+        <node work="Ba023"/>
         <node work="B0120..B0129"/>
         <node name="B0130 (=JB348+JB120+X1641+選錄) 靈峰宗論（選錄〈蕅益大師年譜〉、〈書重刻靈峰宗論後〉、〈刻闢邪集序〉）"
           work="JB348,JB120,X1641,B0130"/>
       </node>
       <node name="B24">
-        <node name="編輯說明" html="help/other/B/B24.html"/>
+        <node work="Ba024"/>
         <node work="B0131..B0133"/>
         <node name="B0134 (=JB120+B0130+選錄) 闢邪集（選錄〈翻刻闢邪集序〉、〈天學初闢〉、〈統正序〉、〈原道闢邪說〉、〈跋〉）"
           work="JB120,B0130,B0134"/>
         <node work="B0135..B0141"/>
       </node>
       <node name="B25">
-        <node name="編輯說明" html="help/other/B/B25.html"/>
+        <node work="Ba025"/>
         <node work="B0142..B0145"/>
       </node>
       <node name="B26">
-        <node name="編輯說明" html="help/other/B/B26.html"/>
+        <node work="Ba026"/>
         <node work="B0146..B0149"/>
         <node name="B0150 (=JB091+選錄) 道餘錄（選錄〈姚少師道餘錄跋〉）" work="JB091,B0150"/>
       </node>
       <node name="B27">
-        <node name="編輯說明" html="help/other/B/B27.html"/>
+        <node work="Ba027"/>
         <node work="B0151..B0153"/>
       </node>
       <node name="B28">
-        <node name="編輯說明" html="help/other/B/B28.html"/>
+        <node work="Ba028"/>
         <node work="B0154..B0159"/>
       </node>
       <node name="B29">
-        <node name="編輯說明" html="help/other/B/B29.html"/>
+        <node work="Ba029"/>
         <node work="B0160..B0162"/>
       </node>
       <node name="B30">
-        <node name="編輯說明" html="help/other/B/B30.html"/>
+        <node work="Ba030"/>
         <node work="B0163..B0168"/>
       </node>
       <node name="B31">
-        <node name="編輯說明" html="help/other/B/B31.html"/>
+        <node work="Ba031"/>
         <node work="B0169,B0170"/>
       </node>
       <node name="B32">
-        <node name="編輯說明" html="help/other/B/B32.html"/>
+        <node work="Ba032"/>
         <node work="B0171..B0191"/>
       </node>
       <node name="B33">
-        <node name="編輯說明" html="help/other/B/B33.html"/>
+        <node work="Ba033"/>
         <node work="B0192"/>
       </node>
       <node name="B34">
-        <node name="編輯說明" html="help/other/B/B34-1.html"/>
-        <node name="吳都法乘" html="help/other/B/B34-2.html"/>
+        <node work="Ba034"/>
+        <node work="Ba035"/>
         <node work="B0193"/>
       </node>
       <node name="B35">
-        <node name="編輯說明" html="help/other/B/B35.html"/>
+        <node work="Ba036"/>
         <node work="B0194..B0196"/>
       </node>
       <node name="B36">
-        <node name="編輯說明" html="help/other/B/B36.html"/>
+        <node work="Ba037"/>
         <node work="B0197..B0198"/>
       </node>
     </node>
     <node name="GA0002-89, GB0109 中國佛寺志">
-      <node name="編輯說明" html="help/other/GAB/readme.html"/>
       <node name="GA0002-89 中國佛寺史志彙刊">
-        <node name="洛陽伽藍記集證版本說明" html="help/other/GAB/GA0002.html"/>
-        <node work="GA0002"/>
-        <node name="洛陽伽藍記鉤沈版本說明" html="help/other/GAB/GA0003.html"/>
-        <node work="GA0003"/>
-        <node name="洛陽伽藍記合校本版本說明" html="help/other/GAB/GA0004.html"/>
-        <node work="GA0004"/>
-        <node name="南朝佛寺志版本說明" html="help/other/GAB/GA0005.html"/>
-        <node work="GA0005"/>
-        <node name="重修普陀山志版本說明" html="help/other/GAB/GA0008.html"/>
-        <node work="GA0008"/>
-        <node name="普陀洛迦新志版本說明" html="help/other/GAB/GA0009.html"/>
-        <node work="GA0009"/>
-        <node name="明州阿育王山志版本說明" html="help/other/GAB/GA0010.html"/>
-        <node work="GA0010"/>
-        <node name="明州阿育王山續志版本說明" html="help/other/GAB/GA0011.html"/>
-        <node work="GA0011"/>
-        <node name="天童寺志版本說明" html="help/other/GAB/GA0012.html"/>
-        <node work="GA0012"/>
-        <node name="七塔寺志版本說明" html="help/other/GAB/GA0013.html"/>
-        <node work="GA0013"/>
-        <node name="明州岳林寺志版本說明" html="help/other/GAB/GA0014.html"/>
-        <node work="GA0014"/>
-        <node name="大昭慶律寺志版本說明" html="help/other/GAB/GA0015.html"/>
-        <node work="GA0015"/>
-        <node name="玉岑山慧因高麗華嚴教寺志版本說明" html="help/other/GAB/GA0017.html"/>
+        <node work="GAa001"/>
+        <node work="GA0002..GA0005"/>
+        <node work="GA0008..GA0015"/>
         <node work="GA0017..GA0025"/>
-        <node work="GA0028..GA0031"/>
-        <node name="徑山志版本說明" html="help/other/GAB/GA0032.html"/>
-        <node work="GA0032"/>
-        <node work="GA0036"/>
-        <node name="寒山寺志版本說明" html="help/other/GAB/GA0043.html"/>
-        <node work="GA0043"/>
-        <node name="峨眉山志版本說明" html="help/other/GAB/GA0049.html"/>
-        <node work="GA0049,GA0062,GA0077,GA0081,GA0084,GA0086,GA0089"/>
+        <node work="GA0028..GA0032"/>
+        <node work="GA0036,GA0043,GA0049,GA0062,GA0077,GA0081,GA0084,GA0086,GA0089"/>
       </node>
       <node name="GB0109 中國佛寺志叢刊">
-        <node name="徑山集版本說明" html="help/other/GAB/GB0109.html"/>
+        <node work="GBa001"/>
         <node work="GB0109"/>
       </node>
     </node>
@@ -2421,22 +2388,8 @@
       </node>
       <node name="華雨集" work="Y0025..Y0029"/>
       <node name="專書">
-        <node work="Y0030..Y0035"/>
-        <node name="中文索引" html="help/other/Y/index/Y0035-C2P_index.htm"/>
-        <node name="梵巴藏歐文索引" html="help/other/Y/index/Y0035-P2C_index.htm"/>
-        <node work="Y0036"/>
-        <node name="中文索引" html="help/other/Y/index/Y0036-C2P_index.htm"/>
-        <node name="梵巴藏歐文索引" html="help/other/Y/index/Y0036-P2C_index.htm"/>
-        <node work="Y0037"/>
-        <node name="中文索引" html="help/other/Y/index/Y0037-C2P_index.htm"/>
-        <node name="梵巴藏歐文索引" html="help/other/Y/index/Y0037-P2C_index.htm"/>
-        <node work="Y0038,Y0041,Y0042"/>
-      </node>
-      <node name="附錄">
-        <node name="一、印順導師著作出版年表" html="help/other/Y/appendix/appendix-1.htm"/>
-        <node name="二、印順導師略傳" html="help/other/Y/appendix/appendix-2.htm"/>
-        <node name="三、印順導師略譜" html="help/other/Y/appendix/appendix-3.htm"/>
-        <node name="四、印順文教基金會簡介" html="help/other/Y/appendix/appendix-4.html"/>
+        <node work="Y0030..Y0038"/>
+        <node work="Y0041,Y0042"/>
       </node>
     </node>
     <node name="LC0001-7 呂澂佛學著作集" work="LC0001..LC0007"/>

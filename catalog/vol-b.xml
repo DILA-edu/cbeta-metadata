@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
 <tree xml:id="Vol-B" title="大藏經補編">
-  <node name="出版說明" html="help/other/B/0-1-Imprint.html"/>
-  <node name="全書內容簡介" html="help/other/B/0-2-Introduction.html"/>
+  <node name="B00">
+    <node work="Ba001..Ba002"/>
+  </node>
   <node name="B01 大藏經補編 (B0001: 1-9卷)">
     <node work="B0001" file="B01n0001" juan="1..9"/>
   </node>
@@ -10,7 +11,7 @@
     <node work="B0001" file="B02n0001" juan="10..20"/>
   </node>
   <node name="B03 大藏經補編 (B0002: 1-46卷)">
-    <node name="編輯說明" html="help/other/B/B03.html"/>
+    <node work="Ba003"/>
     <node work="B0002" file="B03n0002" juan="1..46"/>
   </node>
   <node name="B04 大藏經補編 (B0002: 47-85卷)">
@@ -20,135 +21,130 @@
     <node work="B0002" file="B05n0002" juan="86..120"/>
   </node>
   <node name="B06 大藏經補編 (B0003-9)">
-    <node name="編輯說明" html="help/other/B/B06.html"/>
+    <node work="Ba004"/>
     <node work="B0003..B0009"/>
   </node>
   <node name="B07 大藏經補編 (B0010-25)">
-    <node name="編輯說明" html="help/other/B/B07.html"/>
+    <node work="Ba005"/>
     <node work="B0010..B0025"/>
   </node>
   <node name="B08 大藏經補編 (B0026-9)">    
-    <node name="編輯說明" html="help/other/B/B08.html"/>
+    <node work="Ba006"/>
     <node work="B0026..B0029"/>
   </node>
   <node name="B09 大藏經補編 (B0030-47)">
-    <node name="編輯說明" html="help/other/B/B09.html"/>
+    <node work="Ba007"/>
     <node work="B0030..B0047"/>
   </node>
   <node name="B10 大藏經補編 (B0048-68)">
-    <node name="編輯說明" html="help/other/B/B10.html"/>
+    <node work="Ba008"/>
     <node work="B0048..B0068"/>
   </node>
   <node name="B11 大藏經補編 (B0069-76)">
-    <node name="編輯說明" html="help/other/B/B11.html"/>
+    <node work="Ba009"/>
     <node work="B0069..B0076"/>
   </node>
   <node name="B12 大藏經補編 (B0077-8)">
-    <node name="洛陽伽藍記解題" html="help/other/B/B12.html"/>
+    <node work="Ba010"/>
     <node work="B0077..B0078"/>
   </node>
   <node name="B13 大藏經補編 (B0079-80)">
-    <node name="釋氏六帖解題" html="help/other/B/B13-1.html"/>
-    <node work="B0079"/>
-    <node name="大唐西域記解題" html="help/other/B/B13-2.html"/>
-    <node work="B0080"/>
+    <node work="Ba011..Ba012"/>
+    <node work="B0079..B0080"/>
   </node>
   <node name="B14 大藏經補編 (B0081-7)">
-    <node name="編輯說明" html="help/other/B/B14.html"/>
+    <node work="Ba013"/>
     <node work="B0081..B0087"/>
   </node>
   <node name="B15 大藏經補編 (B0088: 55-124卷)">
-    <node name="編輯說明" html="help/other/B/B15.html"/>
+    <node work="Ba014..Ba015"/>
     <node work="B0088" file="B15n0088" juan="55..124"/>
   </node>
   <node name="B16 大藏經補編 (B0088: 125-212卷)">
-    <node name="編輯說明" html="help/other/B/B16.html"/>
     <node work="B0088" file="B16n0088" juan="125..212"/>
   </node>
   <node name="B17 大藏經補編 (B0089-94)">
-    <node name="編輯說明" html="help/other/B/B17.html"/>
+    <node work="Ba016"/>
     <node work="B0089..B0094"/>
   </node>
   <node name="B18 大藏經補編 (B0095-102)">
-    <node name="編輯說明" html="help/other/B/B18.html"/>
+    <node work="Ba017"/>
     <node work="B0095..B0102"></node>
   </node>
   <node name="B19 大藏經補編 (B0103)">
-    <node name="編輯說明" html="help/other/B/B19-1.html"/>
-    <node name="禪林象器箋序" html="help/other/B/B19-2.html"/>
+    <node work="Ba018..Ba019"/>
     <node work="B0103"/>
   </node>
   <node name="B20 大藏經補編 (B0104-8)">
-    <node name="編輯說明" html="help/other/B/B20.html"/>
+    <node work="Ba020"/>
     <node work="B0104..B0108"/>
   </node>
   <node name="B21 大藏經補編 (B0109-16)">
-    <node name="編輯說明" html="help/other/B/B21.html"/>
+    <node work="Ba021"/>
     <node work="B0109..B0116"/>
   </node>
   <node name="B22 大藏經補編 (B0117-9)">
-    <node name="編輯說明" html="help/other/B/B22.html"/>
+    <node work="Ba022"/>
     <node work="B0117..B0119"/>
   </node>
   <node name="B23 大藏經補編 (B0120-30)">
-    <node name="編輯說明" html="help/other/B/B23.html"/>
+    <node work="Ba023"/>
     <node work="B0120..B0129"/>
     <node name="B0130 (=JB348+JB120+X1641+選錄) 靈峰宗論（選錄〈蕅益大師年譜〉、〈書重刻靈峰宗論後〉、〈刻闢邪集序〉）" work="JB348,JB120,X1641,B0130"/>
   </node>
   <node name="B24 大藏經補編 (B0131-41)">
-    <node name="編輯說明" html="help/other/B/B24.html"/>
+    <node work="Ba024"/>
     <node work="B0131..B0133"/>
     <node name="B0134 (=JB120+B0130+選錄) 闢邪集（選錄〈翻刻闢邪集序〉、〈天學初闢〉、〈統正序〉、〈原道闢邪說〉、〈跋〉）" work="JB120,B0130,B0134"/>
     <node work="B0135..B0141"/>
   </node>
   <node name="B25 大藏經補編 (B0142-5)">
-    <node name="編輯說明" html="help/other/B/B25.html"/>
+    <node work="Ba025"/>
     <node work="B0142..B0145"/>
   </node>
   <node name="B26 大藏經補編 (B0146-50)">
-    <node name="編輯說明" html="help/other/B/B26.html"/>
+    <node work="Ba026"/>
     <node work="B0146..B0149"/>
     <node name="B0150 (=JB091+選錄) 道餘錄（選錄〈姚少師道餘錄跋〉）" work="JB091,B0150"/>
   </node>
   <node name="B27 大藏經補編 (B0151-3)">
-    <node name="編輯說明" html="help/other/B/B27.html"/>
+    <node work="Ba027"/>
     <node work="B0151..B0153"/>
   </node>
   <node name="B28 大藏經補編 (B0154-9)">
-    <node name="編輯說明" html="help/other/B/B28.html"/>
+    <node work="Ba028"/>
     <node work="B0154..B0159"/>
   </node>
   <node name="B29 大藏經補編 (B0160-2)">
-    <node name="編輯說明" html="help/other/B/B29.html"/>
+    <node work="Ba029"/>
     <node work="B0160..B0162"/>
   </node>
   <node name="B30 大藏經補編 (B0163-8)">
-    <node name="編輯說明" html="help/other/B/B30.html"/>
+    <node work="Ba030"/>
     <node work="B0163..B0168"/>
   </node>
   <node name="B31 大藏經補編 (B0169-70)">
-    <node name="編輯說明" html="help/other/B/B31.html"/>
+    <node work="Ba031"/>
     <node work="B0169..B0170"/>
   </node>
   <node name="B32 大藏經補編 (B0171-91)">
-    <node name="編輯說明" html="help/other/B/B32.html"/>
+    <node work="Ba032"/>
     <node work="B0171..B0191"/>
   </node>
   <node name="B33 大藏經補編 (B0192)">
-    <node name="編輯說明" html="help/other/B/B33.html"/>
+    <node work="Ba033"/>
     <node work="B0192"/>
   </node>
   <node name="B34 大藏經補編 (B0193)">
-    <node name="編輯說明" html="help/other/B/B34-1.html"/>
-    <node name="吳都法乘" html="help/other/B/B34-2.html"/>
+    <node work="Ba034..Ba035"/>
     <node work="B0193"/>    
   </node>
   <node name="B35 大藏經補編 (B0194-6)">
-    <node name="編輯說明" html="help/other/B/B35.html"/>
+    <node work="Ba036"/>
     <node work="B0194..B0196"/>
   </node>
   <node name="B36 大藏經補編 (B0197-8 經)">
-    <node name="編輯說明" html="help/other/B/B36.html"/>
+    <node work="Ba037"/>
     <node work="B0197,B0198"/>
   </node>
 </tree>
