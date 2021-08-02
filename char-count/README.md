@@ -2,7 +2,9 @@
 
 資料來源: CBETA XML P5a 2020.Q1.
 
-## CBETA 字數統計
+## CBETA 字數統計 (停用)
+
+注意：這裡的字數統計資料停用，請改由 CBETA API 取得最新資料： https://cbdata.dila.edu.tw/v1.2/works/word_count
 
 分為「含標點」、「不含標點」兩類，
 分別放在 with-puncs, without-puncs 兩個資料夾下。
@@ -27,4 +29,4 @@ CBETA 所使用到的全部 Unicode 字元列表: cbeta-all-uni-chars.txt
 
 ## 程式
 
-bin/count.rb 是做字數、字頻統計的 ruby 程式。
+bin/count.rb （停用） 是做字數、字頻統計的 ruby 程式。
