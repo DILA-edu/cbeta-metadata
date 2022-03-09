@@ -63,4 +63,4 @@ CBReader 的 [Goto 功能](http://www.cbeta.org/cbreader/help/cbr_qselect.htm)�
 ## 工作人員
 
 * 許佳瑜 hsujoy <jiayu.xu@dila.edu.tw> (2016-)
-* 林智妙 zhimiao
+* 林智妙 zhimiao <zhimiao.lin@gmail.com> (?-2020)
