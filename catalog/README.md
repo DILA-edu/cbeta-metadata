@@ -37,6 +37,7 @@ root.xml
 * vol-p.xml: 永樂北藏
 * vol-s.xml: 宋藏遺珍-新文豐版
 * vol-t.xml: 大正藏
+* vol-tx.xml: 太虛大師全書
 * vol-u.xml: 洪武南藏
 * vol-w.xml: 藏外佛教文獻
 * vol-x.xml: 卍續藏

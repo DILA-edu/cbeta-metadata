@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
+<tree xml:id="Vol-TX" title="太虛大師全書（待續）">
+  <node name="TX00 編纂說明" work="TXa001" file="TX00na001" juan="1"/>
+  <node name="TX01 第一編 佛法總學(卷1-26)" work="TX0001" file="TX01n0001" juan="1..26"/>
+  <node name="TX02 第一編 佛法總學(卷27-34)" work="TX0001" file="TX02n0001" juan="27..34"/>
+  <node name="TX03 (TX0002-3)">
+    <node work="TX0002" file="TX03n0002"/>
+    <node work="TX0003" file="TX03n0003"/>
+  </node>
+  <node name="TX04 第四編 大乘通學(卷1-5)" work="TX0004" file="TX04n0004" juan="1..5"/>
+  <node name="TX05 第四編 大乘通學(卷6-22)" work="TX0004" file="TX05n0004" juan="6..22"/>
+  <node name="TX06 第五編 法性空慧學(卷1-8)" work="TX0005" file="TX06n0005" juan="1..8"/>
+  <node name="TX07 (TX0005-6)">
+    <node name="第五編 法性空慧學(卷9-16)" work="TX0005" file="TX07n0005" juan="9..16"/>
+    <node name="第六編 法相唯識學(卷1-6)" work="TX0006" file="TX07n0006" juan="1..6"/>
+  </node>
+  <node name="TX08 第六編 法相唯識學(卷7-15)"  work="TX0006" file="TX08n0006" juan="7..15"/>
+  <node name="TX09 第六編 法相唯識學(卷16-49)" work="TX0006" file="TX09n0006" juan="16..49"/>
+  <node name="TX10 第七編 法界圓覺學(卷1)"     work="TX0007" file="TX10n0007" juan="1"/>
+  <node name="TX11 第七編 法界圓覺學(卷2-4)"   work="TX0007" file="TX11n0007" juan="2..4"/>
+  <node name="TX12 第七編 法界圓覺學(卷5-9)"   work="TX0007" file="TX12n0007" juan="5..9"/>
+  <node name="TX13 第七編 法界圓覺學(卷10-15)" work="TX0007" file="TX13n0007" juan="10..15"/>
+  <node name="TX14 第七編 法界圓覺學(卷16-18)" work="TX0007" file="TX14n0007" juan="16..18"/>
+  <node name="TX15 第七編 法界圓覺學(卷19-51)" work="TX0007" file="TX15n0007" juan="19..51"/>
+</tree>

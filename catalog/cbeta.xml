@@ -2040,7 +2040,7 @@
       </node>
     </node>
   </node>
-  <node name="23 新編部類 ZS, ZW, I, B, GA, GB, Y, LC">
+  <node name="23 新編部類 ZS, ZW, I, B, GA, GB, Y, LC, TX">
     <node name="ZW0001-103 藏外佛教文獻">
       <node name="ZW0001-16 第一輯">
         <node name="緣起" work="ZWa001"/>
@@ -2393,5 +2393,9 @@
       </node>
     </node>
     <node name="LC0001-7 呂澂佛學著作集" work="LC0001..LC0007"/>
+    <node name="TX0001-7 太虛大師全書（待續）">
+      <node work="TXa001"/>
+      <node work="TX0001..T0007"/>
+    </node>
   </node>
 </tree>

@@ -5,7 +5,11 @@ IN = '/Users/ray/git-repos/cbeta-xml-p5a'
 
 def handle_canon(canon)
   fn = File.join('../creators-by-canon', "#{canon}.json")
-  $works = JSON.parse(File.read(fn))
+  if File.exist?(fn)
+    $works = JSON.parse(File.read(fn))
+  else
+    $works = {}
+  end
 
   folder = File.join(IN, canon)
   $dirty = false
@@ -50,12 +54,16 @@ def new_work1(fn, work_id)
   $works[work_id] = { title: title }
   unless byline.nil?
     $works[work_id][:byline]  = byline
-    $works[work_id][:creator] = byline
+    $works[work_id][:creators] = byline
   end
 end
 
-Dir.entries(IN).sort.each do |canon|
-  next if canon.start_with?('.')
-  next if canon.size > 2
-  handle_canon(canon)
+if ARGV.empty?
+  Dir.entries(IN).sort.each do |canon|
+    next if canon.start_with?('.')
+    next if canon.size > 2
+    handle_canon(canon)
+  end
+else
+  handle_canon(ARGV.first)
 end

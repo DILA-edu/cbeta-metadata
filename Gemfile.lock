@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    cbeta (2.7.10)
+    cbeta (2.7.14)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
     http-accept (1.7.0)
@@ -25,9 +25,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  cbeta
+  cbeta (>= 2.7.14)
   rest-client
   unihan2
 
 BUNDLED WITH
-   2.2.6
+   2.2.29
