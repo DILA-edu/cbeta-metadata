@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree xml:id="vol">
+  <node name="大正藏" catalog="Vol-T"/>
+  <node name="卍續藏" catalog="Vol-X"/>
+  <node name="趙城金藏" catalog="Vol-A"/>
+  <node name="高麗大藏經-新文豐版" catalog="Vol-K"/>
+  <node name="宋藏遺珍-新文豐版" catalog="Vol-S"/>
+  <node name="房山石經" catalog="Vol-F"/>
+  <node name="中華大藏經-中華書局版" catalog="Vol-C"/>
+  <node name="洪武南藏" catalog="Vol-U"/>
+  <node name="永樂北藏" catalog="Vol-P"/>
+  <node name="嘉興藏" catalog="Vol-J"/>
+  <node name="乾隆大藏經-新文豐版" catalog="Vol-L"/>
+  <node name="佛教大藏經" catalog="Vol-G"/>
+  <node name="卍正藏經-新文豐版" catalog="Vol-M"/>
+  <node name="國圖善本" catalog="Vol-D"/>
+  <node name="南傳大藏經" catalog="Vol-N"/>
+  <node name="正史佛教資料類編" catalog="Vol-ZS"/>
+  <node name="北朝佛教石刻拓片百品" catalog="Vol-I"/>
+  <node name="藏外佛教文獻" catalog="Vol-ZW"/>
+  <node name="大藏經補編" catalog="Vol-B"/>
+  <node name="中國佛寺史志彙刊" catalog="Vol-GA"/>
+  <node name="中國佛寺志叢刊" catalog="Vol-GB"/>
+  <node name="印順法師佛學著作集" catalog="Vol-Y"/>
+  <node name="呂澂佛學著作集" catalog="Vol-LC"/>
+  <node name="太虛大師全書（待續）" catalog="Vol-TX"/>
+</tree>

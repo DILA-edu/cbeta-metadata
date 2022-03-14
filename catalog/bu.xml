@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree xml:id="bu">
+  <node name="大正藏 部別目錄" catalog="Cat-T"/>
+  <node name="卍續藏 部別目錄" catalog="Cat-X"/>
+  <node name="南傳大藏經 部別目錄" catalog="Cat-N"/>
+</tree>
