@@ -2395,7 +2395,7 @@
     <node name="LC0001-7 呂澂佛學著作集" work="LC0001..LC0007"/>
     <node name="TX0001-7 太虛大師全書（待續）">
       <node work="TXa001"/>
-      <node work="TX0001..T0007"/>
+      <node work="TX0001..TX0007"/>
     </node>
   </node>
 </tree>
