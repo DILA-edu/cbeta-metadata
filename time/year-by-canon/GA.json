@@ -1,19 +1,19 @@
 {
-    "GA0002": {
+  "GA0002": {
     "title": "洛陽伽藍記集證",
     "byline": "清 吳若準集證",
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
   },
-    "GA0003": {
+  "GA0003": {
     "title": "洛陽伽藍記鉤沈",
     "byline": "民國 唐晏鉤沈",
     "dynasty": "民國",
     "time_from": 1912,
     "time_to": 9999
   },
-    "GA0004": {
+  "GA0004": {
     "title": "洛陽伽藍記合校本",
     "byline": "民國 張宗祥合校",
     "dynasty": "民國",
@@ -61,7 +61,7 @@
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  }, 
+  },
   "GA0013": {
     "title": "七塔寺志",
     "byline": "民國 陳寥士撰",
@@ -75,14 +75,14 @@
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  }, 
+  },
   "GA0015": {
     "title": "大昭慶律寺志",
     "byline": "清 吳樹虛撰",
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  },              
+  },
   "GA0017": {
     "title": "玉岑山慧因高麗華嚴教寺志",
     "byline": "明 李翥撰 清 丁丙補",
@@ -96,56 +96,56 @@
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  },  
+  },
   "GA0019": {
     "title": "武林理安寺志",
     "byline": "清 杭世駿撰",
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  },   
+  },
   "GA0020": {
     "title": "龍井見聞錄",
     "byline": "清 汪孟鋗撰",
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  },    
+  },
   "GA0021": {
     "title": "武林靈隱寺志",
     "byline": "清 孫治撰　徐增重編",
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  }, 
+  },
   "GA0022": {
     "title": "增修雲林寺志",
     "byline": "清 厲鶚．張熷撰",
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  }, 
+  },
   "GA0023": {
     "title": "雲林寺續志",
     "byline": "清 沈鑅彪撰",
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  }, 
+  },
   "GA0024": {
     "title": "杭州上天竺講寺志",
     "byline": "明 釋廣賓撰",
     "dynasty": "明",
     "time_from": 1368,
     "time_to": 1644
-  }, 
+  },
   "GA0025": {
     "title": "雲居聖水寺志",
     "byline": "清 釋𧧌湛．釋明倫原輯　釋通淵．釋實懿重纂",
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  },    
+  },
   "GA0027": {
     "title": "雲棲紀事",
     "byline": "清 聞性道．釋德介撰",
@@ -159,28 +159,28 @@
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  },  
+  },
   "GA0029": {
     "title": "西谿梵隱志",
     "byline": "清 吳本泰撰　釋智一編",
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  },    
+  },
   "GA0030": {
     "title": "崇福寺志",
     "byline": "清 朱文藻撰",
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  },    
+  },
   "GA0031": {
     "title": "續崇福寺志",
     "byline": "清 章庭棫撰",
     "dynasty": "清",
     "time_from": 1644,
     "time_to": 1911
-  },                        
+  },
   "GA0032": {
     "title": "徑山志(第1卷-第5卷)",
     "byline": "明 宋奎光撰",

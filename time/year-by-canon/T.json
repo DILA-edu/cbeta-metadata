@@ -2507,7 +2507,6 @@
     "time_from": 542,
     "time_to": 542,
     "note": "朝代根據：大正藏勘同目錄、高麗藏 K0055 年號 興和"
-
   },
   "T0355": {
     "title": "入法界體性經",
@@ -13953,7 +13952,8 @@
     "title": "筠州洞山悟本禪師語錄",
     "byline": "日本 慧印校",
     "time_from": 1761,
-    "time_to": 1761
+    "time_to": 1761,
+    "dynasty": "日本"
   },
   "T1986B": {
     "title": "瑞州洞山良价禪師語錄",
@@ -13966,13 +13966,15 @@
     "title": "撫州曹山元證禪師語錄",
     "byline": "日本 慧印校",
     "time_from": 1761,
-    "time_to": 1761
+    "time_to": 1761,
+    "dynasty": "日本"
   },
   "T1987B": {
     "title": "撫州曹山本寂禪師語錄",
     "byline": "日本 玄契編",
     "time_from": 1740,
-    "time_to": 1740
+    "time_to": 1740,
+    "dynasty": "日本"
   },
   "T1988": {
     "title": "雲門匡真禪師廣錄",
@@ -15165,19 +15167,22 @@
     "title": "傳教大師將來台州錄",
     "byline": "日本 最澄撰",
     "time_from": 805,
-    "time_to": 805
+    "time_to": 805,
+    "dynasty": "日本"
   },
   "T2160": {
     "title": "傳教大師將來越州錄",
     "byline": "日本 最澄撰",
     "time_from": 805,
-    "time_to": 805
+    "time_to": 805,
+    "dynasty": "日本"
   },
   "T2161": {
     "title": "御請來目錄",
     "byline": "日本 空海撰",
     "time_from": 806,
-    "time_to": 806
+    "time_to": 806,
+    "dynasty": "日本"
   },
   "T2162": {
     "title": "根本大和尚真跡策子等目錄",
@@ -15188,79 +15193,92 @@
     "title": "常曉和尚請來目錄",
     "byline": "日本 常曉撰",
     "time_from": 839,
-    "time_to": 839
+    "time_to": 839,
+    "dynasty": "日本"
   },
   "T2164": {
     "title": "靈巖寺和尚請來法門道具等目錄",
     "byline": "日本 圓行撰",
     "time_from": 839,
-    "time_to": 839
+    "time_to": 839,
+    "dynasty": "日本"
   },
   "T2165": {
     "title": "日本國承和五年入唐求法目錄",
     "byline": "日本 圓仁撰",
     "time_from": 839,
-    "time_to": 839
+    "time_to": 839,
+    "dynasty": "日本"
   },
   "T2166": {
     "title": "慈覺大師在唐送進錄",
     "byline": "日本 圓仁撰",
     "time_from": 840,
-    "time_to": 840
+    "time_to": 840,
+    "dynasty": "日本"
   },
   "T2167": {
     "title": "入唐新求聖教目錄",
     "byline": "日本 圓仁撰",
     "time_from": 847,
-    "time_to": 847
+    "time_to": 847,
+    "dynasty": "日本"
   },
   "T2168A": {
     "title": "惠運禪師將來教法目錄",
     "byline": "日本 惠運撰",
     "time_from": 847,
-    "time_to": 847
+    "time_to": 847,
+    "dynasty": "日本"
   },
   "T2168B": {
     "title": "惠運律師書目錄",
     "byline": "日本 惠運撰",
     "time_from": 847,
-    "time_to": 847
+    "time_to": 847,
+    "dynasty": "日本"
   },
   "T2169": {
     "title": "開元寺求得經疏記等目錄",
     "byline": "日本 圓珍撰",
     "time_from": 853,
-    "time_to": 853
+    "time_to": 853,
+    "dynasty": "日本"
   },
   "T2170": {
     "title": "福州溫州台州求得經律論疏記外書等目錄",
     "byline": "日本 圓珍撰",
     "time_from": 854,
-    "time_to": 854
+    "time_to": 854,
+    "dynasty": "日本"
   },
   "T2171": {
     "title": "青龍寺求法目錄",
     "byline": "日本 圓珍撰",
     "time_from": 855,
-    "time_to": 855
+    "time_to": 855,
+    "dynasty": "日本"
   },
   "T2172": {
     "title": "日本比丘圓珍入唐求法目錄",
     "byline": "日本 圓珍撰",
     "time_from": 857,
-    "time_to": 857
+    "time_to": 857,
+    "dynasty": "日本"
   },
   "T2173": {
     "title": "智證大師請來目錄",
     "byline": "日本 圓珍撰",
     "time_from": 858,
-    "time_to": 858
+    "time_to": 858,
+    "dynasty": "日本"
   },
   "T2174A": {
     "title": "新書寫請來法門等目錄",
     "byline": "日本 宗叡撰",
     "time_from": 865,
-    "time_to": 865
+    "time_to": 865,
+    "dynasty": "日本"
   },
   "T2174B": {
     "title": "禪林寺宗叡僧正目錄"
@@ -15272,49 +15290,57 @@
     "title": "諸阿闍梨真言密教部類總錄",
     "byline": "日本 安然集",
     "time_from": 885,
-    "time_to": 885
+    "time_to": 885,
+    "dynasty": "日本"
   },
   "T2177": {
     "title": "華嚴宗章疏并因明錄",
     "byline": "日本 圓超錄",
     "time_from": 914,
-    "time_to": 914
+    "time_to": 914,
+    "dynasty": "日本"
   },
   "T2178": {
     "title": "天台宗章疏",
     "byline": "日本 玄日錄",
     "time_from": 914,
-    "time_to": 914
+    "time_to": 914,
+    "dynasty": "日本"
   },
   "T2179": {
     "title": "三論宗章疏",
     "byline": "日本 安遠錄",
     "time_from": 914,
-    "time_to": 914
+    "time_to": 914,
+    "dynasty": "日本"
   },
   "T2180": {
     "title": "法相宗章疏",
     "byline": "日本 平祚錄",
     "time_from": 914,
-    "time_to": 914
+    "time_to": 914,
+    "dynasty": "日本"
   },
   "T2181": {
     "title": "注進法相宗章疏",
     "byline": "日本 藏俊撰",
     "time_from": 1176,
-    "time_to": 1176
+    "time_to": 1176,
+    "dynasty": "日本"
   },
   "T2182": {
     "title": "律宗章疏",
     "byline": "日本 榮穩錄",
     "time_from": 914,
-    "time_to": 914
+    "time_to": 914,
+    "dynasty": "日本"
   },
   "T2183": {
     "title": "東域傳燈目錄",
     "byline": "日本 永超集",
     "time_from": 1094,
-    "time_to": 1094
+    "time_to": 1094,
+    "dynasty": "日本"
   },
   "T2184": {
     "title": "新編諸宗教藏總錄",
