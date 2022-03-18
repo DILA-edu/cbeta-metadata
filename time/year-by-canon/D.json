@@ -313,6 +313,8 @@
   "D9031": {
     "title": "僧家禮儀文",
     "byline": "朝鮮 釋冲絢撰",
-    "dynasty": "朝鮮"
+    "dynasty": "朝鮮",
+    "time_from": 1392,
+    "time_to": 1895
   }
 }
