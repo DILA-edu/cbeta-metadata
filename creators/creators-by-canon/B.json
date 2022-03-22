@@ -590,7 +590,7 @@
   "B0101": {
     "title": "絕觀論",
     "byline": "菩提達磨（？）著",
-    "creators": "菩提達磨（？）",
+    "creators": "菩提達磨",
     "creators_with_id": "菩提達磨(A001361)"
   },
   "B0103": {
@@ -670,12 +670,6 @@
     "byline": "智楷著",
     "creators": "智楷",
     "creators_with_id": "智楷(A001284)"
-  },
-  "B0138": {
-    "title": "開元寺志",
-    "byline": "元賢纂修",
-    "creators": "元賢",
-    "creators_with_id": "元賢(A000135)"
   },
   "B0139": {
     "title": "獻花巖志",
