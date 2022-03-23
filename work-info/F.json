@@ -1,0 +1,409 @@
+{
+  "F0016": {
+    "vol": "F01",
+    "type": "textbody",
+    "category": "法華部類",
+    "title": "大王觀世音經",
+    "juans": "1"
+  },
+  "F0041": {
+    "vol": "F02",
+    "type": "textbody",
+    "category": "律部類",
+    "title": "比丘尼羯磨經",
+    "juans": "1",
+    "byline": "劉宋 求那跋摩譯",
+    "dynasty": "劉宋",
+    "time_from": 420,
+    "time_to": 479,
+    "contributors": [
+      {
+        "name": "求那跋摩",
+        "id": "A000218"
+      }
+    ]
+  },
+  "F0069": {
+    "vol": "F02",
+    "type": "textbody",
+    "category": "本緣部類",
+    "title": "因果本起經",
+    "juans": "1",
+    "byline": "宋 求那跋陀羅譯",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "求那跋陀羅",
+        "id": "A000527"
+      }
+    ]
+  },
+  "F0088": {
+    "vol": "F03",
+    "type": "textbody",
+    "category": "經集部類",
+    "title": "佛說灌頂章句拔除過罪生死得度經",
+    "juans": "1",
+    "byline": "東晉 帛尸梨密多羅譯",
+    "dynasty": "東晉",
+    "time_from": 317,
+    "time_to": 420,
+    "contributors": [
+      {
+        "name": "帛尸梨密多羅",
+        "id": "A000619"
+      }
+    ]
+  },
+  "F0089": {
+    "vol": "F03",
+    "type": "textbody",
+    "category": "阿含部類",
+    "title": "佛說恒水流樹經",
+    "juans": "1",
+    "byline": "劉宋 天竺三藏求那跋陀羅譯",
+    "dynasty": "劉宋",
+    "time_from": 420,
+    "time_to": 479,
+    "contributors": [
+      {
+        "name": "求那跋陀羅",
+        "id": "A000527"
+      }
+    ]
+  },
+  "F0100": {
+    "vol": "F03",
+    "type": "textbody",
+    "category": "般若部類",
+    "title": "金剛般若波羅蜜經（御注並序）",
+    "juans": "1",
+    "byline": "唐 玄宗李隆基注",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "李隆基",
+        "id": "A000291"
+      }
+    ]
+  },
+  "F0181": {
+    "vol": "F03",
+    "type": "textbody",
+    "category": "般若部類",
+    "title": "大般若關",
+    "juans": "1"
+  },
+  "F0248": {
+    "vol": "F03",
+    "type": "textbody",
+    "category": "涅槃部類",
+    "title": "佛說救護身命經",
+    "juans": "1",
+    "byline": "比丘道真譯",
+    "contributors": [
+      {
+        "name": "比丘道真",
+        "id": "A001527"
+      }
+    ]
+  },
+  "F0546": {
+    "vol": "F12",
+    "type": "textbody",
+    "category": "經集部類",
+    "title": "大方廣圓覺修多羅了義經（選錄「附文：金剛禮一本」）",
+    "juans": "1",
+    "byline": "遼 通理大師集",
+    "dynasty": "遼",
+    "time_from": 907,
+    "time_to": 1125,
+    "contributors": [
+      {
+        "name": "通理大師",
+        "id": "A022419"
+      }
+    ]
+  },
+  "F0761": {
+    "vol": "F24",
+    "type": "textbody",
+    "category": "密教部類",
+    "title": "觀自在菩薩廣大圓滿無礙大悲根本陀羅尼",
+    "juans": "1",
+    "byline": "唐 南天竺國三藏金剛智譯",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "金剛智",
+        "id": "A000774"
+      }
+    ]
+  },
+  "F1048": {
+    "vol": "F27",
+    "type": "textbody",
+    "category": "密教部類",
+    "title": "一切如來白傘蓋大佛頂陀羅尼",
+    "juans": "1",
+    "byline": "唐 不空譯",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "不空",
+        "id": "A000095"
+      }
+    ]
+  },
+  "F1050": {
+    "vol": "F27",
+    "type": "textbody",
+    "category": "密教部類",
+    "title": "聖千手千眼觀自在菩薩摩訶薩廣大圓滿無礙大悲心陀羅尼",
+    "juans": "1",
+    "byline": "唐 不空譯",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "不空",
+        "id": "A000095"
+      }
+    ]
+  },
+  "F1056": {
+    "vol": "F27",
+    "type": "textbody",
+    "category": "般若部類",
+    "title": "梵本般若波羅蜜多心經",
+    "juans": "1",
+    "byline": "唐 不空譯",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "不空",
+        "id": "A000095"
+      }
+    ]
+  },
+  "F1060": {
+    "vol": "F27",
+    "type": "textbody",
+    "category": "般若部類",
+    "title": "梵本般若波羅蜜多心經",
+    "juans": "1",
+    "byline": "宋 慈賢譯",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "慈賢",
+        "id": "A001432"
+      }
+    ]
+  },
+  "F1061": {
+    "vol": "F27",
+    "type": "textbody",
+    "category": "密教部類",
+    "title": "大隨求陀羅尼",
+    "juans": "1",
+    "byline": "宋 慈賢譯",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "慈賢",
+        "id": "A001432"
+      }
+    ]
+  },
+  "F1062": {
+    "vol": "F27",
+    "type": "textbody",
+    "category": "密教部類",
+    "title": "佛頂尊勝陀羅尼",
+    "juans": "1",
+    "byline": "宋 慈賢譯",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "慈賢",
+        "id": "A001432"
+      }
+    ]
+  },
+  "F1063": {
+    "vol": "F27",
+    "type": "textbody",
+    "category": "密教部類",
+    "title": "一切如來白傘蓋大佛頂陀羅尼",
+    "juans": "1",
+    "byline": "宋 慈賢譯",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "慈賢",
+        "id": "A001432"
+      }
+    ]
+  },
+  "F1064": {
+    "vol": "F27",
+    "type": "textbody",
+    "category": "密教部類",
+    "title": "大悲心陀羅尼",
+    "juans": "1",
+    "byline": "宋 慈賢譯",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "慈賢",
+        "id": "A001432"
+      }
+    ]
+  },
+  "F1071": {
+    "vol": "F28",
+    "type": "textbody",
+    "category": "密教部類",
+    "title": "釋教最上乘秘密藏陀羅尼集",
+    "juans": "30",
+    "byline": "行琳集",
+    "contributors": [
+      {
+        "name": "行琳",
+        "id": "A000420"
+      }
+    ]
+  },
+  "F1072": {
+    "vol": "F28",
+    "type": "textbody",
+    "category": "經集部類",
+    "title": "一切佛菩薩名集",
+    "juans": "22",
+    "byline": "德雲集",
+    "contributors": [
+      {
+        "name": "德雲",
+        "id": "A001684"
+      }
+    ]
+  },
+  "F1076": {
+    "vol": "F28",
+    "type": "textbody",
+    "category": "華嚴部類",
+    "title": "發菩提心戒",
+    "juans": "1",
+    "byline": "石經寺主講經律沙門志仙記",
+    "contributors": [
+      {
+        "name": "志仙",
+        "id": "A000495"
+      }
+    ]
+  },
+  "F1081": {
+    "vol": "F28",
+    "type": "textbody",
+    "category": "華嚴部類",
+    "title": "一乘法界圖合詩一印",
+    "juans": "1",
+    "byline": "儼法師造",
+    "contributors": [
+      {
+        "name": "儼法師",
+        "id": "A001304"
+      }
+    ]
+  },
+  "F1082": {
+    "vol": "F28",
+    "type": "textbody",
+    "category": "華嚴部類",
+    "title": "釋華嚴漩澓偈",
+    "juans": "1",
+    "byline": "南岳般舟道場比丘惟勁釋",
+    "contributors": [
+      {
+        "name": "惟勁",
+        "id": "A001066"
+      }
+    ]
+  },
+  "F1083": {
+    "vol": "F28",
+    "type": "textbody",
+    "category": "華嚴部類",
+    "title": "漩澓偈",
+    "juans": "1",
+    "byline": "杜順法師造",
+    "contributors": [
+      {
+        "name": "杜順法師",
+        "id": "A000525"
+      }
+    ]
+  },
+  "F1084": {
+    "vol": "F28",
+    "type": "textbody",
+    "category": "華嚴部類",
+    "title": "健拏標訶一乘修行者秘密義記",
+    "juans": "1",
+    "byline": "大香山隱士釋法藏述",
+    "contributors": [
+      {
+        "name": "法藏",
+        "id": "A032738"
+      }
+    ]
+  },
+  "F1098": {
+    "vol": "F29",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "高上玉皇本行集經髓",
+    "juans": "1",
+    "contributors": [
+      {
+        "name": "儼法師",
+        "id": "A001304"
+      }
+    ]
+  },
+  "F1099": {
+    "vol": "F29",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "無上玉皇心印經",
+    "juans": "1",
+    "contributors": [
+      {
+        "name": "杜順法師",
+        "id": "A000525"
+      }
+    ]
+  }
+}

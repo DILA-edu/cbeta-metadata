@@ -1,0 +1,31 @@
+{
+  "GBa001": {
+    "vol": "GB000",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "中華電子佛典協會",
+    "contributors": [
+      {
+        "name": "中華電子佛典協會"
+      }
+    ]
+  },
+  "GB0109": {
+    "vol": "GB078",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "徑山集",
+    "juans": "3",
+    "byline": "明 釋宗淨集",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "釋宗淨",
+        "id": "A000589"
+      }
+    ]
+  }
+}

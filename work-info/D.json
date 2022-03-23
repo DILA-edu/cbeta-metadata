@@ -1,0 +1,807 @@
+{
+  "D8679": {
+    "vol": "D01",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "佛說佛名經（存卷四）",
+    "juans": "1"
+  },
+  "D8680": {
+    "vol": "D02",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "佛說佛名經（存卷七）",
+    "juans": "1"
+  },
+  "D8701": {
+    "vol": "D03",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "盂蘭盆經講經文（前殘）",
+    "juans": "1"
+  },
+  "D8724": {
+    "vol": "D04",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "報恩金剛經文十二段",
+    "juans": "1",
+    "byline": "唐 楊仙鸖撰",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "楊仙鸖",
+        "id": "A034554"
+      }
+    ]
+  },
+  "D8774": {
+    "vol": "D05",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "羯磨文（前殘）",
+    "juans": "1"
+  },
+  "D8775": {
+    "vol": "D06",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "式叉摩那尼六法",
+    "juans": "1"
+  },
+  "D8779": {
+    "vol": "D07",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "鳩摩羅什法師誦法（後殘）",
+    "juans": "1",
+    "byline": "東晉 釋慧融等集",
+    "dynasty": "東晉",
+    "time_from": 317,
+    "time_to": 420,
+    "contributors": [
+      {
+        "name": "釋慧融",
+        "id": "A034559"
+      }
+    ]
+  },
+  "D8780": {
+    "vol": "D08",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "小鈔",
+    "juans": "1"
+  },
+  "D8790": {
+    "vol": "D09",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "佛性觀（前殘）",
+    "juans": "1"
+  },
+  "D8814": {
+    "vol": "D10",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "佛頂尊勝陀羅尼等靈異神咒二十道",
+    "juans": "1"
+  },
+  "D8817": {
+    "vol": "D11",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "佛說觀世音三昧經",
+    "juans": "1"
+  },
+  "D8820": {
+    "vol": "D12",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "新菩薩經",
+    "juans": "1"
+  },
+  "D8838": {
+    "vol": "D13",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "金剛般若波羅蜜經（註解）",
+    "juans": "1",
+    "byline": "元 釋思聰註解",
+    "dynasty": "元",
+    "time_from": 1271,
+    "time_to": 1368,
+    "contributors": [
+      {
+        "name": "釋思聰",
+        "id": "A034561"
+      }
+    ]
+  },
+  "D8842": {
+    "vol": "D14",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "般若心經註解",
+    "juans": "1",
+    "byline": "日本 釋圓耳撰",
+    "contributors": [
+      {
+        "name": "釋圓耳",
+        "id": "A034568"
+      }
+    ]
+  },
+  "D8853": {
+    "vol": "D15",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "梵網古跡抄",
+    "juans": "8"
+  },
+  "D8859": {
+    "vol": "D16",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "楞嚴妙指",
+    "juans": "10",
+    "byline": "明 釋弘演撰",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "釋弘演",
+        "id": "A034569"
+      }
+    ]
+  },
+  "D8862": {
+    "vol": "D17",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "楞嚴經四依解",
+    "juans": "10",
+    "byline": "明 釋觀衡述",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "釋觀衡",
+        "id": "A001993"
+      }
+    ]
+  },
+  "D8863": {
+    "vol": "D18",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "大日經疏指心鈔",
+    "juans": "16",
+    "byline": "唐 釋一行撰",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "釋一行",
+        "id": "A000008"
+      }
+    ]
+  },
+  "D8864": {
+    "vol": "D19",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "大日經劫心義章",
+    "juans": "3",
+    "byline": "日本 釋運敞撰",
+    "contributors": [
+      {
+        "name": "釋運敞",
+        "id": "A001496"
+      }
+    ]
+  },
+  "D8869": {
+    "vol": "D20",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "惟教三昧（存卷下　前殘）",
+    "juans": "1"
+  },
+  "D8871": {
+    "vol": "D21",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "□者眷屬",
+    "juans": "1"
+  },
+  "D8874": {
+    "vol": "D22",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "成實論義記（存卷中　前殘）",
+    "juans": "1",
+    "byline": "唐 釋其甲撰",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "釋其甲",
+        "id": "A034572"
+      }
+    ]
+  },
+  "D8879": {
+    "vol": "D23",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "成唯識論訂正",
+    "juans": "10",
+    "byline": "明 釋廣伸撰",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "釋廣伸",
+        "id": "A001657"
+      }
+    ]
+  },
+  "D8880": {
+    "vol": "D24",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "成唯識論述記序釋",
+    "juans": "1",
+    "byline": "日本 釋善珠撰",
+    "contributors": [
+      {
+        "name": "釋善珠",
+        "id": "A001337"
+      }
+    ]
+  },
+  "D8881": {
+    "vol": "D25",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "菩提心論問題",
+    "juans": "2",
+    "byline": "日本 釋善珠撰",
+    "contributors": [
+      {
+        "name": "釋善珠",
+        "id": "A001337"
+      }
+    ]
+  },
+  "D8882": {
+    "vol": "D26",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "菩提心論口筆",
+    "juans": "1",
+    "byline": "日本 釋實順撰",
+    "contributors": [
+      {
+        "name": "釋實順",
+        "id": "A034579"
+      }
+    ]
+  },
+  "D8883": {
+    "vol": "D27",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "百法問答聞書抄",
+    "juans": "6"
+  },
+  "D8885": {
+    "vol": "D28",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "因明入正理論後記",
+    "juans": "6",
+    "byline": "清 吳樹虛撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "吳樹虛",
+        "id": "A034583"
+      }
+    ]
+  },
+  "D8888": {
+    "vol": "D29",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "表無表章詮要鈔",
+    "juans": "6",
+    "byline": "唐 釋窺基撰",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "釋窺基",
+        "id": "A001019"
+      }
+    ]
+  },
+  "D8889": {
+    "vol": "D30",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "教相樞要鈔",
+    "juans": "2",
+    "byline": "日本 釋高範撰",
+    "contributors": [
+      {
+        "name": "釋高範",
+        "id": "A034584"
+      }
+    ]
+  },
+  "D8890": {
+    "vol": "D31",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "唐三藏法師唯識量質疑錄",
+    "juans": "2",
+    "byline": "清 吳樹虛撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "吳樹虛",
+        "id": "A034583"
+      }
+    ]
+  },
+  "D8891": {
+    "vol": "D32",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "表無表章詳體文集",
+    "juans": "3",
+    "byline": "日本 釋叡尊撰",
+    "contributors": [
+      {
+        "name": "釋叡尊",
+        "id": "A001839"
+      }
+    ]
+  },
+  "D8892": {
+    "vol": "D33",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "略述法相義依釋",
+    "juans": "3",
+    "byline": "日本 釋高範撰",
+    "contributors": [
+      {
+        "name": "釋高範",
+        "id": "A034584"
+      }
+    ]
+  },
+  "D8893": {
+    "vol": "D34",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "法宗原私記",
+    "juans": "2",
+    "byline": "日本 釋龍謙撰",
+    "contributors": [
+      {
+        "name": "釋龍謙",
+        "id": "A034585"
+      }
+    ]
+  },
+  "D8894": {
+    "vol": "D35",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "頌義八拔萃",
+    "juans": "5"
+  },
+  "D8895": {
+    "vol": "D36",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "略述法相義",
+    "juans": "3",
+    "byline": "日本 釋良光撰",
+    "contributors": [
+      {
+        "name": "釋良光",
+        "id": "A034586"
+      }
+    ]
+  },
+  "D8896": {
+    "vol": "D37",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "唯識義",
+    "juans": "6",
+    "byline": "日本 釋真興撰",
+    "contributors": [
+      {
+        "name": "釋真興",
+        "id": "A000961"
+      }
+    ]
+  },
+  "D8898": {
+    "vol": "D38",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "脩大方廣佛華嚴法界觀",
+    "juans": "1",
+    "byline": "唐 釋杜順編",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "釋杜順",
+        "id": "A000525"
+      }
+    ]
+  },
+  "D8899": {
+    "vol": "D39",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "圭峰禪師原人論發微錄",
+    "juans": "1",
+    "byline": "宋 釋淨源撰",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "釋淨源",
+        "id": "A001113"
+      }
+    ]
+  },
+  "D8903": {
+    "vol": "D40",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "天台名目類聚鈔",
+    "juans": "7",
+    "byline": "日本 釋貞舜撰",
+    "contributors": [
+      {
+        "name": "釋貞舜",
+        "id": "A000876"
+      }
+    ]
+  },
+  "D8904": {
+    "vol": "D41",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "西谷名目句解",
+    "juans": "7"
+  },
+  "D8905": {
+    "vol": "D42",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "選擇傳弘決疑鈔",
+    "juans": "5",
+    "byline": "日本 釋良忠撰",
+    "contributors": [
+      {
+        "name": "釋良忠",
+        "id": "A000535"
+      }
+    ]
+  },
+  "D8913": {
+    "vol": "D43",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "識知淨土論",
+    "juans": "1",
+    "byline": "日本 弁阿撰",
+    "contributors": [
+      {
+        "name": "弁阿",
+        "id": "A001831"
+      }
+    ]
+  },
+  "D8914": {
+    "vol": "D44",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "釋淨土群疑論探要記",
+    "juans": "14"
+  },
+  "D8915": {
+    "vol": "D45",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "禪門偈（前殘）",
+    "juans": "1"
+  },
+  "D8930": {
+    "vol": "D46",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "特賜興禪大燈國師參詳語要",
+    "juans": "2",
+    "byline": "日本 釋妙超撰",
+    "contributors": [
+      {
+        "name": "釋妙超",
+        "id": "A000584"
+      }
+    ]
+  },
+  "D8936": {
+    "vol": "D47",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "正信念佛偈私見聞",
+    "juans": "5",
+    "byline": "日本 釋空誓撰",
+    "contributors": [
+      {
+        "name": "釋空誓",
+        "id": "A034599"
+      }
+    ]
+  },
+  "D8939": {
+    "vol": "D48",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "古尊宿語錄",
+    "juans": "33"
+  },
+  "D8942": {
+    "vol": "D49",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "四家錄",
+    "juans": "4",
+    "byline": "元 釋海島編",
+    "dynasty": "元",
+    "time_from": 1271,
+    "time_to": 1368,
+    "contributors": [
+      {
+        "name": "釋海島",
+        "id": "A034600"
+      }
+    ]
+  },
+  "D8945": {
+    "vol": "D50",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "雪峰空和尚外集",
+    "juans": "1",
+    "byline": "宋 釋慧空撰　釋惠然編",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "釋慧空",
+        "id": "A012804"
+      },
+      {
+        "name": "釋惠然",
+        "id": "A034601"
+      }
+    ]
+  },
+  "D8948": {
+    "vol": "D51",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "佛國禪師語錄",
+    "juans": "2",
+    "byline": "元 釋無學撰　釋妙環等編",
+    "dynasty": "元",
+    "time_from": 1271,
+    "time_to": 1368,
+    "contributors": [
+      {
+        "name": "釋無學",
+        "id": "A000077"
+      },
+      {
+        "name": "釋妙環",
+        "id": "A000478"
+      }
+    ]
+  },
+  "D8951": {
+    "vol": "D52",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "如來香",
+    "juans": "14",
+    "byline": "清 唐時編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "唐時",
+        "id": "A011850"
+      }
+    ]
+  },
+  "D8952": {
+    "vol": "D53",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "為二太子中元盂蘭薦福文",
+    "juans": "1"
+  },
+  "D8953": {
+    "vol": "D54",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "結壇散食迴向發願文（首尾殘缺）",
+    "juans": "1"
+  },
+  "D8954": {
+    "vol": "D55",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "儀註備簡",
+    "juans": "10",
+    "byline": "明 釋大惠撰",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "釋大惠",
+        "id": "A000061"
+      }
+    ]
+  },
+  "D8980": {
+    "vol": "D56",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "冥樞會要",
+    "juans": "3",
+    "byline": "宋 釋祖心編",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "釋祖心",
+        "id": "A008470"
+      }
+    ]
+  },
+  "D9000": {
+    "vol": "D57",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "空谷集",
+    "juans": "3",
+    "byline": "明 釋景隆撰",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "釋景隆",
+        "id": "A001245"
+      }
+    ]
+  },
+  "D9010": {
+    "vol": "D58",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "閱藏隨錄",
+    "juans": "1",
+    "byline": "明 王芥庵撰",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "王芥庵",
+        "id": "A007335"
+      }
+    ]
+  },
+  "D9011": {
+    "vol": "D59",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "藏經值畫一目錄",
+    "juans": "1"
+  },
+  "D9021": {
+    "vol": "D60",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "知儒編",
+    "juans": "1",
+    "byline": "明 周夢秀撰",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "周夢秀",
+        "id": "A034603"
+      }
+    ]
+  },
+  "D9025": {
+    "vol": "D61",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "淨土三部經音義集",
+    "juans": "4",
+    "byline": "日本 釋信瑞撰",
+    "contributors": [
+      {
+        "name": "釋信瑞",
+        "id": "A000808"
+      }
+    ]
+  },
+  "D9026": {
+    "vol": "D62",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "大悲觀世音菩薩至道禮文",
+    "juans": "1"
+  },
+  "D9027": {
+    "vol": "D63",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "道安法師念佛讚文附入山讚文",
+    "juans": "1"
+  },
+  "D9031": {
+    "vol": "D64",
+    "type": "textbody",
+    "category": "國圖善本部類",
+    "title": "僧家禮儀文",
+    "juans": "1",
+    "byline": "朝鮮 釋冲絢撰",
+    "dynasty": "朝鮮",
+    "time_from": 1392,
+    "time_to": 1895,
+    "contributors": [
+      {
+        "name": "釋冲絢",
+        "id": "A034604"
+      }
+    ]
+  }
+}

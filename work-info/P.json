@@ -1,0 +1,233 @@
+{
+  "P1519": {
+    "vol": "P154..P155",
+    "type": "textbody",
+    "category": "史傳部類",
+    "title": "宗門統要正續集",
+    "juans": "20",
+    "byline": "宋 宗永集　元 清茂續集",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "宗永",
+        "id": "A000569"
+      },
+      {
+        "name": "清茂",
+        "id": "A001087"
+      }
+    ]
+  },
+  "P1573": {
+    "vol": "P167",
+    "type": "textbody",
+    "category": "法華部類",
+    "title": "修懺要旨",
+    "juans": "1",
+    "byline": "宋 知禮述",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "知禮",
+        "id": "A000756"
+      }
+    ]
+  },
+  "P1581": {
+    "vol": "P168",
+    "type": "textbody",
+    "category": "密教部類",
+    "title": "首楞嚴經義海",
+    "juans": "30",
+    "byline": "唐 懷迪證譯　宋 咸輝排經入注",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "懷迪",
+        "id": "A001896"
+      },
+      {
+        "name": "咸輝",
+        "id": "A000818"
+      }
+    ]
+  },
+  "P1590": {
+    "vol": "P174",
+    "type": "textbody",
+    "category": "涅槃部類",
+    "title": "佛遺教經論疏節要",
+    "juans": "1",
+    "byline": "宋 淨源述",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "淨源",
+        "id": "A001113"
+      }
+    ]
+  },
+  "P1610": {
+    "vol": "P178",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "大明太宗文皇帝御製序讚文",
+    "juans": "1",
+    "byline": "明 太宗朱棣撰",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "朱棣",
+        "id": "A000149"
+      }
+    ]
+  },
+  "P1611": {
+    "vol": "P178..P179",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "諸佛世尊如來菩薩尊者神僧名經",
+    "juans": "40",
+    "byline": "明 太宗朱棣制",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "朱棣",
+        "id": "A000149"
+      }
+    ]
+  },
+  "P1612": {
+    "vol": "P179..P181",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "諸佛世尊如來菩薩尊者名稱歌曲",
+    "juans": "51",
+    "byline": "明 太宗朱棣制",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "朱棣",
+        "id": "A000149"
+      }
+    ]
+  },
+  "P1615": {
+    "vol": "P181..P183",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "大明三藏法數",
+    "juans": "38",
+    "byline": "明 一如等編集",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "一如",
+        "id": "A000007"
+      }
+    ]
+  },
+  "P1617": {
+    "vol": "P184..P185",
+    "type": "textbody",
+    "category": "法華部類",
+    "title": "妙法蓮華經要解（選錄「要解」本文）",
+    "juans": "19",
+    "byline": "宋 戒環解",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "戒環",
+        "id": "A000514"
+      }
+    ]
+  },
+  "P1618": {
+    "vol": "P185",
+    "type": "textbody",
+    "category": "密教部類",
+    "title": "大佛頂萬行首楞嚴經會解",
+    "juans": "20",
+    "byline": "唐宋 九師釋　元 惟則會解",
+    "dynasty": "唐宋",
+    "contributors": [
+      {
+        "name": "九師",
+        "id": "A000018"
+      },
+      {
+        "name": "惟則",
+        "id": "A001064"
+      }
+    ]
+  },
+  "P1624": {
+    "vol": "P187",
+    "type": "textbody",
+    "category": "般若部類",
+    "title": "金剛經疏論纂要（選錄「釋金剛經纂要疏科」）",
+    "juans": "1",
+    "byline": "宋 子璿錄",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "子璿",
+        "id": "A000085"
+      }
+    ]
+  },
+  "P1629": {
+    "vol": "P189",
+    "type": "textbody",
+    "category": "法華部類",
+    "title": "天台四教儀集註（選錄「集註」本文）",
+    "juans": "9",
+    "byline": "元 蒙潤集",
+    "dynasty": "元",
+    "time_from": 1271,
+    "time_to": 1368,
+    "contributors": [
+      {
+        "name": "蒙潤",
+        "id": "A001638"
+      }
+    ]
+  },
+  "P1630": {
+    "vol": "P189",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "教乘法數（選錄序文）",
+    "juans": "1",
+    "byline": "明 圓瀞集",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "圓瀞",
+        "id": "A001412"
+      }
+    ]
+  }
+}

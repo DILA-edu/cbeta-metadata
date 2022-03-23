@@ -1,0 +1,121 @@
+{
+  "LC0001": {
+    "vol": "LC01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "印度佛學源流略講",
+    "juans": "17",
+    "byline": "民國 呂澂著",
+    "dynasty": "民國",
+    "time_from": 1896,
+    "time_to": 1989,
+    "contributors": [
+      {
+        "name": "呂澂",
+        "id": "A007178"
+      }
+    ]
+  },
+  "LC0002": {
+    "vol": "LC02",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "中國佛學源流略講",
+    "juans": "26",
+    "byline": "民國 呂澂著",
+    "dynasty": "民國",
+    "time_from": 1896,
+    "time_to": 1989,
+    "contributors": [
+      {
+        "name": "呂澂",
+        "id": "A007178"
+      }
+    ]
+  },
+  "LC0003": {
+    "vol": "LC03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "西藏佛學原論及佛學論著選集",
+    "juans": "14",
+    "byline": "民國 呂澂著",
+    "dynasty": "民國",
+    "time_from": 1896,
+    "time_to": 1989,
+    "contributors": [
+      {
+        "name": "呂澂",
+        "id": "A007178"
+      }
+    ]
+  },
+  "LC0004": {
+    "vol": "LC04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "因明入正理論講解及相關論著",
+    "juans": "14",
+    "byline": "民國 呂澂著",
+    "dynasty": "民國",
+    "time_from": 1896,
+    "time_to": 1989,
+    "contributors": [
+      {
+        "name": "呂澂",
+        "id": "A007178"
+      }
+    ]
+  },
+  "LC0005": {
+    "vol": "LC05",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛教重要名相釋義及經論攷證",
+    "juans": "18",
+    "byline": "民國 呂澂著",
+    "dynasty": "民國",
+    "time_from": 1896,
+    "time_to": 1989,
+    "contributors": [
+      {
+        "name": "呂澂",
+        "id": "A007178"
+      }
+    ]
+  },
+  "LC0006": {
+    "vol": "LC06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "歷朝藏經略考及新編漢文大藏經目錄",
+    "juans": "17",
+    "byline": "民國 呂澂著",
+    "dynasty": "民國",
+    "time_from": 1896,
+    "time_to": 1989,
+    "contributors": [
+      {
+        "name": "呂澂",
+        "id": "A007178"
+      }
+    ]
+  },
+  "LC0007": {
+    "vol": "LC07..LC08",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "經論講要",
+    "juans": "21",
+    "byline": "民國 呂澂著",
+    "dynasty": "民國",
+    "time_from": 1896,
+    "time_to": 1989,
+    "contributors": [
+      {
+        "name": "呂澂",
+        "id": "A007178"
+      }
+    ]
+  }
+}

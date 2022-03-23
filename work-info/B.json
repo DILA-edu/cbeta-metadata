@@ -1,0 +1,3223 @@
+{
+  "Ba001": {
+    "vol": "B00",
+    "type": "textbody",
+    "title": "出版說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "Ba002": {
+    "vol": "B00",
+    "type": "textbody",
+    "title": "全書內容簡介",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0001": {
+    "vol": "B01..B02",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "均如大師華嚴學全書",
+    "juans": "20",
+    "byline": "均如著　金知見編",
+    "contributors": [
+      {
+        "name": "均如",
+        "id": "A034207"
+      },
+      {
+        "name": "金知見",
+        "id": "A032660"
+      }
+    ]
+  },
+  "Ba003": {
+    "vol": "B03",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0002": {
+    "vol": "B03..B05",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "華嚴經疏論纂要",
+    "juans": "120",
+    "byline": "道霈編",
+    "contributors": [
+      {
+        "name": "道霈",
+        "id": "A001551"
+      }
+    ]
+  },
+  "Ba004": {
+    "vol": "B06",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0003": {
+    "vol": "B06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "南傳長部經典",
+    "juans": "2",
+    "byline": "江鍊百譯",
+    "contributors": [
+      {
+        "name": "江鍊百",
+        "id": "A000390"
+      }
+    ]
+  },
+  "B0004": {
+    "vol": "B06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "南傳中部經典",
+    "juans": "1",
+    "byline": "芝峯譯",
+    "contributors": [
+      {
+        "name": "芝峯",
+        "id": "A000769"
+      }
+    ]
+  },
+  "B0005": {
+    "vol": "B06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "南傳小部經典",
+    "juans": "2",
+    "byline": "夏丏尊譯",
+    "contributors": [
+      {
+        "name": "夏丏尊",
+        "id": "A000903"
+      }
+    ]
+  },
+  "B0006": {
+    "vol": "B06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "泰國大藏經小部經",
+    "juans": "1",
+    "byline": "黃謹良譯",
+    "contributors": [
+      {
+        "name": "黃謹良",
+        "id": "A035002"
+      }
+    ]
+  },
+  "B0007": {
+    "vol": "B06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "發趣論",
+    "juans": "1",
+    "byline": "范寄東譯",
+    "contributors": [
+      {
+        "name": "范寄東",
+        "id": "A004850"
+      }
+    ]
+  },
+  "B0008": {
+    "vol": "B06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大發趣論註",
+    "juans": "1",
+    "byline": "覺音造　范寄東譯",
+    "contributors": [
+      {
+        "name": "覺音",
+        "id": "A016340"
+      },
+      {
+        "name": "范寄東",
+        "id": "A004850"
+      }
+    ]
+  },
+  "B0009": {
+    "vol": "B06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "冠導阿毗達磨俱舍論",
+    "juans": "30",
+    "byline": "佐伯旭雅編",
+    "contributors": [
+      {
+        "name": "佐伯旭雅",
+        "id": "A034211"
+      }
+    ]
+  },
+  "Ba005": {
+    "vol": "B07",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0010": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "南傳轉法輪經",
+    "juans": "1",
+    "byline": "丘哌博譯",
+    "contributors": [
+      {
+        "name": "丘哌博",
+        "id": "A034215"
+      }
+    ]
+  },
+  "B0011": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "轉法輪經",
+    "juans": "1",
+    "byline": "岫廬譯",
+    "contributors": [
+      {
+        "name": "岫廬",
+        "id": "A034218"
+      }
+    ]
+  },
+  "B0012": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "三寶經",
+    "juans": "1",
+    "byline": "法舫譯",
+    "contributors": [
+      {
+        "name": "法舫",
+        "id": "A007860"
+      }
+    ]
+  },
+  "B0013": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "吉祥經",
+    "juans": "1",
+    "byline": "法舫譯",
+    "contributors": [
+      {
+        "name": "法舫",
+        "id": "A007860"
+      }
+    ]
+  },
+  "B0014": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "婆羅門正法經",
+    "juans": "1",
+    "byline": "法舫譯",
+    "contributors": [
+      {
+        "name": "法舫",
+        "id": "A007860"
+      }
+    ]
+  },
+  "B0015": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "南傳羯臘摩經",
+    "juans": "1",
+    "byline": "丘寶光．徐鄂雲同譯",
+    "contributors": [
+      {
+        "name": "丘寶光",
+        "id": "A034219"
+      },
+      {
+        "name": "徐鄂雲",
+        "id": "A034220"
+      }
+    ]
+  },
+  "B0016": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "南傳大悲經",
+    "juans": "1",
+    "byline": "法舫譯",
+    "contributors": [
+      {
+        "name": "法舫",
+        "id": "A007860"
+      }
+    ]
+  },
+  "B0017": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "南傳法句經",
+    "juans": "1",
+    "byline": "了參譯",
+    "contributors": [
+      {
+        "name": "了參",
+        "id": "A024157"
+      }
+    ]
+  },
+  "B0018": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "南傳大般湼槃經",
+    "juans": "1",
+    "byline": "巴宙譯",
+    "contributors": [
+      {
+        "name": "巴宙",
+        "id": "A032558"
+      }
+    ]
+  },
+  "B0019": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "南傳念安般經",
+    "juans": "1",
+    "byline": "湯用彤譯",
+    "contributors": [
+      {
+        "name": "湯用彤",
+        "id": "A024596"
+      }
+    ]
+  },
+  "B0020": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "隨念三寶經淺說",
+    "juans": "1",
+    "byline": "法尊口述　雲根記",
+    "contributors": [
+      {
+        "name": "法尊",
+        "id": "A004774"
+      },
+      {
+        "name": "雲根",
+        "id": "A034221"
+      }
+    ]
+  },
+  "B0021": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "毒語心經",
+    "juans": "1",
+    "byline": "白隱慧鶴註釋　南天棒鄧州提唱",
+    "contributors": [
+      {
+        "name": "白隱慧鶴",
+        "id": "A000308"
+      },
+      {
+        "name": "南天棒鄧州",
+        "id": "A029511"
+      }
+    ]
+  },
+  "B0022": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "新譯薄伽梵母智慧到彼岸心經詮釋",
+    "juans": "1",
+    "byline": "貢噶呼圖克圖譯",
+    "contributors": [
+      {
+        "name": "貢噶呼圖克圖",
+        "id": "A034224"
+      }
+    ]
+  },
+  "B0023": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金剛般若波羅蜜經講義",
+    "juans": "5",
+    "byline": "江味農著",
+    "contributors": [
+      {
+        "name": "江味農",
+        "id": "A000389"
+      }
+    ]
+  },
+  "B0024": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛說阿彌陀經註釋會要",
+    "juans": "1",
+    "byline": "鳩摩羅什譯　徐珂輯",
+    "contributors": [
+      {
+        "name": "鳩摩羅什",
+        "id": "A001583"
+      },
+      {
+        "name": "法舫",
+        "id": "A007860"
+      }
+    ]
+  },
+  "B0025": {
+    "vol": "B07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "阿毗達摩攝義論",
+    "juans": "1",
+    "byline": "阿耨樓陀造　法舫譯",
+    "contributors": [
+      {
+        "name": "阿耨樓陀",
+        "id": "A005158"
+      },
+      {
+        "name": "法舫",
+        "id": "A007860"
+      }
+    ]
+  },
+  "Ba006": {
+    "vol": "B08",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0026": {
+    "vol": "B08",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "四分比丘尼戒本註解",
+    "juans": "2",
+    "byline": "佛瑩編",
+    "contributors": [
+      {
+        "name": "佛瑩",
+        "id": "A034226"
+      }
+    ]
+  },
+  "B0027": {
+    "vol": "B08",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "瑜伽師地論戒品纂釋",
+    "juans": "2",
+    "byline": "宗喀巴釋論　湯薌銘譯纂",
+    "contributors": [
+      {
+        "name": "宗喀巴",
+        "id": "A023413"
+      },
+      {
+        "name": "湯薌銘",
+        "id": "A024044"
+      }
+    ]
+  },
+  "B0028": {
+    "vol": "B08",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "菩提正道菩薩戒論",
+    "juans": "1",
+    "byline": "宗喀巴造　湯薌銘譯",
+    "contributors": [
+      {
+        "name": "宗喀巴",
+        "id": "A023413"
+      },
+      {
+        "name": "湯薌銘",
+        "id": "A024044"
+      }
+    ]
+  },
+  "B0029": {
+    "vol": "B08",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "菩薩戒品釋",
+    "juans": "5",
+    "byline": "宗喀巴造　法尊譯",
+    "contributors": [
+      {
+        "name": "宗喀巴",
+        "id": "A023413"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "Ba007": {
+    "vol": "B09",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0030": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "現觀莊嚴論中八品七十義略解",
+    "juans": "1",
+    "byline": "法尊述",
+    "contributors": [
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0031": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "現觀莊嚴論略釋",
+    "juans": "4",
+    "byline": "彌勒造頌　法尊譯釋",
+    "contributors": [
+      {
+        "name": "彌勒",
+        "id": "A001428"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0032": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "七十空性論科攝",
+    "juans": "1",
+    "byline": "龍樹造　法尊譯　弘悲科攝",
+    "contributors": [
+      {
+        "name": "龍樹",
+        "id": "A001482"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      },
+      {
+        "name": "弘悲",
+        "id": "A034237"
+      }
+    ]
+  },
+  "B0033": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大乘修心七義論釋",
+    "juans": "1",
+    "byline": "無著賢造　慧海等譯",
+    "contributors": [
+      {
+        "name": "無著賢",
+        "id": "A043206"
+      },
+      {
+        "name": "慧海",
+        "id": "A034238"
+      }
+    ]
+  },
+  "B0034": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "辨法法性論",
+    "juans": "1",
+    "byline": "彌勒造　法尊譯",
+    "contributors": [
+      {
+        "name": "彌勒",
+        "id": "A001428"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0035": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "西藏傳本攝大乘論",
+    "juans": "1",
+    "byline": "無著造　呂澂譯",
+    "contributors": [
+      {
+        "name": "無著",
+        "id": "A001318"
+      },
+      {
+        "name": "呂澂",
+        "id": "A007178"
+      }
+    ]
+  },
+  "B0036": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "三自性論",
+    "juans": "1",
+    "byline": "世親造　劉孝蘭譯",
+    "contributors": [
+      {
+        "name": "世親",
+        "id": "A000148"
+      },
+      {
+        "name": "劉孝蘭",
+        "id": "A034239"
+      }
+    ]
+  },
+  "B0037": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "集量論釋略抄",
+    "juans": "1",
+    "byline": "呂澂輯",
+    "contributors": [
+      {
+        "name": "呂澂",
+        "id": "A007178"
+      }
+    ]
+  },
+  "B0038": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "安慧三十唯識釋略抄",
+    "juans": "1",
+    "byline": "呂澂輯",
+    "contributors": [
+      {
+        "name": "呂澂",
+        "id": "A007178"
+      }
+    ]
+  },
+  "B0039": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "觀所緣釋論會譯",
+    "juans": "1",
+    "byline": "呂澂．印滄編",
+    "contributors": [
+      {
+        "name": "呂澂",
+        "id": "A007178"
+      },
+      {
+        "name": "印滄",
+        "id": "A034240"
+      }
+    ]
+  },
+  "B0040": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "集量論略解",
+    "juans": "6",
+    "byline": "陳那著　法尊譯編",
+    "contributors": [
+      {
+        "name": "陳那",
+        "id": "A001162"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0041": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "正理滴論（譯自梵文本）",
+    "juans": "1",
+    "byline": "法稱著　王森譯",
+    "contributors": [
+      {
+        "name": "法稱",
+        "id": "A000734"
+      },
+      {
+        "name": "王森",
+        "id": "A034243"
+      }
+    ]
+  },
+  "B0042": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "正理滴論（譯自西藏文本）",
+    "juans": "1",
+    "byline": "法稱著　楊化群譯",
+    "contributors": [
+      {
+        "name": "法稱",
+        "id": "A000734"
+      },
+      {
+        "name": "楊化群",
+        "id": "A034244"
+      }
+    ]
+  },
+  "B0043": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "釋量論略解",
+    "juans": "9",
+    "byline": "法稱著　僧成釋　法尊譯",
+    "contributors": [
+      {
+        "name": "法稱",
+        "id": "A000734"
+      },
+      {
+        "name": "僧成",
+        "id": "A034246"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0044": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "入中論善顯密意疏",
+    "juans": "14",
+    "byline": "宗喀巴造　法尊譯",
+    "contributors": [
+      {
+        "name": "宗喀巴",
+        "id": "A023413"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0045": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "入中論講記",
+    "juans": "1",
+    "byline": "月稱造頌　法尊譯講",
+    "contributors": [
+      {
+        "name": "月稱",
+        "id": "A016747"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0046": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "中論略義",
+    "juans": "1",
+    "byline": "宗喀巴著　潭影譯",
+    "contributors": [
+      {
+        "name": "宗喀巴",
+        "id": "A023413"
+      },
+      {
+        "name": "潭影",
+        "id": "A034249"
+      }
+    ]
+  },
+  "B0047": {
+    "vol": "B09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "中論文句釋",
+    "juans": "1",
+    "byline": "僧成釋　常浩譯",
+    "contributors": [
+      {
+        "name": "僧成",
+        "id": "A034246"
+      },
+      {
+        "name": "常浩",
+        "id": "A034256"
+      }
+    ]
+  },
+  "Ba008": {
+    "vol": "B10",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0048": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "辨了不了義善說藏論",
+    "juans": "5",
+    "byline": "宗喀巴造　法尊譯",
+    "contributors": [
+      {
+        "name": "宗喀巴",
+        "id": "A023413"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0049": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "菩提道炬論",
+    "juans": "1",
+    "byline": "阿底霞造　超一譯",
+    "contributors": [
+      {
+        "name": "阿底霞",
+        "id": "A015038"
+      },
+      {
+        "name": "超一",
+        "id": "A034269"
+      }
+    ]
+  },
+  "B0050": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "地道建立",
+    "juans": "1",
+    "byline": "三寶無畏王造　法尊譯",
+    "contributors": [
+      {
+        "name": "三寶無畏王",
+        "id": "A034270"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0051": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "菩提道次恒修教授",
+    "juans": "1",
+    "byline": "札迦說　法尊譯",
+    "contributors": [
+      {
+        "name": "札迦",
+        "id": "A034273"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0052": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "緣起讚",
+    "juans": "1",
+    "byline": "宗喀巴著　法尊譯",
+    "contributors": [
+      {
+        "name": "宗喀巴",
+        "id": "A023413"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0053": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "集諸學頌",
+    "juans": "1",
+    "byline": "寂靜造　超一譯",
+    "contributors": [
+      {
+        "name": "寂靜",
+        "id": "A034274"
+      },
+      {
+        "name": "超一",
+        "id": "A034269"
+      }
+    ]
+  },
+  "B0054": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "菩提道次第論攝頌",
+    "juans": "1",
+    "byline": "宗喀巴造　超一譯",
+    "contributors": [
+      {
+        "name": "宗喀巴",
+        "id": "A023413"
+      },
+      {
+        "name": "超一",
+        "id": "A034269"
+      }
+    ]
+  },
+  "B0055": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "菩提道次第論極略頌",
+    "juans": "1",
+    "byline": "宗喀巴著　超一譯",
+    "contributors": [
+      {
+        "name": "宗喀巴",
+        "id": "A023413"
+      },
+      {
+        "name": "超一",
+        "id": "A034269"
+      }
+    ]
+  },
+  "B0056": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "西藏法寶貫珠",
+    "juans": "1",
+    "byline": "達瓦桑杜譯英　伊文思溫慈編註　趙洪鑄譯漢",
+    "contributors": [
+      {
+        "name": "達瓦桑杜",
+        "id": "A034276"
+      },
+      {
+        "name": "伊文思溫慈",
+        "id": "A034277"
+      },
+      {
+        "name": "趙洪鑄",
+        "id": "A034278"
+      }
+    ]
+  },
+  "B0057": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "密宗道次第論",
+    "juans": "5",
+    "byline": "克主著　法尊譯",
+    "contributors": [
+      {
+        "name": "克主",
+        "id": "A034280"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0058": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "涅般道大手印瑜伽法要釋",
+    "juans": "1",
+    "byline": "白蓮花造　光明心譯",
+    "contributors": [
+      {
+        "name": "白蓮花",
+        "id": "A034281"
+      },
+      {
+        "name": "光明心",
+        "id": "A034282"
+      }
+    ]
+  },
+  "B0059": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "明行道六成就法",
+    "juans": "1",
+    "byline": "珀瑪迦爾著　張妙定蓮菩提金剛正譯",
+    "contributors": [
+      {
+        "name": "珀瑪迦爾",
+        "id": "A034283"
+      },
+      {
+        "name": "張妙定蓮菩提金剛正",
+        "id": "A034284"
+      }
+    ]
+  },
+  "B0060": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "頗哇心要轉識自在法",
+    "juans": "1",
+    "byline": "達瓦桑杜譯英　伊文思溫慈纂集　張妙定蓮菩提金剛正譯漢",
+    "contributors": [
+      {
+        "name": "達瓦桑杜",
+        "id": "A034276"
+      },
+      {
+        "name": "伊文思溫慈",
+        "id": "A034277"
+      },
+      {
+        "name": "張妙定蓮菩提金剛正",
+        "id": "A034284"
+      }
+    ]
+  },
+  "B0061": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "椎擊三要訣勝法解",
+    "juans": "1",
+    "byline": "大善解功德主著　貢噶傳　滿空譯",
+    "contributors": [
+      {
+        "name": "大善解功德主",
+        "id": "A034287"
+      },
+      {
+        "name": "貢噶",
+        "id": "A034224"
+      },
+      {
+        "name": "滿空",
+        "id": "A034290"
+      }
+    ]
+  },
+  "B0062": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "貢噶上師恒河大手印直講",
+    "juans": "1",
+    "byline": "貢噶講",
+    "contributors": [
+      {
+        "name": "貢噶",
+        "id": "A034224"
+      }
+    ]
+  },
+  "B0063": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大密妙義深道六法引導廣論纂要",
+    "juans": "1",
+    "byline": "吉祥造　鍾伯毅纂",
+    "contributors": [
+      {
+        "name": "吉祥",
+        "id": "A034294"
+      },
+      {
+        "name": "鍾伯毅",
+        "id": "A034291"
+      }
+    ]
+  },
+  "B0064": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大圓滿",
+    "juans": "1",
+    "byline": "郭元興著　慈威校註",
+    "contributors": [
+      {
+        "name": "郭元興",
+        "id": "A034296"
+      },
+      {
+        "name": "慈威",
+        "id": "A034299"
+      }
+    ]
+  },
+  "B0065": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "菩提道次第略論",
+    "juans": "6",
+    "byline": "宗喀巴著　邢肅芝譯",
+    "contributors": [
+      {
+        "name": "宗喀巴",
+        "id": "A023413"
+      },
+      {
+        "name": "邢肅芝",
+        "id": "A034300"
+      }
+    ]
+  },
+  "B0066": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "菩提道次第直講",
+    "juans": "6",
+    "byline": "宗喀巴著　大勇口譯　智湛筆錄",
+    "contributors": [
+      {
+        "name": "宗喀巴",
+        "id": "A023413"
+      },
+      {
+        "name": "大勇",
+        "id": "A004888"
+      },
+      {
+        "name": "智湛",
+        "id": "A034301"
+      }
+    ]
+  },
+  "B0067": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "菩提道次第廣論",
+    "juans": "24",
+    "byline": "宗喀巴著　法尊譯",
+    "contributors": [
+      {
+        "name": "宗喀巴",
+        "id": "A023413"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0068": {
+    "vol": "B10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "密宗道次第廣論",
+    "juans": "22",
+    "byline": "宗喀巴著　法尊譯",
+    "contributors": [
+      {
+        "name": "宗喀巴",
+        "id": "A023413"
+      },
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "Ba009": {
+    "vol": "B11",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0069": {
+    "vol": "B11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "七系付法傳",
+    "juans": "7",
+    "byline": "多羅那他著　郭元興譯",
+    "contributors": [
+      {
+        "name": "多羅那他",
+        "id": "A024388"
+      },
+      {
+        "name": "郭元興",
+        "id": "A034296"
+      }
+    ]
+  },
+  "B0070": {
+    "vol": "B11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "安樂妙寶",
+    "juans": "1",
+    "byline": "金慧暢編",
+    "contributors": [
+      {
+        "name": "金慧暢",
+        "id": "A034303"
+      }
+    ]
+  },
+  "B0071": {
+    "vol": "B11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "蓮華生大士應化史略",
+    "juans": "15",
+    "byline": "諾那呼圖克圖逞列匠磋譯",
+    "contributors": [
+      {
+        "name": "諾那呼圖克圖逞列匠磋",
+        "id": "A034304"
+      }
+    ]
+  },
+  "B0072": {
+    "vol": "B11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "阿底峽尊者傳",
+    "juans": "5",
+    "byline": "法尊譯述",
+    "contributors": [
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0073": {
+    "vol": "B11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "木納記",
+    "juans": "29",
+    "byline": "惹穹多傑札把著　多傑譯述　張心若筆錄",
+    "contributors": [
+      {
+        "name": "惹穹多傑札把",
+        "id": "A034308"
+      },
+      {
+        "name": "多傑",
+        "id": "A034310"
+      },
+      {
+        "name": "張心若",
+        "id": "A034311"
+      }
+    ]
+  },
+  "B0074": {
+    "vol": "B11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "宗喀巴大師傳",
+    "juans": "5",
+    "byline": "法尊譯述",
+    "contributors": [
+      {
+        "name": "法尊",
+        "id": "A004774"
+      }
+    ]
+  },
+  "B0075": {
+    "vol": "B11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "西藏王臣護法記",
+    "juans": "26",
+    "byline": "第五世達賴喇嘛著　郭和卿譯",
+    "contributors": [
+      {
+        "name": "第五世達賴喇嘛",
+        "id": "A011029"
+      },
+      {
+        "name": "郭和卿",
+        "id": "A034314"
+      }
+    ]
+  },
+  "B0076": {
+    "vol": "B11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "印度佛教史",
+    "juans": "44",
+    "byline": "達喇那他著　王沂暖譯",
+    "contributors": [
+      {
+        "name": "達喇那他",
+        "id": "A024388"
+      },
+      {
+        "name": "王沂暖",
+        "id": "A034315"
+      }
+    ]
+  },
+  "Ba010": {
+    "vol": "B12",
+    "type": "textbody",
+    "title": "洛陽伽藍記解題",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0077": {
+    "vol": "B12",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "洛陽伽藍記校釋",
+    "juans": "5",
+    "byline": "楊衒之著　周祖謨校釋",
+    "contributors": [
+      {
+        "name": "楊衒之",
+        "id": "A001444"
+      },
+      {
+        "name": "周祖謨",
+        "id": "A034316"
+      }
+    ]
+  },
+  "B0078": {
+    "vol": "B12",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "洛陽伽藍記校注",
+    "juans": "5",
+    "byline": "楊衒之著　范祥雍校注",
+    "contributors": [
+      {
+        "name": "楊衒之",
+        "id": "A001444"
+      },
+      {
+        "name": "范祥雍",
+        "id": "A034317"
+      }
+    ]
+  },
+  "Ba011": {
+    "vol": "B13",
+    "type": "textbody",
+    "title": "釋氏六帖解題",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "Ba012": {
+    "vol": "B13",
+    "type": "textbody",
+    "title": "大唐西域記解題",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0079": {
+    "vol": "B13",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "釋氏六帖",
+    "juans": "24",
+    "byline": "義楚集",
+    "contributors": [
+      {
+        "name": "義楚",
+        "id": "A001474"
+      }
+    ]
+  },
+  "B0080": {
+    "vol": "B13",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大唐西域記（校點本）",
+    "juans": "12",
+    "byline": "玄奘口述　辯機編纂",
+    "contributors": [
+      {
+        "name": "玄奘",
+        "id": "A000294"
+      },
+      {
+        "name": "辯機",
+        "id": "A001966"
+      }
+    ]
+  },
+  "Ba013": {
+    "vol": "B14",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0081": {
+    "vol": "B14",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "雙峰山曹侯溪寶林傳（殘卷）",
+    "juans": "7",
+    "byline": "智炬著",
+    "contributors": [
+      {
+        "name": "智炬",
+        "id": "A001267"
+      }
+    ]
+  },
+  "B0082": {
+    "vol": "B14",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "傳燈玉英集（殘卷）",
+    "juans": "9",
+    "byline": "王隨編",
+    "contributors": [
+      {
+        "name": "王隨",
+        "id": "A017492"
+      }
+    ]
+  },
+  "B0083": {
+    "vol": "B14",
+    "type": "textbody",
+    "alt": "JB118",
+    "title": "密藏開禪師遺稿"
+  },
+  "B0084": {
+    "vol": "B14",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "藏逸經書標目",
+    "juans": "1",
+    "byline": "密藏編",
+    "contributors": [
+      {
+        "name": "密藏",
+        "id": "A009414"
+      }
+    ]
+  },
+  "B0085": {
+    "vol": "B14",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "憨山大師年譜疏註",
+    "juans": "2",
+    "byline": "福善記錄　福徵述疏",
+    "contributors": [
+      {
+        "name": "福善",
+        "id": "A001631"
+      },
+      {
+        "name": "福徵",
+        "id": "A007801"
+      }
+    ]
+  },
+  "B0086": {
+    "vol": "B14",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "南朝寺考",
+    "juans": "1",
+    "byline": "劉世珩著",
+    "contributors": [
+      {
+        "name": "劉世珩",
+        "id": "A034323"
+      }
+    ]
+  },
+  "B0087": {
+    "vol": "B14",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "合訂天台三聖二和詩集",
+    "juans": "1",
+    "byline": "寒山．豐干．拾得原詩　梵琦．濟岳和",
+    "contributors": [
+      {
+        "name": "寒山",
+        "id": "A004127"
+      },
+      {
+        "name": "豐干",
+        "id": "A005272"
+      },
+      {
+        "name": "拾得",
+        "id": "A009211"
+      },
+      {
+        "name": "梵琦",
+        "id": "A001082"
+      },
+      {
+        "name": "濟岳",
+        "id": "A001854"
+      }
+    ]
+  },
+  "Ba014": {
+    "vol": "B15",
+    "type": "textbody",
+    "title": "編輯說明（上）",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "Ba015": {
+    "vol": "B16",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0088": {
+    "vol": "B15..B16",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "古今圖書集成選輯",
+    "juans": "158"
+  },
+  "Ba016": {
+    "vol": "B17",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0089": {
+    "vol": "B17",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "太平廣記選輯（卷八十七～一三四）",
+    "juans": "48",
+    "byline": "李昉等編纂",
+    "contributors": [
+      {
+        "name": "李昉",
+        "id": "A019294"
+      }
+    ]
+  },
+  "B0090": {
+    "vol": "B17",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "酉陽雜俎選輯（前集、續集等六篇）",
+    "juans": "6",
+    "byline": "段成式著",
+    "contributors": [
+      {
+        "name": "段成式",
+        "id": "A000850"
+      }
+    ]
+  },
+  "B0091": {
+    "vol": "B17",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "正史選輯（晉書、宋書、梁書、魏書、隋書、舊唐書、元史、明史）",
+    "juans": "10"
+  },
+  "B0092": {
+    "vol": "B17",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "唐會要、五代會要、明書、明會典選輯",
+    "juans": "8"
+  },
+  "B0093": {
+    "vol": "B17",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "象教皮編（六卷全）",
+    "juans": "6",
+    "byline": "陳士元編",
+    "contributors": [
+      {
+        "name": "陳士元",
+        "id": "A034326"
+      }
+    ]
+  },
+  "B0094": {
+    "vol": "B17",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "冊府元龜選輯",
+    "juans": "4",
+    "byline": "王欽若、楊億等著",
+    "contributors": [
+      {
+        "name": "王欽若",
+        "id": "A016950"
+      },
+      {
+        "name": "楊億",
+        "id": "A001446"
+      }
+    ]
+  },
+  "Ba017": {
+    "vol": "B18",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0095": {
+    "vol": "B18",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "入唐求法巡禮行記",
+    "juans": "4",
+    "byline": "圓仁著",
+    "contributors": [
+      {
+        "name": "圓仁",
+        "id": "A001402"
+      }
+    ]
+  },
+  "B0096": {
+    "vol": "B18",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛教繪畫史料",
+    "juans": "6"
+  },
+  "B0097": {
+    "vol": "B18",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "歸元鏡",
+    "juans": "2",
+    "byline": "智達著",
+    "contributors": [
+      {
+        "name": "智達",
+        "id": "A034330"
+      }
+    ]
+  },
+  "B0098": {
+    "vol": "B18",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "高旻寺規約",
+    "juans": "3",
+    "byline": "來果著",
+    "contributors": [
+      {
+        "name": "來果",
+        "id": "A023711"
+      }
+    ]
+  },
+  "B0099": {
+    "vol": "B18",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "相宗絡索",
+    "juans": "1",
+    "byline": "王夫之著",
+    "contributors": [
+      {
+        "name": "王夫之",
+        "id": "A019145"
+      }
+    ]
+  },
+  "B0100": {
+    "vol": "B18",
+    "type": "textbody",
+    "alt": "JB325",
+    "title": "解惑編"
+  },
+  "B0101": {
+    "vol": "B18",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "絕觀論",
+    "juans": "1",
+    "byline": "菩提達磨（？）著",
+    "contributors": [
+      {
+        "name": "菩提達磨",
+        "id": "A001361"
+      }
+    ]
+  },
+  "B0102": {
+    "vol": "B18",
+    "type": "textbody",
+    "alt": "JB090",
+    "title": "續原教論"
+  },
+  "Ba018": {
+    "vol": "B19",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "Ba019": {
+    "vol": "B19",
+    "type": "textbody",
+    "title": "禪林象器箋序",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0103": {
+    "vol": "B19",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "禪林象器箋",
+    "juans": "30",
+    "byline": "無著道忠著",
+    "contributors": [
+      {
+        "name": "無著道忠",
+        "id": "A001319"
+      }
+    ]
+  },
+  "Ba020": {
+    "vol": "B20",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0104": {
+    "vol": "B20",
+    "type": "textbody",
+    "alt": "P1612",
+    "title": "諸佛世尊如來菩薩尊者名稱歌曲"
+  },
+  "B0105": {
+    "vol": "B20",
+    "type": "textbody",
+    "alt": "JB097",
+    "title": "天樂鳴空集"
+  },
+  "B0106": {
+    "vol": "B20",
+    "type": "textbody",
+    "alt": "JB098",
+    "title": "黃蘗無念禪師復問"
+  },
+  "B0107": {
+    "vol": "B20",
+    "type": "textbody",
+    "alt": "L1651",
+    "title": "南宋江陰軍乾明院羅漢尊號碑"
+  },
+  "B0108": {
+    "vol": "B20",
+    "type": "textbody",
+    "alt": "X1235",
+    "title": "寂音尊者智證傳"
+  },
+  "Ba021": {
+    "vol": "B21",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0109": {
+    "vol": "B21",
+    "type": "textbody",
+    "alt": "JB135",
+    "title": "石門文字禪"
+  },
+  "B0110": {
+    "vol": "B21",
+    "type": "textbody",
+    "alt": "JB127",
+    "title": "無依道人錄"
+  },
+  "B0111": {
+    "vol": "B21",
+    "type": "textbody",
+    "alt": "JB128",
+    "title": "普明禪師牧牛圖頌"
+  },
+  "B0112": {
+    "vol": "B21",
+    "type": "textbody",
+    "alt": "JB129",
+    "title": "牧牛圖頌"
+  },
+  "B0113": {
+    "vol": "B21",
+    "type": "textbody",
+    "alt": "JB295",
+    "title": "學佛考訓"
+  },
+  "B0114": {
+    "vol": "B21",
+    "type": "textbody",
+    "alt": "JB298",
+    "title": "艸峰憲禪師語錄"
+  },
+  "B0115": {
+    "vol": "B21",
+    "type": "textbody",
+    "alt": "JB299",
+    "title": "三峰藏和尚語錄"
+  },
+  "B0116": {
+    "vol": "B21",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金剛般若波羅蜜經集註",
+    "juans": "1",
+    "byline": "明成祖朱棣集註",
+    "contributors": [
+      {
+        "name": "明成祖朱棣",
+        "id": "A000149"
+      }
+    ]
+  },
+  "Ba022": {
+    "vol": "B22",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0117": {
+    "vol": "B22",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "三藏法數",
+    "juans": "38",
+    "byline": "一如等編　丁福保重校",
+    "contributors": [
+      {
+        "name": "一如",
+        "id": "A000007"
+      },
+      {
+        "name": "丁福保",
+        "id": "A007851"
+      }
+    ]
+  },
+  "B0118": {
+    "vol": "B22",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "律宗燈譜",
+    "juans": "8",
+    "byline": "源諒著　劉霞彩編",
+    "contributors": [
+      {
+        "name": "源諒",
+        "id": "A022931"
+      },
+      {
+        "name": "劉霞彩",
+        "id": "A034331"
+      }
+    ]
+  },
+  "B0119": {
+    "vol": "B22",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "天然和尚年譜",
+    "juans": "1",
+    "byline": "汪宗衍著",
+    "contributors": [
+      {
+        "name": "汪宗衍",
+        "id": "A034907"
+      }
+    ]
+  },
+  "Ba023": {
+    "vol": "B23",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0120": {
+    "vol": "B23",
+    "type": "textbody",
+    "alt": "JB277",
+    "title": "雲棲大師遺稿",
+    "juan": 3
+  },
+  "B0121": {
+    "vol": "B23",
+    "type": "textbody",
+    "alt": "JB277",
+    "title": "雲棲大師塔銘"
+  },
+  "B0122": {
+    "vol": "B23",
+    "type": "textbody",
+    "alt": "JB277",
+    "title": "雲棲紀事"
+  },
+  "B0123": {
+    "vol": "B23",
+    "type": "textbody",
+    "alt": "JB277",
+    "title": "竹窗隨筆"
+  },
+  "B0124": {
+    "vol": "B23",
+    "type": "textbody",
+    "alt": "JB277",
+    "title": "竹窗二筆"
+  },
+  "B0125": {
+    "vol": "B23",
+    "type": "textbody",
+    "alt": "JB277",
+    "title": "竹窗三筆"
+  },
+  "B0126": {
+    "vol": "B23",
+    "type": "textbody",
+    "alt": "JB277",
+    "title": "正訛集"
+  },
+  "B0127": {
+    "vol": "B23",
+    "type": "textbody",
+    "alt": "JB277",
+    "title": "雲棲共住規約"
+  },
+  "B0128": {
+    "vol": "B23",
+    "type": "textbody",
+    "alt": "JB277",
+    "title": "直道錄"
+  },
+  "B0129": {
+    "vol": "B23",
+    "type": "textbody",
+    "alt": "JB277",
+    "title": "山房雜錄",
+    "juan": 2
+  },
+  "B0130": {
+    "vol": "B23",
+    "type": "textbody",
+    "alt": "JB348+JB120+X1641+選錄",
+    "title": "靈峰宗論（選錄〈蕅益大師年譜〉、〈書重刻靈峰宗論後〉、〈刻闢邪集序〉）",
+    "category": "新編部類",
+    "juans": "1",
+    "byline": "智旭著",
+    "contributors": [
+      {
+        "name": "智旭",
+        "id": "A001257"
+      }
+    ]
+  },
+  "Ba024": {
+    "vol": "B24",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0131": {
+    "vol": "B24",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "法海觀瀾",
+    "juans": "5",
+    "byline": "智旭輯",
+    "contributors": [
+      {
+        "name": "智旭",
+        "id": "A001257"
+      }
+    ]
+  },
+  "B0132": {
+    "vol": "B24",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "尚直編",
+    "juans": "2",
+    "byline": "空谷景隆著",
+    "contributors": [
+      {
+        "name": "空谷景隆",
+        "id": "A001245"
+      }
+    ]
+  },
+  "B0133": {
+    "vol": "B24",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "尚理編",
+    "juans": "1",
+    "byline": "空谷景隆著",
+    "contributors": [
+      {
+        "name": "空谷景隆",
+        "id": "A001245"
+      }
+    ]
+  },
+  "B0134": {
+    "vol": "B24",
+    "type": "textbody",
+    "alt": "JB120+B0130+選錄",
+    "title": "闢邪集（選錄）",
+    "category": "新編部類",
+    "juans": "2",
+    "byline": "鍾始聲著",
+    "contributors": [
+      {
+        "name": "鍾始聲",
+        "id": "A001871"
+      }
+    ]
+  },
+  "B0135": {
+    "vol": "B24",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "蒲室集",
+    "juans": "15",
+    "byline": "笑隱大訢著",
+    "contributors": [
+      {
+        "name": "笑隱大訢",
+        "id": "A000062"
+      }
+    ]
+  },
+  "B0136": {
+    "vol": "B24",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "選佛譜",
+    "juans": "6",
+    "byline": "智旭著",
+    "contributors": [
+      {
+        "name": "智旭",
+        "id": "A001257"
+      }
+    ]
+  },
+  "B0137": {
+    "vol": "B24",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "正名錄",
+    "juans": "14",
+    "byline": "智楷著",
+    "contributors": [
+      {
+        "name": "智楷",
+        "id": "A001284"
+      }
+    ]
+  },
+  "B0139": {
+    "vol": "B24",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "獻花巖志",
+    "juans": "1",
+    "byline": "陳沂著",
+    "contributors": [
+      {
+        "name": "陳沂",
+        "id": "A034338"
+      }
+    ]
+  },
+  "B0140": {
+    "vol": "B24",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "雪峰志",
+    "juans": "10",
+    "byline": "徐𤊹纂輯",
+    "contributors": [
+      {
+        "name": "徐𤊹",
+        "id": "A005179"
+      }
+    ]
+  },
+  "B0141": {
+    "vol": "B24",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "嵩山少林寺輯志",
+    "juans": "11",
+    "byline": "輯自傅梅撰《嵩書》",
+    "contributors": [
+      {
+        "name": "傅梅",
+        "id": "A034340"
+      }
+    ]
+  },
+  "Ba025": {
+    "vol": "B25",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0142": {
+    "vol": "B25",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "新校定的敦煌寫本神會和尚遺著兩種",
+    "juans": "1",
+    "byline": "胡適校定",
+    "contributors": [
+      {
+        "name": "胡適",
+        "id": "A023813"
+      }
+    ]
+  },
+  "B0143": {
+    "vol": "B25",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "神會和尚語錄的第三個敦煌寫本：南陽和尚問答雜徵義（劉澄集）",
+    "juans": "1",
+    "byline": "胡適校定",
+    "contributors": [
+      {
+        "name": "胡適",
+        "id": "A023813"
+      }
+    ]
+  },
+  "B0144": {
+    "vol": "B25",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "祖堂集",
+    "juans": "20",
+    "byline": "靜、筠二禪德編著",
+    "contributors": [
+      {
+        "name": "靜",
+        "id": "A034920"
+      },
+      {
+        "name": "筠",
+        "id": "A034921"
+      }
+    ]
+  },
+  "B0145": {
+    "vol": "B25",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "天目中峰廣錄",
+    "juans": "30",
+    "byline": "中峰明本著",
+    "contributors": [
+      {
+        "name": "中峰明本",
+        "id": "A000655"
+      }
+    ]
+  },
+  "Ba026": {
+    "vol": "B26",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0146": {
+    "vol": "B26",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "房山雲居寺石經──經文、題記、碑銘等拓片之選輯",
+    "juans": "5"
+  },
+  "B0147": {
+    "vol": "B26",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "三階教殘卷",
+    "juans": "17",
+    "byline": "矢吹慶輝輯",
+    "contributors": [
+      {
+        "name": "矢吹慶輝",
+        "id": "A034342"
+      }
+    ]
+  },
+  "B0148": {
+    "vol": "B26",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "東坡禪喜集",
+    "juans": "9",
+    "byline": "徐長孺輯",
+    "contributors": [
+      {
+        "name": "徐長孺",
+        "id": "A034443"
+      }
+    ]
+  },
+  "B0149": {
+    "vol": "B26",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "鳴道集說",
+    "juans": "5",
+    "byline": "李屏山著",
+    "contributors": [
+      {
+        "name": "李屏山",
+        "id": "A022444"
+      }
+    ]
+  },
+  "B0150": {
+    "vol": "B26",
+    "type": "textbody",
+    "alt": "JB091+選錄",
+    "title": "道餘錄（選錄「姚少師道餘錄跋」）",
+    "category": "新編部類",
+    "juans": "1",
+    "byline": "姚廣孝著",
+    "contributors": [
+      {
+        "name": "姚廣孝",
+        "id": "A001522"
+      }
+    ]
+  },
+  "Ba027": {
+    "vol": "B27",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0151": {
+    "vol": "B27",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "新續高僧傳",
+    "juans": "65",
+    "byline": "喻謙著",
+    "contributors": [
+      {
+        "name": "喻謙",
+        "id": "A034445"
+      }
+    ]
+  },
+  "B0152": {
+    "vol": "B27",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "普濟玉琳國師語錄",
+    "juans": "14",
+    "byline": "音緯等編",
+    "contributors": [
+      {
+        "name": "音緯",
+        "id": "A034447"
+      }
+    ]
+  },
+  "B0153": {
+    "vol": "B27",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "法藏碎金錄",
+    "juans": "10",
+    "byline": "晁逈著",
+    "contributors": [
+      {
+        "name": "晁逈",
+        "id": "A009420"
+      }
+    ]
+  },
+  "Ba028": {
+    "vol": "B28",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0154": {
+    "vol": "B28",
+    "type": "textbody",
+    "alt": "JB110",
+    "title": "宋文憲公護法錄"
+  },
+  "B0155": {
+    "vol": "B28",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "聖朝破邪集",
+    "juans": "8",
+    "byline": "徐昌治編",
+    "contributors": [
+      {
+        "name": "徐昌治",
+        "id": "A000922"
+      }
+    ]
+  },
+  "B0156": {
+    "vol": "B28",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛法金湯",
+    "juans": "3",
+    "byline": "屠隆著",
+    "contributors": [
+      {
+        "name": "屠隆",
+        "id": "A007025"
+      }
+    ]
+  },
+  "B0157": {
+    "vol": "B28",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "楊仁山居士遺書",
+    "juans": "24",
+    "byline": "楊文會著",
+    "contributors": [
+      {
+        "name": "楊文會",
+        "id": "A001440"
+      }
+    ]
+  },
+  "B0158": {
+    "vol": "B28",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "陰騭文圖",
+    "juans": "1",
+    "byline": "費丹旭繪圖　許光清集證",
+    "contributors": [
+      {
+        "name": "費丹旭",
+        "id": "A034453"
+      },
+      {
+        "name": "許光清",
+        "id": "A034454"
+      }
+    ]
+  },
+  "B0159": {
+    "vol": "B28",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "了凡四訓",
+    "juans": "1",
+    "byline": "袁了凡著",
+    "contributors": [
+      {
+        "name": "袁了凡",
+        "id": "A008362"
+      }
+    ]
+  },
+  "Ba029": {
+    "vol": "B29",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0160": {
+    "vol": "B29",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金陵梵剎志",
+    "juans": "53",
+    "byline": "葛寅亮著",
+    "contributors": [
+      {
+        "name": "葛寅亮",
+        "id": "A004190"
+      }
+    ]
+  },
+  "B0161": {
+    "vol": "B29",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "武林梵志",
+    "juans": "12",
+    "byline": "吳之鯨著",
+    "contributors": [
+      {
+        "name": "吳之鯨",
+        "id": "A022597"
+      }
+    ]
+  },
+  "B0162": {
+    "vol": "B29",
+    "type": "textbody",
+    "alt": "GA0086",
+    "title": "黃檗山志"
+  },
+  "Ba030": {
+    "vol": "B30",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0163": {
+    "vol": "B30",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "重修曹溪通志",
+    "juans": "8",
+    "byline": "馬元、釋真樸重修",
+    "contributors": [
+      {
+        "name": "馬元",
+        "id": "A034467"
+      },
+      {
+        "name": "釋真樸",
+        "id": "A000960"
+      }
+    ]
+  },
+  "B0164": {
+    "vol": "B30",
+    "type": "textbody",
+    "alt": "GA0009",
+    "title": "普陀洛迦新志"
+  },
+  "B0165": {
+    "vol": "B30",
+    "type": "textbody",
+    "alt": "GA0081",
+    "title": "清涼山志"
+  },
+  "B0166": {
+    "vol": "B30",
+    "type": "textbody",
+    "alt": "GA0077",
+    "title": "九華山志"
+  },
+  "B0167": {
+    "vol": "B30",
+    "type": "textbody",
+    "alt": "GA0049",
+    "title": "峨眉山志"
+  },
+  "B0168": {
+    "vol": "B30",
+    "type": "textbody",
+    "alt": "GA0089",
+    "title": "天台山方外志"
+  },
+  "Ba031": {
+    "vol": "B31",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0169": {
+    "vol": "B31",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "朝鮮寺剎史料",
+    "juans": "2"
+  },
+  "B0170": {
+    "vol": "B31",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "朝鮮佛教通史",
+    "juans": "3",
+    "byline": "李能和著",
+    "contributors": [
+      {
+        "name": "李能和",
+        "id": "A034473"
+      }
+    ]
+  },
+  "Ba032": {
+    "vol": "B32",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0171": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "八宗綱要鈔",
+    "juans": "2",
+    "byline": "凝然述",
+    "contributors": [
+      {
+        "name": "凝然",
+        "id": "A001772"
+      }
+    ]
+  },
+  "B0172": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "出定後語",
+    "juans": "2",
+    "byline": "富永仲基著",
+    "contributors": [
+      {
+        "name": "富永仲基",
+        "id": "A034474"
+      }
+    ]
+  },
+  "B0173": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "元亨釋書",
+    "juans": "30",
+    "byline": "師鍊著",
+    "contributors": [
+      {
+        "name": "師鍊",
+        "id": "A000919"
+      }
+    ]
+  },
+  "B0174": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "參天台五台山記",
+    "juans": "8",
+    "byline": "成尋著",
+    "contributors": [
+      {
+        "name": "成尋",
+        "id": "A023182"
+      }
+    ]
+  },
+  "B0175": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "喫茶養生記",
+    "juans": "2",
+    "byline": "榮西著",
+    "contributors": [
+      {
+        "name": "榮西",
+        "id": "A001624"
+      }
+    ]
+  },
+  "B0176": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "四宗要文",
+    "juans": "3",
+    "byline": "日朝著　英園纂補",
+    "contributors": [
+      {
+        "name": "日朝",
+        "id": "A034475"
+      },
+      {
+        "name": "英園",
+        "id": "A034476"
+      }
+    ]
+  },
+  "B0177": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "本朝諸宗要集",
+    "juans": "5",
+    "byline": "義觀述",
+    "contributors": [
+      {
+        "name": "義觀",
+        "id": "A034478"
+      }
+    ]
+  },
+  "B0178": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "東大寺六宗未決義",
+    "juans": "1"
+  },
+  "B0179": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "八海含藏",
+    "juans": "1",
+    "byline": "師鍊著",
+    "contributors": [
+      {
+        "name": "師鍊",
+        "id": "A000919"
+      }
+    ]
+  },
+  "B0180": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "華嚴通關",
+    "juans": "1",
+    "byline": "定仙著",
+    "contributors": [
+      {
+        "name": "定仙",
+        "id": "A034480"
+      }
+    ]
+  },
+  "B0181": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "諸宗教理同異釋",
+    "juans": "1",
+    "byline": "賴瑜釋",
+    "contributors": [
+      {
+        "name": "賴瑜",
+        "id": "A001828"
+      }
+    ]
+  },
+  "B0182": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "內典塵露章",
+    "juans": "1",
+    "byline": "凝然述",
+    "contributors": [
+      {
+        "name": "凝然",
+        "id": "A001772"
+      }
+    ]
+  },
+  "B0183": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "禪祖念佛集",
+    "juans": "2",
+    "byline": "慧中集",
+    "contributors": [
+      {
+        "name": "慧中",
+        "id": "A034481"
+      }
+    ]
+  },
+  "B0184": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "顯揚正法復古集",
+    "juans": "2",
+    "byline": "普寂著",
+    "contributors": [
+      {
+        "name": "普寂",
+        "id": "A001219"
+      }
+    ]
+  },
+  "B0185": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "初學題額集",
+    "juans": "3",
+    "byline": "良山集",
+    "contributors": [
+      {
+        "name": "良山",
+        "id": "A034489"
+      }
+    ]
+  },
+  "B0186": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "三國佛法傳通緣起",
+    "juans": "3",
+    "byline": "凝然述",
+    "contributors": [
+      {
+        "name": "凝然",
+        "id": "A001772"
+      }
+    ]
+  },
+  "B0187": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "二障義",
+    "juans": "1",
+    "byline": "元曉著",
+    "contributors": [
+      {
+        "name": "元曉",
+        "id": "A000136"
+      }
+    ]
+  },
+  "B0188": {
+    "vol": "B32",
+    "type": "textbody",
+    "alt": "X0860",
+    "title": "判比量論"
+  },
+  "B0189": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大華嚴一乘法界圖註并序",
+    "juans": "1",
+    "byline": "雪岑著",
+    "contributors": [
+      {
+        "name": "雪岑",
+        "id": "A034492"
+      }
+    ]
+  },
+  "B0190": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "華嚴經釋題",
+    "juans": "1",
+    "byline": "雪岑著",
+    "contributors": [
+      {
+        "name": "雪岑",
+        "id": "A034492"
+      }
+    ]
+  },
+  "B0191": {
+    "vol": "B32",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "義相法師法性偈",
+    "juans": "1",
+    "byline": "有聞科註　聖奎證正",
+    "contributors": [
+      {
+        "name": "有聞",
+        "id": "A034499"
+      },
+      {
+        "name": "聖奎",
+        "id": "A034500"
+      }
+    ]
+  },
+  "Ba033": {
+    "vol": "B33",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0192": {
+    "vol": "B33",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "釋文紀",
+    "juans": "45",
+    "byline": "梅鼎祚輯",
+    "contributors": [
+      {
+        "name": "梅鼎祚",
+        "id": "A034504"
+      }
+    ]
+  },
+  "Ba034": {
+    "vol": "B34",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "Ba035": {
+    "vol": "B34",
+    "type": "textbody",
+    "title": "吳都法乘簡介",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0193": {
+    "vol": "B34",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "吳都法乘",
+    "juans": "30",
+    "byline": "周永年編",
+    "contributors": [
+      {
+        "name": "周永年",
+        "id": "A018586"
+      }
+    ]
+  },
+  "Ba036": {
+    "vol": "B35",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0194": {
+    "vol": "B35",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "中華大藏經總目錄",
+    "juans": "8",
+    "byline": "蔡念生編",
+    "contributors": [
+      {
+        "name": "蔡念生",
+        "id": "A010533"
+      }
+    ]
+  },
+  "B0195": {
+    "vol": "B35",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "頓悟大乘政理決",
+    "juans": "1",
+    "byline": "王錫著 ",
+    "contributors": [
+      {
+        "name": "王錫",
+        "id": "A034507"
+      }
+    ]
+  },
+  "B0196": {
+    "vol": "B35",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大乘中宗見解",
+    "juans": "1"
+  },
+  "Ba037": {
+    "vol": "B36",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "藍吉富",
+    "contributors": [
+      {
+        "name": "藍吉富",
+        "id": "A024238"
+      }
+    ]
+  },
+  "B0197": {
+    "vol": "B36",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "摩訶婆羅多的故事",
+    "juans": "1",
+    "byline": "拉賈戈帕拉查理改寫　唐季雍譯　金克木校",
+    "contributors": [
+      {
+        "name": "拉賈戈帕拉查理",
+        "id": "A034514"
+      },
+      {
+        "name": "唐季雍",
+        "id": "A034515"
+      }
+    ]
+  },
+  "B0198": {
+    "vol": "B36",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "博伽梵歌",
+    "juans": "18",
+    "byline": "雅蘇瑪蒂書達．踏薩譯",
+    "contributors": [
+      {
+        "name": "雅蘇瑪蒂書達．踏薩",
+        "id": "A034521"
+      }
+    ]
+  },
+  "B0138": {
+    "alt": "GA0062",
+    "title": "開元寺志",
+    "category": "新編部類"
+  }
+}

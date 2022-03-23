@@ -1,0 +1,8989 @@
+{
+  "JA001": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T0293",
+    "title": "大方廣佛華嚴經",
+    "juan": 40
+  },
+  "JA002": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T0663",
+    "title": "金光明經",
+    "juan": 4
+  },
+  "JA003": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T09n0262_p0056c02",
+    "title": "妙法蓮花經觀世音菩薩普門品經",
+    "juan": 1
+  },
+  "JA004": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T0364",
+    "title": "佛說大阿彌陀經",
+    "juan": 2
+  },
+  "JA005": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1057b",
+    "title": "千眼千臂觀世音菩薩陀羅尼神咒經",
+    "juan": 2
+  },
+  "JA006": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1063",
+    "title": "番大悲神咒",
+    "juan": 1
+  },
+  "JA007": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T0446b",
+    "title": "過去莊嚴劫千佛名經",
+    "juan": 1
+  },
+  "JA008": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T0447b",
+    "title": "現在賢劫千佛名經",
+    "juan": 1
+  },
+  "JA009": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T0448b",
+    "title": "未來星宿劫千佛名經",
+    "juan": 1
+  },
+  "JA010": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1154",
+    "title": "佛說隨求即得大自在陀羅尼神咒經",
+    "juan": 1
+  },
+  "JA011": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1316",
+    "title": "佛說甘露經陀羅尼",
+    "juan": 1
+  },
+  "JA012": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1794",
+    "title": "佛說四十二章經",
+    "juan": 1
+  },
+  "JA013": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1256",
+    "title": "佛說摩利支天陀羅尼咒經",
+    "juan": 1
+  },
+  "JA014": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T0412",
+    "title": "地藏菩薩本願經",
+    "juan": 2
+  },
+  "JA015": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1108A",
+    "title": "勝救度佛母二十一種禮讚經",
+    "juan": 1
+  },
+  "JA016": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1688",
+    "title": "密跡力士大權神王經偈頌",
+    "juan": 1
+  },
+  "JA017": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T0931",
+    "title": "金剛頂經觀自在王如來修行法",
+    "juan": 1
+  },
+  "JA018": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1319+T1320",
+    "title": "瑜伽集要焰口施食儀",
+    "juan": 1
+  },
+  "JA019": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1956",
+    "title": "密咒圓因往生集",
+    "juan": 1
+  },
+  "JA020": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T2114",
+    "title": "護法論",
+    "juan": 1
+  },
+  "JA021": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1909",
+    "title": "慈悲道場懺法",
+    "juan": 10
+  },
+  "JA022": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1941",
+    "title": "法華三昧懺儀",
+    "juan": 1
+  },
+  "JA023": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1942",
+    "title": "法華三昧行事運想補助儀",
+    "juan": 1
+  },
+  "JA024": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1945",
+    "title": "金光明懺法補助儀",
+    "juan": 1
+  },
+  "JA025": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1984",
+    "title": "往生淨土懺願儀",
+    "juan": 1
+  },
+  "JA026": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1968",
+    "title": "往生淨土決疑行願二門",
+    "juan": 1
+  },
+  "JA027": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1949",
+    "title": "請觀世音菩薩消伏毒害陀羅尼三昧儀",
+    "juan": 1
+  },
+  "JA028": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1946",
+    "title": "金光明最勝懺儀",
+    "juan": 1
+  },
+  "JA029": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1950",
+    "title": "千手眼大悲心咒行法",
+    "juan": 1
+  },
+  "JA030": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1944",
+    "title": "禮法華經儀式",
+    "juan": 1
+  },
+  "JA031": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1951",
+    "title": "熾盛光道場念誦儀",
+    "juan": 1
+  },
+  "JA032": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1947",
+    "title": "釋家如來涅槃禮讚文",
+    "juan": 1
+  },
+  "JA033": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1948",
+    "title": "天台智者大師齋忌禮讚文",
+    "juan": 1
+  },
+  "JA034": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1952",
+    "title": "觀自在菩薩如意輪咒課法",
+    "juan": 1
+  },
+  "JA035": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1910",
+    "title": "慈悲水懺法",
+    "juan": 3
+  },
+  "JA036": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T2008",
+    "title": "六祖大師法寶壇經",
+    "juan": 1
+  },
+  "JA037": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "P1519",
+    "title": "宗門統要續集",
+    "juan": 22
+  },
+  "JA038": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1996",
+    "title": "明覺禪師語錄",
+    "juan": 6
+  },
+  "JA039": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1997",
+    "title": "圓悟佛果禪師語錄",
+    "juan": 20
+  },
+  "JA040": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1998A",
+    "title": "大慧普覺禪師語錄",
+    "juan": 30
+  },
+  "JA041": {
+    "vol": "J01",
+    "type": "textbody",
+    "alt": "T1998B",
+    "title": "大慧普覺禪師宗門武庫",
+    "juan": 1
+  },
+  "JA042": {
+    "vol": "J01",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "大慧普覺禪師年譜",
+    "juans": "1",
+    "byline": "宋 祖詠編　張掄序　宗演跋",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "祖詠",
+        "id": "A000977"
+      },
+      {
+        "name": "張掄",
+        "id": "A010113"
+      },
+      {
+        "name": "宗演",
+        "id": "A008055"
+      }
+    ]
+  },
+  "JA043": {
+    "vol": "J02",
+    "type": "textbody",
+    "alt": "T1716",
+    "title": "妙法蓮華經玄義",
+    "juan": 20
+  },
+  "JA044": {
+    "vol": "J02",
+    "type": "textbody",
+    "alt": "T1717",
+    "title": "法華玄義釋籤",
+    "juan": 20
+  },
+  "JA045": {
+    "vol": "J02",
+    "type": "textbody",
+    "alt": "T1718",
+    "title": "妙法蓮華經文句",
+    "juan": 10
+  },
+  "JA046": {
+    "vol": "J02",
+    "type": "textbody",
+    "alt": "T1719",
+    "title": "法華文句記",
+    "juan": 10
+  },
+  "JA047": {
+    "vol": "J02",
+    "type": "textbody",
+    "alt": "T1911",
+    "title": "摩訶止觀",
+    "juan": 20
+  },
+  "JA048": {
+    "vol": "J02",
+    "type": "textbody",
+    "alt": "T1912",
+    "title": "止觀輔行傳弘決",
+    "juan": 40
+  },
+  "JA049": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1915",
+    "title": "修習止觀坐禪法要",
+    "juan": 1
+  },
+  "JA050": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1913",
+    "title": "止觀義例",
+    "juan": 2
+  },
+  "JA051": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1924",
+    "title": "大乘止觀法門",
+    "juan": 4
+  },
+  "JA052": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1923",
+    "title": "諸法無諍三昧法門",
+    "juan": 2
+  },
+  "JA053": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1767",
+    "title": "大般涅槃經疏",
+    "juan": 33
+  },
+  "JA054": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1765",
+    "title": "大般涅槃經玄義",
+    "juan": 2
+  },
+  "JA055": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1926",
+    "title": "法華經安樂行義",
+    "juan": 1
+  },
+  "JA056": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1766",
+    "title": "涅槃經玄義發源機要",
+    "juan": 4
+  },
+  "JA057": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1783",
+    "title": "金光明經玄義",
+    "juan": 2
+  },
+  "JA058": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1784",
+    "title": "金光明經玄義拾遺記",
+    "juan": 6
+  },
+  "JA059": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1698",
+    "title": "金剛般若經疏",
+    "juan": 1
+  },
+  "JA060": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1931",
+    "title": "天台四教儀",
+    "juan": 1
+  },
+  "JA061": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1785",
+    "title": "金光明經文句",
+    "juan": 6
+  },
+  "JA062": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1786",
+    "title": "金光明經文句記",
+    "juan": 6
+  },
+  "JA063": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1811",
+    "title": "菩薩戒義疏",
+    "juan": 2
+  },
+  "JA064": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1726",
+    "title": "觀音玄義",
+    "juan": 2
+  },
+  "JA065": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1727",
+    "title": "觀音玄義記",
+    "juan": 4
+  },
+  "JA066": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1728",
+    "title": "觀音義疏",
+    "juan": 2
+  },
+  "JA067": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1729",
+    "title": "觀音義疏記",
+    "juan": 4
+  },
+  "JA068": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1750",
+    "title": "佛說觀無量壽佛經疏",
+    "juan": 1
+  },
+  "JA069": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1751",
+    "title": "觀無量壽佛經疏妙宗鈔",
+    "juan": 6
+  },
+  "JA070": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1919",
+    "title": "天台智者大師禪門口訣",
+    "juan": 1
+  },
+  "JA071": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1800",
+    "title": "請觀音經疏",
+    "juan": 1
+  },
+  "JA072": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1801",
+    "title": "請觀音經疏闡義鈔",
+    "juan": 4
+  },
+  "JA073": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1922",
+    "title": "釋摩訶般若波羅蜜經覺意三昧",
+    "juan": 1
+  },
+  "JA074": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1918",
+    "title": "四念處",
+    "juan": 4
+  },
+  "JA075": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1705",
+    "title": "仁王護國般若經疏",
+    "juan": 5
+  },
+  "JA076": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1706",
+    "title": "佛說仁王護國般若波羅蜜經疏神寶記",
+    "juan": 4
+  },
+  "JA077": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1930",
+    "title": "天台八教大意",
+    "juan": 1
+  },
+  "JA078": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1929",
+    "title": "四教義",
+    "juan": 6
+  },
+  "JA079": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1934",
+    "title": "國清百錄",
+    "juan": 4
+  },
+  "JA080": {
+    "vol": "J03",
+    "type": "textbody",
+    "alt": "T1916",
+    "title": "釋禪波羅蜜次第法門",
+    "juan": 10
+  },
+  "JA081": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T1925",
+    "title": "法界次第初門",
+    "juan": 3
+  },
+  "JA082": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T1940",
+    "title": "方等三昧行法",
+    "juan": 1
+  },
+  "JA083": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T1961",
+    "title": "淨土十疑論",
+    "juan": 1
+  },
+  "JA084": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T1921",
+    "title": "觀心論疏",
+    "juan": 5
+  },
+  "JA085": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T1933",
+    "title": "南嶽思大禪師立誓願文",
+    "juan": 1
+  },
+  "JA086": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T2050",
+    "title": "隋天台智者大師別傳",
+    "juan": 1
+  },
+  "JA087": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T1914",
+    "title": "止觀大意",
+    "juan": 1
+  },
+  "JA088": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T46n1915_p0473b11",
+    "title": "始終心要",
+    "juan": 1
+  },
+  "JA089": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T46n1937_p0868a23",
+    "title": "修懺要旨",
+    "juan": 1
+  },
+  "JA090": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T1927",
+    "title": "十不二門",
+    "juan": 1
+  },
+  "JA091": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T1928",
+    "title": "十不二門指要鈔",
+    "juan": 2
+  },
+  "JA092": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T1932",
+    "title": "科金剛錍",
+    "juan": 1
+  },
+  "JA093": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T1935",
+    "title": "法智遺編觀心二百問",
+    "juan": 1
+  },
+  "JA094": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T1938",
+    "title": "天台傳佛心印記",
+    "juan": 1
+  },
+  "JA095": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T1971",
+    "title": "淨土境觀要門",
+    "juan": 1
+  },
+  "JA096": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T2013+T2014",
+    "title": "禪宗永嘉集　證道歌",
+    "juan": 2
+  },
+  "JA097": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "P1581",
+    "title": "首楞嚴經義海",
+    "juan": 30
+  },
+  "JA098": {
+    "vol": "J04",
+    "type": "textbody",
+    "alt": "T1735",
+    "title": "大方廣佛華嚴經疏",
+    "juan": 60
+  },
+  "JA099": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1736",
+    "title": "大方廣佛華嚴經隨疏演義鈔",
+    "juan": 90
+  },
+  "JA100": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1866",
+    "title": "華嚴一乘教義分齊章",
+    "juan": 4
+  },
+  "JA101": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1874",
+    "title": "華嚴經明法品內立三寶章",
+    "juan": 2
+  },
+  "JA102": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1876",
+    "title": "修華嚴奧止妄盡還源觀",
+    "juan": 1
+  },
+  "JA103": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1886",
+    "title": "原人論",
+    "juan": 1
+  },
+  "JA104": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1871",
+    "title": "華嚴經旨歸",
+    "juan": 1
+  },
+  "JA105": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1884",
+    "title": "註華嚴法界觀門",
+    "juan": 1
+  },
+  "JA106": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1883",
+    "title": "華嚴法界玄鏡",
+    "juan": 2
+  },
+  "JA107": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1712",
+    "title": "般若波羅蜜多心經略疏",
+    "juan": 1
+  },
+  "JA108": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1713",
+    "title": "般若心經略疏連珠記",
+    "juan": 2
+  },
+  "JA109": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1792",
+    "title": "佛說盂蘭盆經疏",
+    "juan": 2
+  },
+  "JA110": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1880",
+    "title": "金師子章雲間類解",
+    "juan": 1
+  },
+  "JA111": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1759",
+    "title": "佛說阿彌陀經疏",
+    "juan": 1
+  },
+  "JA112": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1789",
+    "title": "楞伽阿跋多羅寶經註解",
+    "juan": 4
+  },
+  "JA113": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1714",
+    "title": "般若波羅蜜多心經註解",
+    "juan": 1
+  },
+  "JA114": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "T1703",
+    "title": "金剛般若波羅蜜經註解",
+    "juan": 1
+  },
+  "JA115": {
+    "vol": "J05",
+    "type": "textbody",
+    "alt": "P1610",
+    "title": "大明太宗文皇帝御製序讚文",
+    "juan": 1
+  },
+  "JA116": {
+    "vol": "J06",
+    "type": "textbody",
+    "alt": "P1611",
+    "title": "諸佛世尊如來菩薩尊者神僧名經",
+    "juan": 40
+  },
+  "JA117": {
+    "vol": "J06",
+    "type": "textbody",
+    "alt": "P1612",
+    "title": "諸佛世尊如來菩薩尊者名稱歌曲",
+    "juan": 51
+  },
+  "JA118": {
+    "vol": "J06",
+    "type": "textbody",
+    "alt": "T2064",
+    "title": "神僧傳",
+    "juan": 9
+  },
+  "JA119": {
+    "vol": "J06",
+    "type": "textbody",
+    "alt": "P1615",
+    "title": "大明三藏法數",
+    "juan": 50
+  },
+  "JA120": {
+    "vol": "J07",
+    "type": "textbody",
+    "alt": "X0236",
+    "title": "華嚴懸談會玄記",
+    "juan": 40
+  },
+  "JA121": {
+    "vol": "J07",
+    "type": "textbody",
+    "alt": "P1617",
+    "title": "妙法蓮華經要解",
+    "juan": 7
+  },
+  "JA122": {
+    "vol": "J07",
+    "type": "textbody",
+    "alt": "P1618",
+    "title": "大佛頂首楞嚴經會解",
+    "juan": 20
+  },
+  "JA123": {
+    "vol": "J07",
+    "type": "textbody",
+    "alt": "JA123+L1600",
+    "title": "起信論疏（選錄「科文」）",
+    "juan": 4,
+    "category": "論集部類",
+    "juans": "1",
+    "byline": "宋 子璿脩定",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "子璿",
+        "id": "A000085"
+      }
+    ]
+  },
+  "JA124": {
+    "vol": "J07",
+    "type": "textbody",
+    "alt": "T1848",
+    "title": "起信論疏筆削記",
+    "juan": 20
+  },
+  "JA125": {
+    "vol": "J07",
+    "type": "textbody",
+    "alt": "T1860",
+    "title": "肇論新疏",
+    "juan": 3
+  },
+  "JA126": {
+    "vol": "J07",
+    "type": "textbody",
+    "alt": "X0872",
+    "title": "肇論新疏游刃",
+    "juan": 3
+  },
+  "JA127": {
+    "vol": "J07",
+    "type": "textbody",
+    "alt": "X0248",
+    "title": "圓覺略疏之鈔",
+    "juan": 29
+  },
+  "JA128": {
+    "vol": "J08",
+    "type": "textbody",
+    "alt": "T1701",
+    "title": "金剛般若經疏論纂要",
+    "juan": 2
+  },
+  "JA129": {
+    "vol": "J08",
+    "type": "textbody",
+    "alt": "T1702",
+    "title": "金剛經纂要刊定記",
+    "juan": 7
+  },
+  "JA130": {
+    "vol": "J08",
+    "type": "textbody",
+    "alt": "T1775",
+    "title": "維摩詰所說經註",
+    "juan": 10
+  },
+  "JA131": {
+    "vol": "J08",
+    "type": "textbody",
+    "alt": "X1032",
+    "title": "華嚴原人論解",
+    "juan": 4
+  },
+  "JA132": {
+    "vol": "J08",
+    "type": "textbody",
+    "alt": "T2118",
+    "title": "折疑論",
+    "juan": 5
+  },
+  "JA133": {
+    "vol": "J08",
+    "type": "textbody",
+    "alt": "X0978+P1629",
+    "title": "天台四教儀集註",
+    "juan": 10
+  },
+  "JA134": {
+    "vol": "J08",
+    "type": "textbody",
+    "alt": "P1630",
+    "title": "教乘法數",
+    "juan": 40
+  },
+  "JA135": {
+    "vol": "J08",
+    "type": "textbody",
+    "alt": "T2036",
+    "title": "佛祖歷代通載",
+    "juan": 36
+  },
+  "JA136": {
+    "vol": "J08",
+    "type": "textbody",
+    "alt": "T2022",
+    "title": "禪林寶訓",
+    "juan": 4
+  },
+  "JA137": {
+    "vol": "J08",
+    "type": "textbody",
+    "alt": "X0232",
+    "title": "大方廣佛華嚴經疏演義鈔",
+    "juan": 29
+  },
+  "JA138": {
+    "vol": "J08",
+    "type": "textbody",
+    "alt": "T2131",
+    "title": "翻譯名義集",
+    "juan": 20
+  },
+  "JA139": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "X1593",
+    "title": "禪宗正脈",
+    "juan": 20
+  },
+  "JA140": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T2025",
+    "title": "百丈清規",
+    "juan": 8
+  },
+  "JA141": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T2117",
+    "title": "三教平心論",
+    "juan": 2
+  },
+  "JA142": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T2023",
+    "title": "緇門警訓",
+    "juan": 10
+  },
+  "JA143": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T2115",
+    "title": "鐔津文集",
+    "juan": 19
+  },
+  "JA144": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T2015",
+    "title": "禪源諸詮集都序",
+    "juan": 4
+  },
+  "JA145": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T1865",
+    "title": "八識規矩補註",
+    "juan": 2
+  },
+  "JA146": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T1836",
+    "title": "大乘百法明門論解",
+    "juan": 2
+  },
+  "JA147": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T2020",
+    "title": "高麗國普照禪師修心訣",
+    "juan": 1
+  },
+  "JA148": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T2019A",
+    "title": "真心直說",
+    "juan": 1
+  },
+  "JA149": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T1857",
+    "title": "寶藏論",
+    "juan": 1
+  },
+  "JA150": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T1973",
+    "title": "廬山蓮宗寶鑑",
+    "juan": 10
+  },
+  "JA151": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T2018",
+    "title": "永明智覺禪師唯心訣",
+    "juan": 1
+  },
+  "JA152": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T2021",
+    "title": "禪宗決疑集",
+    "juan": 1
+  },
+  "JA153": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T2012A+T2012B",
+    "title": "斷際禪師傳心法要",
+    "juan": 2
+  },
+  "JA154": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T2017",
+    "title": "萬善同歸集",
+    "juan": 6
+  },
+  "JA155": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T1885",
+    "title": "華嚴七字經題法界觀三十門頌",
+    "juan": 2
+  },
+  "JA156": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "X0010",
+    "title": "大明仁孝皇后夢感佛說第一希有大功德經",
+    "juan": 2
+  },
+  "JA157": {
+    "vol": "J09",
+    "type": "textbody",
+    "alt": "T2077",
+    "title": "續傳燈錄",
+    "juan": 36
+  },
+  "JA158": {
+    "vol": "J10",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "密雲禪師語錄",
+    "juans": "12",
+    "byline": "明 圓悟說　如學等編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "圓悟",
+        "id": "A003688"
+      },
+      {
+        "name": "如瑩",
+        "id": "A003855"
+      }
+    ]
+  },
+  "JA159": {
+    "vol": "J10",
+    "type": "textbody",
+    "alt": "X1315",
+    "title": "古尊宿語錄",
+    "juan": 48
+  },
+  "JA160": {
+    "vol": "J10",
+    "type": "textbody",
+    "alt": "X1295",
+    "title": "禪宗頌古聯珠通集",
+    "juan": 40
+  },
+  "JA161": {
+    "vol": "J10",
+    "type": "textbody",
+    "alt": "T2035",
+    "title": "佛祖統紀",
+    "juan": 54
+  },
+  "JB001": {
+    "vol": "J11..J12",
+    "type": "textbody",
+    "alt": "L1557+X0227",
+    "title": "大方廣佛華嚴經疏鈔",
+    "juan": 99
+  },
+  "JB002": {
+    "vol": "J13",
+    "type": "textbody",
+    "alt": "X0223",
+    "title": "大方廣佛新華嚴經合論",
+    "juan": 120
+  },
+  "JB003": {
+    "vol": "J14",
+    "type": "textbody",
+    "alt": "X0240",
+    "title": "大方廣佛華嚴經綱要",
+    "juan": 80
+  },
+  "JB004": {
+    "vol": "J15",
+    "type": "textbody",
+    "alt": "X1469+X1470",
+    "title": "大方廣佛華嚴經海印道場十重行願常遍禮懺儀　九會請佛儀",
+    "juan": 43
+  },
+  "JB005": {
+    "vol": "J15",
+    "type": "textbody",
+    "alt": "X0229+JB005",
+    "title": "大方廣佛華嚴經普賢行願品別行疏鈔（選錄「華嚴宗七祖行蹟」及「附錄」）",
+    "juan": 7,
+    "category": "華嚴部類",
+    "juans": "1",
+    "byline": "唐 澄觀別行疏　宗密隨疏鈔",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "澄觀",
+        "id": "A001755"
+      },
+      {
+        "name": "宗密",
+        "id": "A000587"
+      }
+    ]
+  },
+  "JB006": {
+    "vol": "J15",
+    "type": "textbody",
+    "alt": "T1741",
+    "title": "略釋新華嚴經修行次第決疑論",
+    "juan": 4
+  },
+  "JB007": {
+    "vol": "J15",
+    "type": "textbody",
+    "alt": "T1888",
+    "title": "解迷顯智成悲十明論",
+    "juan": 1
+  },
+  "JB008": {
+    "vol": "J15",
+    "type": "textbody",
+    "alt": "X0239",
+    "title": "大方廣佛華嚴經吞海集",
+    "juan": 3
+  },
+  "JB009": {
+    "vol": "J15",
+    "type": "textbody",
+    "alt": "X1014",
+    "title": "法界觀披雲集",
+    "juan": 1
+  },
+  "JB010": {
+    "vol": "J16",
+    "type": "textbody",
+    "alt": "X0616",
+    "title": "妙法蓮華經台宗會義",
+    "juan": 16
+  },
+  "JB011": {
+    "vol": "J16",
+    "type": "textbody",
+    "alt": "X0611",
+    "title": "妙法蓮華經通義",
+    "juan": 7
+  },
+  "JB012": {
+    "vol": "J16",
+    "type": "textbody",
+    "alt": "X0603",
+    "title": "妙法蓮華經合論",
+    "juan": 7
+  },
+  "JB013": {
+    "vol": "J16",
+    "type": "textbody",
+    "alt": "X0609",
+    "title": "法華大意",
+    "juan": 3
+  },
+  "JB014": {
+    "vol": "J16",
+    "type": "textbody",
+    "alt": "X0613",
+    "title": "妙法蓮華經意語",
+    "juan": 1
+  },
+  "JB015": {
+    "vol": "J16",
+    "type": "textbody",
+    "alt": "X0589",
+    "title": "妙法蓮華經玄義節要",
+    "juan": 2
+  },
+  "JB016": {
+    "vol": "J16",
+    "type": "textbody",
+    "alt": "X0617",
+    "title": "妙法蓮華經卓解",
+    "juan": 7
+  },
+  "JB017": {
+    "vol": "J16",
+    "type": "textbody",
+    "alt": "X0275+X0273+X0274",
+    "title": "大佛頂首楞嚴經正脈疏．科．懸示",
+    "juan": 12
+  },
+  "JB018": {
+    "vol": "J17",
+    "type": "textbody",
+    "alt": "X0281",
+    "title": "大佛頂首楞嚴經圓通疏",
+    "juan": 10
+  },
+  "JB019": {
+    "vol": "J17",
+    "type": "textbody",
+    "alt": "X0285+X0284",
+    "title": "大佛頂首楞嚴經文句．玄義",
+    "juan": 12
+  },
+  "JB020": {
+    "vol": "J17",
+    "type": "textbody",
+    "alt": "X0270",
+    "title": "大佛頂首楞嚴經要解",
+    "juan": 20
+  },
+  "JB021": {
+    "vol": "J17",
+    "type": "textbody",
+    "alt": "T1799",
+    "title": "首楞嚴義疏注經",
+    "juan": 20
+  },
+  "JB022": {
+    "vol": "J18",
+    "type": "textbody",
+    "alt": "X0282",
+    "title": "大佛頂首楞嚴經玄義",
+    "juan": 4
+  },
+  "JB023": {
+    "vol": "J18",
+    "type": "textbody",
+    "alt": "X0272",
+    "title": "大佛頂首楞嚴經合論",
+    "juan": 10
+  },
+  "JB024": {
+    "vol": "J18",
+    "type": "textbody",
+    "alt": "X0287",
+    "title": "大佛頂首楞嚴經疏解蒙鈔　佛頂五錄",
+    "juan": 20
+  },
+  "JB025": {
+    "vol": "J18",
+    "type": "textbody",
+    "alt": "X0008",
+    "title": "楞伽阿跋多羅寶經會譯",
+    "juan": 4
+  },
+  "JB026": {
+    "vol": "J18",
+    "type": "textbody",
+    "alt": "X0329+X0328",
+    "title": "楞伽阿跋多羅寶經義疏．玄義",
+    "juan": 10
+  },
+  "JB027": {
+    "vol": "J18",
+    "type": "textbody",
+    "alt": "X0243",
+    "title": "大方廣圓覺經大疏",
+    "juan": 12
+  },
+  "JB028": {
+    "vol": "J18",
+    "type": "textbody",
+    "alt": "X0258",
+    "title": "大方廣圓覺修多羅了義經直解",
+    "juan": 2
+  },
+  "JB029": {
+    "vol": "J18",
+    "type": "textbody",
+    "alt": "X0260",
+    "title": "大方廣圓覺修多羅了義經要解",
+    "juan": 2
+  },
+  "JB030": {
+    "vol": "J18",
+    "type": "textbody",
+    "alt": "X0262",
+    "title": "大方廣圓覺修多羅了義經句釋正白",
+    "juan": 2
+  },
+  "JB031": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0478",
+    "title": "金剛經筆記",
+    "juan": 1
+  },
+  "JB032": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0484+X0561",
+    "title": "金剛經大意心經大意附撮概",
+    "juan": 1
+  },
+  "JB033": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0562",
+    "title": "心經解",
+    "juan": 1
+  },
+  "JB034": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0486",
+    "title": "金剛經會解了義",
+    "juan": 1
+  },
+  "JB035": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0479",
+    "title": "金剛破空論",
+    "juan": 1
+  },
+  "JB036": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0555",
+    "title": "心經釋要",
+    "juan": 1
+  },
+  "JB037": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0480",
+    "title": "金剛經觀心釋",
+    "juan": 1
+  },
+  "JB038": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0485",
+    "title": "金剛經如是解",
+    "juan": 1
+  },
+  "JB039": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1630+X1631",
+    "title": "金剛經受持感應錄",
+    "juan": 3
+  },
+  "JB040": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1633",
+    "title": "金剛經新異錄",
+    "juan": 1
+  },
+  "JB041": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0494",
+    "title": "金剛經註釋",
+    "juan": 1
+  },
+  "JB042": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0546",
+    "title": "心經說",
+    "juan": 1
+  },
+  "JB043": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0550",
+    "title": "心經開度",
+    "juan": 1
+  },
+  "JB044": {
+    "vol": "J19",
+    "type": "textbody",
+    "category": "經集部類",
+    "title": "諸經日誦集要",
+    "juans": "3",
+    "byline": "佚名",
+    "contributors": [
+      {
+        "name": "佚名"
+      }
+    ]
+  },
+  "JB045": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0665",
+    "title": "佛遺教經註",
+    "juan": 1
+  },
+  "JB046": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0669",
+    "title": "佛說四十二章經註",
+    "juan": 1
+  },
+  "JB047": {
+    "vol": "J19",
+    "type": "textbody",
+    "category": "密教部類",
+    "title": "瑜伽集要燄口施食儀",
+    "juans": "1",
+    "byline": "唐 不空譯　西夏 不動金剛重集　清 受登詮次　有圖像四十　緣起",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "不空",
+        "id": "A000095"
+      },
+      {
+        "name": "不動金剛",
+        "id": "A015404"
+      },
+      {
+        "name": "受登",
+        "id": "A000555"
+      }
+    ]
+  },
+  "JB048": {
+    "vol": "J19",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "北京五大部直音會韻",
+    "juans": "2",
+    "byline": "明 久隱撰",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "久隱",
+        "id": "A022511"
+      }
+    ]
+  },
+  "JB049": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1534",
+    "title": "歷朝華嚴持驗紀",
+    "juan": 1
+  },
+  "JB050": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1541",
+    "title": "歷朝法華持驗紀",
+    "juan": 2
+  },
+  "JB051": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1635",
+    "title": "歷朝金剛持驗紀",
+    "juan": 2
+  },
+  "JB052": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1542",
+    "title": "觀世音持驗紀",
+    "juan": 1
+  },
+  "JB053": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1172",
+    "title": "淨土晨鍾",
+    "juan": 10
+  },
+  "JB054": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0765",
+    "title": "大乘起信論疏略",
+    "juan": 2
+  },
+  "JB055": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1478",
+    "title": "依楞嚴究竟事懺",
+    "juan": 2
+  },
+  "JB056": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1489",
+    "title": "禮吳中石佛起止儀式",
+    "juan": 1
+  },
+  "JB057": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1480",
+    "title": "千手千眼大悲心咒行法",
+    "juan": 1
+  },
+  "JB058": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1482",
+    "title": "大准提菩薩焚修悉地懺悔玄文",
+    "juan": 1
+  },
+  "JB059": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1488",
+    "title": "得遇龍華修證懺儀",
+    "juan": 4
+  },
+  "JB060": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1490",
+    "title": "舍利懺法",
+    "juan": 1
+  },
+  "JB061": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "T1945+T16n0663_p0340a07",
+    "title": "金光明懺法補助儀",
+    "juan": 1
+  },
+  "JB062": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "T0839+X1485",
+    "title": "占察善惡業報經行法",
+    "juan": 3
+  },
+  "JB063": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1486",
+    "title": "讚禮地藏菩薩懺願儀",
+    "juan": 1
+  },
+  "JB064": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "T24n1488_p1047a25+X0702",
+    "title": "菩薩戒本經箋要",
+    "juan": 2
+  },
+  "JB065": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1121",
+    "title": "沙彌十戒威儀錄要",
+    "juan": 1
+  },
+  "JB066": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0745",
+    "title": "四分律藏大小持戒犍度略釋",
+    "juan": 1
+  },
+  "JB067": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0905",
+    "title": "大乘止觀法門釋要",
+    "juan": 4
+  },
+  "JB068": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0370+X0371",
+    "title": "占察善惡業報經義疏",
+    "juan": 3
+  },
+  "JB069": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X1077",
+    "title": "准提淨業",
+    "juan": 3
+  },
+  "JB070": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0666+X0670+X0672",
+    "title": "三經解",
+    "juan": 3
+  },
+  "JB071": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0749",
+    "title": "佛說齋經科註",
+    "juan": 1
+  },
+  "JB072": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0856",
+    "title": "因明入正理論解",
+    "juan": 1
+  },
+  "JB073": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0894+X0803",
+    "title": "八識規矩百法明門纂釋",
+    "juan": 2
+  },
+  "JB074": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0899",
+    "title": "相宗八要",
+    "juan": 8
+  },
+  "JB075": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0891",
+    "title": "八識規矩頌略說",
+    "juan": 1
+  },
+  "JB076": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0804+X0827+X0830+X0900+X0832+X0856+X0861+X0890",
+    "title": "相宗八要解",
+    "juan": 8
+  },
+  "JB077": {
+    "vol": "J19",
+    "type": "textbody",
+    "alt": "X0859+X0805+X0828+X0831+X0833+X0862+X0895+X0901",
+    "title": "相宗八要直解",
+    "juan": 8
+  },
+  "JB078": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "X1162",
+    "title": "淨土資糧全集",
+    "juan": 6
+  },
+  "JB079": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "T1762",
+    "title": "彌陀要解",
+    "juan": 1
+  },
+  "JB080": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "X0421",
+    "title": "彌陀句解",
+    "juan": 1
+  },
+  "JB081": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "T1974",
+    "title": "念佛直指",
+    "juan": 2
+  },
+  "JB082": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "X1163",
+    "title": "西方直指",
+    "juan": 3
+  },
+  "JB083": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "T1961+T1967+T1975+X61n1164_p0745b07",
+    "title": "淨土三論",
+    "juan": 5
+  },
+  "JB084": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "X1154",
+    "title": "淨土指歸集",
+    "juan": 2
+  },
+  "JB085": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "T1972",
+    "title": "天如和尚淨土或問",
+    "juan": 1
+  },
+  "JB086": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "T1970",
+    "title": "龍舒淨土文",
+    "juan": 12
+  },
+  "JB087": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "X1464",
+    "title": "三時繫念",
+    "juan": 1
+  },
+  "JB088": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "T1858",
+    "title": "肇論",
+    "juan": 3
+  },
+  "JB089": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "T1850",
+    "title": "大乘起信論裂網疏",
+    "juan": 6
+  },
+  "JB090": {
+    "vol": "J20",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "續原教論",
+    "juans": "2",
+    "byline": "明 沈士榮著",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "沈士榮",
+        "id": "A022492"
+      }
+    ]
+  },
+  "JB091": {
+    "vol": "J20",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "道餘錄",
+    "juans": "1",
+    "byline": "明 姚廣孝著並序",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "姚廣孝",
+        "id": "A001522"
+      }
+    ]
+  },
+  "JB092": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "X1231",
+    "title": "註心賦",
+    "juan": 4
+  },
+  "JB093": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "X0377",
+    "title": "佛說盂蘭盆經新疏",
+    "juan": 1
+  },
+  "JB094": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "X0954",
+    "title": "三千有門頌略解",
+    "juan": 1
+  },
+  "JB095": {
+    "vol": "J20",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "蕅益三頌",
+    "juans": "1",
+    "byline": "明 智旭述並序　三頌為華嚴．楞嚴．法華　有偶拈問答及重刻自跋",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "智旭",
+        "id": "A001257"
+      }
+    ]
+  },
+  "JB096": {
+    "vol": "J20",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "周易禪解",
+    "juans": "10",
+    "byline": "明 智旭著",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "智旭",
+        "id": "A001257"
+      }
+    ]
+  },
+  "JB097": {
+    "vol": "J20",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天樂鳴空集",
+    "juans": "3",
+    "byline": "明 鮑宗肇述　智旭定",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "鮑宗肇",
+        "id": "A037255"
+      },
+      {
+        "name": "智旭",
+        "id": "A001257"
+      }
+    ]
+  },
+  "JB098": {
+    "vol": "J20",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "黃蘗無念禪師復問",
+    "juans": "6",
+    "byline": "明 深有撰　明 聞刪定",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "深有",
+        "id": "A013164"
+      },
+      {
+        "name": "明聞",
+        "id": "A037256"
+      }
+    ]
+  },
+  "JB099": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "L1651",
+    "title": "南宋江陰軍乾明院羅漢尊號碑",
+    "juan": 1
+  },
+  "JB100": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "X1235",
+    "title": "寂音尊者智證傳",
+    "juan": 11
+  },
+  "JB101": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "X1560+X1234",
+    "title": "禪林僧寶傳",
+    "juan": 32
+  },
+  "JB102": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "T2062",
+    "title": "大明高僧傳",
+    "juan": 8
+  },
+  "JB103": {
+    "vol": "J20",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "寒山子詩集",
+    "juans": "1",
+    "byline": "唐 閭丘胤集並序　明 王宗沐序　附拾得．豐干詩",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "閭丘胤",
+        "id": "A006334"
+      },
+      {
+        "name": "王宗沐",
+        "id": "A019240"
+      }
+    ]
+  },
+  "JB104": {
+    "vol": "J20",
+    "type": "textbody",
+    "alt": "X1580",
+    "title": "教外別傳",
+    "juan": 16
+  },
+  "JB105": {
+    "vol": "J21",
+    "type": "textbody",
+    "alt": "X0820",
+    "title": "成唯識論俗詮",
+    "juan": 10
+  },
+  "JB106": {
+    "vol": "J21",
+    "type": "textbody",
+    "alt": "X1594",
+    "title": "佛祖綱目",
+    "juan": 41
+  },
+  "JB107": {
+    "vol": "J21",
+    "type": "textbody",
+    "alt": "X1602",
+    "title": "佛祖宗派世譜",
+    "juan": 8
+  },
+  "JB108": {
+    "vol": "J21",
+    "type": "textbody",
+    "alt": "X1607",
+    "title": "居士分燈錄",
+    "juan": 2
+  },
+  "JB109": {
+    "vol": "J21",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "大藏一覽",
+    "juans": "10",
+    "byline": "明 陳實編　姚舜漁重輯",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "陳實",
+        "id": "A001165"
+      },
+      {
+        "name": "姚舜漁",
+        "id": "A037257"
+      }
+    ]
+  },
+  "JB110": {
+    "vol": "J21",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "護法錄",
+    "juans": "10",
+    "byline": "明 宋濂著　袾宏輯　錢謙益訂",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "宋濂",
+        "id": "A007271"
+      },
+      {
+        "name": "袾宏",
+        "id": "A001394"
+      },
+      {
+        "name": "錢謙益",
+        "id": "A001834"
+      }
+    ]
+  },
+  "JB111": {
+    "vol": "J21",
+    "type": "textbody",
+    "alt": "X1628",
+    "title": "佛法金湯編",
+    "juan": 16
+  },
+  "JB112": {
+    "vol": "J22",
+    "type": "textbody",
+    "alt": "X1156",
+    "title": "歸元直指集",
+    "juan": 4
+  },
+  "JB113": {
+    "vol": "J22",
+    "type": "textbody",
+    "alt": "T2003",
+    "title": "佛果圓悟禪師碧巖集",
+    "juan": 10
+  },
+  "JB114": {
+    "vol": "J22",
+    "type": "textbody",
+    "alt": "X1452",
+    "title": "紫栢老人集",
+    "juan": 15
+  },
+  "JB115": {
+    "vol": "J22",
+    "type": "textbody",
+    "alt": "X1456",
+    "title": "憨山大師全集",
+    "juan": 41
+  },
+  "JB116": {
+    "vol": "J22",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "憨山老人夢遊全集",
+    "juans": "5",
+    "byline": "明 德清撰　福善日錄",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "德清",
+        "id": "A001681"
+      },
+      {
+        "name": "福善",
+        "id": "A001631"
+      }
+    ]
+  },
+  "JB117": {
+    "vol": "J22",
+    "type": "textbody",
+    "alt": "B0085",
+    "title": "憨山老人年譜自敘實錄",
+    "juan": 2
+  },
+  "JB118": {
+    "vol": "J23",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "密藏開禪師遺稿",
+    "juans": "2",
+    "byline": "明 道開著",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "道開",
+        "id": "A009414"
+      }
+    ]
+  },
+  "JB119": {
+    "vol": "J23",
+    "type": "textbody",
+    "alt": "X1641",
+    "title": "見聞錄",
+    "juan": 1
+  },
+  "JB120": {
+    "vol": "J23",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "闢邪集",
+    "juans": "1",
+    "byline": "明 鍾始聲著　大朗序　文分天學初徵及天學再徵　附書柬四則　程啟用跋",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "鍾始聲",
+        "id": "A001871"
+      },
+      {
+        "name": "大朗",
+        "id": "A001257"
+      },
+      {
+        "name": "程啟用",
+        "id": "A037641"
+      }
+    ]
+  },
+  "JB121": {
+    "vol": "J23",
+    "type": "textbody",
+    "alt": "X1453",
+    "title": "紫柏尊者別集",
+    "juan": 4
+  },
+  "JB122": {
+    "vol": "J23",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "醒世錄",
+    "juans": "8",
+    "byline": "清 徐昌治輯",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "徐昌治",
+        "id": "A000922"
+      }
+    ]
+  },
+  "JB123": {
+    "vol": "J23",
+    "type": "textbody",
+    "alt": "X1618",
+    "title": "祖庭嫡傳指南",
+    "juan": 2
+  },
+  "JB124": {
+    "vol": "J23",
+    "type": "textbody",
+    "alt": "X1626",
+    "title": "高僧摘要",
+    "juan": 4
+  },
+  "JB125": {
+    "vol": "J23",
+    "type": "textbody",
+    "alt": "X1620+X1621+JB125",
+    "title": "先覺宗乘（選錄「帝王問道錄」）",
+    "juan": 7,
+    "category": "史傳部類",
+    "juans": "1",
+    "byline": "明 郭凝之編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "郭凝之",
+        "id": "A001771"
+      }
+    ]
+  },
+  "JB126": {
+    "vol": "J23",
+    "type": "textbody",
+    "alt": "X1287",
+    "title": "千松筆記",
+    "juan": 1
+  },
+  "JB127": {
+    "vol": "J23",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "無依道人錄",
+    "juans": "2",
+    "byline": "清 徐昌治著　超悟錄　僧鑑序　附疏稿（原有缺頁）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "徐昌治",
+        "id": "A000922"
+      },
+      {
+        "name": "超悟",
+        "id": "A014505"
+      },
+      {
+        "name": "僧鑑",
+        "id": "A016559"
+      }
+    ]
+  },
+  "JB128": {
+    "vol": "J23",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "普明禪師牧牛圖頌",
+    "juans": "1",
+    "byline": "明 普明原唱　諸方和韻　嚴大參序　清 如念編目　有圖十",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "普明",
+        "id": "A011083"
+      },
+      {
+        "name": "嚴大參",
+        "id": "A020627"
+      },
+      {
+        "name": "如念",
+        "id": "A037258"
+      }
+    ]
+  },
+  "JB129": {
+    "vol": "J23",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "牧牛圖頌",
+    "juans": "1",
+    "byline": "明 普明原輯　性音續集舊跋　清 納信序　明 袾宏序　清 超格序　乾隆四十九年了彙重刊",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "普明",
+        "id": "A011083"
+      },
+      {
+        "name": "性音",
+        "id": "A000632"
+      },
+      {
+        "name": "納信",
+        "id": "A037259"
+      },
+      {
+        "name": "袾宏",
+        "id": "A001394"
+      },
+      {
+        "name": "超格",
+        "id": "A016621"
+      },
+      {
+        "name": "了彙",
+        "id": "A011343"
+      }
+    ]
+  },
+  "JB130": {
+    "vol": "J23",
+    "type": "textbody",
+    "alt": "X1223+X1224",
+    "title": "頓悟入道要門論諸方門人參問語錄",
+    "juan": 2
+  },
+  "JB131": {
+    "vol": "J23",
+    "type": "textbody",
+    "alt": "X1309",
+    "title": "正法眼藏",
+    "juan": 3
+  },
+  "JB132": {
+    "vol": "J23",
+    "type": "textbody",
+    "alt": "T2006",
+    "title": "人天眼目",
+    "juan": 6
+  },
+  "JB133": {
+    "vol": "J23",
+    "type": "textbody",
+    "alt": "X1624+X1625",
+    "title": "林間錄　後集",
+    "juan": 3
+  },
+  "JB134": {
+    "vol": "J23",
+    "type": "textbody",
+    "alt": "JB134+T1989+T1990+T1986B+T1987B+T1991",
+    "title": "五家語錄（選錄）",
+    "juan": 5,
+    "category": "禪宗部類",
+    "juans": "2",
+    "byline": "唐 慧然集　明 郭凝之重訂",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "慧然",
+        "id": "A001728"
+      },
+      {
+        "name": "郭凝之",
+        "id": "A001771"
+      }
+    ]
+  },
+  "JB135": {
+    "vol": "J23",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "石門文字禪",
+    "juans": "30",
+    "byline": "宋 德洪著　原書缺　依民國十年常州天寧寺刻本印",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "德洪",
+        "id": "A001673"
+      }
+    ]
+  },
+  "JB136": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "X1565",
+    "title": "五燈會元",
+    "juan": 20
+  },
+  "JB137": {
+    "vol": "J24",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "趙州和尚語錄",
+    "juans": "3",
+    "byline": "唐 從諗說　文遠記　大參重校　明聲重刻",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "從諗",
+        "id": "A004475"
+      },
+      {
+        "name": "文遠",
+        "id": "A008960"
+      },
+      {
+        "name": "大參",
+        "id": "A020627"
+      },
+      {
+        "name": "明聲",
+        "id": "A037260"
+      }
+    ]
+  },
+  "JB138": {
+    "vol": "J24",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "雲門匡真禪師語錄",
+    "juans": "3",
+    "byline": "南漢 文偃說　守堅編",
+    "dynasty": "南漢",
+    "time_from": 917,
+    "time_to": 971,
+    "contributors": [
+      {
+        "name": "文偃",
+        "id": "A003703"
+      },
+      {
+        "name": "守堅",
+        "id": "A000360"
+      }
+    ]
+  },
+  "JB139": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "X1420",
+    "title": "楚石禪師語錄",
+    "juan": 20
+  },
+  "JB140": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "X1351",
+    "title": "白雲守端禪師語錄",
+    "juan": 2
+  },
+  "JB141": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "X1358",
+    "title": "虎丘隆和尚語錄",
+    "juan": 1
+  },
+  "JB142": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "X1359",
+    "title": "應菴和尚語錄",
+    "juan": 10
+  },
+  "JB143": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "T1999",
+    "title": "密菴傑禪師語錄",
+    "juan": 2
+  },
+  "JB144": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "X1342+X68n1315_p0272b20",
+    "title": "雲菴真淨禪師語錄",
+    "juan": 6
+  },
+  "JB145": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "X1397",
+    "title": "雪巖和尚語錄",
+    "juan": 2
+  },
+  "JB146": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "X1400",
+    "title": "高峰大師語錄",
+    "juan": 1
+  },
+  "JB147": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "X1394",
+    "title": "斷橋妙倫禪師語錄",
+    "juan": 1
+  },
+  "JB148": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "X1395",
+    "title": "瑞巖方山寶禪師語錄",
+    "juan": 1
+  },
+  "JB149": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "X1419",
+    "title": "元叟端禪師語錄",
+    "juan": 8
+  },
+  "JB150": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "X1449",
+    "title": "湖州吳山端禪師語錄",
+    "juan": 2
+  },
+  "JB151": {
+    "vol": "J24",
+    "type": "textbody",
+    "alt": "X1577",
+    "title": "羅湖野錄",
+    "juan": 2
+  },
+  "JB152": {
+    "vol": "J25",
+    "type": "textbody",
+    "alt": "X1396",
+    "title": "天台無見覩禪師語錄",
+    "juan": 2
+  },
+  "JB153": {
+    "vol": "J25",
+    "type": "textbody",
+    "alt": "X1399",
+    "title": "福源石屋珙禪師語錄",
+    "juan": 2
+  },
+  "JB154": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "松隱唯菴然和尚語錄",
+    "juans": "3",
+    "byline": "明 德然說　慧省編次",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "德然",
+        "id": "A010704"
+      },
+      {
+        "name": "慧省",
+        "id": "A037261"
+      }
+    ]
+  },
+  "JB155": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "無趣老人語錄",
+    "juans": "1",
+    "byline": "明 如空說　性沖編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "如空",
+        "id": "A010706"
+      },
+      {
+        "name": "性沖",
+        "id": "A007841"
+      }
+    ]
+  },
+  "JB156": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "無幻禪師語錄",
+    "juans": "2",
+    "byline": "明 性沖說　慧廣編集",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "性沖",
+        "id": "A007841"
+      },
+      {
+        "name": "慧廣",
+        "id": "A010707"
+      }
+    ]
+  },
+  "JB157": {
+    "vol": "J25",
+    "type": "textbody",
+    "alt": "X1421",
+    "title": "愚菴及禪師語錄",
+    "juan": 10
+  },
+  "JB158": {
+    "vol": "J25",
+    "type": "textbody",
+    "alt": "X1416",
+    "title": "恕中和尚語錄",
+    "juan": 6
+  },
+  "JB159": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天真毒峰善禪師要語",
+    "juans": "1",
+    "byline": "明 本善記　悟深編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "本善",
+        "id": "A015704"
+      },
+      {
+        "name": "悟深",
+        "id": "A037262"
+      }
+    ]
+  },
+  "JB160": {
+    "vol": "J25",
+    "type": "textbody",
+    "alt": "X1422",
+    "title": "南石和尚語錄",
+    "juan": 4
+  },
+  "JB161": {
+    "vol": "J25",
+    "type": "textbody",
+    "alt": "X1418",
+    "title": "呆菴莊禪師語錄",
+    "juan": 8
+  },
+  "JB162": {
+    "vol": "J25",
+    "type": "textbody",
+    "alt": "X1367",
+    "title": "笑隱訢禪師語錄",
+    "juan": 4
+  },
+  "JB163": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "古庭禪師語錄輯略",
+    "juans": "4",
+    "byline": "明 善堅說　各卷首皆題曹溪一滴古庭禪師語錄",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "善堅",
+        "id": "A001339"
+      }
+    ]
+  },
+  "JB164": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "曹溪一滴",
+    "juans": "1",
+    "byline": "明 周理編　附夢語摘要",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "周理",
+        "id": "A000560"
+      }
+    ]
+  },
+  "JB165": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "大巍禪師竹室集",
+    "juans": "1",
+    "byline": "明 淨倫撰　周理輯　內題曹溪一滴卷六",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "淨倫",
+        "id": "A001105"
+      },
+      {
+        "name": "周理",
+        "id": "A000560"
+      }
+    ]
+  },
+  "JB166": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "浮山法句",
+    "juans": "1",
+    "byline": "明 本智撰　周理輯　內題曹溪一滴卷七　前有明 吳應賓塔銘及王舜鼎夢禪語",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "本智",
+        "id": "A000257"
+      },
+      {
+        "name": "周理",
+        "id": "A000560"
+      }
+    ]
+  },
+  "JB167": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "徹庸和尚谷響集",
+    "juans": "1",
+    "byline": "明 徹庸撰　洪如錄　內題曹溪一滴卷八　後附淨土偈一卷",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "徹庸",
+        "id": "A000560"
+      },
+      {
+        "name": "洪如",
+        "id": "A000854"
+      }
+    ]
+  },
+  "JB168": {
+    "vol": "J25",
+    "type": "textbody",
+    "alt": "X1414",
+    "title": "南堂了菴禪師語錄",
+    "juan": 22
+  },
+  "JB169": {
+    "vol": "J25",
+    "type": "textbody",
+    "alt": "L1637",
+    "title": "龍池幻有禪師語錄",
+    "juan": 12
+  },
+  "JB170": {
+    "vol": "J25",
+    "type": "textbody",
+    "alt": "L1638",
+    "title": "雪嶠禪師語錄",
+    "juan": 6
+  },
+  "JB171": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天隱和尚語錄",
+    "juans": "15",
+    "byline": "明 圓修說　通問等編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "圓修",
+        "id": "A001410"
+      },
+      {
+        "name": "通問",
+        "id": "A013268"
+      }
+    ]
+  },
+  "JB172": {
+    "vol": "J25",
+    "type": "textbody",
+    "alt": "X1444",
+    "title": "會稽雲門湛然澄禪師語錄",
+    "juan": 8
+  },
+  "JB173": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "壽昌無明和尚語錄",
+    "juans": "2",
+    "byline": "明 慧經說　元來集",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "慧經",
+        "id": "A003828"
+      },
+      {
+        "name": "元來",
+        "id": "A000114"
+      }
+    ]
+  },
+  "JB174": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天界覺浪盛禪師語錄",
+    "juans": "12",
+    "byline": "明 道盛說　大成．大奇等編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "道盛",
+        "id": "A007948"
+      },
+      {
+        "name": "大成",
+        "id": "A016282"
+      },
+      {
+        "name": "大奇",
+        "id": "A016501"
+      }
+    ]
+  },
+  "JB175": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "大溈五峰學禪師語錄",
+    "juans": "1",
+    "byline": "明 如學說　清 智海重刻　周堪賡序　有行實　明 陶汝鼐塔銘",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "如學",
+        "id": "A003855"
+      },
+      {
+        "name": "智海",
+        "id": "A001270"
+      },
+      {
+        "name": "周堪賡",
+        "id": "A037263"
+      },
+      {
+        "name": "陶汝鼐",
+        "id": "A037264"
+      }
+    ]
+  },
+  "JB176": {
+    "vol": "J25",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "大溈密印寺養拙明禪師語錄",
+    "juans": "1",
+    "byline": "清 正明說　智海編　通雲序　陶之典序　有行實　周堪賡塔銘　附大溈四記一卷",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "正明",
+        "id": "A000266"
+      },
+      {
+        "name": "智海",
+        "id": "A001270"
+      },
+      {
+        "name": "通雲",
+        "id": "A014742"
+      },
+      {
+        "name": "陶之典",
+        "id": "A037265"
+      },
+      {
+        "name": "周堪賡",
+        "id": "A037263"
+      }
+    ]
+  },
+  "JB177": {
+    "vol": "J26",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "破山禪師語錄",
+    "juans": "20",
+    "byline": "清 海明說　印正等編　附年譜　印巒等輯　印綬等編　原書缺依駒本印",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "海明",
+        "id": "A009652"
+      },
+      {
+        "name": "印正",
+        "id": "A001501"
+      },
+      {
+        "name": "印巒",
+        "id": "A010702"
+      },
+      {
+        "name": "印綬",
+        "id": "A026177"
+      }
+    ]
+  },
+  "JB178": {
+    "vol": "J26",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "費隱禪師語錄",
+    "juans": "14",
+    "byline": "明 通容說　隆琦等編　附紀年錄　行觀．王谷同集　徐昌治．董行證較　行宗．行古重訂刻",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "通容",
+        "id": "A001150"
+      },
+      {
+        "name": "隆琦",
+        "id": "A001873"
+      },
+      {
+        "name": "行觀",
+        "id": "A004078"
+      },
+      {
+        "name": "王谷",
+        "id": "A004702"
+      },
+      {
+        "name": "徐昌治",
+        "id": "A000922"
+      },
+      {
+        "name": "董行",
+        "id": "A037266"
+      },
+      {
+        "name": "行宗",
+        "id": "A037267"
+      },
+      {
+        "name": "行古",
+        "id": "A037268"
+      }
+    ]
+  },
+  "JB179": {
+    "vol": "J26",
+    "type": "textbody",
+    "alt": "L1643",
+    "title": "天童弘覺忞禪師語錄",
+    "juan": 20
+  },
+  "JB180": {
+    "vol": "J26",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天童弘覺忞禪師北遊集",
+    "juans": "6",
+    "byline": "清 道忞說　真樸編次",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "道忞",
+        "id": "A001513"
+      },
+      {
+        "name": "真樸",
+        "id": "A000960"
+      }
+    ]
+  },
+  "JB181": {
+    "vol": "J26",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "布水臺集",
+    "juans": "32",
+    "byline": "明 道忞著（中央圖書館善本書目編在集部別集類）",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "道忞",
+        "id": "A001513"
+      }
+    ]
+  },
+  "JB182": {
+    "vol": "J26",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "萬如禪師語錄",
+    "juans": "10",
+    "byline": "清 通微說　行猷等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "通微",
+        "id": "A012040"
+      },
+      {
+        "name": "行猷",
+        "id": "A037269"
+      }
+    ]
+  },
+  "JB183": {
+    "vol": "J26",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "雪竇石奇禪師語錄",
+    "juans": "15",
+    "byline": "清 通雲說　行正等編錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "通雲",
+        "id": "A014742"
+      },
+      {
+        "name": "行正",
+        "id": "A018988"
+      }
+    ]
+  },
+  "JB184": {
+    "vol": "J26",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "牧雲和尚七會語錄",
+    "juans": "6",
+    "byline": "清 通門說　行瑋等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "通門",
+        "id": "A001148"
+      },
+      {
+        "name": "行瑋",
+        "id": "A016290"
+      }
+    ]
+  },
+  "JB185": {
+    "vol": "J26",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "浮石禪師語錄",
+    "juans": "10",
+    "byline": "明 通賢說　行浚等編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "通賢",
+        "id": "A012052"
+      },
+      {
+        "name": "行浚",
+        "id": "A026449"
+      }
+    ]
+  },
+  "JB186": {
+    "vol": "J26",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "林野奇禪師語錄",
+    "juans": "8",
+    "byline": "明 通奇說　行謐等編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "通奇",
+        "id": "A012053"
+      },
+      {
+        "name": "行謐",
+        "id": "A016193"
+      }
+    ]
+  },
+  "JB187": {
+    "vol": "J26",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天岸昇禪師語錄",
+    "juans": "20",
+    "byline": "清 昇說　元玉等記錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "天岸昇禪師",
+        "id": "A016456"
+      },
+      {
+        "name": "元玉",
+        "id": "A018989"
+      }
+    ]
+  },
+  "JB188": {
+    "vol": "J26",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "入就瑞白禪師語錄",
+    "juans": "18",
+    "byline": "明 明雪說　寂蘊編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "明雪",
+        "id": "A007133"
+      },
+      {
+        "name": "寂蘊",
+        "id": "A014950"
+      }
+    ]
+  },
+  "JB189": {
+    "vol": "J27",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "三宜盂禪師語錄",
+    "juans": "11",
+    "byline": "明 明盂說　淨範等編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "明盂",
+        "id": "A012054"
+      },
+      {
+        "name": "淨範",
+        "id": "A016471"
+      }
+    ]
+  },
+  "JB190": {
+    "vol": "J27",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "石雨禪師法檀",
+    "juans": "20",
+    "byline": "明 明方說　淨柱編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "明方",
+        "id": "A010693"
+      },
+      {
+        "name": "淨柱",
+        "id": "A001103"
+      }
+    ]
+  },
+  "JB191": {
+    "vol": "J27",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "象田即念禪師語錄",
+    "juans": "4",
+    "byline": "明 淨現說　淨癡等錄",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "淨現",
+        "id": "A012055"
+      },
+      {
+        "name": "淨癡",
+        "id": "A037270"
+      }
+    ]
+  },
+  "JB192": {
+    "vol": "J27",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "大休珠禪師語錄",
+    "juans": "12",
+    "byline": "清 珠說　廣熙等錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "大休珠禪師",
+        "id": "A018992"
+      },
+      {
+        "name": "廣熙",
+        "id": "A037271"
+      }
+    ]
+  },
+  "JB193": {
+    "vol": "J27",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "隱元禪師語錄",
+    "juans": "16",
+    "byline": "清 隆琦說　海寧等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "隆琦",
+        "id": "A001873"
+      },
+      {
+        "name": "海寧",
+        "id": "A031145"
+      }
+    ]
+  },
+  "JB194": {
+    "vol": "J27",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "昭覺丈雪醉禪師語錄",
+    "juans": "10",
+    "byline": "清 通醉說　徹綱等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "通醉",
+        "id": "A001157"
+      },
+      {
+        "name": "徹綱",
+        "id": "A016519"
+      }
+    ]
+  },
+  "JB195": {
+    "vol": "J27",
+    "type": "textbody",
+    "alt": "L1649",
+    "title": "南嶽山茨際禪師語錄",
+    "juan": 4
+  },
+  "JB196": {
+    "vol": "J27",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "鴛湖用禪師語錄",
+    "juans": "2",
+    "byline": "清 妙用說　悟進．悟元等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "妙用",
+        "id": "A010708"
+      },
+      {
+        "name": "悟進",
+        "id": "A010710"
+      },
+      {
+        "name": "悟元",
+        "id": "A010711"
+      }
+    ]
+  },
+  "JB197": {
+    "vol": "J27",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "博山無異大師語錄集要",
+    "juans": "6",
+    "byline": "明 元來說　成正錄　元賢集",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "元來",
+        "id": "A000114"
+      },
+      {
+        "name": "成正",
+        "id": "A000374"
+      },
+      {
+        "name": "元賢",
+        "id": "A000135"
+      }
+    ]
+  },
+  "JB198": {
+    "vol": "J27",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "雪關禪師語錄",
+    "juans": "13",
+    "byline": "明 智誾說　成巒等錄　開詗編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "智誾",
+        "id": "A011738"
+      },
+      {
+        "name": "成巒",
+        "id": "A027566"
+      },
+      {
+        "name": "開詗",
+        "id": "A001382"
+      }
+    ]
+  },
+  "JB199": {
+    "vol": "J27",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "雪關和尚語錄",
+    "juans": "6",
+    "byline": "明 智誾說　傳善輯",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "智誾",
+        "id": "A011738"
+      },
+      {
+        "name": "傳善",
+        "id": "A037272"
+      }
+    ]
+  },
+  "JB200": {
+    "vol": "J27",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "石霜爾瞻尊禪師語錄",
+    "juans": "2",
+    "byline": "清 達尊說　本開等記錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "達尊",
+        "id": "A001571"
+      },
+      {
+        "name": "本開",
+        "id": "A016505"
+      }
+    ]
+  },
+  "JB201": {
+    "vol": "J27",
+    "type": "textbody",
+    "alt": "X1437",
+    "title": "鼓山永覺和尚廣錄",
+    "juan": 30
+  },
+  "JB202": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "百癡禪師語錄",
+    "juans": "30",
+    "byline": "清 元說　超宣等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "元",
+        "id": "A000392"
+      },
+      {
+        "name": "超宣",
+        "id": "A037273"
+      }
+    ]
+  },
+  "JB203": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "雲峨喜禪師語錄",
+    "juans": "2",
+    "byline": "清 喜說　智恒等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "雲峨喜禪師",
+        "id": "A010007"
+      },
+      {
+        "name": "智恒",
+        "id": "A037274"
+      }
+    ]
+  },
+  "JB204": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "斌雅禪師語錄",
+    "juans": "2",
+    "byline": "清 鑑說　海岳記錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "斌雅禪師",
+        "id": "A018935"
+      },
+      {
+        "name": "海岳",
+        "id": "A037275"
+      }
+    ]
+  },
+  "JB205": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "介為舟禪師語錄",
+    "juans": "10",
+    "byline": "清 行舟說　海鹽．益證等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "行舟",
+        "id": "A000406"
+      },
+      {
+        "name": "海鹽",
+        "id": "A037642"
+      },
+      {
+        "name": "益證",
+        "id": "A037643"
+      }
+    ]
+  },
+  "JB206": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "笑堂和尚語錄",
+    "juans": "1",
+    "byline": "清 說　超源等記錄　超晙等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "笑堂和尚",
+        "id": "A016202"
+      },
+      {
+        "name": "超源",
+        "id": "A037276"
+      },
+      {
+        "name": "超晙",
+        "id": "A037277"
+      }
+    ]
+  },
+  "JB207": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "古瓶山牧道者究心錄",
+    "juans": "3",
+    "byline": "明 真本說　機峻等編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "真本",
+        "id": "A014951"
+      },
+      {
+        "name": "機峻",
+        "id": "A019255"
+      }
+    ]
+  },
+  "JB208": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "古雪哲禪師語錄",
+    "juans": "20",
+    "byline": "明 真哲說　傳我等編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "真哲",
+        "id": "A012057"
+      },
+      {
+        "name": "傳我",
+        "id": "A037466"
+      }
+    ]
+  },
+  "JB209": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "永濟融禪師語錄",
+    "juans": "2",
+    "byline": "清 融說　師住．妙印等錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "永濟融禪師",
+        "id": "A018938"
+      },
+      {
+        "name": "師住",
+        "id": "A037467"
+      },
+      {
+        "name": "妙印",
+        "id": "A037468"
+      }
+    ]
+  },
+  "JB210": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "伏獅祇園禪師語錄",
+    "juans": "2",
+    "byline": "清 行剛（尼）說　授遠．超宿等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "行剛",
+        "id": "A018946"
+      },
+      {
+        "name": "授遠",
+        "id": "A037469"
+      },
+      {
+        "name": "超宿",
+        "id": "A037470"
+      }
+    ]
+  },
+  "JB211": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "季總徹禪師語錄",
+    "juans": "4",
+    "byline": "清 徹（尼）說　超祥記錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "季總徹禪師",
+        "id": "A018939"
+      },
+      {
+        "name": "超祥",
+        "id": "A037471"
+      }
+    ]
+  },
+  "JB212": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "二隱謐禪師語錄",
+    "juans": "10",
+    "byline": "清 謐說　超巨．超秀等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "二隱謐禪師",
+        "id": "A016193"
+      },
+      {
+        "name": "超巨",
+        "id": "A037472"
+      },
+      {
+        "name": "超秀",
+        "id": "A019011"
+      }
+    ]
+  },
+  "JB213": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "芝巖秀禪師語錄",
+    "juans": "2",
+    "byline": "清 秀說　明一等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "芝巖秀禪師",
+        "id": "A019011"
+      },
+      {
+        "name": "明一",
+        "id": "A037473"
+      }
+    ]
+  },
+  "JB214": {
+    "vol": "J28",
+    "type": "textbody",
+    "alt": "X0615+T1939+X0974+X1137+X60n1123_p0540a16+X1124+X0703+T1500+JB214",
+    "title": "蕅益大師佛學十種（選錄「性學開蒙」．「梵室偶談」兩種）",
+    "juan": 10,
+    "category": "禪宗部類",
+    "juans": "2",
+    "byline": "明 智旭著",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "智旭",
+        "id": "A001257"
+      }
+    ]
+  },
+  "JB215": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "頌古合響集",
+    "juans": "1",
+    "byline": "明 徹（尼）．符（尼）合頌　張有譽輯並序",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "徹",
+        "id": "A019288"
+      },
+      {
+        "name": "符",
+        "id": "A019373"
+      },
+      {
+        "name": "張有譽",
+        "id": "A026588"
+      }
+    ]
+  },
+  "JB216": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "絕餘編",
+    "juans": "4",
+    "byline": "明 智旭著　圓果錄",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "智旭",
+        "id": "A001257"
+      },
+      {
+        "name": "圓果",
+        "id": "A037474"
+      }
+    ]
+  },
+  "JB217": {
+    "vol": "J28",
+    "type": "textbody",
+    "alt": "X1263",
+    "title": "禪林寶訓合註",
+    "juan": 4
+  },
+  "JB218": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "懶石聆禪師語錄",
+    "juans": "4",
+    "byline": "清 聆說　海瑞等錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "懶石聆禪師",
+        "id": "A016419"
+      },
+      {
+        "name": "海瑞",
+        "id": "A037475"
+      }
+    ]
+  },
+  "JB219": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "紫竹林顓愚衡和尚語錄",
+    "juans": "20",
+    "byline": "清 觀衡說　正印重編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "觀衡",
+        "id": "A001993"
+      },
+      {
+        "name": "正印",
+        "id": "A019187"
+      }
+    ]
+  },
+  "JB220": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "法璽印禪師語錄",
+    "juans": "12",
+    "byline": "清 印說　性圓等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "法璽印禪師",
+        "id": "A019187"
+      },
+      {
+        "name": "性圓",
+        "id": "A037476"
+      }
+    ]
+  },
+  "JB221": {
+    "vol": "J28",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "楞嚴法璽印禪師語錄",
+    "juans": "2",
+    "byline": "清 印說　旋性記錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "法璽印禪師",
+        "id": "A019187"
+      },
+      {
+        "name": "旋性",
+        "id": "A037477"
+      }
+    ]
+  },
+  "JB222": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "夔州臥龍字水禪師語錄",
+    "juans": "3",
+    "byline": "明 圓䂐說　觀誰等錄",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "圓䂐",
+        "id": "A010152"
+      },
+      {
+        "name": "觀誰",
+        "id": "A026198"
+      }
+    ]
+  },
+  "JB223": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "山暉禪師語錄",
+    "juans": "12",
+    "byline": "清 璧說　如崇等錄　宗上編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "山暉禪師",
+        "id": "A016480"
+      },
+      {
+        "name": "如崇",
+        "id": "A037478"
+      },
+      {
+        "name": "宗上",
+        "id": "A016610"
+      }
+    ]
+  },
+  "JB224": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "嵩山野竹禪師錄",
+    "juans": "14",
+    "byline": "清 福慧說　宗宏錄　宗上．宗堅仝編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "福慧",
+        "id": "A016491"
+      },
+      {
+        "name": "宗宏",
+        "id": "A016535"
+      },
+      {
+        "name": "宗上",
+        "id": "A016610"
+      },
+      {
+        "name": "宗堅",
+        "id": "A019253"
+      }
+    ]
+  },
+  "JB225": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "鄂州龍光達夫禪師雞肋集",
+    "juans": "1",
+    "byline": "清 蘊上說　道汜．道沖等錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "蘊上",
+        "id": "A016610"
+      },
+      {
+        "name": "道汜",
+        "id": "A037479"
+      },
+      {
+        "name": "道沖",
+        "id": "A037480"
+      }
+    ]
+  },
+  "JB226": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "頌古鉤鉅",
+    "juans": "1",
+    "byline": "清 蘊上頌并跋　蘊宏著語（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "蘊上",
+        "id": "A016610"
+      },
+      {
+        "name": "蘊宏",
+        "id": "A016535"
+      }
+    ]
+  },
+  "JB227": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "集文字禪",
+    "juans": "1",
+    "byline": "清 蘊上著　舒峻極序　杜國柱序（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "蘊上",
+        "id": "A016610"
+      },
+      {
+        "name": "舒峻極",
+        "id": "A037481"
+      },
+      {
+        "name": "杜國柱",
+        "id": "A037482"
+      }
+    ]
+  },
+  "JB228": {
+    "vol": "J29",
+    "type": "textbody",
+    "alt": "X0513",
+    "title": "佛說仁王護國般若波羅蜜經疏",
+    "juan": 3
+  },
+  "JB229": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "法瀾澂禪師語錄",
+    "juans": "2",
+    "byline": "清 原澂說　清杲編次（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "原澂",
+        "id": "A000898"
+      },
+      {
+        "name": "清杲",
+        "id": "A037483"
+      }
+    ]
+  },
+  "JB230": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天王水鑑海和尚六會錄",
+    "juans": "10",
+    "byline": "清 慧海說　原澂等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "慧海",
+        "id": "A001716"
+      },
+      {
+        "name": "原澂",
+        "id": "A000898"
+      }
+    ]
+  },
+  "JB231": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天王水鑑海和尚五會錄",
+    "juans": "6",
+    "byline": "清 慧海說　原澂等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "慧海",
+        "id": "A001716"
+      },
+      {
+        "name": "原澂",
+        "id": "A000898"
+      }
+    ]
+  },
+  "JB232": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天王水鑑海和尚住金粟語錄",
+    "juans": "3",
+    "byline": "清 慧海說　原澂．原上等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "慧海",
+        "id": "A001716"
+      },
+      {
+        "name": "原澂",
+        "id": "A000898"
+      },
+      {
+        "name": "原上",
+        "id": "A037484"
+      }
+    ]
+  },
+  "JB233": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "介菴進禪師語錄",
+    "juans": "10",
+    "byline": "清 悟進說　真理等編　附源流頌",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "悟進",
+        "id": "A010710"
+      },
+      {
+        "name": "真理",
+        "id": "A016230"
+      }
+    ]
+  },
+  "JB234": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "一初元禪師語錄",
+    "juans": "2",
+    "byline": "清 元說　真開．真智等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "一初元禪師",
+        "id": "A010711"
+      },
+      {
+        "name": "真開",
+        "id": "A037485"
+      },
+      {
+        "name": "真智",
+        "id": "A016482"
+      }
+    ]
+  },
+  "JB235": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "蓮月禪師語錄",
+    "juans": "6",
+    "byline": "清 道正說　性容等錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "道正",
+        "id": "A001501"
+      },
+      {
+        "name": "性容",
+        "id": "A037486"
+      }
+    ]
+  },
+  "JB236": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "玉泉蓮月正禪師語錄",
+    "juans": "2",
+    "byline": "清 道正說　發慧等錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "道正",
+        "id": "A001501"
+      },
+      {
+        "name": "發慧",
+        "id": "A001325"
+      }
+    ]
+  },
+  "JB237": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "月幢了禪師語錄",
+    "juans": "4",
+    "byline": "清 了說　達最等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "月幢了禪師",
+        "id": "A016401"
+      },
+      {
+        "name": "達最",
+        "id": "A026325"
+      }
+    ]
+  },
+  "JB238": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "聚雲吹萬真禪師語錄",
+    "juans": "3",
+    "byline": "明 廣真說　燈來編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "廣真",
+        "id": "A001662"
+      },
+      {
+        "name": "燈來",
+        "id": "A001808"
+      }
+    ]
+  },
+  "JB239": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "吹萬禪師語錄",
+    "juans": "20",
+    "byline": "明 廣真說　燈來重編（依駒本印）",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "廣真",
+        "id": "A001662"
+      },
+      {
+        "name": "燈來",
+        "id": "A001808"
+      }
+    ]
+  },
+  "JB240": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "慶忠鐵壁機禪師語錄",
+    "juans": "3",
+    "byline": "明 慧機說　燈來編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "慧機",
+        "id": "A001738"
+      },
+      {
+        "name": "燈來",
+        "id": "A001808"
+      }
+    ]
+  },
+  "JB241": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "慶忠鐵壁機禪師語錄",
+    "juans": "20",
+    "byline": "明 慧機說　幻敏重編（依駒本印）",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "慧機",
+        "id": "A001738"
+      },
+      {
+        "name": "幻敏",
+        "id": "A000153"
+      }
+    ]
+  },
+  "JB242": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "鐵眉三巴掌禪師語錄",
+    "juans": "1",
+    "byline": "明 鐵眉號三巴掌說　性養．性亮同編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "鐵眉三巴掌禪師",
+        "id": "A010142"
+      },
+      {
+        "name": "性養",
+        "id": "A000642"
+      },
+      {
+        "name": "性亮",
+        "id": "A000629"
+      }
+    ]
+  },
+  "JB243": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "耳庵嵩禪師語錄",
+    "juans": "1",
+    "byline": "清 嵩說　性愷編　徐善序　有附記",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "耳庵嵩禪師",
+        "id": "A019189"
+      },
+      {
+        "name": "性愷",
+        "id": "A037487"
+      },
+      {
+        "name": "徐善",
+        "id": "A037488"
+      }
+    ]
+  },
+  "JB244": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "三山來禪師語錄",
+    "juans": "16",
+    "byline": "清 燈來說　普定編（原目二十八卷　卷十七下註有「嗣刻」二字　此為初刻本）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "燈來",
+        "id": "A001808"
+      },
+      {
+        "name": "普定",
+        "id": "A037489"
+      }
+    ]
+  },
+  "JB245": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "高峰三山來禪師年譜",
+    "juans": "1",
+    "byline": "清 性統編　至善序（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "性統",
+        "id": "A000635"
+      },
+      {
+        "name": "至善",
+        "id": "A037490"
+      }
+    ]
+  },
+  "JB246": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "嘉興退菴斷愚智禪師語錄",
+    "juans": "2",
+    "byline": "清 智說　機輪等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "斷愚智禪師",
+        "id": "A016482"
+      },
+      {
+        "name": "機輪",
+        "id": "A037491"
+      }
+    ]
+  },
+  "JB247": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "普光坦菴禪師語錄",
+    "juans": "1",
+    "byline": "清 機峻說　全弘錄　羅開麟序（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "機峻",
+        "id": "A019255"
+      },
+      {
+        "name": "全弘",
+        "id": "A037492"
+      },
+      {
+        "name": "羅開麟",
+        "id": "A037493"
+      }
+    ]
+  },
+  "JB248": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "達變權禪師語錄",
+    "juans": "5",
+    "byline": "清 顯權說　海澂錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "顯權",
+        "id": "A001978"
+      },
+      {
+        "name": "海澂",
+        "id": "A037494"
+      }
+    ]
+  },
+  "JB249": {
+    "vol": "J29",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "方融璽禪師語錄",
+    "juans": "3",
+    "byline": "清 如璽說　興林等編　附淨土詩",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "如璽",
+        "id": "A019256"
+      },
+      {
+        "name": "興林",
+        "id": "A037495"
+      }
+    ]
+  },
+  "JB250": {
+    "vol": "J29",
+    "type": "textbody",
+    "alt": "X1126",
+    "title": "弘戒法儀",
+    "juan": 2
+  },
+  "JB251": {
+    "vol": "J30",
+    "type": "textbody",
+    "alt": "X0623",
+    "title": "法華授手",
+    "juan": 10
+  },
+  "JB252": {
+    "vol": "J30",
+    "type": "textbody",
+    "alt": "X1578",
+    "title": "指月錄",
+    "juan": 32
+  },
+  "JB253": {
+    "vol": "J30",
+    "type": "textbody",
+    "alt": "X0709",
+    "title": "毘尼止持會集",
+    "juan": 16
+  },
+  "JB254": {
+    "vol": "J30",
+    "type": "textbody",
+    "alt": "X0730",
+    "title": "毘尼作持續釋",
+    "juan": 15
+  },
+  "JB255": {
+    "vol": "J30",
+    "type": "textbody",
+    "alt": "X0700",
+    "title": "梵網初津",
+    "juan": 8
+  },
+  "JB256": {
+    "vol": "J30",
+    "type": "textbody",
+    "alt": "X1135",
+    "title": "羯磨儀式",
+    "juan": 2
+  },
+  "JB257": {
+    "vol": "J30",
+    "type": "textbody",
+    "alt": "X1116",
+    "title": "毘尼日用切要香乳集",
+    "juan": 2
+  },
+  "JB258": {
+    "vol": "J30",
+    "type": "textbody",
+    "alt": "X1119",
+    "title": "沙彌律儀要略述義",
+    "juan": 2
+  },
+  "JB259": {
+    "vol": "J30",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "怡山禮佛發願文略釋",
+    "juans": "1",
+    "byline": "清 書玉略釋並序跋　有事義（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "書玉",
+        "id": "A000935"
+      }
+    ]
+  },
+  "JB260": {
+    "vol": "J30",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "大懺悔文略解",
+    "juans": "2",
+    "byline": "清 書玉略解（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "書玉",
+        "id": "A000935"
+      }
+    ]
+  },
+  "JB261": {
+    "vol": "J30",
+    "type": "textbody",
+    "alt": "X1134",
+    "title": "二部僧授戒軌範",
+    "juan": 2
+  },
+  "JB262": {
+    "vol": "J31",
+    "type": "textbody",
+    "alt": "X0306",
+    "title": "首楞嚴經觀心定解",
+    "juan": 10
+  },
+  "JB263": {
+    "vol": "J31",
+    "type": "textbody",
+    "alt": "X0303",
+    "title": "楞嚴經貫攝",
+    "juan": 10
+  },
+  "JB264": {
+    "vol": "J31",
+    "type": "textbody",
+    "alt": "X1608",
+    "title": "八十八祖道影傳贊",
+    "juan": 4
+  },
+  "JB265": {
+    "vol": "J31",
+    "type": "textbody",
+    "alt": "T1976",
+    "title": "西方合論",
+    "juan": 10
+  },
+  "JB266": {
+    "vol": "J31",
+    "type": "textbody",
+    "alt": "L1636",
+    "title": "莊子內篇註",
+    "juan": 4
+  },
+  "JB267": {
+    "vol": "J31",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "牧雲和尚嬾齋別集",
+    "juans": "14",
+    "byline": "明 通明撰　毛晉編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "通明",
+        "id": "A001148"
+      },
+      {
+        "name": "毛晉",
+        "id": "A018719"
+      }
+    ]
+  },
+  "JB268": {
+    "vol": "J31",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "牧雲和尚宗本投機頌",
+    "juans": "1",
+    "byline": "明 通明撰　附病遊遊刃．病遊初草．病遊後草",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "通明",
+        "id": "A001148"
+      }
+    ]
+  },
+  "JB269": {
+    "vol": "J31",
+    "type": "textbody",
+    "category": "般若部類",
+    "title": "金剛般若經疏論纂要刊定記會編",
+    "juans": "10",
+    "byline": "唐 宗密述疏　宋 子璿錄記　清 行策會編",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "宗密",
+        "id": "A000587"
+      },
+      {
+        "name": "子璿",
+        "id": "A000085"
+      },
+      {
+        "name": "行策",
+        "id": "A000421"
+      }
+    ]
+  },
+  "JB270": {
+    "vol": "J31",
+    "type": "textbody",
+    "alt": "X0280",
+    "title": "大佛頂首楞嚴經臆說",
+    "juan": 4
+  },
+  "JB271": {
+    "vol": "J31..J32",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "閱藏知津",
+    "juans": "44",
+    "byline": "明 智旭彙輯　總目四卷",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "智旭",
+        "id": "A001257"
+      }
+    ]
+  },
+  "JB272": {
+    "vol": "J32",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "明州天童景德禪寺宏智覺禪師語錄",
+    "juans": "4",
+    "byline": "宋 正覺說　淨啟重編",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "正覺",
+        "id": "A000278"
+      },
+      {
+        "name": "淨啟",
+        "id": "A037496"
+      }
+    ]
+  },
+  "JB273": {
+    "vol": "J32",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "千巖和尚語錄",
+    "juans": "1",
+    "byline": "元 元長說　嗣詔錄",
+    "dynasty": "元",
+    "time_from": 1271,
+    "time_to": 1368,
+    "contributors": [
+      {
+        "name": "元長",
+        "id": "A004551"
+      },
+      {
+        "name": "嗣詔",
+        "id": "A037497"
+      }
+    ]
+  },
+  "JB274": {
+    "vol": "J32",
+    "type": "textbody",
+    "alt": "L1652",
+    "title": "明覺聰禪師語錄",
+    "juan": 16
+  },
+  "JB275": {
+    "vol": "J32",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "興善南明廣禪師語錄",
+    "juans": "1",
+    "byline": "明 慧廣說　妙用集　悟進重輯並跋　明方序　黃承昊序　有行狀",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "慧廣",
+        "id": "A010707"
+      },
+      {
+        "name": "妙用",
+        "id": "A010708"
+      },
+      {
+        "name": "悟進",
+        "id": "A010710"
+      },
+      {
+        "name": "明方",
+        "id": "A010693"
+      },
+      {
+        "name": "黃承昊",
+        "id": "A037498"
+      }
+    ]
+  },
+  "JB276": {
+    "vol": "J32",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "不會禪師語錄",
+    "juans": "10",
+    "byline": "清 法通說　性靈等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "法通",
+        "id": "A019261"
+      },
+      {
+        "name": "性靈",
+        "id": "A037499"
+      }
+    ]
+  },
+  "JB277": {
+    "vol": "J32..J33",
+    "type": "textbody",
+    "alt": "X0276+JB277",
+    "title": "雲棲法彙（選錄）",
+    "juan": 15,
+    "category": "禪宗部類",
+    "juans": "25",
+    "byline": "明 袾宏著（原本多缺　依金陵本補印　並補後增讚序等文　凡補印者　於該條目上作△以志之）",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "袾宏",
+        "id": "A001394"
+      }
+    ]
+  },
+  "JB278": {
+    "vol": "J33",
+    "type": "textbody",
+    "alt": "X1574",
+    "title": "增集續傳燈錄",
+    "juan": 4
+  },
+  "JB279": {
+    "vol": "J33",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "虛舟禪師註八識規矩頌",
+    "juans": "1",
+    "byline": "清 行省撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "行省",
+        "id": "A000411"
+      }
+    ]
+  },
+  "JB280": {
+    "vol": "J33",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "神鼎雲外澤禪師語錄",
+    "juans": "15",
+    "byline": "清 行澤說　宏怤等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "行澤",
+        "id": "A010037"
+      },
+      {
+        "name": "宏怤",
+        "id": "A037500"
+      }
+    ]
+  },
+  "JB281": {
+    "vol": "J33",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "壇溪梓舟船禪師語錄",
+    "juans": "3",
+    "byline": "明 船說　明法等編（依駒本印）",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "壇溪梓舟船",
+        "id": "A012041"
+      },
+      {
+        "name": "明法",
+        "id": "A037501"
+      }
+    ]
+  },
+  "JB282": {
+    "vol": "J33",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "虛舟省禪師語錄",
+    "juans": "4",
+    "byline": "清 行省說　超直等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "行省",
+        "id": "A000411"
+      },
+      {
+        "name": "超直",
+        "id": "A001369"
+      }
+    ]
+  },
+  "JB283": {
+    "vol": "J33",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天台三聖詩集和韻",
+    "juans": "1",
+    "byline": "元 梵琦首和　清 福慧重和",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "梵琦",
+        "id": "A001082"
+      },
+      {
+        "name": "福慧",
+        "id": "A016491"
+      }
+    ]
+  },
+  "JB284": {
+    "vol": "J33",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "益州嵩山野竹禪師後錄",
+    "juans": "8",
+    "byline": "清 福慧說　洪希等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "福慧",
+        "id": "A016491"
+      },
+      {
+        "name": "洪希",
+        "id": "A012696"
+      }
+    ]
+  },
+  "JB285": {
+    "vol": "J33",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "兜率不磷堅禪師語錄",
+    "juans": "3",
+    "byline": "清 宗堅說　妙聖等記",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "宗堅",
+        "id": "A019253"
+      },
+      {
+        "name": "妙聖",
+        "id": "A037502"
+      }
+    ]
+  },
+  "JB286": {
+    "vol": "J33",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "攖寧靜禪師語錄",
+    "juans": "6",
+    "byline": "清 智靜說　德亮等編　德莪等錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "智靜",
+        "id": "A019266"
+      },
+      {
+        "name": "德亮",
+        "id": "A037503"
+      },
+      {
+        "name": "德峨",
+        "id": "A037504"
+      }
+    ]
+  },
+  "JB287": {
+    "vol": "J33",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "自閒覺禪師語錄",
+    "juans": "8",
+    "byline": "清 覺說　洪暹等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "自閒覺",
+        "id": "A016227"
+      },
+      {
+        "name": "洪暹",
+        "id": "A019267"
+      }
+    ]
+  },
+  "JB288": {
+    "vol": "J33",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "憨予暹禪師語錄",
+    "juans": "6",
+    "byline": "清 洪暹說　法雲等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "洪暹",
+        "id": "A019267"
+      },
+      {
+        "name": "法雲",
+        "id": "A037505"
+      }
+    ]
+  },
+  "JB289": {
+    "vol": "J33",
+    "type": "textbody",
+    "alt": "X0488",
+    "title": "金剛經郢說",
+    "juan": 1
+  },
+  "JB290": {
+    "vol": "J33",
+    "type": "textbody",
+    "alt": "X0489",
+    "title": "金剛經註正訛",
+    "juan": 1
+  },
+  "JB291": {
+    "vol": "J33",
+    "type": "textbody",
+    "alt": "X1176",
+    "title": "寶蓮淨土全書",
+    "juan": 2
+  },
+  "JB292": {
+    "vol": "J33",
+    "type": "textbody",
+    "alt": "X0870",
+    "title": "注肇論疏",
+    "juan": 6
+  },
+  "JB293": {
+    "vol": "J33",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "擬寒山詩",
+    "juans": "1",
+    "byline": "明 張守約追擬並序　唐守禮序　蔡善繼序（依駒本印）",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "張守約",
+        "id": "A022302"
+      },
+      {
+        "name": "唐守禮",
+        "id": "A037506"
+      },
+      {
+        "name": "蔡善繼",
+        "id": "A037507"
+      }
+    ]
+  },
+  "JB294": {
+    "vol": "J33",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "雲溪俍亭挺禪師語錄",
+    "juans": "18",
+    "byline": "清 淨挺說　智淙等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "淨挺",
+        "id": "A001106"
+      },
+      {
+        "name": "智淙",
+        "id": "A037508"
+      }
+    ]
+  },
+  "JB295": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "學佛考訓",
+    "juans": "10",
+    "byline": "清 淨挺輯",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "淨挺",
+        "id": "A001106"
+      }
+    ]
+  },
+  "JB296": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "漆園指通",
+    "juans": "3",
+    "byline": "清 淨挺著",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "淨挺",
+        "id": "A001106"
+      }
+    ]
+  },
+  "JB297": {
+    "vol": "J34",
+    "type": "textbody",
+    "alt": "X0674",
+    "title": "閱經十二種",
+    "juan": 14
+  },
+  "JB298": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "屾峰憲禪師語錄",
+    "juans": "10",
+    "byline": "清 憲說　智質．智原同編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "屾峰憲",
+        "id": "A001774"
+      },
+      {
+        "name": "智質",
+        "id": "A001296"
+      },
+      {
+        "name": "智原",
+        "id": "A037509"
+      }
+    ]
+  },
+  "JB299": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "三峰藏和尚語錄",
+    "juans": "16",
+    "byline": "明 法藏說　弘儲記　後附年譜一卷．南嶽勒古一卷",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "法藏",
+        "id": "A003668"
+      },
+      {
+        "name": "弘儲",
+        "id": "A000241"
+      }
+    ]
+  },
+  "JB300": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "朝宗禪師語錄",
+    "juans": "10",
+    "byline": "明 通忍說　行導編（依駒本印）",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "通忍",
+        "id": "A016164"
+      },
+      {
+        "name": "行導",
+        "id": "A013482"
+      }
+    ]
+  },
+  "JB301": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "南嶽繼起和尚語錄",
+    "juans": "10",
+    "byline": "清 弘儲說　濟機等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "弘儲",
+        "id": "A000241"
+      },
+      {
+        "name": "濟璣",
+        "id": "A015946"
+      }
+    ]
+  },
+  "JB302": {
+    "vol": "J34",
+    "type": "textbody",
+    "alt": "X1596",
+    "title": "南嶽單傳記",
+    "juan": 1
+  },
+  "JB303": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "燮雲璣禪師國清無畏堂語錄",
+    "juans": "1",
+    "byline": "清 濟璣說　玄杲錄　張有譽序",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "濟璣",
+        "id": "A015946"
+      },
+      {
+        "name": "玄杲",
+        "id": "A037510"
+      },
+      {
+        "name": "張有譽",
+        "id": "A026588"
+      }
+    ]
+  },
+  "JB304": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "靈樹遠禪師雲嵒集",
+    "juans": "2",
+    "byline": "清 僧遠說　廣仍記　附雲嵒頌古　附雲嵒九頌　余懷製",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "靈樹遠",
+        "id": "A019275"
+      },
+      {
+        "name": "廣仍",
+        "id": "A037511"
+      },
+      {
+        "name": "余懷",
+        "id": "A037512"
+      }
+    ]
+  },
+  "JB305": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "國清大庾韜禪師語錄",
+    "juans": "1",
+    "byline": "清 行韜說　顯裕等錄　有塔銘　行略（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "行韜",
+        "id": "A000427"
+      },
+      {
+        "name": "顯裕",
+        "id": "A001977"
+      }
+    ]
+  },
+  "JB306": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "內紹種禪師語錄",
+    "juans": "2",
+    "byline": "清 種說　照維等記　附頌古",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "內紹種",
+        "id": "A019286"
+      },
+      {
+        "name": "照維",
+        "id": "A037513"
+      }
+    ]
+  },
+  "JB307": {
+    "vol": "J34",
+    "type": "textbody",
+    "alt": "X0286",
+    "title": "首楞嚴經如說",
+    "juan": 10
+  },
+  "JB308": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "象崖珽禪師語錄",
+    "juans": "4",
+    "byline": "清 性珽說　益聞重刊",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "性珽",
+        "id": "A004939"
+      },
+      {
+        "name": "益聞",
+        "id": "A037514"
+      }
+    ]
+  },
+  "JB309": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "雲腹智禪師語錄",
+    "juans": "2",
+    "byline": "清 道智說　嶽賢．聯昇記錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "道智",
+        "id": "A011951"
+      },
+      {
+        "name": "嶽賢",
+        "id": "A037515"
+      },
+      {
+        "name": "聯昇",
+        "id": "A037516"
+      }
+    ]
+  },
+  "JB310": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "雲叟住禪師語錄",
+    "juans": "2",
+    "byline": "清 住說　元一記錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "雲叟住",
+        "id": "A016465"
+      },
+      {
+        "name": "元一",
+        "id": "A037517"
+      }
+    ]
+  },
+  "JB311": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天界覺浪盛禪師全錄",
+    "juans": "33",
+    "byline": "明 道盛說　大成．大然等較　後附杖門隨集",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "道盛",
+        "id": "A007948"
+      },
+      {
+        "name": "大成",
+        "id": "A016282"
+      },
+      {
+        "name": "大然",
+        "id": "A015972"
+      }
+    ]
+  },
+  "JB312": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天界覺浪盛禪師嘉禾語錄",
+    "juans": "1",
+    "byline": "明 道盛說　大樞．大英錄　譚貞默序",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "道盛",
+        "id": "A007948"
+      },
+      {
+        "name": "大樞",
+        "id": "A000066"
+      },
+      {
+        "name": "大英",
+        "id": "A027557"
+      },
+      {
+        "name": "譚貞默",
+        "id": "A037518"
+      }
+    ]
+  },
+  "JB313": {
+    "vol": "J34",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "青原愚者智禪師語錄",
+    "juans": "4",
+    "byline": "清 智說　興磬．興斧編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "青原愚者智",
+        "id": "A007940"
+      },
+      {
+        "name": "興磬",
+        "id": "A037519"
+      },
+      {
+        "name": "興斧",
+        "id": "A007130"
+      }
+    ]
+  },
+  "JB314": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X0744",
+    "title": "四分律名義標釋",
+    "juan": 40
+  },
+  "JB315": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X0717",
+    "title": "四分戒本如釋",
+    "juan": 12
+  },
+  "JB316": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X0695",
+    "title": "佛說梵網經菩薩心地品下略疏",
+    "juan": 8
+  },
+  "JB317": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1118",
+    "title": "沙彌律儀要略增註",
+    "juan": 2
+  },
+  "JB318": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1133",
+    "title": "沙彌學戒儀軌頌註",
+    "juan": 1
+  },
+  "JB319": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1492",
+    "title": "禮佛儀式",
+    "juan": 1
+  },
+  "JB320": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X0725",
+    "title": "式叉摩那尼戒本",
+    "juan": 1
+  },
+  "JB321": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1132",
+    "title": "比丘尼戒錄",
+    "juan": 1
+  },
+  "JB322": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1117",
+    "title": "沙門日用",
+    "juan": 2
+  },
+  "JB323": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1493",
+    "title": "供諸天科儀",
+    "juan": 1
+  },
+  "JB324": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1491",
+    "title": "禮舍利塔儀式",
+    "juan": 1
+  },
+  "JB325": {
+    "vol": "J35",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "解惑篇",
+    "juans": "2",
+    "byline": "清 弘贊編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "弘贊",
+        "id": "A000244"
+      }
+    ]
+  },
+  "JB326": {
+    "vol": "J35",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "木人剩稿",
+    "juans": "5",
+    "byline": "清 弘贊編　開溈錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "弘贊",
+        "id": "A000244"
+      },
+      {
+        "name": "開溈",
+        "id": "A037520"
+      }
+    ]
+  },
+  "JB327": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1645",
+    "title": "六道集",
+    "juan": 5
+  },
+  "JB328": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X0446",
+    "title": "七俱胝佛母所說準提陀羅尼經會釋",
+    "juan": 3
+  },
+  "JB329": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1240",
+    "title": "溈山警策句釋記",
+    "juan": 2
+  },
+  "JB330": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1129",
+    "title": "歸戒要集",
+    "juan": 3
+  },
+  "JB331": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1643",
+    "title": "兜率龜鏡集",
+    "juan": 3
+  },
+  "JB332": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1644",
+    "title": "觀音慈林集",
+    "juan": 3
+  },
+  "JB333": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X0553",
+    "title": "般若波羅蜜多心經添足",
+    "juan": 1
+  },
+  "JB334": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1079",
+    "title": "持誦準提真言法要",
+    "juan": 1
+  },
+  "JB335": {
+    "vol": "J35",
+    "type": "textbody",
+    "alt": "X1130",
+    "title": "八關齋法",
+    "juan": 1
+  },
+  "JB336": {
+    "vol": "J35",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "南海寶象林慧弓詗禪師語錄",
+    "juans": "6",
+    "byline": "清 開詗說　傳一等錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "開詗",
+        "id": "A001382"
+      },
+      {
+        "name": "傳一",
+        "id": "A037521"
+      }
+    ]
+  },
+  "JB337": {
+    "vol": "J35",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "寶持總禪師語錄",
+    "juans": "2",
+    "byline": "清 玄總（尼）說　明英等記",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "寶持玄總",
+        "id": "A019288"
+      },
+      {
+        "name": "明英",
+        "id": "A037522"
+      }
+    ]
+  },
+  "JB338": {
+    "vol": "J35",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "靈瑞尼祖揆符禪師妙湛錄",
+    "juans": "5",
+    "byline": "清 符（尼）說　師炤等記",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "尼祖揆符",
+        "id": "A019373"
+      },
+      {
+        "name": "師炤",
+        "id": "A037523"
+      }
+    ]
+  },
+  "JB339": {
+    "vol": "J35",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "靈瑞禪師嵒華集",
+    "juans": "5",
+    "byline": "清 符（尼）說　振澂等記",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "靈瑞",
+        "id": "A019373"
+      },
+      {
+        "name": "振澂",
+        "id": "A037524"
+      }
+    ]
+  },
+  "JB340": {
+    "vol": "J35",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "慧覺衣禪師語錄",
+    "juans": "3",
+    "byline": "清 照衣說　徹御等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "照衣",
+        "id": "A011969"
+      },
+      {
+        "name": "徹御",
+        "id": "A001622"
+      }
+    ]
+  },
+  "JB341": {
+    "vol": "J35",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "佛語御禪師語錄",
+    "juans": "1",
+    "byline": "清 徹御說　法傑．法秀等編　聖可序",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "徹御",
+        "id": "A001622"
+      },
+      {
+        "name": "法傑",
+        "id": "A037525"
+      },
+      {
+        "name": "法秀",
+        "id": "A000701"
+      },
+      {
+        "name": "聖可",
+        "id": "A001669"
+      }
+    ]
+  },
+  "JB342": {
+    "vol": "J35",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "華嚴聖可禪師語錄",
+    "juans": "5",
+    "byline": "清 德玉說　光佛等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "德玉",
+        "id": "A001669"
+      },
+      {
+        "name": "光佛",
+        "id": "A016581"
+      }
+    ]
+  },
+  "JB343": {
+    "vol": "J35",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "廣福山勝覺寺密印禪師語錄",
+    "juans": "12",
+    "byline": "清 真傳說　如暐等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "真傳",
+        "id": "A016502"
+      },
+      {
+        "name": "如暐",
+        "id": "A037526"
+      }
+    ]
+  },
+  "JB344": {
+    "vol": "J36",
+    "type": "textbody",
+    "alt": "X0694+X0693",
+    "title": "佛說梵網經菩薩心地品合註",
+    "juan": 8
+  },
+  "JB345": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "蘇州竹庵衍禪師語錄",
+    "juans": "2",
+    "byline": "清 真衍說　機如編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "真衍",
+        "id": "A016475"
+      },
+      {
+        "name": "機如",
+        "id": "A001805"
+      }
+    ]
+  },
+  "JB346": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "古林如禪師語錄",
+    "juans": "4",
+    "byline": "清 機如說　全威等記錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "機如",
+        "id": "A001805"
+      },
+      {
+        "name": "全威",
+        "id": "A000326"
+      }
+    ]
+  },
+  "JB347": {
+    "vol": "J36",
+    "type": "textbody",
+    "alt": "X0824",
+    "title": "成唯識論觀心法要",
+    "juan": 10
+  },
+  "JB348": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "靈峰蕅益大師宗論",
+    "juans": "10",
+    "byline": "明 智旭著",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "智旭",
+        "id": "A001257"
+      }
+    ]
+  },
+  "JB349": {
+    "vol": "J36",
+    "type": "textbody",
+    "alt": "X0699",
+    "title": "佛說梵網經順硃",
+    "juan": 2
+  },
+  "JB350": {
+    "vol": "J36",
+    "type": "textbody",
+    "alt": "X1265",
+    "title": "禪林寶訓順硃",
+    "juan": 4
+  },
+  "JB351": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "道德經順硃",
+    "juans": "2",
+    "byline": "清 德玉順硃",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "德玉",
+        "id": "A001669"
+      }
+    ]
+  },
+  "JB352": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "東山破峰重禪師語錄",
+    "juans": "2",
+    "byline": "清 普重說　傳慧等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "普重",
+        "id": "A016508"
+      },
+      {
+        "name": "傳慧",
+        "id": "A037527"
+      }
+    ]
+  },
+  "JB353": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "雲幻宸禪師語錄",
+    "juans": "1",
+    "byline": "清 印宸說　發林等編　王民皞序　李道泰塔記",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "印宸",
+        "id": "A016490"
+      },
+      {
+        "name": "發林",
+        "id": "A016730"
+      },
+      {
+        "name": "王民皞",
+        "id": "A037528"
+      },
+      {
+        "name": "李道泰",
+        "id": "A037529"
+      }
+    ]
+  },
+  "JB354": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "錦屏破石卓禪師雜著",
+    "juans": "1",
+    "byline": "明 悟卓說　超常記錄　發林行狀",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "悟卓",
+        "id": "A000928"
+      },
+      {
+        "name": "超常",
+        "id": "A001371"
+      },
+      {
+        "name": "發林",
+        "id": "A016730"
+      }
+    ]
+  },
+  "JB355": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "綠蘿恒秀林禪師語錄",
+    "juans": "2",
+    "byline": "清 發林說　光悠等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "發林",
+        "id": "A016730"
+      },
+      {
+        "name": "光悠",
+        "id": "A037530"
+      }
+    ]
+  },
+  "JB356": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "奇然智禪師語錄",
+    "juans": "2",
+    "byline": "清 超智說　明林．明燦等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "超智",
+        "id": "A016286"
+      },
+      {
+        "name": "明林",
+        "id": "A016398"
+      },
+      {
+        "name": "明燦",
+        "id": "A026570"
+      }
+    ]
+  },
+  "JB357": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "秀野林禪師語錄",
+    "juans": "3",
+    "byline": "清 明林說　最正等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "明林",
+        "id": "A016398"
+      },
+      {
+        "name": "最正",
+        "id": "A019495"
+      }
+    ]
+  },
+  "JB358": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "智覃正禪師語錄",
+    "juans": "1",
+    "byline": "清 最正說　尚能．尚瑩等編　末附助緣耆德",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "最正",
+        "id": "A019495"
+      },
+      {
+        "name": "尚能",
+        "id": "A037532"
+      },
+      {
+        "name": "尚瑩",
+        "id": "A037533"
+      }
+    ]
+  },
+  "JB359": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "百愚禪師語錄",
+    "juans": "20",
+    "byline": "清 淨斯說　智操．智海等編語錄　智朴．方拱乾等編蔓堂集　附蔓堂集",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "淨斯",
+        "id": "A016277"
+      },
+      {
+        "name": "智操",
+        "id": "A016512"
+      },
+      {
+        "name": "智海",
+        "id": "A037534"
+      },
+      {
+        "name": "智朴",
+        "id": "A021480"
+      },
+      {
+        "name": "方拱乾",
+        "id": "A037535"
+      }
+    ]
+  },
+  "JB360": {
+    "vol": "J36",
+    "type": "textbody",
+    "alt": "X1433",
+    "title": "建陽東苑晦臺鏡禪師語錄",
+    "juan": 1
+  },
+  "JB361": {
+    "vol": "J36",
+    "type": "textbody",
+    "alt": "X1434",
+    "title": "壽昌見如謐禪師語錄",
+    "juan": 1
+  },
+  "JB362": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "觀濤奇禪師語錄",
+    "juans": "6",
+    "byline": "清 大奇說　興舒等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "大奇",
+        "id": "A016501"
+      },
+      {
+        "name": "興舒",
+        "id": "A037536"
+      }
+    ]
+  },
+  "JB363": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "文穆念禪師語錄",
+    "juans": "5",
+    "byline": "清 念說　真慧等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "文穆念",
+        "id": "A016596"
+      },
+      {
+        "name": "真慧",
+        "id": "A037537"
+      },
+      {
+        "name": "念說"
+      }
+    ]
+  },
+  "JB364": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "佛古聞禪師語錄",
+    "juans": "4",
+    "byline": "清 行聞說　超質等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "行聞",
+        "id": "A016279"
+      },
+      {
+        "name": "超質",
+        "id": "A004351"
+      }
+    ]
+  },
+  "JB365": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "石璞質禪師語錄",
+    "juans": "2",
+    "byline": "清 超質說　明嵩等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "超質",
+        "id": "A004351"
+      },
+      {
+        "name": "明嵩",
+        "id": "A037538"
+      }
+    ]
+  },
+  "JB366": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "大方禪師語錄",
+    "juans": "6",
+    "byline": "明 行海說　超鳴編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "行海",
+        "id": "A012051"
+      },
+      {
+        "name": "超鳴",
+        "id": "A037539"
+      }
+    ]
+  },
+  "JB367": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "寂光豁禪師語錄",
+    "juans": "6",
+    "byline": "清 豁說　發育等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "寂光豁",
+        "id": "A016439"
+      },
+      {
+        "name": "發育",
+        "id": "A037540"
+      }
+    ]
+  },
+  "JB368": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天台通玄寺獨朗禪師語錄",
+    "juans": "2",
+    "byline": "清 行曰說　超心．超香等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "行日",
+        "id": "A019496"
+      },
+      {
+        "name": "超心",
+        "id": "A037541"
+      },
+      {
+        "name": "超香",
+        "id": "A037542"
+      }
+    ]
+  },
+  "JB369": {
+    "vol": "J36",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "蔗菴範禪師語錄",
+    "juans": "30",
+    "byline": "清 淨範說　智璋等錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "淨範",
+        "id": "A016471"
+      },
+      {
+        "name": "智璋",
+        "id": "A037543"
+      }
+    ]
+  },
+  "JB370": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "草堂耨雲實禪師語錄",
+    "juans": "2",
+    "byline": "清 真實說　寂訥等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "真實",
+        "id": "A016514"
+      },
+      {
+        "name": "寂訥",
+        "id": "A019546"
+      }
+    ]
+  },
+  "JB371": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "佛冤禪師語錄",
+    "juans": "12",
+    "byline": "清 徹綱說　性純等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "徹綱",
+        "id": "A016519"
+      },
+      {
+        "name": "性純",
+        "id": "A037544"
+      }
+    ]
+  },
+  "JB372": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "印心佛敏訥禪師語錄",
+    "juans": "2",
+    "byline": "清 寂納說　法棟等錄　法通等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "寂納",
+        "id": "A019546"
+      },
+      {
+        "name": "法棟",
+        "id": "A037545"
+      },
+      {
+        "name": "法通",
+        "id": "A037546"
+      }
+    ]
+  },
+  "JB373": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X1483",
+    "title": "藥師三昧行法",
+    "juan": 1
+  },
+  "JB374": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X1481",
+    "title": "準提三昧行法",
+    "juan": 1
+  },
+  "JB375": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X0493",
+    "title": "金剛般若波羅蜜經部旨",
+    "juan": 2
+  },
+  "JB376": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X0381",
+    "title": "藥師瑠璃光如來本願功德經直解",
+    "juan": 1
+  },
+  "JB377": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X0647",
+    "title": "觀世音菩薩普門品膚說",
+    "juan": 1
+  },
+  "JB378": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X0378",
+    "title": "佛說盂蘭盆經折中疏",
+    "juan": 1
+  },
+  "JB379": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X0969",
+    "title": "天台傳佛心印記註",
+    "juan": 1
+  },
+  "JB380": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X0979",
+    "title": "四教集註節義",
+    "juan": 1
+  },
+  "JB381": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X0591",
+    "title": "釋籤緣起序指明",
+    "juan": 1
+  },
+  "JB382": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X0924",
+    "title": "摩訶止觀貫義科",
+    "juan": 2
+  },
+  "JB383": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "憨休禪師語錄",
+    "juans": "12",
+    "byline": "繼堯等編",
+    "contributors": [
+      {
+        "name": "繼堯",
+        "id": "A037547"
+      }
+    ]
+  },
+  "JB384": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "憨休禪師敲空遺響",
+    "juans": "12",
+    "byline": "清 如乾說　張恂編閱　繼堯校訂（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "如乾",
+        "id": "A019487"
+      },
+      {
+        "name": "張恂",
+        "id": "A037548"
+      },
+      {
+        "name": "繼堯",
+        "id": "A037547"
+      }
+    ]
+  },
+  "JB385": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X1595",
+    "title": "佛祖正傳古今捷錄",
+    "juan": 1
+  },
+  "JB386": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "遠菴僼禪師語錄",
+    "juans": "16",
+    "byline": "清 本僼說　元視等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "本僼",
+        "id": "A009287"
+      },
+      {
+        "name": "元視",
+        "id": "A037549"
+      }
+    ]
+  },
+  "JB387": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "古宿尊禪師語錄",
+    "juans": "6",
+    "byline": "清 尊說　明圓等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "古宿尊",
+        "id": "A016553"
+      },
+      {
+        "name": "明圓",
+        "id": "A037550"
+      }
+    ]
+  },
+  "JB388": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "神鼎一揆禪師語錄",
+    "juans": "12",
+    "byline": "清 元揆說　成炯等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "元揆",
+        "id": "A016611"
+      },
+      {
+        "name": "成炯",
+        "id": "A037551"
+      }
+    ]
+  },
+  "JB389": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "洪山俞昭允汾禪師語錄",
+    "juans": "6",
+    "byline": "清 允汾說　上睿等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "允汾",
+        "id": "A014466"
+      },
+      {
+        "name": "上睿",
+        "id": "A016603"
+      }
+    ]
+  },
+  "JB390": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "北京楚林禪師語錄",
+    "juans": "6",
+    "byline": "清 上睿說　照琮等錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "上睿",
+        "id": "A016603"
+      },
+      {
+        "name": "照琮",
+        "id": "A037552"
+      }
+    ]
+  },
+  "JB391": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "長目電禪師語錄",
+    "juans": "2",
+    "byline": "清 光電說　悟本編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "光電",
+        "id": "A016618"
+      },
+      {
+        "name": "悟本",
+        "id": "A037553"
+      }
+    ]
+  },
+  "JB392": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "寒松操禪師語錄",
+    "juans": "20",
+    "byline": "清 智操說　德昊編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "智操",
+        "id": "A016512"
+      },
+      {
+        "name": "德昊",
+        "id": "A037554"
+      }
+    ]
+  },
+  "JB393": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "華巖還初佛禪師語錄",
+    "juans": "2",
+    "byline": "清 佛說　通量等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "華巖還初佛",
+        "id": "A016581"
+      },
+      {
+        "name": "通量",
+        "id": "A037555"
+      }
+    ]
+  },
+  "JB394": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "翼菴禪師語錄",
+    "juans": "8",
+    "byline": "清 善酇說　分為國清語錄二卷　序燈等記　真如語錄三卷　序璋等記　通玄語錄一卷　力端等錄　和寒山詩二卷（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "善酇",
+        "id": "A019548"
+      },
+      {
+        "name": "序燈",
+        "id": "A037556"
+      },
+      {
+        "name": "序璋",
+        "id": "A037557"
+      },
+      {
+        "name": "力端",
+        "id": "A037558"
+      }
+    ]
+  },
+  "JB395": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "荊南內護國寺啟真誠禪師語錄",
+    "juans": "4",
+    "byline": "清 誠說　振聞編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "啟真誠",
+        "id": "A019549"
+      },
+      {
+        "name": "振聞",
+        "id": "A037559"
+      }
+    ]
+  },
+  "JB396": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "終南山蟠龍子肅禪師語錄",
+    "juans": "1",
+    "byline": "清 超遠說　性明編　海闊等錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "超遠",
+        "id": "A001373"
+      },
+      {
+        "name": "性明",
+        "id": "A037560"
+      },
+      {
+        "name": "海闊",
+        "id": "A037561"
+      }
+    ]
+  },
+  "JB397": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X1127",
+    "title": "傳授三壇弘戒法儀",
+    "juan": 1
+  },
+  "JB398": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X1603",
+    "title": "緇門世譜",
+    "juan": 1
+  },
+  "JB399": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "鶴林天樹植禪師語錄",
+    "juans": "1",
+    "byline": "清 行植說　湛祐編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "行植",
+        "id": "A016588"
+      },
+      {
+        "name": "湛祐",
+        "id": "A016623"
+      }
+    ]
+  },
+  "JB400": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "知空蘊禪師語錄",
+    "juans": "2",
+    "byline": "清 學蘊說　通來等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "學蘊",
+        "id": "A010644"
+      },
+      {
+        "name": "通來",
+        "id": "A037562"
+      }
+    ]
+  },
+  "JB401": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "浦峰長明炅禪師語錄",
+    "juans": "1",
+    "byline": "清 性炅說　海棟編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "性炅",
+        "id": "A019550"
+      },
+      {
+        "name": "海棟",
+        "id": "A019551"
+      }
+    ]
+  },
+  "JB402": {
+    "vol": "J37",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "浦峰法柱棟禪師語錄",
+    "juans": "2",
+    "byline": "清 海棟說　慧昇集　慧渠編　慧岱錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "海棟",
+        "id": "A019551"
+      },
+      {
+        "name": "慧昇",
+        "id": "A037563"
+      },
+      {
+        "name": "慧渠",
+        "id": "A037564"
+      },
+      {
+        "name": "慧岱",
+        "id": "A037565"
+      }
+    ]
+  },
+  "JB403": {
+    "vol": "J37",
+    "type": "textbody",
+    "alt": "X0291",
+    "title": "首楞嚴經直指",
+    "juan": 10
+  },
+  "JB404": {
+    "vol": "J38",
+    "type": "textbody",
+    "alt": "X0334",
+    "title": "楞伽阿跋多羅寶經心印",
+    "juan": 8
+  },
+  "JB405": {
+    "vol": "J38",
+    "type": "textbody",
+    "alt": "X1443",
+    "title": "長慶宗寶禪師語錄",
+    "juan": 2
+  },
+  "JB406": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "廬山天然禪師語錄",
+    "juans": "12",
+    "byline": "明 函昰說　今辯重編（依駒本印）",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "函昰",
+        "id": "A010057"
+      },
+      {
+        "name": "今辯",
+        "id": "A000111"
+      }
+    ]
+  },
+  "JB407": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "千山剩人禪師語錄",
+    "juans": "6",
+    "byline": "明 函可說　元賦等編　今羞等錄　今盧．今又重梓（依駒本印）",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "函可",
+        "id": "A012087"
+      },
+      {
+        "name": "元賦",
+        "id": "A037566"
+      },
+      {
+        "name": "今羞",
+        "id": "A037567"
+      },
+      {
+        "name": "今盧",
+        "id": "A037568"
+      },
+      {
+        "name": "今又",
+        "id": "A037569"
+      }
+    ]
+  },
+  "JB408": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "海幢阿字無禪師語錄",
+    "juans": "2",
+    "byline": "清 今無說　今辯重編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "今無",
+        "id": "A010701"
+      },
+      {
+        "name": "今辯",
+        "id": "A000111"
+      }
+    ]
+  },
+  "JB409": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "丹霞澹歸禪師語錄",
+    "juans": "3",
+    "byline": "明 今釋說　今辯重編（依駒本印）",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "今釋",
+        "id": "A000112"
+      },
+      {
+        "name": "今辯",
+        "id": "A000111"
+      }
+    ]
+  },
+  "JB410": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "蓮峰禪師語錄",
+    "juans": "10",
+    "byline": "清 素說　性深等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "蓮峰素",
+        "id": "A016380"
+      },
+      {
+        "name": "性深",
+        "id": "A037570"
+      }
+    ]
+  },
+  "JB411": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "德風禪師般若語錄",
+    "juans": "6",
+    "byline": "清 說　如惺等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "德風禪師",
+        "id": "A020625"
+      },
+      {
+        "name": "如惺",
+        "id": "A037571"
+      }
+    ]
+  },
+  "JB412": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "三塔主峰禪師語錄",
+    "juans": "1",
+    "byline": "清 說　覺海錄　譚貞默等請啟（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "三塔主峰",
+        "id": "A016267"
+      },
+      {
+        "name": "覺海",
+        "id": "A037572"
+      },
+      {
+        "name": "譚貞默",
+        "id": "A037518"
+      }
+    ]
+  },
+  "JB413": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "黃蓮東巖禪師語錄",
+    "juans": "1",
+    "byline": "清 說　機琇記錄　黎元寬序　文德翼序　內分黃蓮語錄　蘄州語錄　有行實　末附懷淨土偈（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "黃蓮東巖",
+        "id": "A016487"
+      },
+      {
+        "name": "機琇",
+        "id": "A037573"
+      },
+      {
+        "name": "黎元寬",
+        "id": "A037574"
+      },
+      {
+        "name": "文德翼",
+        "id": "A037575"
+      }
+    ]
+  },
+  "JB414": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "山鐸真在禪師語錄",
+    "juans": "1",
+    "byline": "清 真在說　機雲．智旭等錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "真在",
+        "id": "A000945"
+      },
+      {
+        "name": "機雲",
+        "id": "A001806"
+      },
+      {
+        "name": "智旭",
+        "id": "A037576"
+      }
+    ]
+  },
+  "JB415": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "大悲妙雲禪師語錄",
+    "juans": "6",
+    "byline": "清 真雄說　機德等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "真雄",
+        "id": "A000957"
+      },
+      {
+        "name": "機德",
+        "id": "A001807"
+      }
+    ]
+  },
+  "JB416": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "調實居士證源錄",
+    "juans": "1",
+    "byline": "清 陸瑛說　羅機徹編　羅開驎序　佚名序（末頁缺）　有行略（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "陸瑛",
+        "id": "A019556"
+      },
+      {
+        "name": "羅機徹",
+        "id": "A037577"
+      },
+      {
+        "name": "羅開驎",
+        "id": "A020640"
+      },
+      {
+        "name": "佚名"
+      }
+    ]
+  },
+  "JB417": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天則能禪師語錄",
+    "juans": "1",
+    "byline": "清 機能說　道崇．續彌同錄　羅開驎序　機雲序　有行略（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "機能",
+        "id": "A016434"
+      },
+      {
+        "name": "道崇",
+        "id": "A037578"
+      },
+      {
+        "name": "續彌",
+        "id": "A037579"
+      },
+      {
+        "name": "羅開驎",
+        "id": "A020640"
+      },
+      {
+        "name": "機雲",
+        "id": "A001806"
+      }
+    ]
+  },
+  "JB418": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "晦嶽旭禪師語錄",
+    "juans": "8",
+    "byline": "清 旭說　全琳等錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "晦嶽旭",
+        "id": "A019611"
+      },
+      {
+        "name": "全琳",
+        "id": "A037580"
+      }
+    ]
+  },
+  "JB419": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "華嚴不厭樂禪師語錄",
+    "juans": "3",
+    "byline": "清 道樂說　德普記錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "道樂",
+        "id": "A016622"
+      },
+      {
+        "name": "德普",
+        "id": "A037581"
+      }
+    ]
+  },
+  "JB420": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "三峰半水元禪師語錄",
+    "juans": "1",
+    "byline": "清 元說　光深等錄　華嚴玉序（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "半水元",
+        "id": "A019612"
+      },
+      {
+        "name": "光深",
+        "id": "A037582"
+      },
+      {
+        "name": "華嚴玉",
+        "id": "A037583"
+      }
+    ]
+  },
+  "JB421": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "鶴峰禪師語錄",
+    "juans": "2",
+    "byline": "清 濟悟說　上震等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "濟悟",
+        "id": "A016516"
+      },
+      {
+        "name": "上震",
+        "id": "A037584"
+      }
+    ]
+  },
+  "JB422": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "林我禪師語錄",
+    "juans": "4",
+    "byline": "清 鑑說　海錱．海茲等編錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "林我",
+        "id": "A016352"
+      },
+      {
+        "name": "海錱",
+        "id": "A037585"
+      },
+      {
+        "name": "海茲",
+        "id": "A037586"
+      }
+    ]
+  },
+  "JB423": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "石關禪師語錄",
+    "juans": "1",
+    "byline": "清 說　芳桂等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "石關",
+        "id": "A016402"
+      },
+      {
+        "name": "芳桂",
+        "id": "A016594"
+      }
+    ]
+  },
+  "JB424": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "香嚴禪師語錄",
+    "juans": "1",
+    "byline": "清 說　明耀等編錄　葉燮序　有行實（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "香嚴",
+        "id": "A016594"
+      },
+      {
+        "name": "明耀",
+        "id": "A037587"
+      },
+      {
+        "name": "葉燮",
+        "id": "A018503"
+      }
+    ]
+  },
+  "JB425": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "即非禪師全錄",
+    "juans": "25",
+    "byline": "清 如一說　明洞等編（依駒本印）　附佛祖圖",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "如一",
+        "id": "A005211"
+      },
+      {
+        "name": "明洞",
+        "id": "A026499"
+      }
+    ]
+  },
+  "JB426": {
+    "vol": "J38",
+    "type": "textbody",
+    "alt": "X1590",
+    "title": "錦江禪燈",
+    "juan": 20
+  },
+  "JB427": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "青城竹浪生禪師語錄",
+    "juans": "7",
+    "byline": "清 徹生說　如鵬等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "徹生",
+        "id": "A016606"
+      },
+      {
+        "name": "如鵬",
+        "id": "A026344"
+      }
+    ]
+  },
+  "JB428": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "密行忍禪師語錄",
+    "juans": "3",
+    "byline": "清 寂忍說　明廣．明珍等編（依駒本印）　附嗣燈錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "寂忍",
+        "id": "A019552"
+      },
+      {
+        "name": "明廣",
+        "id": "A037588"
+      },
+      {
+        "name": "明珍",
+        "id": "A037589"
+      }
+    ]
+  },
+  "JB429": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "盛京奉天般若古林禪師語錄",
+    "juans": "6",
+    "byline": "清 智說　正繼等錄　正燈等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "古林",
+        "id": "A016498"
+      },
+      {
+        "name": "正繼",
+        "id": "A037590"
+      },
+      {
+        "name": "正燈",
+        "id": "A037591"
+      }
+    ]
+  },
+  "JB430": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "玉泉其白富禪師語錄",
+    "juans": "3",
+    "byline": "清 德富說　圓頂等編（依駒本印）　附融徹錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "德富",
+        "id": "A016532"
+      },
+      {
+        "name": "圓頂",
+        "id": "A019616"
+      }
+    ]
+  },
+  "JB431": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "雲峰體宗寧禪師語錄",
+    "juans": "1",
+    "byline": "清 寧說　續清等編　德玉序　徹生序　有行實（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "體宗寧",
+        "id": "A019617"
+      },
+      {
+        "name": "續清",
+        "id": "A037592"
+      },
+      {
+        "name": "德玉",
+        "id": "A001669"
+      },
+      {
+        "name": "徹生",
+        "id": "A016606"
+      }
+    ]
+  },
+  "JB432": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "幻住明禪師語錄",
+    "juans": "2",
+    "byline": "清 明說　清尚等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "幻住明",
+        "id": "A019619"
+      },
+      {
+        "name": "清尚",
+        "id": "A037593"
+      }
+    ]
+  },
+  "JB433": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "純備德禪師語錄",
+    "juans": "2",
+    "byline": "清 廣德說　智遠等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "廣德",
+        "id": "A019620"
+      },
+      {
+        "name": "智遠",
+        "id": "A019621"
+      }
+    ]
+  },
+  "JB434": {
+    "vol": "J38",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "法幢遠禪師語錄",
+    "juans": "1",
+    "byline": "清 智遠說　通慧等編　弘源序（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "智遠",
+        "id": "A019621"
+      },
+      {
+        "name": "通慧",
+        "id": "A037594"
+      },
+      {
+        "name": "弘源",
+        "id": "A037595"
+      }
+    ]
+  },
+  "JB435": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "伏獅義公禪師語錄",
+    "juans": "1",
+    "byline": "清 （尼）說　明元記錄　高以永序　超琛跋　有行狀（依駒本印　原書第十七　十八兩頁缺）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "伏獅義公",
+        "id": "A021755"
+      },
+      {
+        "name": "明元",
+        "id": "A037596"
+      },
+      {
+        "name": "高以永",
+        "id": "A037597"
+      },
+      {
+        "name": "超琛",
+        "id": "A019013"
+      }
+    ]
+  },
+  "JB436": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "參同一揆禪師語錄",
+    "juans": "1",
+    "byline": "清 超琛（尼）說　普明編　明俊錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "超琛",
+        "id": "A019013"
+      },
+      {
+        "name": "普明",
+        "id": "A037598"
+      },
+      {
+        "name": "明俊",
+        "id": "A037599"
+      }
+    ]
+  },
+  "JB437": {
+    "vol": "J39",
+    "type": "textbody",
+    "alt": "X1582+X1583",
+    "title": "續燈正統",
+    "juan": 42
+  },
+  "JB438": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "衡山禪師語錄",
+    "juans": "1",
+    "byline": "清 燈炳說　宗位編　超源序　藍理序　有塔銘（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "燈炳",
+        "id": "A016343"
+      },
+      {
+        "name": "宗位",
+        "id": "A037600"
+      },
+      {
+        "name": "超源",
+        "id": "A016573"
+      },
+      {
+        "name": "藍理",
+        "id": "A012025"
+      }
+    ]
+  },
+  "JB439": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "高峰三山來禪師疏語",
+    "juans": "3",
+    "byline": "清 燈來撰　性統編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "燈來",
+        "id": "A001808"
+      },
+      {
+        "name": "性統",
+        "id": "A000635"
+      }
+    ]
+  },
+  "JB440": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "高峰喬松億禪師語錄",
+    "juans": "2",
+    "byline": "清 玄億說　燈洪編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "玄億",
+        "id": "A016444"
+      },
+      {
+        "name": "燈洪",
+        "id": "A037602"
+      }
+    ]
+  },
+  "JB441": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "萬峰童真禪師語錄",
+    "juans": "6",
+    "byline": "清 至善說　德林記（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "至善",
+        "id": "A019622"
+      },
+      {
+        "name": "德林",
+        "id": "A037603"
+      }
+    ]
+  },
+  "JB442": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "大笑崇禪師語錄",
+    "juans": "3",
+    "byline": "清 崇說　空情錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "大笑崇",
+        "id": "A016597"
+      },
+      {
+        "name": "空情",
+        "id": "A037604"
+      }
+    ]
+  },
+  "JB443": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "玉眉亮禪師語錄",
+    "juans": "1",
+    "byline": "清 亮說　空謐編　張廷勱序（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "玉眉亮",
+        "id": "A019623"
+      },
+      {
+        "name": "空謐",
+        "id": "A037605"
+      },
+      {
+        "name": "張廷勱",
+        "id": "A037606"
+      }
+    ]
+  },
+  "JB444": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "卓峰玨禪師語錄",
+    "juans": "1",
+    "byline": "清 性玨說　宗位編　超原序　藍理序　有塔銘　附冰玄法師語錄（依駒本印　塔銘有缺頁）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "性玨",
+        "id": "A016504"
+      },
+      {
+        "name": "宗位",
+        "id": "A037600"
+      },
+      {
+        "name": "超原",
+        "id": "A016573"
+      },
+      {
+        "name": "藍理",
+        "id": "A012025"
+      }
+    ]
+  },
+  "JB445": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "別菴禪師同門錄",
+    "juans": "3",
+    "byline": "清 性統錄　弘秀編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "性統",
+        "id": "A000635"
+      },
+      {
+        "name": "弘秀",
+        "id": "A037607"
+      }
+    ]
+  },
+  "JB446": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "靈隱文禪師語錄",
+    "juans": "3",
+    "byline": "清 印文說　福度復編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "印文",
+        "id": "A019626"
+      },
+      {
+        "name": "福度",
+        "id": "A016619"
+      }
+    ]
+  },
+  "JB447": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "東山梅溪度禪師語錄",
+    "juans": "10",
+    "byline": "清 福度說　慶緒等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "福度",
+        "id": "A016619"
+      },
+      {
+        "name": "慶緒",
+        "id": "A026234"
+      }
+    ]
+  },
+  "JB448": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "靈機禪師語錄",
+    "juans": "6",
+    "byline": "清 行觀說　寂方等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "行觀",
+        "id": "A004078"
+      },
+      {
+        "name": "寂方",
+        "id": "A037608"
+      }
+    ]
+  },
+  "JB449": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "祖亮啟禪師語錄",
+    "juans": "2",
+    "byline": "清 超啟說　廣和記錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "超啟",
+        "id": "A019627"
+      },
+      {
+        "name": "廣和",
+        "id": "A037609"
+      }
+    ]
+  },
+  "JB450": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "敏樹禪師語錄",
+    "juans": "10",
+    "byline": "清 如相說　道崇編　道領錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "如相",
+        "id": "A010077"
+      },
+      {
+        "name": "道崇",
+        "id": "A026288"
+      },
+      {
+        "name": "道領",
+        "id": "A016604"
+      }
+    ]
+  },
+  "JB451": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "赤松領禪師語錄",
+    "juans": "5",
+    "byline": "清 道領說　寂源錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "道領",
+        "id": "A016604"
+      },
+      {
+        "name": "寂源",
+        "id": "A021486"
+      }
+    ]
+  },
+  "JB452": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "侶巖荷禪師語錄",
+    "juans": "7",
+    "byline": "清 荷說　成純等記錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "侶巖荷",
+        "id": "A019629"
+      },
+      {
+        "name": "成純",
+        "id": "A037610"
+      }
+    ]
+  },
+  "JB453": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "元潔瑩禪師語錄",
+    "juans": "10",
+    "byline": "清 淨瑩說　智祥編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "淨瑩",
+        "id": "A010055"
+      },
+      {
+        "name": "智祥",
+        "id": "A001274"
+      }
+    ]
+  },
+  "JB454": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "頻吉祥禪師語錄",
+    "juans": "15",
+    "byline": "清 智祥說　德能等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "智祥",
+        "id": "A001274"
+      },
+      {
+        "name": "德能",
+        "id": "A017952"
+      }
+    ]
+  },
+  "JB455": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "通天逸叟高禪師語錄",
+    "juans": "1",
+    "byline": "清 行高說　明德重梓　超原行略（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "行高",
+        "id": "A016410"
+      },
+      {
+        "name": "明德",
+        "id": "A037611"
+      },
+      {
+        "name": "超原",
+        "id": "A016573"
+      }
+    ]
+  },
+  "JB456": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "通天澹崖原禪師語錄",
+    "juans": "2",
+    "byline": "清 超原說　明德等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "超原",
+        "id": "A016573"
+      },
+      {
+        "name": "明德",
+        "id": "A037611"
+      }
+    ]
+  },
+  "JB457": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "白雲象林本真禪師語錄",
+    "juans": "1",
+    "byline": "清 本真說　照水重梓　妙心序　有行實（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "本真",
+        "id": "A016469"
+      },
+      {
+        "name": "照水",
+        "id": "A019630"
+      },
+      {
+        "name": "妙心",
+        "id": "A037613"
+      }
+    ]
+  },
+  "JB458": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "正覺潤光澤禪師澡雪集",
+    "juans": "1",
+    "byline": "清 澤著　照水重編　陳聞道序　有自狀（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "潤光澤",
+        "id": "A016344"
+      },
+      {
+        "name": "照水",
+        "id": "A019630"
+      },
+      {
+        "name": "陳聞道",
+        "id": "A037614"
+      }
+    ]
+  },
+  "JB459": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "香巖洗心水禪師語錄",
+    "juans": "2",
+    "byline": "清 照水說　實雲．海清等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "照水",
+        "id": "A019630"
+      },
+      {
+        "name": "實雪",
+        "id": "A037615"
+      },
+      {
+        "name": "海清",
+        "id": "A037616"
+      }
+    ]
+  },
+  "JB460": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "灤州萬善暉州昊禪師語錄",
+    "juans": "6",
+    "byline": "清 昊說　性珍．寂寶等錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "暉州昊",
+        "id": "A019631"
+      },
+      {
+        "name": "性珍",
+        "id": "A037617"
+      },
+      {
+        "name": "寂寶",
+        "id": "A037618"
+      }
+    ]
+  },
+  "JB461": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "性空臻禪師語錄",
+    "juans": "6",
+    "byline": "清 行臻說　超自等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "行臻",
+        "id": "A016222"
+      },
+      {
+        "name": "超自",
+        "id": "A019632"
+      }
+    ]
+  },
+  "JB462": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "何一自禪師語錄",
+    "juans": "2",
+    "byline": "清 超自說　明修．明惠．明智等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "超自",
+        "id": "A019632"
+      },
+      {
+        "name": "明修",
+        "id": "A037619"
+      },
+      {
+        "name": "明惠",
+        "id": "A037620"
+      },
+      {
+        "name": "明智",
+        "id": "A037621"
+      }
+    ]
+  },
+  "JB463": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "溈山古梅冽禪師語錄",
+    "juans": "2",
+    "byline": "清 定冽說　真謙記錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "定冽",
+        "id": "A018976"
+      },
+      {
+        "name": "真謙",
+        "id": "A037622"
+      }
+    ]
+  },
+  "JB464": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "華嚴起宗真禪師語錄",
+    "juans": "2",
+    "byline": "清 真說　力廣等錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "起宗真",
+        "id": "A016620"
+      },
+      {
+        "name": "力廣",
+        "id": "A037623"
+      }
+    ]
+  },
+  "JB465": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "子雍如禪師語錄",
+    "juans": "4",
+    "byline": "清 成如尼說　祖圓記錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "成如",
+        "id": "A019777"
+      },
+      {
+        "name": "祖圓",
+        "id": "A037624"
+      }
+    ]
+  },
+  "JB466": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "山西柏山楷禪師語錄",
+    "juans": "5",
+    "byline": "清 德楷說　行悟等編次（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "德楷",
+        "id": "A016564"
+      },
+      {
+        "name": "行悟",
+        "id": "A037625"
+      }
+    ]
+  },
+  "JB467": {
+    "vol": "J39",
+    "type": "textbody",
+    "alt": "X1591",
+    "title": "黔南會燈錄",
+    "juan": 8
+  },
+  "JB468": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "善一純禪師語錄",
+    "juans": "3",
+    "byline": "清 如純說　學正錄　附續錄（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "如純",
+        "id": "A000345"
+      },
+      {
+        "name": "學正",
+        "id": "A037626"
+      }
+    ]
+  },
+  "JB469": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "善權位禪師語錄",
+    "juans": "2",
+    "byline": "清 達位說　大悅等編（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "達位",
+        "id": "A016435"
+      },
+      {
+        "name": "大悅",
+        "id": "A016585"
+      }
+    ]
+  },
+  "JB470": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天一悅禪師語錄",
+    "juans": "1",
+    "byline": "清 大悅說　學愚錄　有塔銘（依駒本印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "大悅",
+        "id": "A016585"
+      },
+      {
+        "name": "學愚",
+        "id": "A037627"
+      }
+    ]
+  },
+  "JB471": {
+    "vol": "J39",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "空谷道澄禪師語錄",
+    "juans": "20",
+    "byline": "清 道澄說　德儒編（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "道澄",
+        "id": "A001549"
+      },
+      {
+        "name": "德儒",
+        "id": "A001693"
+      }
+    ]
+  },
+  "JB472": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "大博乾禪師語錄",
+    "juans": "5",
+    "byline": "清 乾說　超宗等錄（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "大博乾",
+        "id": "A001010"
+      },
+      {
+        "name": "超宗",
+        "id": "A001368"
+      }
+    ]
+  },
+  "JB473": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "盤山朗空順禪師語錄",
+    "juans": "1",
+    "byline": "清 順說　實性記錄　附了宗見禪師法嗣　瑞亭晟法嗣（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "朗空順",
+        "id": "A001390"
+      },
+      {
+        "name": "實性",
+        "id": "A001920"
+      }
+    ]
+  },
+  "JB474": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "盤山了宗禪師語錄",
+    "juans": "4",
+    "byline": "清 超見說　徹凡．心月等錄（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "超見",
+        "id": "A001367"
+      },
+      {
+        "name": "徹凡",
+        "id": "A001619"
+      },
+      {
+        "name": "心月",
+        "id": "A037628"
+      }
+    ]
+  },
+  "JB475": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "逕庭宗禪師語錄",
+    "juans": "2",
+    "byline": "清 德宗說　行謙等編（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "德宗",
+        "id": "A001671"
+      },
+      {
+        "name": "行謙",
+        "id": "A000426"
+      }
+    ]
+  },
+  "JB476": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "別牧純禪師語錄",
+    "juans": "1",
+    "byline": "清 純說　福月等編　慧輅序　有行實（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "別牧純",
+        "id": "A019779"
+      },
+      {
+        "name": "福月",
+        "id": "A001630"
+      },
+      {
+        "name": "慧輅",
+        "id": "A016537"
+      }
+    ]
+  },
+  "JB477": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天翼翔禪師語錄",
+    "juans": "2",
+    "byline": "清 巨翔說　寂乾錄　際鋒等編（駒本附於前目四七六之後　今分出增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "巨翔",
+        "id": "A000233"
+      },
+      {
+        "name": "寂乾",
+        "id": "A001031"
+      },
+      {
+        "name": "際鋒",
+        "id": "A037629"
+      }
+    ]
+  },
+  "JB478": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "雲山燕居申禪師語錄",
+    "juans": "8",
+    "byline": "清 德申說　合哲等編（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "德申",
+        "id": "A000302"
+      },
+      {
+        "name": "合哲",
+        "id": "A000331"
+      }
+    ]
+  },
+  "JB479": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "昭覺竹峰續禪師語錄",
+    "juans": "6",
+    "byline": "清 真續說　實悟等編（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "真續",
+        "id": "A000965"
+      },
+      {
+        "name": "實悟",
+        "id": "A026337"
+      }
+    ]
+  },
+  "JB480": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "一貫別傳",
+    "juans": "5",
+    "byline": "清 廣真著（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "廣真",
+        "id": "A001662"
+      }
+    ]
+  },
+  "JB481": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "古音王傳",
+    "juans": "1",
+    "byline": "清 廣真著並序　古心評并引　凡則　黃毓英評　元善評　前有船子曲　燈輝集　慧澤序（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "廣真",
+        "id": "A001662"
+      },
+      {
+        "name": "古心",
+        "id": "A037630"
+      },
+      {
+        "name": "黃毓英",
+        "id": "A037631"
+      },
+      {
+        "name": "元善",
+        "id": "A037632"
+      },
+      {
+        "name": "燈輝",
+        "id": "A037633"
+      },
+      {
+        "name": "慧澤",
+        "id": "A037634"
+      }
+    ]
+  },
+  "JB482": {
+    "vol": "J40",
+    "type": "textbody",
+    "alt": "X1282",
+    "title": "五家宗旨纂要",
+    "juan": 3
+  },
+  "JB483": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "竺峰敏禪師語錄",
+    "juans": "6",
+    "byline": "清 幻敏說　性鉅．性湛．性珩．性濟等編　附後錄（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "幻敏",
+        "id": "A000153"
+      },
+      {
+        "name": "性鉅",
+        "id": "A000638"
+      },
+      {
+        "name": "性湛",
+        "id": "A037635"
+      },
+      {
+        "name": "性珩",
+        "id": "A037636"
+      },
+      {
+        "name": "性濟",
+        "id": "A037637"
+      }
+    ]
+  },
+  "JB484": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "野雲映禪師宗統頌",
+    "juans": "1",
+    "byline": "清 燈映頌　性燦錄　有塔銘　行狀（依駒本增入並印　原書第二十三頁起至末頁缺）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "燈映",
+        "id": "A001809"
+      },
+      {
+        "name": "性燦",
+        "id": "A037638"
+      }
+    ]
+  },
+  "JB485": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "普門顯禪師語錄",
+    "juans": "2",
+    "byline": "清 燈顯說　性胤錄（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "燈顯",
+        "id": "A001810"
+      },
+      {
+        "name": "性胤",
+        "id": "A000631"
+      }
+    ]
+  },
+  "JB486": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "鑑堂一禪師語錄",
+    "juans": "1",
+    "byline": "清 一說　明滿．明慧等錄　杜允貞序（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "鑑堂一",
+        "id": "A000005"
+      },
+      {
+        "name": "明滿",
+        "id": "A000668"
+      },
+      {
+        "name": "明慧",
+        "id": "A037639"
+      },
+      {
+        "name": "杜允貞",
+        "id": "A037640"
+      }
+    ]
+  },
+  "JB487": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "翠崖必禪師語錄",
+    "juans": "3",
+    "byline": "清 必說　道通錄（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "翠崖必",
+        "id": "A014573"
+      },
+      {
+        "name": "道通",
+        "id": "A001536"
+      }
+    ]
+  },
+  "JB488": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "斗南暐禪師語錄",
+    "juans": "3",
+    "byline": "清 暐說　普潤等錄（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "斗南暐",
+        "id": "A012957"
+      },
+      {
+        "name": "普潤",
+        "id": "A001231"
+      }
+    ]
+  },
+  "JB489": {
+    "vol": "J40",
+    "type": "textbody",
+    "alt": "X1435",
+    "title": "博山無異禪師廣錄",
+    "juan": 35
+  },
+  "JB490": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "博山粟如瀚禪師語錄",
+    "juans": "6",
+    "byline": "清 弘瀚說　傅鵬編（依駒本增入並印）",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "弘瀚",
+        "id": "A000243"
+      },
+      {
+        "name": "傅鵬",
+        "id": "A001174"
+      }
+    ]
+  },
+  "JB491": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天寧法舟濟禪師剩語",
+    "juans": "1",
+    "byline": "明 道濟撰　如淵等編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "道濟",
+        "id": "A001560"
+      },
+      {
+        "name": "如淵",
+        "id": "A000346"
+      }
+    ]
+  },
+  "JB492": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "萬峰和尚語錄",
+    "juans": "1",
+    "byline": "明 時蔚說　普壽集",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "時蔚",
+        "id": "A000933"
+      },
+      {
+        "name": "普壽",
+        "id": "A001229"
+      }
+    ]
+  },
+  "JB493": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "磬山牧亭樸夫拙禪師語錄",
+    "juans": "6",
+    "byline": "清 拙說　光模等編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "樸夫拙",
+        "id": "A019780"
+      },
+      {
+        "name": "光模",
+        "id": "A000323"
+      }
+    ]
+  },
+  "JB494": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "雨山和尚語錄",
+    "juans": "20",
+    "byline": "清 上思說",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "上思",
+        "id": "A000046"
+      }
+    ]
+  },
+  "JB495": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "天然居士懷淨土詩",
+    "juans": "1",
+    "byline": "清 朱道則撰　明康錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "朱道則",
+        "id": "A000386"
+      },
+      {
+        "name": "明康",
+        "id": "A000663"
+      }
+    ]
+  },
+  "JB496": {
+    "vol": "J40",
+    "type": "textbody",
+    "alt": "X0826",
+    "title": "成唯識論音響補遺",
+    "juan": 10
+  },
+  "JB497": {
+    "vol": "J40",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "鶴山禪師執帚集",
+    "juans": "2",
+    "byline": "清 鶴山撰　德敷錄",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "鶴山",
+        "id": "A016516"
+      },
+      {
+        "name": "德敷",
+        "id": "A001691"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "U1368": {
+    "vol": "U205",
+    "type": "textbody",
+    "category": "瑜伽部類",
+    "title": "大乘百法明門論疏",
+    "juans": "2",
+    "byline": "唐 義忠述",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "義忠",
+        "id": "A001464"
+      }
+    ]
+  },
+  "U1418": {
+    "vol": "U222..U223",
+    "type": "textbody",
+    "category": "華嚴部類",
+    "title": "華嚴經疏科",
+    "juans": "19",
+    "byline": "唐 澄觀述　宋 淨源重刊",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "澄觀",
+        "id": "A001755"
+      },
+      {
+        "name": "淨源",
+        "id": "A001113"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "TXa001": {
+    "vol": "TX00",
+    "type": "non-textbody",
+    "category": "新編部類",
+    "title": "編纂說明",
+    "juans": "2"
+  },
+  "TX0001": {
+    "vol": "TX01..TX02",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第一編　佛法總學",
+    "juans": "34",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  },
+  "TX0002": {
+    "vol": "TX03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第二編　五乘共學",
+    "juans": "22",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  },
+  "TX0003": {
+    "vol": "TX03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第三編　三乘共學",
+    "juans": "12",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  },
+  "TX0004": {
+    "vol": "TX04..TX05",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第四編　大乘通學",
+    "juans": "22",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  },
+  "TX0005": {
+    "vol": "TX06..TX07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第五編　法性空慧學",
+    "juans": "16",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  },
+  "TX0006": {
+    "vol": "TX07..TX09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第六編　法相唯識學",
+    "juans": "49",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  },
+  "TX0007": {
+    "vol": "TX10..TX15",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第七編　法界圓覺學",
+    "juans": "51",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  }
+}

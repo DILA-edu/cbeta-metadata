@@ -1,0 +1,159 @@
+{
+  "A1057": {
+    "vol": "A091",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "新譯大方廣佛華嚴經音義",
+    "juans": "2",
+    "byline": "唐 慧菀述",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "慧菀",
+        "id": "A001713"
+      }
+    ]
+  },
+  "A1267": {
+    "vol": "A097..A098",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "大唐開元釋教廣品歷章",
+    "juans": "17",
+    "byline": "唐 玄逸撰",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "玄逸",
+        "id": "A000295"
+      }
+    ]
+  },
+  "A1490": {
+    "vol": "A110",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "天聖釋教總錄",
+    "juans": "2",
+    "byline": "宋 惟淨等編修",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "惟淨",
+        "id": "A001072"
+      }
+    ]
+  },
+  "A1493": {
+    "vol": "A111..A112",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "大中祥符法寶錄",
+    "juans": "16",
+    "byline": "宋 楊億等編修",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "楊億",
+        "id": "A001446"
+      }
+    ]
+  },
+  "A1494": {
+    "vol": "A112",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "景祐新修法寶錄",
+    "juans": "14",
+    "byline": "宋 呂夷簡等編修",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "呂夷簡",
+        "id": "A000457"
+      }
+    ]
+  },
+  "A1504": {
+    "vol": "A114",
+    "type": "textbody",
+    "category": "大集部類",
+    "title": "佛說大乘僧伽吒法義經",
+    "juans": "3",
+    "byline": "宋 金總持等譯",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "金總持",
+        "id": "A000001"
+      }
+    ]
+  },
+  "A1505": {
+    "vol": "A114",
+    "type": "textbody",
+    "category": "律部類",
+    "title": "佛說清淨毘奈耶最上大乘經",
+    "juans": "2",
+    "byline": "宋 智吉祥等譯",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "智吉祥",
+        "id": "A001255"
+      }
+    ]
+  },
+  "A1548": {
+    "vol": "A119",
+    "type": "textbody",
+    "category": "論集部類",
+    "title": "因明論理門十四過類疏",
+    "juans": "1",
+    "byline": "唐 窺基撰",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "窺基",
+        "id": "A001019"
+      }
+    ]
+  },
+  "A1561": {
+    "vol": "A120..A121",
+    "type": "textbody",
+    "category": "瑜伽部類",
+    "title": "瑜伽師地論義演",
+    "juans": "23",
+    "byline": "唐 清素．澄淨述",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "清素",
+        "id": "A001088"
+      },
+      {
+        "name": "澄淨",
+        "id": "A001752"
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "C1163": {
+    "vol": "C056..C057",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "一切經音義",
+    "juans": "25",
+    "byline": "唐 玄應撰",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "玄應",
+        "id": "A000300"
+      }
+    ]
+  },
+  "C1169": {
+    "vol": "C059",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "紹興重雕大藏音",
+    "juans": "3",
+    "byline": "宋 處觀著",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "處觀",
+        "id": "A001143"
+      }
+    ]
+  },
+  "C1665": {
+    "vol": "C071",
+    "type": "textbody",
+    "category": "經集部類",
+    "title": "菩薩名經",
+    "juans": "10",
+    "byline": "宋 羅濬集",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "羅濬",
+        "id": "A001905"
+      }
+    ]
+  },
+  "C1666": {
+    "vol": "C071",
+    "type": "textbody",
+    "category": "密教部類",
+    "title": "梵本大悲神咒",
+    "juans": "1"
+  },
+  "C1679": {
+    "vol": "C073",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "御製佛賦",
+    "juans": "2",
+    "byline": "宋 趙炅撰",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "趙炅",
+        "id": "A001640"
+      }
+    ]
+  },
+  "C1680": {
+    "vol": "C073",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "御製詮源歌",
+    "juans": "1",
+    "byline": "宋 趙炅撰",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "趙炅",
+        "id": "A001640"
+      }
+    ]
+  },
+  "C1710": {
+    "vol": "C077",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "古尊宿語錄",
+    "juans": "48",
+    "byline": "宋 頤藏主集　明 淨戒重校",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "頤藏",
+        "id": "A001893"
+      },
+      {
+        "name": "淨戒",
+        "id": "A001101"
+      }
+    ]
+  },
+  "C1720": {
+    "vol": "C078",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "禪宗頌古聯珠通集",
+    "juans": "21",
+    "byline": "宋 法應集　元 普會續集　明 淨戒重校",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "法應",
+        "id": "A000742"
+      },
+      {
+        "name": "普會",
+        "id": "A001226"
+      },
+      {
+        "name": "淨戒",
+        "id": "A001101"
+      }
+    ]
+  },
+  "C1821": {
+    "vol": "C097",
+    "type": "textbody",
+    "category": "經集部類",
+    "title": "楞伽經纂",
+    "juans": "4",
+    "byline": "劉宋 求那跋陀羅譯經　宋 楊彥國詮註",
+    "dynasty": "劉宋",
+    "time_from": 420,
+    "time_to": 479,
+    "contributors": [
+      {
+        "name": "求那跋陀羅",
+        "id": "A000527"
+      },
+      {
+        "name": "楊彥國",
+        "id": "A001442"
+      }
+    ]
+  },
+  "C1937": {
+    "vol": "C106",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "大明重刊三藏聖教目錄",
+    "juans": "3",
+    "byline": "明 雙徑山僧眾編",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "雙徑山僧眾",
+        "id": "A001890"
+      }
+    ]
+  }
+}

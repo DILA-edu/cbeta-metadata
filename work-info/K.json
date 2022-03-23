@@ -1,0 +1,159 @@
+{
+  "K0016": {
+    "vol": "K05",
+    "type": "textbody",
+    "category": "般若部類",
+    "title": "能斷金剛般若波羅蜜多經",
+    "juans": "1",
+    "byline": "唐 玄奘譯",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "玄奘",
+        "id": "A000294"
+      }
+    ]
+  },
+  "K1064": {
+    "vol": "K32",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "新譯大方廣佛華嚴經音義",
+    "juans": "2",
+    "byline": "唐 慧菀述",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "慧菀",
+        "id": "A001713"
+      }
+    ]
+  },
+  "K1257": {
+    "vol": "K34..K35",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "新集藏經音義隨函錄",
+    "juans": "30",
+    "byline": "後晉 可洪撰",
+    "dynasty": "後晉",
+    "time_from": 936,
+    "time_to": 947,
+    "contributors": [
+      {
+        "name": "可洪",
+        "id": "A000222"
+      }
+    ]
+  },
+  "K1258": {
+    "vol": "K35",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "御製蓮華心輪迴文偈頌",
+    "juans": "25",
+    "byline": "宋 太宗趙炅撰",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "趙炅",
+        "id": "A001640"
+      }
+    ]
+  },
+  "K1259": {
+    "vol": "K35",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "御製秘藏詮",
+    "juans": "30",
+    "byline": "宋 太宗趙炅撰",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "趙炅",
+        "id": "A001640"
+      }
+    ]
+  },
+  "K1260": {
+    "vol": "K35",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "御製逍遙詠",
+    "juans": "11",
+    "byline": "宋 太宗趙炅撰",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "趙炅",
+        "id": "A001640"
+      }
+    ]
+  },
+  "K1261": {
+    "vol": "K35",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "御製緣識",
+    "juans": "5",
+    "byline": "宋 太宗趙炅撰",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "趙炅",
+        "id": "A001640"
+      }
+    ]
+  },
+  "K1402": {
+    "vol": "K38",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "高麗國新雕大藏校正別錄",
+    "juans": "30",
+    "byline": "高麗 守其等校勘",
+    "dynasty": "高麗",
+    "time_from": 918,
+    "time_to": 1392,
+    "contributors": [
+      {
+        "name": "守其",
+        "id": "A000358"
+      }
+    ]
+  },
+  "K1482": {
+    "vol": "K41",
+    "type": "textbody",
+    "category": "中觀部類",
+    "title": "大乘中觀釋論",
+    "juans": "9",
+    "byline": "安慧菩薩造  宋 惟淨等譯",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "安慧菩薩",
+        "id": "A000371"
+      },
+      {
+        "name": "惟淨",
+        "id": "A001072"
+      }
+    ]
+  }
+}

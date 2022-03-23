@@ -1,0 +1,2574 @@
+{
+  "ZW0001": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "天竺國菩提達摩禪師論",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0002": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "禪策問答",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0003": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "息諍論",
+    "juans": "1",
+    "byline": "達摩禪師作　方廣錩整理",
+    "contributors": [
+      {
+        "name": "達摩禪師",
+        "id": "A001361"
+      },
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0004": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "八種粗重犯墮",
+    "juans": "1",
+    "byline": "馬鳴菩薩造　方廣錩整理",
+    "contributors": [
+      {
+        "name": "馬鳴菩薩",
+        "id": "A001003"
+      },
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0005": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "天請問經疏",
+    "juans": "1",
+    "byline": "沙門文軌撰　李際寧整理",
+    "contributors": [
+      {
+        "name": "文軌",
+        "id": "A000170"
+      },
+      {
+        "name": "李際寧",
+        "id": "A034625"
+      }
+    ]
+  },
+  "ZW0006": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "《行事鈔》中分門圖錄",
+    "juans": "1",
+    "byline": "沙門道宣述　蘇軍整理",
+    "contributors": [
+      {
+        "name": "道宣",
+        "id": "A001519"
+      },
+      {
+        "name": "蘇軍",
+        "id": "A034626"
+      }
+    ]
+  },
+  "ZW0007": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "《阿毗達磨俱舍論實義疏》",
+    "juans": "1",
+    "byline": "尊者安惠造　蘇軍整理",
+    "contributors": [
+      {
+        "name": "安惠",
+        "id": "A000371"
+      },
+      {
+        "name": "蘇軍",
+        "id": "A034626"
+      }
+    ]
+  },
+  "ZW0008": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛為心王菩薩說頭陀經（附註疏）",
+    "juans": "1",
+    "byline": "惠辯禪師註　方廣錩整理",
+    "contributors": [
+      {
+        "name": "惠辯禪師",
+        "id": "A031993"
+      },
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0009": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛說孝順子修行成佛經",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0010": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "最妙勝定經",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0011": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛說水月光觀音菩薩經",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0012": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛說金剛經纂",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0013": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大方廣華嚴十惡品經",
+    "juans": "1",
+    "byline": "徐紹強整理",
+    "contributors": [
+      {
+        "name": "徐紹強",
+        "id": "A034632"
+      }
+    ]
+  },
+  "ZW0014a": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "天公經",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0014b": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛說天公經",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0014c": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "天公經",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0015a": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大般涅槃摩耶夫人品經",
+    "juans": "1",
+    "byline": "大德安法師譯　李際寧整理",
+    "contributors": [
+      {
+        "name": "大德安法師",
+        "id": "A034731"
+      },
+      {
+        "name": "李際寧",
+        "id": "A034625"
+      }
+    ]
+  },
+  "ZW0015b": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大般涅槃經佛母品",
+    "juans": "1",
+    "byline": "李際寧整理",
+    "contributors": [
+      {
+        "name": "李際寧",
+        "id": "A034625"
+      }
+    ]
+  },
+  "ZW0015c": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大般涅槃經佛母品",
+    "juans": "1",
+    "byline": "李際寧整理",
+    "contributors": [
+      {
+        "name": "李際寧",
+        "id": "A034625"
+      }
+    ]
+  },
+  "ZW0015d": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大般涅槃經佛為摩耶夫人說偈品經",
+    "juans": "1",
+    "byline": "李際寧整理",
+    "contributors": [
+      {
+        "name": "李際寧",
+        "id": "A034625"
+      }
+    ]
+  },
+  "ZW0016": {
+    "vol": "ZW01",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "關於《禪藏》與敦煌禪籍的若干問題",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa001": {
+    "vol": "ZW01",
+    "type": "non-textbody",
+    "title": "緣起",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa002": {
+    "vol": "ZW01",
+    "type": "non-textbody",
+    "title": "卷首語",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa003": {
+    "vol": "ZW01",
+    "type": "non-textbody",
+    "title": "目錄",
+    "juans": "1"
+  },
+  "ZWa004": {
+    "vol": "ZW01",
+    "type": "non-textbody",
+    "title": "錄文校勘體例",
+    "juans": "1"
+  },
+  "ZWa005": {
+    "vol": "ZW01",
+    "type": "non-textbody",
+    "title": "徵稿啟事",
+    "juans": "1"
+  },
+  "ZWa006": {
+    "vol": "ZW01",
+    "type": "non-textbody",
+    "title": "《藏外佛教文獻》編委會啟事",
+    "juans": "1"
+  },
+  "ZW0017": {
+    "vol": "ZW02",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "七祖法寶記下卷",
+    "juans": "1",
+    "byline": "華方田整理",
+    "contributors": [
+      {
+        "name": "華方田",
+        "id": "A034736"
+      }
+    ]
+  },
+  "ZW0018a": {
+    "vol": "ZW02",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "天竺國菩提達摩禪師論",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0018b": {
+    "vol": "ZW02",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "天竺國菩提達摩禪師論",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0019": {
+    "vol": "ZW02",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "淨名經集解關中疏卷上",
+    "juans": "1",
+    "byline": "沙門道液集　黎明整理",
+    "contributors": [
+      {
+        "name": "道液",
+        "id": "A001531"
+      },
+      {
+        "name": "黎明",
+        "id": "A034738"
+      }
+    ]
+  },
+  "ZW0020": {
+    "vol": "ZW02",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "法華經文外義",
+    "juans": "1",
+    "byline": "李際寧．張曉娟整理",
+    "contributors": [
+      {
+        "name": "李際寧",
+        "id": "A034625"
+      },
+      {
+        "name": "張曉娟",
+        "id": "A034740"
+      }
+    ]
+  },
+  "ZW0021": {
+    "vol": "ZW02",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "諦義證得經",
+    "juans": "1",
+    "byline": "古印度 烏瑪斯伐蒂著　方廣錩譯註",
+    "contributors": [
+      {
+        "name": "烏瑪斯伐蒂",
+        "id": "A034744"
+      },
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0022": {
+    "vol": "ZW02",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "《瑜伽師地論》披尋記敘",
+    "juans": "1",
+    "byline": "韓清淨著　程恭讓整理",
+    "contributors": [
+      {
+        "name": "韓清淨",
+        "id": "A004891"
+      },
+      {
+        "name": "程恭讓",
+        "id": "A034748"
+      }
+    ]
+  },
+  "ZWa007": {
+    "vol": "ZW02",
+    "type": "non-textbody",
+    "title": "卷首語",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa008": {
+    "vol": "ZW02",
+    "type": "non-textbody",
+    "title": "目錄",
+    "juans": "1"
+  },
+  "ZWa009": {
+    "vol": "ZW02",
+    "type": "non-textbody",
+    "title": "錄文校勘體例",
+    "juans": "1"
+  },
+  "ZWa010": {
+    "vol": "ZW02",
+    "type": "non-textbody",
+    "title": "大藏經編纂及電腦化研討會論文特集",
+    "juans": "13"
+  },
+  "ZWa011": {
+    "vol": "ZW02",
+    "type": "non-textbody",
+    "title": "徵稿啟事",
+    "juans": "1"
+  },
+  "ZWa012": {
+    "vol": "ZW02",
+    "type": "non-textbody",
+    "title": "徵訂啟事",
+    "juans": "1"
+  },
+  "ZW0023": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "菩薩總持法",
+    "juans": "1",
+    "byline": "上山大峻．袁德領整理",
+    "contributors": [
+      {
+        "name": "上山大峻",
+        "id": "A034755"
+      },
+      {
+        "name": "袁德領",
+        "id": "A034757"
+      }
+    ]
+  },
+  "ZW0024": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大乘起世論",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0025": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "淨名經集解關中疏卷下",
+    "juans": "1",
+    "byline": "沙門道液述　黎明整理",
+    "contributors": [
+      {
+        "name": "道液",
+        "id": "A001531"
+      },
+      {
+        "name": "黎明",
+        "id": "A034738"
+      }
+    ]
+  },
+  "ZW0026": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "因緣心論頌",
+    "juans": "1",
+    "byline": "龍猛菩薩作　華方田整理",
+    "contributors": [
+      {
+        "name": "龍猛菩薩",
+        "id": "A001482"
+      },
+      {
+        "name": "華方田",
+        "id": "A034736"
+      }
+    ]
+  },
+  "ZW0027": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "因緣心論釋",
+    "juans": "1",
+    "byline": "龍猛菩薩造　華方田整理",
+    "contributors": [
+      {
+        "name": "龍猛菩薩",
+        "id": "A001482"
+      },
+      {
+        "name": "華方田",
+        "id": "A034736"
+      }
+    ]
+  },
+  "ZW0028": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "因緣心釋論開決記",
+    "juans": "1",
+    "byline": "華方田整理",
+    "contributors": [
+      {
+        "name": "華方田",
+        "id": "A034736"
+      }
+    ]
+  },
+  "ZW0029": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金剛般若經疏",
+    "juans": "1",
+    "byline": "華方田整理",
+    "contributors": [
+      {
+        "name": "華方田",
+        "id": "A034736"
+      }
+    ]
+  },
+  "ZW0030": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "瑜伽論卷第十四手記",
+    "juans": "1",
+    "byline": "徐紹強整理",
+    "contributors": [
+      {
+        "name": "徐紹強",
+        "id": "A034632"
+      }
+    ]
+  },
+  "ZW0031a": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛說觀佛三昧海經本行品第八",
+    "juans": "1",
+    "byline": "黃霞整理",
+    "contributors": [
+      {
+        "name": "黃霞",
+        "id": "A034788"
+      }
+    ]
+  },
+  "ZW0031b": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛說相好經",
+    "juans": "1",
+    "byline": "黃霞整理",
+    "contributors": [
+      {
+        "name": "黃霞",
+        "id": "A034788"
+      }
+    ]
+  },
+  "ZW0031c": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛說觀佛三昧海藏經本行品第八",
+    "juans": "1",
+    "byline": "黃霞整理",
+    "contributors": [
+      {
+        "name": "黃霞",
+        "id": "A034788"
+      }
+    ]
+  },
+  "ZW0031d": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛說相好經",
+    "juans": "1",
+    "byline": "黃霞整理",
+    "contributors": [
+      {
+        "name": "黃霞",
+        "id": "A034788"
+      }
+    ]
+  },
+  "ZW0031e": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "觀佛三昧海經本行品第八",
+    "juans": "1",
+    "byline": "黃霞整理",
+    "contributors": [
+      {
+        "name": "黃霞",
+        "id": "A034788"
+      }
+    ]
+  },
+  "ZW0032": {
+    "vol": "ZW03",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "《金藏》新資料考",
+    "juans": "1",
+    "byline": "李際寧",
+    "contributors": [
+      {
+        "name": "李際寧",
+        "id": "A034625"
+      }
+    ]
+  },
+  "ZWa013": {
+    "vol": "ZW03",
+    "type": "non-textbody",
+    "title": "卷首語",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa014": {
+    "vol": "ZW03",
+    "type": "non-textbody",
+    "title": "目錄",
+    "juans": "1"
+  },
+  "ZWa015": {
+    "vol": "ZW03",
+    "type": "non-textbody",
+    "title": "錄文校勘體例",
+    "juans": "1"
+  },
+  "ZWa016": {
+    "vol": "ZW03",
+    "type": "non-textbody",
+    "title": "《藏外佛教文獻》第一輯、第二輯要目",
+    "juans": "1"
+  },
+  "ZWa017": {
+    "vol": "ZW03",
+    "type": "non-textbody",
+    "title": "徵稿啟事",
+    "juans": "1"
+  },
+  "ZWa018": {
+    "vol": "ZW03",
+    "type": "non-textbody",
+    "title": "編委會名單",
+    "juans": "1"
+  },
+  "ZWa019": {
+    "vol": "ZW03",
+    "type": "non-textbody",
+    "title": "鳴謝",
+    "juans": "1"
+  },
+  "ZW0033": {
+    "vol": "ZW04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "入菩薩行論廣解",
+    "juans": "10",
+    "byline": "寂天菩薩造頌　傑操大師註解　隆蓮法師譯",
+    "contributors": [
+      {
+        "name": "寂天菩薩",
+        "id": "A017001"
+      },
+      {
+        "name": "傑操大師",
+        "id": "A034790"
+      },
+      {
+        "name": "隆蓮法師",
+        "id": "A034791"
+      }
+    ]
+  },
+  "ZW0034": {
+    "vol": "ZW04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大藏佛說守護大千國土經",
+    "juans": "1",
+    "byline": "陳明光整理",
+    "contributors": [
+      {
+        "name": "陳明光",
+        "id": "A034810"
+      }
+    ]
+  },
+  "ZW0035": {
+    "vol": "ZW04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "六道輪迴圖偈頌",
+    "juans": "1",
+    "byline": "陳明光整理",
+    "contributors": [
+      {
+        "name": "陳明光",
+        "id": "A034810"
+      }
+    ]
+  },
+  "ZW0036": {
+    "vol": "ZW04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "父母恩重經變經文偈頌",
+    "juans": "1",
+    "byline": "陳明光整理",
+    "contributors": [
+      {
+        "name": "陳明光",
+        "id": "A034810"
+      }
+    ]
+  },
+  "ZW0037": {
+    "vol": "ZW04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大方便佛報恩經變經文偈頌",
+    "juans": "1",
+    "byline": "陳明光整理",
+    "contributors": [
+      {
+        "name": "陳明光",
+        "id": "A034810"
+      }
+    ]
+  },
+  "ZW0038": {
+    "vol": "ZW04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "三聖御制佛牙贊",
+    "juans": "1",
+    "byline": "北宋 太宗．真宗．仁宗撰　陳明光整理",
+    "dynasty": "北宋",
+    "time_from": 960,
+    "time_to": 1127,
+    "contributors": [
+      {
+        "name": "宋太宗",
+        "id": "A001640"
+      },
+      {
+        "name": "宋真宗",
+        "id": "A000946"
+      },
+      {
+        "name": "宋仁宗",
+        "id": "A006606"
+      },
+      {
+        "name": "陳明光",
+        "id": "A034810"
+      }
+    ]
+  },
+  "ZW0039": {
+    "vol": "ZW04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "觀經變像經文偈頌",
+    "juans": "1",
+    "byline": "陳明光整理",
+    "contributors": [
+      {
+        "name": "陳明光",
+        "id": "A034810"
+      }
+    ]
+  },
+  "ZW0040": {
+    "vol": "ZW04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "地獄變經文偈頌",
+    "juans": "1",
+    "byline": "陳明光整理",
+    "contributors": [
+      {
+        "name": "陳明光",
+        "id": "A034810"
+      }
+    ]
+  },
+  "ZW0041": {
+    "vol": "ZW04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛性問答",
+    "juans": "1",
+    "byline": "業露華整理",
+    "contributors": [
+      {
+        "name": "業露華",
+        "id": "A034811"
+      }
+    ]
+  },
+  "ZW0042": {
+    "vol": "ZW04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大乘無盡藏法",
+    "juans": "1",
+    "byline": "信行撰　方廣錩整理",
+    "contributors": [
+      {
+        "name": "信行",
+        "id": "A005957"
+      },
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0043a": {
+    "vol": "ZW04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛在金棺上囑累經",
+    "juans": "1",
+    "byline": "侯旭東整理",
+    "contributors": [
+      {
+        "name": "侯旭東",
+        "id": "A034813"
+      }
+    ]
+  },
+  "ZW0043b": {
+    "vol": "ZW04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "如來在金棺囑累清淨莊嚴敬福經",
+    "juans": "1",
+    "byline": "侯旭東整理",
+    "contributors": [
+      {
+        "name": "侯旭東",
+        "id": "A034813"
+      }
+    ]
+  },
+  "ZW0044": {
+    "vol": "ZW04",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "傳善無畏所譯三部密教儀軌出處及年代考",
+    "juans": "1",
+    "byline": "陳金華",
+    "contributors": [
+      {
+        "name": "陳金華",
+        "id": "A034814"
+      }
+    ]
+  },
+  "ZWa020": {
+    "vol": "ZW04",
+    "type": "non-textbody",
+    "title": "卷首語",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa021": {
+    "vol": "ZW04",
+    "type": "non-textbody",
+    "title": "目錄",
+    "juans": "1"
+  },
+  "ZWa022": {
+    "vol": "ZW04",
+    "type": "non-textbody",
+    "title": "錄文校勘體例",
+    "juans": "1"
+  },
+  "ZWa023": {
+    "vol": "ZW04",
+    "type": "non-textbody",
+    "title": "「中國社會科學院佛教研究中心成立暨佛教研究與新時期的文化建設研討會」紀要",
+    "juans": "1"
+  },
+  "ZWa024": {
+    "vol": "ZW04",
+    "type": "non-textbody",
+    "title": "《藏外佛教文獻》第一～六輯要目",
+    "juans": "1"
+  },
+  "ZWa025": {
+    "vol": "ZW04",
+    "type": "non-textbody",
+    "title": "徵稿啟事",
+    "juans": "1"
+  },
+  "ZWa026": {
+    "vol": "ZW04",
+    "type": "non-textbody",
+    "title": "編委會名單",
+    "juans": "1"
+  },
+  "ZW0045": {
+    "vol": "ZW05",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "小誦",
+    "juans": "1",
+    "byline": "鄧殿臣譯",
+    "contributors": [
+      {
+        "name": "鄧殿臣",
+        "id": "A034815"
+      }
+    ]
+  },
+  "ZW0046": {
+    "vol": "ZW05",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "即興自說",
+    "juans": "1",
+    "byline": "鄧殿臣譯",
+    "contributors": [
+      {
+        "name": "鄧殿臣",
+        "id": "A034815"
+      }
+    ]
+  },
+  "ZW0047": {
+    "vol": "ZW05",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大隧道本生",
+    "juans": "1",
+    "byline": "鄧殿臣譯",
+    "contributors": [
+      {
+        "name": "鄧殿臣",
+        "id": "A034815"
+      }
+    ]
+  },
+  "ZW0048": {
+    "vol": "ZW05",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大念處經",
+    "juans": "1",
+    "byline": "鄧殿臣．趙桐譯",
+    "contributors": [
+      {
+        "name": "鄧殿臣",
+        "id": "A034815"
+      },
+      {
+        "name": "趙桐",
+        "id": "A034816"
+      }
+    ]
+  },
+  "ZW0049": {
+    "vol": "ZW05",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "瑜伽師地開釋分門記",
+    "juans": "1",
+    "byline": "徐紹強整理",
+    "contributors": [
+      {
+        "name": "徐紹強",
+        "id": "A034632"
+      }
+    ]
+  },
+  "ZW0050": {
+    "vol": "ZW05",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "天台教典入藏考",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa027": {
+    "vol": "ZW05",
+    "type": "non-textbody",
+    "title": "卷首語",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa028": {
+    "vol": "ZW05",
+    "type": "non-textbody",
+    "title": "目錄",
+    "juans": "1"
+  },
+  "ZWa029": {
+    "vol": "ZW05",
+    "type": "non-textbody",
+    "title": "錄文校勘體例",
+    "juans": "1"
+  },
+  "ZWa030": {
+    "vol": "ZW05",
+    "type": "non-textbody",
+    "title": "《藏外佛教文獻》第一～六輯要目",
+    "juans": "1"
+  },
+  "ZWa031": {
+    "vol": "ZW05",
+    "type": "non-textbody",
+    "title": "徵稿啟事",
+    "juans": "1"
+  },
+  "ZWa032": {
+    "vol": "ZW05",
+    "type": "non-textbody",
+    "title": "編委會名單",
+    "juans": "1"
+  },
+  "ZW0051": {
+    "vol": "ZW06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "楞嚴解冤釋結道場儀",
+    "juans": "8",
+    "byline": "宋 釋祖照集　趙文煥．侯沖整理",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "釋祖照",
+        "id": "A014328"
+      },
+      {
+        "name": "趙文煥",
+        "id": "A034822"
+      },
+      {
+        "name": "侯沖",
+        "id": "A034821"
+      }
+    ]
+  },
+  "ZW0052": {
+    "vol": "ZW06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "地藏慈悲救苦薦福利生道場儀",
+    "juans": "4",
+    "byline": "宋 釋元照集　趙文煥．侯沖整理",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "釋元照",
+        "id": "A000129"
+      },
+      {
+        "name": "趙文煥",
+        "id": "A034822"
+      },
+      {
+        "name": "侯沖",
+        "id": "A034821"
+      }
+    ]
+  },
+  "ZW0053": {
+    "vol": "ZW06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "銷釋金剛經科儀",
+    "juans": "1",
+    "byline": "宋 釋宗鏡述　侯沖整理",
+    "dynasty": "宋",
+    "time_from": 960,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "釋宗鏡",
+        "id": "A000607"
+      },
+      {
+        "name": "侯沖",
+        "id": "A034821"
+      }
+    ]
+  },
+  "ZW0054": {
+    "vol": "ZW06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "廣施無遮道場儀",
+    "juans": "1",
+    "byline": "侯沖整理",
+    "contributors": [
+      {
+        "name": "侯沖",
+        "id": "A034821"
+      }
+    ]
+  },
+  "ZW0055": {
+    "vol": "ZW06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大黑天神道場儀",
+    "juans": "1",
+    "byline": "侯沖整理",
+    "contributors": [
+      {
+        "name": "侯沖",
+        "id": "A034821"
+      }
+    ]
+  },
+  "ZW0056": {
+    "vol": "ZW06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "進新譯大方廣佛花嚴經表",
+    "juans": "1",
+    "byline": "弘景撰　方廣錩整理",
+    "contributors": [
+      {
+        "name": "弘景",
+        "id": "A008970"
+      },
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0057": {
+    "vol": "ZW06",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "雲南阿吒力教經典及其在中國佛教研究中的價值",
+    "juans": "1",
+    "byline": "侯沖",
+    "contributors": [
+      {
+        "name": "侯沖",
+        "id": "A034821"
+      }
+    ]
+  },
+  "ZWa033": {
+    "vol": "ZW06",
+    "type": "non-textbody",
+    "title": "卷首語",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa034": {
+    "vol": "ZW06",
+    "type": "non-textbody",
+    "title": "目錄",
+    "juans": "1"
+  },
+  "ZWa035": {
+    "vol": "ZW06",
+    "type": "non-textbody",
+    "title": "錄文校勘體例",
+    "juans": "1"
+  },
+  "ZWa036": {
+    "vol": "ZW06",
+    "type": "non-textbody",
+    "title": "《藏外佛教文獻》第一～六輯要目",
+    "juans": "1"
+  },
+  "ZWa037": {
+    "vol": "ZW06",
+    "type": "non-textbody",
+    "title": "徵稿啟事",
+    "juans": "1"
+  },
+  "ZWa038": {
+    "vol": "ZW06",
+    "type": "non-textbody",
+    "title": "編委會名單",
+    "juans": "1"
+  },
+  "ZW0058": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "注心要法門",
+    "juans": "1",
+    "byline": "唐 宗密注　方廣錩整理",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "宗密",
+        "id": "A000587"
+      },
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0059a": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "姚和上金剛五禮一本",
+    "juans": "1",
+    "byline": "姚和尚撰　達照整理",
+    "contributors": [
+      {
+        "name": "姚和尚",
+        "id": "A034925"
+      },
+      {
+        "name": "達照",
+        "id": "A034926"
+      }
+    ]
+  },
+  "ZW0059b": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金剛五禮",
+    "juans": "1",
+    "byline": "姚和尚撰　達照整理",
+    "contributors": [
+      {
+        "name": "姚和尚",
+        "id": "A034925"
+      },
+      {
+        "name": "達照",
+        "id": "A034926"
+      }
+    ]
+  },
+  "ZW0060": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金剛禮",
+    "juans": "1",
+    "byline": "遼 通理大師集　達照整理",
+    "dynasty": "遼",
+    "time_from": 907,
+    "time_to": 1125,
+    "contributors": [
+      {
+        "name": "通理大師",
+        "id": "A022419"
+      },
+      {
+        "name": "達照",
+        "id": "A034926"
+      }
+    ]
+  },
+  "ZW0061": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "護國司南抄",
+    "juans": "1",
+    "byline": "沙門玄鑒集　侯沖整理",
+    "contributors": [
+      {
+        "name": "玄鑒",
+        "id": "A034940"
+      },
+      {
+        "name": "侯沖",
+        "id": "A034821"
+      }
+    ]
+  },
+  "ZW0062": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛說消災延壽藥師灌頂章句儀",
+    "juans": "6",
+    "byline": "沙門若愚述　侯沖整理",
+    "contributors": [
+      {
+        "name": "若愚",
+        "id": "A011130"
+      },
+      {
+        "name": "侯沖",
+        "id": "A034821"
+      }
+    ]
+  },
+  "ZW0063": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "淨度三昧經",
+    "juans": "3",
+    "byline": "大內文雄．齊藤隆信整理",
+    "contributors": [
+      {
+        "name": "大內文雄",
+        "id": "A034955"
+      },
+      {
+        "name": "齊藤隆信",
+        "id": "A034956"
+      }
+    ]
+  },
+  "ZW0064a": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "地藏菩薩十齋日",
+    "juans": "1",
+    "byline": "張總整理",
+    "contributors": [
+      {
+        "name": "張總",
+        "id": "A034977"
+      }
+    ]
+  },
+  "ZW0064b": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "地藏菩薩十齋日",
+    "juans": "1",
+    "byline": "張總整理",
+    "contributors": [
+      {
+        "name": "張總",
+        "id": "A034977"
+      }
+    ]
+  },
+  "ZW0064c": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "地藏菩薩十齋日",
+    "juans": "1",
+    "byline": "張總整理",
+    "contributors": [
+      {
+        "name": "張總",
+        "id": "A034977"
+      }
+    ]
+  },
+  "ZW0064d": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "地藏菩薩十齋日",
+    "juans": "1",
+    "byline": "張總整理",
+    "contributors": [
+      {
+        "name": "張總",
+        "id": "A034977"
+      }
+    ]
+  },
+  "ZW0064e": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "地藏菩薩十齋日",
+    "juans": "1",
+    "byline": "張總整理",
+    "contributors": [
+      {
+        "name": "張總",
+        "id": "A034977"
+      }
+    ]
+  },
+  "ZW0064f": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "地藏菩薩十齋日",
+    "juans": "1",
+    "byline": "張總整理",
+    "contributors": [
+      {
+        "name": "張總",
+        "id": "A034977"
+      }
+    ]
+  },
+  "ZW0064g": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "地藏菩薩十齋日",
+    "juans": "1",
+    "byline": "張總整理",
+    "contributors": [
+      {
+        "name": "張總",
+        "id": "A034977"
+      }
+    ]
+  },
+  "ZW0064h": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "地藏菩薩十齋日",
+    "juans": "1",
+    "byline": "張總整理",
+    "contributors": [
+      {
+        "name": "張總",
+        "id": "A034977"
+      }
+    ]
+  },
+  "ZW0065": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "寧夏西夏方塔出土漢文佛典敘錄",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0066": {
+    "vol": "ZW07",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "日本佛教目錄學的形成——以《東域傳燈錄》為中心",
+    "juans": "1",
+    "byline": "末木文美士",
+    "contributors": [
+      {
+        "name": "末木文美士",
+        "id": "A032551"
+      }
+    ]
+  },
+  "ZWa039": {
+    "vol": "ZW07",
+    "type": "non-textbody",
+    "title": "卷首語",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa040": {
+    "vol": "ZW07",
+    "type": "non-textbody",
+    "title": "目錄",
+    "juans": "1"
+  },
+  "ZWa041": {
+    "vol": "ZW07",
+    "type": "non-textbody",
+    "title": "錄文校勘體例",
+    "juans": "1"
+  },
+  "ZWa042": {
+    "vol": "ZW07",
+    "type": "non-textbody",
+    "title": "《藏外佛教文獻》要目",
+    "juans": "1"
+  },
+  "ZWa043": {
+    "vol": "ZW07",
+    "type": "non-textbody",
+    "title": "徵稿啟事",
+    "juans": "1"
+  },
+  "ZW0067": {
+    "vol": "ZW08",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "華嚴略疏卷第一",
+    "juans": "1",
+    "byline": "悟緣　整理",
+    "contributors": [
+      {
+        "name": "悟緣",
+        "id": "A034981"
+      }
+    ]
+  },
+  "ZW0068": {
+    "vol": "ZW08",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "如來廣孝十種報恩道場儀",
+    "juans": "8",
+    "byline": "南宋 思覺集　趙文煥．侯沖整理",
+    "dynasty": "南宋",
+    "time_from": 1127,
+    "time_to": 1279,
+    "contributors": [
+      {
+        "name": "思覺",
+        "id": "A034983"
+      },
+      {
+        "name": "趙文煥",
+        "id": "A034822"
+      },
+      {
+        "name": "侯沖",
+        "id": "A034821"
+      }
+    ]
+  },
+  "ZW0069": {
+    "vol": "ZW08",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "二曜金剛合璧",
+    "juans": "1",
+    "byline": "通源整理",
+    "contributors": [
+      {
+        "name": "通源",
+        "id": "A034984"
+      }
+    ]
+  },
+  "ZW0070": {
+    "vol": "ZW08",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "敦煌寺院所藏大藏經概貌",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0071": {
+    "vol": "ZW08",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "《慧琳音義》與唐代大藏經",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa044": {
+    "vol": "ZW08",
+    "type": "non-textbody",
+    "title": "卷首語",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa045": {
+    "vol": "ZW08",
+    "type": "non-textbody",
+    "title": "目錄",
+    "juans": "1"
+  },
+  "ZWa046": {
+    "vol": "ZW08",
+    "type": "non-textbody",
+    "title": "錄文校勘體例",
+    "juans": "1"
+  },
+  "ZWa047": {
+    "vol": "ZW08",
+    "type": "non-textbody",
+    "title": "《藏外佛教文獻》要目",
+    "juans": "1"
+  },
+  "ZWa048": {
+    "vol": "ZW08",
+    "type": "non-textbody",
+    "title": "徵稿啟事",
+    "juans": "1"
+  },
+  "ZWa049": {
+    "vol": "ZW08",
+    "type": "non-textbody",
+    "title": "鳴謝",
+    "juans": "1"
+  },
+  "ZW0072": {
+    "vol": "ZW09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛性觀修善法",
+    "juans": "1",
+    "byline": "信行撰　西本照真整理",
+    "contributors": [
+      {
+        "name": "信行",
+        "id": "A005957"
+      },
+      {
+        "name": "西本照真",
+        "id": "A034986"
+      }
+    ]
+  },
+  "ZW0073a": {
+    "vol": "ZW09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金剛經讚集",
+    "juans": "1",
+    "byline": "達照整理",
+    "contributors": [
+      {
+        "name": "達照",
+        "id": "A034926"
+      }
+    ]
+  },
+  "ZW0073b": {
+    "vol": "ZW09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金剛經讚集（擬）",
+    "juans": "1",
+    "byline": "達照整理",
+    "contributors": [
+      {
+        "name": "達照",
+        "id": "A034926"
+      }
+    ]
+  },
+  "ZW0073c": {
+    "vol": "ZW09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金剛經讚集（擬）",
+    "juans": "1",
+    "byline": "達照整理",
+    "contributors": [
+      {
+        "name": "達照",
+        "id": "A034926"
+      }
+    ]
+  },
+  "ZW0073d": {
+    "vol": "ZW09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金剛經注頌釋",
+    "juans": "1",
+    "byline": "達照整理",
+    "contributors": [
+      {
+        "name": "達照",
+        "id": "A034926"
+      }
+    ]
+  },
+  "ZW0073e": {
+    "vol": "ZW09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金剛經頌（擬）",
+    "juans": "1",
+    "byline": "達照整理",
+    "contributors": [
+      {
+        "name": "達照",
+        "id": "A034926"
+      }
+    ]
+  },
+  "ZW0073f": {
+    "vol": "ZW09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "梁朝傅大士頌金剛經",
+    "juans": "1",
+    "byline": "達照整理",
+    "contributors": [
+      {
+        "name": "達照",
+        "id": "A034926"
+      }
+    ]
+  },
+  "ZW0073g": {
+    "vol": "ZW09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "梁朝傅大士頌金剛經",
+    "juans": "1",
+    "byline": "達照整理",
+    "contributors": [
+      {
+        "name": "達照",
+        "id": "A034926"
+      }
+    ]
+  },
+  "ZW0073h": {
+    "vol": "ZW09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "梁朝傅大士夾頌金剛經",
+    "juans": "1",
+    "byline": "達照整理",
+    "contributors": [
+      {
+        "name": "達照",
+        "id": "A034926"
+      }
+    ]
+  },
+  "ZW0074": {
+    "vol": "ZW09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "寶髻大王菩薩本緣",
+    "juans": "1",
+    "byline": "任遠譯",
+    "contributors": [
+      {
+        "name": "任遠",
+        "id": "A034989"
+      }
+    ]
+  },
+  "ZW0075": {
+    "vol": "ZW09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "寶髻本緣",
+    "juans": "1",
+    "byline": "克什曼德拉原著　任遠譯",
+    "contributors": [
+      {
+        "name": "克什曼德拉",
+        "id": "A034990"
+      },
+      {
+        "name": "任遠",
+        "id": "A034989"
+      }
+    ]
+  },
+  "ZW0076": {
+    "vol": "ZW09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "三階教文獻綜述",
+    "juans": "1",
+    "byline": "西本照真",
+    "contributors": [
+      {
+        "name": "西本照真",
+        "id": "A034986"
+      }
+    ]
+  },
+  "ZW0077": {
+    "vol": "ZW09",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "關於江泌女子僧法誦出經",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa050": {
+    "vol": "ZW09",
+    "type": "non-textbody",
+    "title": "卷首語",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa051": {
+    "vol": "ZW09",
+    "type": "non-textbody",
+    "title": "目錄",
+    "juans": "1"
+  },
+  "ZWa052": {
+    "vol": "ZW09",
+    "type": "non-textbody",
+    "title": "錄文校勘體例",
+    "juans": "1"
+  },
+  "ZWa053": {
+    "vol": "ZW09",
+    "type": "non-textbody",
+    "title": "談當前數字圖書館的幾個問題",
+    "juans": "1"
+  },
+  "ZWa054": {
+    "vol": "ZW09",
+    "type": "non-textbody",
+    "title": "《藏外佛教文獻》要目",
+    "juans": "1"
+  },
+  "ZWa055": {
+    "vol": "ZW09",
+    "type": "non-textbody",
+    "title": "徵稿啟事",
+    "juans": "1"
+  },
+  "ZWa056": {
+    "vol": "ZW09",
+    "type": "non-textbody",
+    "title": "鳴謝",
+    "juans": "1"
+  },
+  "ZW0078": {
+    "vol": "ZW10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "三自性論",
+    "juans": "1",
+    "byline": "印度 世親著　金克木譯",
+    "contributors": [
+      {
+        "name": "世親",
+        "id": "A000148"
+      },
+      {
+        "name": "金克木",
+        "id": "A043607"
+      }
+    ]
+  },
+  "ZW0079": {
+    "vol": "ZW10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "因相輪抉擇",
+    "juans": "1",
+    "byline": "印度 陳那著　韓鏡清初譯　釋剛曉校訂註釋",
+    "contributors": [
+      {
+        "name": "陳那",
+        "id": "A001162"
+      },
+      {
+        "name": "韓鏡清",
+        "id": "A043608"
+      },
+      {
+        "name": "釋剛曉",
+        "id": "A032510"
+      }
+    ]
+  },
+  "ZW0080": {
+    "vol": "ZW10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "諸經佛名卷上",
+    "juans": "1",
+    "byline": "章光池整理",
+    "contributors": [
+      {
+        "name": "章光池",
+        "id": "A043776"
+      }
+    ]
+  },
+  "ZW0081": {
+    "vol": "ZW10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "御注金剛般若經",
+    "juans": "1",
+    "byline": "唐 李隆基著　衣川賢次整理",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "李隆基",
+        "id": "A000291"
+      },
+      {
+        "name": "衣川賢次",
+        "id": "A043777"
+      }
+    ]
+  },
+  "ZW0082": {
+    "vol": "ZW10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "文殊師利所說般若波羅蜜經序偈釋",
+    "juans": "1",
+    "byline": "曹淩整理",
+    "contributors": [
+      {
+        "name": "曹淩",
+        "id": "A043779"
+      }
+    ]
+  },
+  "ZW0083": {
+    "vol": "ZW10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "法華七禮文",
+    "juans": "1",
+    "byline": "汪娟整理",
+    "contributors": [
+      {
+        "name": "汪娟",
+        "id": "A043780"
+      }
+    ]
+  },
+  "ZW0084": {
+    "vol": "ZW10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "照明菩薩經",
+    "juans": "1",
+    "byline": "林敏整理",
+    "contributors": [
+      {
+        "name": "林敏",
+        "id": "A043783"
+      }
+    ]
+  },
+  "ZW0085": {
+    "vol": "ZW10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛說佛名經（二十卷本——卷第一～卷第四）",
+    "juans": "1",
+    "byline": "張麗．張磊整理",
+    "contributors": [
+      {
+        "name": "張麗",
+        "id": "A043784"
+      },
+      {
+        "name": "張磊",
+        "id": "A043785"
+      }
+    ]
+  },
+  "ZW0086": {
+    "vol": "ZW10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "敦煌本《壇經》校釋疏義（標題章、第一章、第二章）",
+    "juans": "1",
+    "byline": "方廣錩．侯沖執筆　研讀班集體討論",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      },
+      {
+        "name": "侯沖",
+        "id": "A034821"
+      }
+    ]
+  },
+  "ZW0087": {
+    "vol": "ZW10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "敦煌本《壇經》錄校三題",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0088": {
+    "vol": "ZW10",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "明初的兩部南藏",
+    "juans": "1",
+    "byline": "日 立正大學教授 野澤佳美",
+    "contributors": [
+      {
+        "name": "野澤佳美",
+        "id": "A043786"
+      }
+    ]
+  },
+  "ZWa057": {
+    "vol": "ZW10",
+    "type": "non-textbody",
+    "title": "目錄",
+    "juans": "1"
+  },
+  "ZWa058": {
+    "vol": "ZW10",
+    "type": "non-textbody",
+    "title": "卷首語",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa059": {
+    "vol": "ZW10",
+    "type": "non-textbody",
+    "title": "錄文校勘體例",
+    "juans": "1"
+  },
+  "ZWa060": {
+    "vol": "ZW10",
+    "type": "non-textbody",
+    "title": "徵稿啟事",
+    "juans": "1"
+  },
+  "ZWa061": {
+    "vol": "ZW10",
+    "type": "non-textbody",
+    "title": "《藏外佛教文獻》總目錄（第一輯～第十二輯）",
+    "juans": "1"
+  },
+  "ZWa062": {
+    "vol": "ZW10",
+    "type": "non-textbody",
+    "title": "鳴謝",
+    "juans": "1"
+  },
+  "ZW0089": {
+    "vol": "ZW11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "讚禮地藏菩薩懺悔發願法",
+    "juans": "1",
+    "byline": "張曉麗整理",
+    "contributors": [
+      {
+        "name": "張曉麗",
+        "id": "A043830"
+      }
+    ]
+  },
+  "ZW0090": {
+    "vol": "ZW11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "如來九觀（擬）",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0091": {
+    "vol": "ZW11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金剛峻經金剛頂一切如來深妙秘密金剛界大三昧耶修行四十二種壇法經作用威儀法則　大毘盧遮那佛金剛心地法門密法戒壇法儀則",
+    "juans": "4",
+    "byline": "侯沖整理",
+    "contributors": [
+      {
+        "name": "侯沖",
+        "id": "A034821"
+      }
+    ]
+  },
+  "ZW0092": {
+    "vol": "ZW11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金剛峻經金剛頂一切如來深妙秘密金剛界大三昧耶修行四十九種壇法經作用威儀法則　大毘盧遮那佛金剛心地法門密法戒壇法儀則",
+    "juans": "1",
+    "byline": "侯沖整理",
+    "contributors": [
+      {
+        "name": "侯沖",
+        "id": "A034821"
+      }
+    ]
+  },
+  "ZW0093": {
+    "vol": "ZW11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛說佛名經（二十卷本——卷第五～卷第七）",
+    "juans": "3",
+    "byline": "張麗．張磊整理",
+    "contributors": [
+      {
+        "name": "張麗",
+        "id": "A043784"
+      },
+      {
+        "name": "張磊",
+        "id": "A043785"
+      }
+    ]
+  },
+  "ZW0094": {
+    "vol": "ZW11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "敦煌本《壇經》校釋疏義（第三章～第五章）",
+    "juans": "3",
+    "byline": "張磊．王侃．李鐵華執筆　研讀班集體討論",
+    "contributors": [
+      {
+        "name": "張磊",
+        "id": "A043785"
+      },
+      {
+        "name": "王侃",
+        "id": "A043831"
+      },
+      {
+        "name": "李鐵華",
+        "id": "A043832"
+      }
+    ]
+  },
+  "ZW0095": {
+    "vol": "ZW11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "日本的漢文大藏經收藏及其特色——以刻本大藏經為中心",
+    "juans": "1",
+    "byline": "日本 京都大學人文所 梶浦晉",
+    "contributors": [
+      {
+        "name": "梶浦晉",
+        "id": "A043833"
+      }
+    ]
+  },
+  "ZW0096": {
+    "vol": "ZW11",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "論《高麗再雕藏》中所見的《契丹藏》",
+    "juans": "1",
+    "byline": "韓國 大真大學校教授 柳富鉉",
+    "contributors": [
+      {
+        "name": "柳富鉉",
+        "id": "A043834"
+      }
+    ]
+  },
+  "ZWa063": {
+    "vol": "ZW11",
+    "type": "non-textbody",
+    "title": "目錄",
+    "juans": "1"
+  },
+  "ZWa064": {
+    "vol": "ZW11",
+    "type": "non-textbody",
+    "title": "卷首語",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa065": {
+    "vol": "ZW11",
+    "type": "non-textbody",
+    "title": "錄文校勘體例",
+    "juans": "1"
+  },
+  "ZWa066": {
+    "vol": "ZW11",
+    "type": "non-textbody",
+    "title": "徵稿啟事",
+    "juans": "1"
+  },
+  "ZWa067": {
+    "vol": "ZW11",
+    "type": "non-textbody",
+    "title": "《藏外佛教文獻》總目錄（第一輯～第十二輯）",
+    "juans": "1"
+  },
+  "ZWa068": {
+    "vol": "ZW11",
+    "type": "non-textbody",
+    "title": "鳴謝",
+    "juans": "1"
+  },
+  "ZW0097": {
+    "vol": "ZW12",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "金剛般若經義疏卷二",
+    "juans": "1",
+    "byline": "方廣錩整理",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0098": {
+    "vol": "ZW12",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "圓通三慧大齋道場儀",
+    "juans": "9",
+    "byline": "宋 侯溥作　侯沖整理",
+    "contributors": [
+      {
+        "name": "侯溥",
+        "id": "A043835"
+      },
+      {
+        "name": "侯沖",
+        "id": "A034821"
+      }
+    ]
+  },
+  "ZW0099": {
+    "vol": "ZW12",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "佛說佛名經（二十卷本——卷第八～卷第十）",
+    "juans": "3",
+    "byline": "張麗．張磊整理",
+    "contributors": [
+      {
+        "name": "張麗",
+        "id": "A043784"
+      },
+      {
+        "name": "張磊",
+        "id": "A043785"
+      }
+    ]
+  },
+  "ZW0100": {
+    "vol": "ZW12",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "敦煌本《壇經》校釋疏義（第六章～第八章）",
+    "juans": "3",
+    "byline": "曹淩．周芳．曾曉紅執筆　研讀班集體討論",
+    "contributors": [
+      {
+        "name": "曹淩",
+        "id": "A043779"
+      },
+      {
+        "name": "周芳",
+        "id": "A043836"
+      },
+      {
+        "name": "曾曉紅",
+        "id": "A043837"
+      }
+    ]
+  },
+  "ZW0101": {
+    "vol": "ZW12",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "關於《佛說孝順子修行成佛經》的若干新資料",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZW0102": {
+    "vol": "ZW12",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "關於宮內廳書陵部所藏福州版大藏經中的混合冊與印章",
+    "juans": "1",
+    "byline": "日本 宮內廳書陵部 中村一紀",
+    "contributors": [
+      {
+        "name": "中村一紀",
+        "id": "A043838"
+      }
+    ]
+  },
+  "ZW0103": {
+    "vol": "ZW12",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "漢文大藏經研究要重視文獻價值的判別",
+    "juans": "1",
+    "byline": "熊國禎",
+    "contributors": [
+      {
+        "name": "熊國禎",
+        "id": "A043839"
+      }
+    ]
+  },
+  "ZWa069": {
+    "vol": "ZW12",
+    "type": "non-textbody",
+    "category": "新編部類",
+    "title": "目錄",
+    "juans": "1"
+  },
+  "ZWa070": {
+    "vol": "ZW12",
+    "type": "non-textbody",
+    "category": "新編部類",
+    "title": "卷首語",
+    "juans": "1",
+    "byline": "方廣錩",
+    "contributors": [
+      {
+        "name": "方廣錩",
+        "id": "A033779"
+      }
+    ]
+  },
+  "ZWa071": {
+    "vol": "ZW12",
+    "type": "non-textbody",
+    "category": "新編部類",
+    "title": "錄文校勘體例",
+    "juans": "1"
+  },
+  "ZWa072": {
+    "vol": "ZW12",
+    "type": "non-textbody",
+    "category": "新編部類",
+    "title": "徵稿啟事",
+    "juans": "1"
+  },
+  "ZWa073": {
+    "vol": "ZW12",
+    "type": "non-textbody",
+    "category": "新編部類",
+    "title": "《藏外佛教文獻》總目錄（第一輯～第十二輯）",
+    "juans": "1"
+  }
+}

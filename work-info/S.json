@@ -1,0 +1,26 @@
+{
+  "S0046": {
+    "vol": "S06",
+    "type": "textbody",
+    "category": "經集部類",
+    "title": "上生經會古通今新抄",
+    "juans": "2",
+    "byline": "唐 詮明集",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "詮明",
+        "id": "A001493"
+      }
+    ]
+  },
+  "S0047": {
+    "vol": "S06",
+    "type": "textbody",
+    "category": "經集部類",
+    "title": "上生經疏隨新抄科文",
+    "juans": "1"
+  }
+}

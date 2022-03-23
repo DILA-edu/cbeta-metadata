@@ -1,0 +1,655 @@
+{
+  "GAa001": {
+    "vol": "GA000",
+    "type": "textbody",
+    "title": "編輯說明",
+    "juans": "1",
+    "byline": "中華電子佛典協會",
+    "contributors": [
+      {
+        "name": "中華電子佛典協會"
+      }
+    ]
+  },
+  "GA0002": {
+    "vol": "GA001",
+    "type": "textbody",
+    "title": "洛陽伽藍記集證",
+    "juans": "6",
+    "byline": "清 吳若準集證",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "吳若準",
+        "id": "A043730"
+      }
+    ]
+  },
+  "GA0003": {
+    "vol": "GA001",
+    "type": "textbody",
+    "title": "洛陽伽藍記鉤沈",
+    "juans": "5",
+    "byline": "民國 唐晏鉤沈",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 9999,
+    "contributors": [
+      {
+        "name": "唐晏",
+        "id": "A043731"
+      }
+    ]
+  },
+  "GA0004": {
+    "vol": "GA001",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "洛陽伽藍記合校本",
+    "juans": "8",
+    "byline": "民國 張宗祥合校",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 9999,
+    "contributors": [
+      {
+        "name": "張宗祥",
+        "id": "A043732"
+      }
+    ]
+  },
+  "GA0005": {
+    "vol": "GA002",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "南朝佛寺志",
+    "juans": "2",
+    "byline": "清 孫文川撰　陳作霖編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "孫文川",
+        "id": "A043745"
+      },
+      {
+        "name": "陳作霖",
+        "id": "A043747"
+      }
+    ]
+  },
+  "GA0008": {
+    "vol": "GA009",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "重修普陀山志",
+    "juans": "6",
+    "byline": "明 周應賓撰",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "周應賓",
+        "id": "A006952"
+      }
+    ]
+  },
+  "GA0009": {
+    "vol": "GA010",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "普陀洛迦新志",
+    "juans": "12",
+    "byline": "民國 王亨彥撰",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 9999,
+    "contributors": [
+      {
+        "name": "王亨彥",
+        "id": "A008920"
+      }
+    ]
+  },
+  "GA0010": {
+    "vol": "GA011..GA012",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "明州阿育王山志",
+    "juans": "10",
+    "byline": "明 郭子章撰",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "郭子章",
+        "id": "A007230"
+      }
+    ]
+  },
+  "GA0011": {
+    "vol": "GA012",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "明州阿育王山續志",
+    "juans": "6",
+    "byline": "清 釋畹荃撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "釋畹荃",
+        "id": "A007237"
+      }
+    ]
+  },
+  "GA0012": {
+    "vol": "GA013..GA014",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "天童寺志",
+    "juans": "10",
+    "byline": "清 聞性道．釋德介撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "聞性道",
+        "id": "A043751"
+      },
+      {
+        "name": "釋德介",
+        "id": "A012265"
+      }
+    ]
+  },
+  "GA0013": {
+    "vol": "GA015",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "七塔寺志",
+    "juans": "8",
+    "byline": "民國 陳寥士撰",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 9999,
+    "contributors": [
+      {
+        "name": "陳寥士",
+        "id": "A043752"
+      }
+    ]
+  },
+  "GA0014": {
+    "vol": "GA015",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "明州岳林寺志",
+    "juans": "6",
+    "byline": "清 戴明琮撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "戴明琮",
+        "id": "A043754"
+      }
+    ]
+  },
+  "GA0015": {
+    "vol": "GA016",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "大昭慶律寺志",
+    "juans": "10",
+    "byline": "清 吳樹虛撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "吳樹虛",
+        "id": "A034583"
+      }
+    ]
+  },
+  "GA0017": {
+    "vol": "GA020",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "玉岑山慧因高麗華嚴教寺志",
+    "juans": "12",
+    "byline": "明 李翥撰　清 丁丙補",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "李翥",
+        "id": "A003575"
+      },
+      {
+        "name": "丁丙",
+        "id": "A003576"
+      }
+    ]
+  },
+  "GA0018": {
+    "vol": "GA020",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "鳳凰山聖果寺志",
+    "juans": "1",
+    "byline": "清 釋超乾撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "釋超乾",
+        "id": "A019486"
+      }
+    ]
+  },
+  "GA0019": {
+    "vol": "GA021",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "武林理安寺志",
+    "juans": "8",
+    "byline": "清 杭世駿撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "杭世駿",
+        "id": "A042675"
+      }
+    ]
+  },
+  "GA0020": {
+    "vol": "GA022",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "龍井見聞錄",
+    "juans": "12",
+    "byline": "清 汪孟鋗撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "汪孟鋗",
+        "id": "A043764"
+      }
+    ]
+  },
+  "GA0021": {
+    "vol": "GA023",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "武林靈隱寺志",
+    "juans": "8",
+    "byline": "清 孫治撰　徐增重編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "孫治",
+        "id": "A043765"
+      },
+      {
+        "name": "徐增",
+        "id": "A011053"
+      }
+    ]
+  },
+  "GA0022": {
+    "vol": "GA024",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "增修雲林寺志",
+    "juans": "8",
+    "byline": "清 厲鶚．張熷撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "厲鶚",
+        "id": "A010967"
+      },
+      {
+        "name": "張熷",
+        "id": "A043766"
+      }
+    ]
+  },
+  "GA0023": {
+    "vol": "GA025",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "雲林寺續志",
+    "juans": "8",
+    "byline": "清 沈鑅彪撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "沈鑅彪",
+        "id": "A010969"
+      }
+    ]
+  },
+  "GA0024": {
+    "vol": "GA026",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "杭州上天竺講寺志",
+    "juans": "15",
+    "byline": "明 釋廣賓撰",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "釋廣賓",
+        "id": "A010962"
+      }
+    ]
+  },
+  "GA0025": {
+    "vol": "GA027",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "雲居聖水寺志",
+    "juans": "7",
+    "byline": "清 釋𧧌湛．釋明倫原輯　釋通淵．釋實懿重纂",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "釋𧧌湛",
+        "id": "A022321"
+      },
+      {
+        "name": "釋明倫",
+        "id": "A043045"
+      },
+      {
+        "name": "釋通淵",
+        "id": "A022322"
+      },
+      {
+        "name": "釋實懿",
+        "id": "A022323"
+      }
+    ]
+  },
+  "GA0028": {
+    "vol": "GA029",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "龍興祥符戒壇寺志",
+    "juans": "12",
+    "byline": "清 張大昌撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "張大昌",
+        "id": "A043767"
+      }
+    ]
+  },
+  "GA0029": {
+    "vol": "GA030",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "西谿梵隱志",
+    "juans": "4",
+    "byline": "清 吳本泰撰　釋智一編",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "吳本泰",
+        "id": "A042544"
+      },
+      {
+        "name": "釋智一",
+        "id": "A043768"
+      }
+    ]
+  },
+  "GA0030": {
+    "vol": "GA030",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "崇福寺志",
+    "juans": "4",
+    "byline": "清 朱文藻撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "朱文藻",
+        "id": "A043769"
+      }
+    ]
+  },
+  "GA0031": {
+    "vol": "GA030",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "續崇福寺志",
+    "juans": "2",
+    "byline": "清 章庭棫撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "章庭棫",
+        "id": "A043770"
+      }
+    ]
+  },
+  "GA0032": {
+    "vol": "GA031..GA032",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "徑山志",
+    "juans": "14",
+    "byline": "明 宋奎光撰",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "宋奎光",
+        "id": "A020568"
+      }
+    ]
+  },
+  "GA0036": {
+    "vol": "GA035",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "破山興福寺志",
+    "juans": "5",
+    "byline": "明 程嘉燧撰　蘇先繪圖",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "程嘉燧",
+        "id": "A043771"
+      },
+      {
+        "name": "蘇先",
+        "id": "A043772"
+      }
+    ]
+  },
+  "GA0043": {
+    "vol": "GA043",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "寒山寺志",
+    "juans": "3",
+    "byline": "清 葉昌熾纂",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "葉昌熾",
+        "id": "A018138"
+      }
+    ]
+  },
+  "GA0049": {
+    "vol": "GA045",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "峨眉山志",
+    "juans": "8",
+    "byline": "清 蔣超撰　民國 釋印光重修",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "蔣超",
+        "id": "A008868"
+      },
+      {
+        "name": "釋印光",
+        "id": "A004777"
+      }
+    ]
+  },
+  "GA0062": {
+    "vol": "GA058",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "泉州開元寺志",
+    "juans": "1",
+    "byline": "明 釋元賢撰",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "釋元賢",
+        "id": "A000135"
+      }
+    ]
+  },
+  "GA0077": {
+    "vol": "GA072",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "九華山志",
+    "juans": "8",
+    "byline": "民國 釋印光重修",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 9999,
+    "contributors": [
+      {
+        "name": "釋印光",
+        "id": "A004777"
+      }
+    ]
+  },
+  "GA0081": {
+    "vol": "GA079",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "清涼山志",
+    "juans": "8",
+    "byline": "民國 釋印光重修",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 9999,
+    "contributors": [
+      {
+        "name": "釋印光",
+        "id": "A004777"
+      }
+    ]
+  },
+  "GA0084": {
+    "vol": "GA081..GA082",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "雞足山寺志",
+    "juans": "10",
+    "byline": "明 錢邦纂　清 茫承勳增修",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "錢邦",
+        "id": "A010589"
+      },
+      {
+        "name": "范承勳",
+        "id": "A010540"
+      }
+    ]
+  },
+  "GA0086": {
+    "vol": "GA084",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "黃檗山寺志",
+    "juans": "8",
+    "byline": "清 性幽獨往等編訂續修",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "性幽獨往",
+        "id": "A003591"
+      }
+    ]
+  },
+  "GA0089": {
+    "vol": "GA088..GA090",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "天台山方外志",
+    "juans": "30",
+    "byline": "清 釋傳燈編撰",
+    "dynasty": "清",
+    "time_from": 1644,
+    "time_to": 1911,
+    "contributors": [
+      {
+        "name": "釋傳燈",
+        "id": "A007274"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "G1222": {
+    "vol": "G052",
+    "type": "textbody",
+    "category": "密教部類",
+    "title": "一字頂輪王瑜伽經",
+    "juans": "1",
+    "byline": "唐 不空譯",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "不空",
+        "id": "A000095"
+      }
+    ]
+  },
+  "G1977": {
+    "vol": "G069",
+    "type": "textbody",
+    "category": "法華部類",
+    "title": "科始終心要",
+    "juans": "1",
+    "byline": "唐 湛然述",
+    "dynasty": "唐",
+    "time_from": 618,
+    "time_to": 907,
+    "contributors": [
+      {
+        "name": "湛然",
+        "id": "A001307"
+      }
+    ]
+  },
+  "G2073": {
+    "vol": "G083",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "大明太宗文皇帝御製文殊讚",
+    "juans": "1",
+    "byline": "明 太宗御製",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "明太宗",
+        "id": "A000149"
+      }
+    ]
+  },
+  "G2075": {
+    "vol": "G083",
+    "type": "textbody",
+    "category": "事彙部類",
+    "title": "御製釋迦牟尼佛讚",
+    "juans": "1",
+    "byline": "明 太宗御製",
+    "dynasty": "明",
+    "time_from": 1368,
+    "time_to": 1644,
+    "contributors": [
+      {
+        "name": "明太宗",
+        "id": "A000149"
+      }
+    ]
+  },
+  "G2084": {
+    "vol": "G084",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "坐禪箴",
+    "juans": "1",
+    "byline": "日本 道元撰",
+    "contributors": [
+      {
+        "name": "道元",
+        "id": "A001499"
+      }
+    ]
+  },
+  "G2086": {
+    "vol": "G084",
+    "type": "textbody",
+    "category": "禪宗部類",
+    "title": "三根坐禪說",
+    "juans": "1",
+    "byline": "日本 瑩山撰",
+    "contributors": [
+      {
+        "name": "瑩山",
+        "id": "A001758"
+      }
+    ]
+  }
+}

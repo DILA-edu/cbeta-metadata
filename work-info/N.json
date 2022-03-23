@@ -1,0 +1,554 @@
+{
+  "N0001": {
+    "vol": "N01..N02",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "經分別",
+    "juans": "15",
+    "byline": "通妙譯",
+    "contributors": [
+      {
+        "name": "通妙",
+        "id": "A024085"
+      }
+    ]
+  },
+  "N0002": {
+    "vol": "N03..N04",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "犍度",
+    "juans": "22",
+    "byline": "通妙譯",
+    "contributors": [
+      {
+        "name": "通妙",
+        "id": "A024085"
+      }
+    ]
+  },
+  "N0003": {
+    "vol": "N05",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "附隨",
+    "juans": "19",
+    "byline": "通妙譯",
+    "contributors": [
+      {
+        "name": "通妙",
+        "id": "A024085"
+      }
+    ]
+  },
+  "N0004": {
+    "vol": "N06..N08",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "長部經典",
+    "juans": "34",
+    "byline": "通妙譯",
+    "contributors": [
+      {
+        "name": "通妙",
+        "id": "A024085"
+      }
+    ]
+  },
+  "N0005": {
+    "vol": "N09..N12",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "中部經典",
+    "juans": "16",
+    "byline": "通妙譯",
+    "contributors": [
+      {
+        "name": "通妙",
+        "id": "A024085"
+      }
+    ]
+  },
+  "N0006": {
+    "vol": "N13..N18",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "相應部經典",
+    "juans": "56",
+    "byline": "雲庵譯",
+    "contributors": [
+      {
+        "name": "雲庵",
+        "id": "A034994"
+      }
+    ]
+  },
+  "N0007": {
+    "vol": "N19..N25",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "增支部經典",
+    "juans": "12",
+    "byline": "第1卷-第3卷：葉慶春譯；第4卷：關世謙譯；第5卷-第12卷：郭哲彰譯",
+    "contributors": [
+      {
+        "name": "葉慶春",
+        "id": "A043829"
+      },
+      {
+        "name": "關世謙",
+        "id": "A024094"
+      },
+      {
+        "name": "郭哲彰",
+        "id": "A034995"
+      }
+    ]
+  },
+  "N0008": {
+    "vol": "N26",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "小誦經",
+    "juans": "1",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0009": {
+    "vol": "N26",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "法句經",
+    "juans": "1",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0010": {
+    "vol": "N26",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "自說經",
+    "juans": "1",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0011": {
+    "vol": "N26",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "如是語經",
+    "juans": "1",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0012": {
+    "vol": "N27",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "經集",
+    "juans": "1",
+    "byline": "雲庵譯",
+    "contributors": [
+      {
+        "name": "雲庵",
+        "id": "A034994"
+      }
+    ]
+  },
+  "N0013": {
+    "vol": "N27",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "天宮事經",
+    "juans": "1",
+    "byline": "雲庵譯",
+    "contributors": [
+      {
+        "name": "雲庵",
+        "id": "A034994"
+      }
+    ]
+  },
+  "N0014": {
+    "vol": "N28",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "餓鬼事經",
+    "juans": "1",
+    "byline": "雲庵譯",
+    "contributors": [
+      {
+        "name": "雲庵",
+        "id": "A034994"
+      }
+    ]
+  },
+  "N0015": {
+    "vol": "N28",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "長老偈經",
+    "juans": "1",
+    "byline": "雲庵譯",
+    "contributors": [
+      {
+        "name": "雲庵",
+        "id": "A034994"
+      }
+    ]
+  },
+  "N0016": {
+    "vol": "N28",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "長老尼偈經",
+    "juans": "1",
+    "byline": "雲庵譯",
+    "contributors": [
+      {
+        "name": "雲庵",
+        "id": "A034994"
+      }
+    ]
+  },
+  "N0017": {
+    "vol": "N29..N30",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "譬喻經",
+    "juans": "59",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0018": {
+    "vol": "N31..N42",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "本生經",
+    "juans": "26",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0019": {
+    "vol": "N43..N44",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "無礙解道",
+    "juans": "4",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0020": {
+    "vol": "N44",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "佛種姓經",
+    "juans": "1",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0021": {
+    "vol": "N44",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "所行藏經",
+    "juans": "1",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0022": {
+    "vol": "N45..N46",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "大義釋",
+    "juans": "16",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0023": {
+    "vol": "N47",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "小義釋",
+    "juans": "19",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0024": {
+    "vol": "N48",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "法集論",
+    "juans": "5",
+    "byline": "郭哲彰譯",
+    "contributors": [
+      {
+        "name": "郭哲彰",
+        "id": "A034995"
+      }
+    ]
+  },
+  "N0025": {
+    "vol": "N49..N50",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "分別論",
+    "juans": "18",
+    "byline": "郭哲彰譯",
+    "contributors": [
+      {
+        "name": "郭哲彰",
+        "id": "A034995"
+      }
+    ]
+  },
+  "N0026": {
+    "vol": "N50",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "界論",
+    "juans": "2",
+    "byline": "郭哲彰譯",
+    "contributors": [
+      {
+        "name": "郭哲彰",
+        "id": "A034995"
+      }
+    ]
+  },
+  "N0027": {
+    "vol": "N50",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "人施設論",
+    "juans": "1",
+    "byline": "郭哲彰譯",
+    "contributors": [
+      {
+        "name": "郭哲彰",
+        "id": "A034995"
+      }
+    ]
+  },
+  "N0028": {
+    "vol": "N51..N53",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "雙論",
+    "juans": "10",
+    "byline": "郭哲彰譯",
+    "contributors": [
+      {
+        "name": "郭哲彰",
+        "id": "A034995"
+      }
+    ]
+  },
+  "N0029": {
+    "vol": "N54..N60",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "發趣論",
+    "juans": "12",
+    "byline": "郭哲彰譯",
+    "contributors": [
+      {
+        "name": "郭哲彰",
+        "id": "A034995"
+      }
+    ]
+  },
+  "N0030": {
+    "vol": "N61..N62",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "論事",
+    "juans": "23",
+    "byline": "郭哲彰譯",
+    "contributors": [
+      {
+        "name": "郭哲彰",
+        "id": "A034995"
+      }
+    ]
+  },
+  "N0031": {
+    "vol": "N63..N64",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "彌蘭王問經",
+    "juans": "25",
+    "byline": "郭哲彰譯",
+    "contributors": [
+      {
+        "name": "郭哲彰",
+        "id": "A034995"
+      }
+    ]
+  },
+  "N0032": {
+    "vol": "N65",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "島王統史",
+    "juans": "22",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0033": {
+    "vol": "N65",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "大王統史",
+    "juans": "37",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0034": {
+    "vol": "N66",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "小王統史",
+    "juans": "65",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0035": {
+    "vol": "N67..N69",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "清淨道論",
+    "juans": "23",
+    "byline": "佛音撰　悟醒譯",
+    "contributors": [
+      {
+        "name": "佛音",
+        "id": "A016340"
+      },
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0036": {
+    "vol": "N70",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "一切善見律註序",
+    "juans": "1",
+    "byline": "佛音譯述　悟醒譯",
+    "contributors": [
+      {
+        "name": "佛音",
+        "id": "A016340"
+      },
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0037": {
+    "vol": "N70",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "攝阿毘達磨義論",
+    "juans": "1",
+    "byline": "阿那律陀著　悟醒譯",
+    "contributors": [
+      {
+        "name": "阿那律陀",
+        "id": "A005158"
+      },
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  },
+  "N0038": {
+    "vol": "N70",
+    "type": "textbody",
+    "category": "南傳大藏經部類",
+    "title": "阿育王刻文",
+    "juans": "1",
+    "byline": "悟醒譯",
+    "contributors": [
+      {
+        "name": "悟醒",
+        "id": "A034997"
+      }
+    ]
+  }
+}
