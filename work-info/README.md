@@ -10,7 +10,7 @@
   * 可能多值，例如： "寶積部類,淨土宗部類"
 * alt 替代典籍
   * 與其他典籍全部或部分重複，CBETA 未重複收錄。
-  * 參考 [doc/alternates.md](doc/alternates.md)
+  * 參考 [docs/alternates.md](docs/alternates.md)
 * juans 卷數
 * dynasty
   * 如果 byline 有多個朝代，dynasty 欄位只記錄年代最晚的。

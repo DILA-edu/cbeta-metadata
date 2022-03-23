@@ -1,5 +1,7 @@
 # 作譯者資料
 
+本資料夾自 2022-03-23 起停用，資料合併至 ../work-info.
+
 資料來源：CBETA XML P5a (2020-08) teiHeader 裡的 author 元素。
 
 檔案名稱使用 CBETA [藏經代碼](http://www.cbeta.org/format/id.php)

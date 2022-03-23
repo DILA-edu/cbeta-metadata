@@ -1,5 +1,7 @@
 # CBETA 典籍名稱 列表
 
+本資料夾自 2022-03-23 起停用，資料合併至 ../work-info.
+
 ## titles-by-canon
 
 CBETA 經名列表按各部藏經區分，每部藏經一個 CSV 檔。
