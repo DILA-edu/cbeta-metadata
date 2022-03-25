@@ -9,7 +9,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -23,7 +24,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -37,11 +39,13 @@
     "contributors": [
       {
         "name": "達摩禪師",
-        "id": "A001361"
+        "id": "A001361",
+        "type": "author"
       },
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -55,11 +59,13 @@
     "contributors": [
       {
         "name": "馬鳴菩薩",
-        "id": "A001003"
+        "id": "A001003",
+        "type": "author"
       },
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -73,11 +79,13 @@
     "contributors": [
       {
         "name": "文軌",
-        "id": "A000170"
+        "id": "A000170",
+        "type": "author"
       },
       {
         "name": "李際寧",
-        "id": "A034625"
+        "id": "A034625",
+        "type": "other"
       }
     ]
   },
@@ -91,11 +99,13 @@
     "contributors": [
       {
         "name": "道宣",
-        "id": "A001519"
+        "id": "A001519",
+        "type": "author"
       },
       {
         "name": "蘇軍",
-        "id": "A034626"
+        "id": "A034626",
+        "type": "other"
       }
     ]
   },
@@ -109,11 +119,13 @@
     "contributors": [
       {
         "name": "安惠",
-        "id": "A000371"
+        "id": "A000371",
+        "type": "author"
       },
       {
         "name": "蘇軍",
-        "id": "A034626"
+        "id": "A034626",
+        "type": "other"
       }
     ]
   },
@@ -127,11 +139,13 @@
     "contributors": [
       {
         "name": "惠辯禪師",
-        "id": "A031993"
+        "id": "A031993",
+        "type": "author"
       },
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -145,7 +159,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -159,7 +174,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -173,7 +189,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -187,7 +204,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -201,7 +219,8 @@
     "contributors": [
       {
         "name": "徐紹強",
-        "id": "A034632"
+        "id": "A034632",
+        "type": "other"
       }
     ]
   },
@@ -215,7 +234,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -229,7 +249,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -243,7 +264,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -257,11 +279,13 @@
     "contributors": [
       {
         "name": "大德安法師",
-        "id": "A034731"
+        "id": "A034731",
+        "type": "translator"
       },
       {
         "name": "李際寧",
-        "id": "A034625"
+        "id": "A034625",
+        "type": "other"
       }
     ]
   },
@@ -275,7 +299,8 @@
     "contributors": [
       {
         "name": "李際寧",
-        "id": "A034625"
+        "id": "A034625",
+        "type": "other"
       }
     ]
   },
@@ -289,7 +314,8 @@
     "contributors": [
       {
         "name": "李際寧",
-        "id": "A034625"
+        "id": "A034625",
+        "type": "other"
       }
     ]
   },
@@ -303,7 +329,8 @@
     "contributors": [
       {
         "name": "李際寧",
-        "id": "A034625"
+        "id": "A034625",
+        "type": "other"
       }
     ]
   },
@@ -317,7 +344,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -330,7 +358,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -343,7 +372,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -381,7 +411,8 @@
     "contributors": [
       {
         "name": "華方田",
-        "id": "A034736"
+        "id": "A034736",
+        "type": "other"
       }
     ]
   },
@@ -395,7 +426,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -409,7 +441,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -423,11 +456,13 @@
     "contributors": [
       {
         "name": "道液",
-        "id": "A001531"
+        "id": "A001531",
+        "type": "author"
       },
       {
         "name": "黎明",
-        "id": "A034738"
+        "id": "A034738",
+        "type": "other"
       }
     ]
   },
@@ -441,11 +476,13 @@
     "contributors": [
       {
         "name": "李際寧",
-        "id": "A034625"
+        "id": "A034625",
+        "type": "other"
       },
       {
         "name": "張曉娟",
-        "id": "A034740"
+        "id": "A034740",
+        "type": "other"
       }
     ]
   },
@@ -459,11 +496,13 @@
     "contributors": [
       {
         "name": "烏瑪斯伐蒂",
-        "id": "A034744"
+        "id": "A034744",
+        "type": "author"
       },
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "translator"
       }
     ]
   },
@@ -477,11 +516,13 @@
     "contributors": [
       {
         "name": "韓清淨",
-        "id": "A004891"
+        "id": "A004891",
+        "type": "author"
       },
       {
         "name": "程恭讓",
-        "id": "A034748"
+        "id": "A034748",
+        "type": "other"
       }
     ]
   },
@@ -494,7 +535,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -538,11 +580,13 @@
     "contributors": [
       {
         "name": "上山大峻",
-        "id": "A034755"
+        "id": "A034755",
+        "type": "other"
       },
       {
         "name": "袁德領",
-        "id": "A034757"
+        "id": "A034757",
+        "type": "other"
       }
     ]
   },
@@ -556,7 +600,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -570,11 +615,13 @@
     "contributors": [
       {
         "name": "道液",
-        "id": "A001531"
+        "id": "A001531",
+        "type": "author"
       },
       {
         "name": "黎明",
-        "id": "A034738"
+        "id": "A034738",
+        "type": "other"
       }
     ]
   },
@@ -588,11 +635,13 @@
     "contributors": [
       {
         "name": "龍猛菩薩",
-        "id": "A001482"
+        "id": "A001482",
+        "type": "author"
       },
       {
         "name": "華方田",
-        "id": "A034736"
+        "id": "A034736",
+        "type": "other"
       }
     ]
   },
@@ -606,11 +655,13 @@
     "contributors": [
       {
         "name": "龍猛菩薩",
-        "id": "A001482"
+        "id": "A001482",
+        "type": "author"
       },
       {
         "name": "華方田",
-        "id": "A034736"
+        "id": "A034736",
+        "type": "other"
       }
     ]
   },
@@ -624,7 +675,8 @@
     "contributors": [
       {
         "name": "華方田",
-        "id": "A034736"
+        "id": "A034736",
+        "type": "other"
       }
     ]
   },
@@ -638,7 +690,8 @@
     "contributors": [
       {
         "name": "華方田",
-        "id": "A034736"
+        "id": "A034736",
+        "type": "other"
       }
     ]
   },
@@ -652,7 +705,8 @@
     "contributors": [
       {
         "name": "徐紹強",
-        "id": "A034632"
+        "id": "A034632",
+        "type": "other"
       }
     ]
   },
@@ -666,7 +720,8 @@
     "contributors": [
       {
         "name": "黃霞",
-        "id": "A034788"
+        "id": "A034788",
+        "type": "other"
       }
     ]
   },
@@ -680,7 +735,8 @@
     "contributors": [
       {
         "name": "黃霞",
-        "id": "A034788"
+        "id": "A034788",
+        "type": "other"
       }
     ]
   },
@@ -694,7 +750,8 @@
     "contributors": [
       {
         "name": "黃霞",
-        "id": "A034788"
+        "id": "A034788",
+        "type": "other"
       }
     ]
   },
@@ -708,7 +765,8 @@
     "contributors": [
       {
         "name": "黃霞",
-        "id": "A034788"
+        "id": "A034788",
+        "type": "other"
       }
     ]
   },
@@ -722,7 +780,8 @@
     "contributors": [
       {
         "name": "黃霞",
-        "id": "A034788"
+        "id": "A034788",
+        "type": "other"
       }
     ]
   },
@@ -736,7 +795,8 @@
     "contributors": [
       {
         "name": "李際寧",
-        "id": "A034625"
+        "id": "A034625",
+        "type": "author"
       }
     ]
   },
@@ -749,7 +809,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -799,15 +860,18 @@
     "contributors": [
       {
         "name": "寂天菩薩",
-        "id": "A017001"
+        "id": "A017001",
+        "type": "author"
       },
       {
         "name": "傑操大師",
-        "id": "A034790"
+        "id": "A034790",
+        "type": "author"
       },
       {
         "name": "隆蓮法師",
-        "id": "A034791"
+        "id": "A034791",
+        "type": "translator"
       }
     ]
   },
@@ -821,7 +885,8 @@
     "contributors": [
       {
         "name": "陳明光",
-        "id": "A034810"
+        "id": "A034810",
+        "type": "other"
       }
     ]
   },
@@ -835,7 +900,8 @@
     "contributors": [
       {
         "name": "陳明光",
-        "id": "A034810"
+        "id": "A034810",
+        "type": "other"
       }
     ]
   },
@@ -849,7 +915,8 @@
     "contributors": [
       {
         "name": "陳明光",
-        "id": "A034810"
+        "id": "A034810",
+        "type": "other"
       }
     ]
   },
@@ -863,7 +930,8 @@
     "contributors": [
       {
         "name": "陳明光",
-        "id": "A034810"
+        "id": "A034810",
+        "type": "other"
       }
     ]
   },
@@ -880,19 +948,31 @@
     "contributors": [
       {
         "name": "宋太宗",
-        "id": "A001640"
+        "id": "A001640",
+        "type": "other",
+        "dynasty": "北宋",
+        "time_from": 960,
+        "time_to": 1127
       },
       {
         "name": "宋真宗",
-        "id": "A000946"
+        "id": "A000946",
+        "type": "other",
+        "dynasty": "北宋",
+        "time_from": 960,
+        "time_to": 1127
       },
       {
         "name": "宋仁宗",
-        "id": "A006606"
+        "id": "A006606",
+        "dynasty": "北宋",
+        "time_from": 960,
+        "time_to": 1127
       },
       {
         "name": "陳明光",
-        "id": "A034810"
+        "id": "A034810",
+        "type": "other"
       }
     ]
   },
@@ -906,7 +986,8 @@
     "contributors": [
       {
         "name": "陳明光",
-        "id": "A034810"
+        "id": "A034810",
+        "type": "other"
       }
     ]
   },
@@ -920,7 +1001,8 @@
     "contributors": [
       {
         "name": "陳明光",
-        "id": "A034810"
+        "id": "A034810",
+        "type": "other"
       }
     ]
   },
@@ -934,7 +1016,8 @@
     "contributors": [
       {
         "name": "業露華",
-        "id": "A034811"
+        "id": "A034811",
+        "type": "other"
       }
     ]
   },
@@ -948,11 +1031,13 @@
     "contributors": [
       {
         "name": "信行",
-        "id": "A005957"
+        "id": "A005957",
+        "type": "author"
       },
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -966,7 +1051,8 @@
     "contributors": [
       {
         "name": "侯旭東",
-        "id": "A034813"
+        "id": "A034813",
+        "type": "other"
       }
     ]
   },
@@ -980,7 +1066,8 @@
     "contributors": [
       {
         "name": "侯旭東",
-        "id": "A034813"
+        "id": "A034813",
+        "type": "other"
       }
     ]
   },
@@ -994,7 +1081,8 @@
     "contributors": [
       {
         "name": "陳金華",
-        "id": "A034814"
+        "id": "A034814",
+        "type": "author"
       }
     ]
   },
@@ -1007,7 +1095,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -1057,7 +1146,8 @@
     "contributors": [
       {
         "name": "鄧殿臣",
-        "id": "A034815"
+        "id": "A034815",
+        "type": "translator"
       }
     ]
   },
@@ -1071,7 +1161,8 @@
     "contributors": [
       {
         "name": "鄧殿臣",
-        "id": "A034815"
+        "id": "A034815",
+        "type": "translator"
       }
     ]
   },
@@ -1085,7 +1176,8 @@
     "contributors": [
       {
         "name": "鄧殿臣",
-        "id": "A034815"
+        "id": "A034815",
+        "type": "translator"
       }
     ]
   },
@@ -1099,11 +1191,13 @@
     "contributors": [
       {
         "name": "鄧殿臣",
-        "id": "A034815"
+        "id": "A034815",
+        "type": "translator"
       },
       {
         "name": "趙桐",
-        "id": "A034816"
+        "id": "A034816",
+        "type": "translator"
       }
     ]
   },
@@ -1117,7 +1211,8 @@
     "contributors": [
       {
         "name": "徐紹強",
-        "id": "A034632"
+        "id": "A034632",
+        "type": "other"
       }
     ]
   },
@@ -1131,7 +1226,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -1144,7 +1240,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -1191,15 +1288,21 @@
     "contributors": [
       {
         "name": "釋祖照",
-        "id": "A014328"
+        "id": "A014328",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       },
       {
         "name": "趙文煥",
-        "id": "A034822"
+        "id": "A034822",
+        "type": "other"
       },
       {
         "name": "侯沖",
-        "id": "A034821"
+        "id": "A034821",
+        "type": "other"
       }
     ]
   },
@@ -1216,15 +1319,21 @@
     "contributors": [
       {
         "name": "釋元照",
-        "id": "A000129"
+        "id": "A000129",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       },
       {
         "name": "趙文煥",
-        "id": "A034822"
+        "id": "A034822",
+        "type": "other"
       },
       {
         "name": "侯沖",
-        "id": "A034821"
+        "id": "A034821",
+        "type": "other"
       }
     ]
   },
@@ -1241,11 +1350,16 @@
     "contributors": [
       {
         "name": "釋宗鏡",
-        "id": "A000607"
+        "id": "A000607",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       },
       {
         "name": "侯沖",
-        "id": "A034821"
+        "id": "A034821",
+        "type": "other"
       }
     ]
   },
@@ -1259,7 +1373,8 @@
     "contributors": [
       {
         "name": "侯沖",
-        "id": "A034821"
+        "id": "A034821",
+        "type": "other"
       }
     ]
   },
@@ -1273,7 +1388,8 @@
     "contributors": [
       {
         "name": "侯沖",
-        "id": "A034821"
+        "id": "A034821",
+        "type": "other"
       }
     ]
   },
@@ -1287,11 +1403,13 @@
     "contributors": [
       {
         "name": "弘景",
-        "id": "A008970"
+        "id": "A008970",
+        "type": "author"
       },
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -1305,7 +1423,8 @@
     "contributors": [
       {
         "name": "侯沖",
-        "id": "A034821"
+        "id": "A034821",
+        "type": "author"
       }
     ]
   },
@@ -1318,7 +1437,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -1365,11 +1485,16 @@
     "contributors": [
       {
         "name": "宗密",
-        "id": "A000587"
+        "id": "A000587",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       },
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -1383,11 +1508,13 @@
     "contributors": [
       {
         "name": "姚和尚",
-        "id": "A034925"
+        "id": "A034925",
+        "type": "author"
       },
       {
         "name": "達照",
-        "id": "A034926"
+        "id": "A034926",
+        "type": "other"
       }
     ]
   },
@@ -1401,11 +1528,13 @@
     "contributors": [
       {
         "name": "姚和尚",
-        "id": "A034925"
+        "id": "A034925",
+        "type": "author"
       },
       {
         "name": "達照",
-        "id": "A034926"
+        "id": "A034926",
+        "type": "other"
       }
     ]
   },
@@ -1422,11 +1551,16 @@
     "contributors": [
       {
         "name": "通理大師",
-        "id": "A022419"
+        "id": "A022419",
+        "type": "author",
+        "dynasty": "遼",
+        "time_from": 907,
+        "time_to": 1125
       },
       {
         "name": "達照",
-        "id": "A034926"
+        "id": "A034926",
+        "type": "other"
       }
     ]
   },
@@ -1440,11 +1574,13 @@
     "contributors": [
       {
         "name": "玄鑒",
-        "id": "A034940"
+        "id": "A034940",
+        "type": "author"
       },
       {
         "name": "侯沖",
-        "id": "A034821"
+        "id": "A034821",
+        "type": "other"
       }
     ]
   },
@@ -1458,11 +1594,13 @@
     "contributors": [
       {
         "name": "若愚",
-        "id": "A011130"
+        "id": "A011130",
+        "type": "author"
       },
       {
         "name": "侯沖",
-        "id": "A034821"
+        "id": "A034821",
+        "type": "other"
       }
     ]
   },
@@ -1476,11 +1614,13 @@
     "contributors": [
       {
         "name": "大內文雄",
-        "id": "A034955"
+        "id": "A034955",
+        "type": "other"
       },
       {
         "name": "齊藤隆信",
-        "id": "A034956"
+        "id": "A034956",
+        "type": "other"
       }
     ]
   },
@@ -1494,7 +1634,8 @@
     "contributors": [
       {
         "name": "張總",
-        "id": "A034977"
+        "id": "A034977",
+        "type": "other"
       }
     ]
   },
@@ -1508,7 +1649,8 @@
     "contributors": [
       {
         "name": "張總",
-        "id": "A034977"
+        "id": "A034977",
+        "type": "other"
       }
     ]
   },
@@ -1522,7 +1664,8 @@
     "contributors": [
       {
         "name": "張總",
-        "id": "A034977"
+        "id": "A034977",
+        "type": "other"
       }
     ]
   },
@@ -1536,7 +1679,8 @@
     "contributors": [
       {
         "name": "張總",
-        "id": "A034977"
+        "id": "A034977",
+        "type": "other"
       }
     ]
   },
@@ -1550,7 +1694,8 @@
     "contributors": [
       {
         "name": "張總",
-        "id": "A034977"
+        "id": "A034977",
+        "type": "other"
       }
     ]
   },
@@ -1564,7 +1709,8 @@
     "contributors": [
       {
         "name": "張總",
-        "id": "A034977"
+        "id": "A034977",
+        "type": "other"
       }
     ]
   },
@@ -1578,7 +1724,8 @@
     "contributors": [
       {
         "name": "張總",
-        "id": "A034977"
+        "id": "A034977",
+        "type": "other"
       }
     ]
   },
@@ -1592,7 +1739,8 @@
     "contributors": [
       {
         "name": "張總",
-        "id": "A034977"
+        "id": "A034977",
+        "type": "other"
       }
     ]
   },
@@ -1606,7 +1754,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -1614,13 +1763,14 @@
     "vol": "ZW07",
     "type": "textbody",
     "category": "新編部類",
-    "title": "日本佛教目錄學的形成——以《東域傳燈錄》為中心",
+    "title": "日本佛教目錄學的形成\u2014\u2014以《東域傳燈錄》為中心",
     "juans": "1",
     "byline": "末木文美士",
     "contributors": [
       {
         "name": "末木文美士",
-        "id": "A032551"
+        "id": "A032551",
+        "type": "author"
       }
     ]
   },
@@ -1633,7 +1783,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -1671,7 +1822,8 @@
     "contributors": [
       {
         "name": "悟緣",
-        "id": "A034981"
+        "id": "A034981",
+        "type": "author"
       }
     ]
   },
@@ -1688,15 +1840,21 @@
     "contributors": [
       {
         "name": "思覺",
-        "id": "A034983"
+        "id": "A034983",
+        "type": "author",
+        "dynasty": "南宋",
+        "time_from": 1127,
+        "time_to": 1279
       },
       {
         "name": "趙文煥",
-        "id": "A034822"
+        "id": "A034822",
+        "type": "other"
       },
       {
         "name": "侯沖",
-        "id": "A034821"
+        "id": "A034821",
+        "type": "other"
       }
     ]
   },
@@ -1710,7 +1868,8 @@
     "contributors": [
       {
         "name": "通源",
-        "id": "A034984"
+        "id": "A034984",
+        "type": "other"
       }
     ]
   },
@@ -1724,7 +1883,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -1738,7 +1898,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -1751,7 +1912,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -1795,11 +1957,13 @@
     "contributors": [
       {
         "name": "信行",
-        "id": "A005957"
+        "id": "A005957",
+        "type": "author"
       },
       {
         "name": "西本照真",
-        "id": "A034986"
+        "id": "A034986",
+        "type": "other"
       }
     ]
   },
@@ -1813,7 +1977,8 @@
     "contributors": [
       {
         "name": "達照",
-        "id": "A034926"
+        "id": "A034926",
+        "type": "other"
       }
     ]
   },
@@ -1827,7 +1992,8 @@
     "contributors": [
       {
         "name": "達照",
-        "id": "A034926"
+        "id": "A034926",
+        "type": "other"
       }
     ]
   },
@@ -1841,7 +2007,8 @@
     "contributors": [
       {
         "name": "達照",
-        "id": "A034926"
+        "id": "A034926",
+        "type": "other"
       }
     ]
   },
@@ -1855,7 +2022,8 @@
     "contributors": [
       {
         "name": "達照",
-        "id": "A034926"
+        "id": "A034926",
+        "type": "other"
       }
     ]
   },
@@ -1869,7 +2037,8 @@
     "contributors": [
       {
         "name": "達照",
-        "id": "A034926"
+        "id": "A034926",
+        "type": "other"
       }
     ]
   },
@@ -1883,7 +2052,8 @@
     "contributors": [
       {
         "name": "達照",
-        "id": "A034926"
+        "id": "A034926",
+        "type": "other"
       }
     ]
   },
@@ -1897,7 +2067,8 @@
     "contributors": [
       {
         "name": "達照",
-        "id": "A034926"
+        "id": "A034926",
+        "type": "other"
       }
     ]
   },
@@ -1911,7 +2082,8 @@
     "contributors": [
       {
         "name": "達照",
-        "id": "A034926"
+        "id": "A034926",
+        "type": "other"
       }
     ]
   },
@@ -1925,7 +2097,8 @@
     "contributors": [
       {
         "name": "任遠",
-        "id": "A034989"
+        "id": "A034989",
+        "type": "translator"
       }
     ]
   },
@@ -1939,11 +2112,13 @@
     "contributors": [
       {
         "name": "克什曼德拉",
-        "id": "A034990"
+        "id": "A034990",
+        "type": "author"
       },
       {
         "name": "任遠",
-        "id": "A034989"
+        "id": "A034989",
+        "type": "translator"
       }
     ]
   },
@@ -1957,7 +2132,8 @@
     "contributors": [
       {
         "name": "西本照真",
-        "id": "A034986"
+        "id": "A034986",
+        "type": "author"
       }
     ]
   },
@@ -1971,7 +2147,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -1984,7 +2161,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -2034,11 +2212,13 @@
     "contributors": [
       {
         "name": "世親",
-        "id": "A000148"
+        "id": "A000148",
+        "type": "author"
       },
       {
         "name": "金克木",
-        "id": "A043607"
+        "id": "A043607",
+        "type": "translator"
       }
     ]
   },
@@ -2052,15 +2232,18 @@
     "contributors": [
       {
         "name": "陳那",
-        "id": "A001162"
+        "id": "A001162",
+        "type": "author"
       },
       {
         "name": "韓鏡清",
-        "id": "A043608"
+        "id": "A043608",
+        "type": "translator"
       },
       {
         "name": "釋剛曉",
-        "id": "A032510"
+        "id": "A032510",
+        "type": "author"
       }
     ]
   },
@@ -2074,7 +2257,8 @@
     "contributors": [
       {
         "name": "章光池",
-        "id": "A043776"
+        "id": "A043776",
+        "type": "other"
       }
     ]
   },
@@ -2091,11 +2275,16 @@
     "contributors": [
       {
         "name": "李隆基",
-        "id": "A000291"
+        "id": "A000291",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       },
       {
         "name": "衣川賢次",
-        "id": "A043777"
+        "id": "A043777",
+        "type": "other"
       }
     ]
   },
@@ -2109,7 +2298,8 @@
     "contributors": [
       {
         "name": "曹淩",
-        "id": "A043779"
+        "id": "A043779",
+        "type": "other"
       }
     ]
   },
@@ -2123,7 +2313,8 @@
     "contributors": [
       {
         "name": "汪娟",
-        "id": "A043780"
+        "id": "A043780",
+        "type": "other"
       }
     ]
   },
@@ -2137,7 +2328,8 @@
     "contributors": [
       {
         "name": "林敏",
-        "id": "A043783"
+        "id": "A043783",
+        "type": "other"
       }
     ]
   },
@@ -2151,11 +2343,13 @@
     "contributors": [
       {
         "name": "張麗",
-        "id": "A043784"
+        "id": "A043784",
+        "type": "other"
       },
       {
         "name": "張磊",
-        "id": "A043785"
+        "id": "A043785",
+        "type": "other"
       }
     ]
   },
@@ -2169,11 +2363,13 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       },
       {
         "name": "侯沖",
-        "id": "A034821"
+        "id": "A034821",
+        "type": "other"
       }
     ]
   },
@@ -2187,7 +2383,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -2201,7 +2398,8 @@
     "contributors": [
       {
         "name": "野澤佳美",
-        "id": "A043786"
+        "id": "A043786",
+        "type": "author"
       }
     ]
   },
@@ -2220,7 +2418,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -2258,7 +2457,8 @@
     "contributors": [
       {
         "name": "張曉麗",
-        "id": "A043830"
+        "id": "A043830",
+        "type": "other"
       }
     ]
   },
@@ -2272,7 +2472,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -2286,7 +2487,8 @@
     "contributors": [
       {
         "name": "侯沖",
-        "id": "A034821"
+        "id": "A034821",
+        "type": "other"
       }
     ]
   },
@@ -2300,7 +2502,8 @@
     "contributors": [
       {
         "name": "侯沖",
-        "id": "A034821"
+        "id": "A034821",
+        "type": "other"
       }
     ]
   },
@@ -2314,11 +2517,13 @@
     "contributors": [
       {
         "name": "張麗",
-        "id": "A043784"
+        "id": "A043784",
+        "type": "other"
       },
       {
         "name": "張磊",
-        "id": "A043785"
+        "id": "A043785",
+        "type": "other"
       }
     ]
   },
@@ -2332,15 +2537,18 @@
     "contributors": [
       {
         "name": "張磊",
-        "id": "A043785"
+        "id": "A043785",
+        "type": "other"
       },
       {
         "name": "王侃",
-        "id": "A043831"
+        "id": "A043831",
+        "type": "other"
       },
       {
         "name": "李鐵華",
-        "id": "A043832"
+        "id": "A043832",
+        "type": "other"
       }
     ]
   },
@@ -2354,7 +2562,8 @@
     "contributors": [
       {
         "name": "梶浦晉",
-        "id": "A043833"
+        "id": "A043833",
+        "type": "author"
       }
     ]
   },
@@ -2368,7 +2577,8 @@
     "contributors": [
       {
         "name": "柳富鉉",
-        "id": "A043834"
+        "id": "A043834",
+        "type": "author"
       }
     ]
   },
@@ -2387,7 +2597,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -2425,7 +2636,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "other"
       }
     ]
   },
@@ -2439,11 +2651,16 @@
     "contributors": [
       {
         "name": "侯溥",
-        "id": "A043835"
+        "id": "A043835",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       },
       {
         "name": "侯沖",
-        "id": "A034821"
+        "id": "A034821",
+        "type": "other"
       }
     ]
   },
@@ -2457,11 +2674,13 @@
     "contributors": [
       {
         "name": "張麗",
-        "id": "A043784"
+        "id": "A043784",
+        "type": "other"
       },
       {
         "name": "張磊",
-        "id": "A043785"
+        "id": "A043785",
+        "type": "other"
       }
     ]
   },
@@ -2475,15 +2694,18 @@
     "contributors": [
       {
         "name": "曹淩",
-        "id": "A043779"
+        "id": "A043779",
+        "type": "other"
       },
       {
         "name": "周芳",
-        "id": "A043836"
+        "id": "A043836",
+        "type": "other"
       },
       {
         "name": "曾曉紅",
-        "id": "A043837"
+        "id": "A043837",
+        "type": "other"
       }
     ]
   },
@@ -2497,7 +2719,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
@@ -2511,7 +2734,8 @@
     "contributors": [
       {
         "name": "中村一紀",
-        "id": "A043838"
+        "id": "A043838",
+        "type": "author"
       }
     ]
   },
@@ -2525,7 +2749,8 @@
     "contributors": [
       {
         "name": "熊國禎",
-        "id": "A043839"
+        "id": "A043839",
+        "type": "author"
       }
     ]
   },
@@ -2546,7 +2771,8 @@
     "contributors": [
       {
         "name": "方廣錩",
-        "id": "A033779"
+        "id": "A033779",
+        "type": "author"
       }
     ]
   },
