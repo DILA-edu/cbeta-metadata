@@ -12,7 +12,11 @@
     "contributors": [
       {
         "name": "詮明",
-        "id": "A001493"
+        "id": "A001493",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
