@@ -9,7 +9,8 @@
     "contributors": [
       {
         "name": "通妙",
-        "id": "A024085"
+        "id": "A024085",
+        "type": "translator"
       }
     ]
   },
@@ -23,7 +24,8 @@
     "contributors": [
       {
         "name": "通妙",
-        "id": "A024085"
+        "id": "A024085",
+        "type": "translator"
       }
     ]
   },
@@ -37,7 +39,8 @@
     "contributors": [
       {
         "name": "通妙",
-        "id": "A024085"
+        "id": "A024085",
+        "type": "translator"
       }
     ]
   },
@@ -51,7 +54,8 @@
     "contributors": [
       {
         "name": "通妙",
-        "id": "A024085"
+        "id": "A024085",
+        "type": "translator"
       }
     ]
   },
@@ -65,7 +69,8 @@
     "contributors": [
       {
         "name": "通妙",
-        "id": "A024085"
+        "id": "A024085",
+        "type": "translator"
       }
     ]
   },
@@ -79,7 +84,8 @@
     "contributors": [
       {
         "name": "雲庵",
-        "id": "A034994"
+        "id": "A034994",
+        "type": "translator"
       }
     ]
   },
@@ -93,15 +99,18 @@
     "contributors": [
       {
         "name": "葉慶春",
-        "id": "A043829"
+        "id": "A043829",
+        "type": "translator"
       },
       {
         "name": "關世謙",
-        "id": "A024094"
+        "id": "A024094",
+        "type": "translator"
       },
       {
         "name": "郭哲彰",
-        "id": "A034995"
+        "id": "A034995",
+        "type": "translator"
       }
     ]
   },
@@ -115,7 +124,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -129,7 +139,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -143,7 +154,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -157,7 +169,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -171,7 +184,8 @@
     "contributors": [
       {
         "name": "雲庵",
-        "id": "A034994"
+        "id": "A034994",
+        "type": "translator"
       }
     ]
   },
@@ -185,7 +199,8 @@
     "contributors": [
       {
         "name": "雲庵",
-        "id": "A034994"
+        "id": "A034994",
+        "type": "translator"
       }
     ]
   },
@@ -199,7 +214,8 @@
     "contributors": [
       {
         "name": "雲庵",
-        "id": "A034994"
+        "id": "A034994",
+        "type": "translator"
       }
     ]
   },
@@ -213,7 +229,8 @@
     "contributors": [
       {
         "name": "雲庵",
-        "id": "A034994"
+        "id": "A034994",
+        "type": "translator"
       }
     ]
   },
@@ -227,7 +244,8 @@
     "contributors": [
       {
         "name": "雲庵",
-        "id": "A034994"
+        "id": "A034994",
+        "type": "translator"
       }
     ]
   },
@@ -241,7 +259,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -255,7 +274,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -269,7 +289,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -283,7 +304,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -297,7 +319,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -311,7 +334,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -325,7 +349,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -339,7 +364,8 @@
     "contributors": [
       {
         "name": "郭哲彰",
-        "id": "A034995"
+        "id": "A034995",
+        "type": "translator"
       }
     ]
   },
@@ -353,7 +379,8 @@
     "contributors": [
       {
         "name": "郭哲彰",
-        "id": "A034995"
+        "id": "A034995",
+        "type": "translator"
       }
     ]
   },
@@ -367,7 +394,8 @@
     "contributors": [
       {
         "name": "郭哲彰",
-        "id": "A034995"
+        "id": "A034995",
+        "type": "translator"
       }
     ]
   },
@@ -381,7 +409,8 @@
     "contributors": [
       {
         "name": "郭哲彰",
-        "id": "A034995"
+        "id": "A034995",
+        "type": "translator"
       }
     ]
   },
@@ -395,7 +424,8 @@
     "contributors": [
       {
         "name": "郭哲彰",
-        "id": "A034995"
+        "id": "A034995",
+        "type": "translator"
       }
     ]
   },
@@ -409,7 +439,8 @@
     "contributors": [
       {
         "name": "郭哲彰",
-        "id": "A034995"
+        "id": "A034995",
+        "type": "translator"
       }
     ]
   },
@@ -423,7 +454,8 @@
     "contributors": [
       {
         "name": "郭哲彰",
-        "id": "A034995"
+        "id": "A034995",
+        "type": "translator"
       }
     ]
   },
@@ -437,7 +469,8 @@
     "contributors": [
       {
         "name": "郭哲彰",
-        "id": "A034995"
+        "id": "A034995",
+        "type": "translator"
       }
     ]
   },
@@ -451,7 +484,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -465,7 +499,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -479,7 +514,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -493,11 +529,13 @@
     "contributors": [
       {
         "name": "佛音",
-        "id": "A016340"
+        "id": "A016340",
+        "type": "author"
       },
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -511,11 +549,13 @@
     "contributors": [
       {
         "name": "佛音",
-        "id": "A016340"
+        "id": "A016340",
+        "type": "translator"
       },
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -529,11 +569,13 @@
     "contributors": [
       {
         "name": "阿那律陀",
-        "id": "A005158"
+        "id": "A005158",
+        "type": "author"
       },
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   },
@@ -547,7 +589,8 @@
     "contributors": [
       {
         "name": "悟醒",
-        "id": "A034997"
+        "id": "A034997",
+        "type": "translator"
       }
     ]
   }
