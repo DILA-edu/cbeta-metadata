@@ -12,7 +12,11 @@
     "contributors": [
       {
         "name": "不空",
-        "id": "A000095"
+        "id": "A000095",
+        "type": "translator",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -29,7 +33,11 @@
     "contributors": [
       {
         "name": "湛然",
-        "id": "A001307"
+        "id": "A001307",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -46,7 +54,11 @@
     "contributors": [
       {
         "name": "明太宗",
-        "id": "A000149"
+        "id": "A000149",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -63,7 +75,11 @@
     "contributors": [
       {
         "name": "明太宗",
-        "id": "A000149"
+        "id": "A000149",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -77,7 +93,8 @@
     "contributors": [
       {
         "name": "道元",
-        "id": "A001499"
+        "id": "A001499",
+        "type": "author"
       }
     ]
   },
@@ -91,7 +108,8 @@
     "contributors": [
       {
         "name": "瑩山",
-        "id": "A001758"
+        "id": "A001758",
+        "type": "author"
       }
     ]
   }
