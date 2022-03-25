@@ -19,7 +19,11 @@
     "contributors": [
       {
         "name": "求那跋摩",
-        "id": "A000218"
+        "id": "A000218",
+        "type": "translator",
+        "dynasty": "劉宋",
+        "time_from": 420,
+        "time_to": 479
       }
     ]
   },
@@ -36,7 +40,11 @@
     "contributors": [
       {
         "name": "求那跋陀羅",
-        "id": "A000527"
+        "id": "A000527",
+        "type": "translator",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -53,7 +61,11 @@
     "contributors": [
       {
         "name": "帛尸梨密多羅",
-        "id": "A000619"
+        "id": "A000619",
+        "type": "translator",
+        "dynasty": "東晉",
+        "time_from": 317,
+        "time_to": 420
       }
     ]
   },
@@ -70,7 +82,11 @@
     "contributors": [
       {
         "name": "求那跋陀羅",
-        "id": "A000527"
+        "id": "A000527",
+        "type": "translator",
+        "dynasty": "劉宋",
+        "time_from": 420,
+        "time_to": 479
       }
     ]
   },
@@ -87,7 +103,11 @@
     "contributors": [
       {
         "name": "李隆基",
-        "id": "A000291"
+        "id": "A000291",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -108,7 +128,8 @@
     "contributors": [
       {
         "name": "比丘道真",
-        "id": "A001527"
+        "id": "A001527",
+        "type": "translator"
       }
     ]
   },
@@ -125,7 +146,11 @@
     "contributors": [
       {
         "name": "通理大師",
-        "id": "A022419"
+        "id": "A022419",
+        "type": "author",
+        "dynasty": "遼",
+        "time_from": 907,
+        "time_to": 1125
       }
     ]
   },
@@ -142,7 +167,11 @@
     "contributors": [
       {
         "name": "金剛智",
-        "id": "A000774"
+        "id": "A000774",
+        "type": "translator",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -159,7 +188,11 @@
     "contributors": [
       {
         "name": "不空",
-        "id": "A000095"
+        "id": "A000095",
+        "type": "translator",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -176,7 +209,11 @@
     "contributors": [
       {
         "name": "不空",
-        "id": "A000095"
+        "id": "A000095",
+        "type": "translator",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -193,7 +230,11 @@
     "contributors": [
       {
         "name": "不空",
-        "id": "A000095"
+        "id": "A000095",
+        "type": "translator",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -210,7 +251,11 @@
     "contributors": [
       {
         "name": "慈賢",
-        "id": "A001432"
+        "id": "A001432",
+        "type": "translator",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -227,7 +272,11 @@
     "contributors": [
       {
         "name": "慈賢",
-        "id": "A001432"
+        "id": "A001432",
+        "type": "translator",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -244,7 +293,11 @@
     "contributors": [
       {
         "name": "慈賢",
-        "id": "A001432"
+        "id": "A001432",
+        "type": "translator",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -261,7 +314,11 @@
     "contributors": [
       {
         "name": "慈賢",
-        "id": "A001432"
+        "id": "A001432",
+        "type": "translator",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -278,7 +335,11 @@
     "contributors": [
       {
         "name": "慈賢",
-        "id": "A001432"
+        "id": "A001432",
+        "type": "translator",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -292,7 +353,8 @@
     "contributors": [
       {
         "name": "行琳",
-        "id": "A000420"
+        "id": "A000420",
+        "type": "author"
       }
     ]
   },
@@ -306,7 +368,8 @@
     "contributors": [
       {
         "name": "德雲",
-        "id": "A001684"
+        "id": "A001684",
+        "type": "author"
       }
     ]
   },
@@ -320,7 +383,8 @@
     "contributors": [
       {
         "name": "志仙",
-        "id": "A000495"
+        "id": "A000495",
+        "type": "other"
       }
     ]
   },
@@ -334,7 +398,8 @@
     "contributors": [
       {
         "name": "儼法師",
-        "id": "A001304"
+        "id": "A001304",
+        "type": "author"
       }
     ]
   },
@@ -348,7 +413,8 @@
     "contributors": [
       {
         "name": "惟勁",
-        "id": "A001066"
+        "id": "A001066",
+        "type": "author"
       }
     ]
   },
@@ -362,7 +428,8 @@
     "contributors": [
       {
         "name": "杜順法師",
-        "id": "A000525"
+        "id": "A000525",
+        "type": "author"
       }
     ]
   },
@@ -376,7 +443,8 @@
     "contributors": [
       {
         "name": "法藏",
-        "id": "A032738"
+        "id": "A032738",
+        "type": "author"
       }
     ]
   },
@@ -389,7 +457,8 @@
     "contributors": [
       {
         "name": "儼法師",
-        "id": "A001304"
+        "id": "A001304",
+        "type": "author"
       }
     ]
   },
@@ -402,7 +471,8 @@
     "contributors": [
       {
         "name": "杜順法師",
-        "id": "A000525"
+        "id": "A000525",
+        "type": "author"
       }
     ]
   }
