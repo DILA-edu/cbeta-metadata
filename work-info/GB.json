@@ -7,7 +7,8 @@
     "byline": "中華電子佛典協會",
     "contributors": [
       {
-        "name": "中華電子佛典協會"
+        "name": "中華電子佛典協會",
+        "type": "author"
       }
     ]
   },
@@ -24,7 +25,11 @@
     "contributors": [
       {
         "name": "釋宗淨",
-        "id": "A000589"
+        "id": "A000589",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   }
