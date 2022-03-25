@@ -12,7 +12,11 @@
     "contributors": [
       {
         "name": "呂澂",
-        "id": "A007178"
+        "id": "A007178",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1896,
+        "time_to": 1989
       }
     ]
   },
@@ -29,7 +33,11 @@
     "contributors": [
       {
         "name": "呂澂",
-        "id": "A007178"
+        "id": "A007178",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1896,
+        "time_to": 1989
       }
     ]
   },
@@ -46,7 +54,11 @@
     "contributors": [
       {
         "name": "呂澂",
-        "id": "A007178"
+        "id": "A007178",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1896,
+        "time_to": 1989
       }
     ]
   },
@@ -63,7 +75,11 @@
     "contributors": [
       {
         "name": "呂澂",
-        "id": "A007178"
+        "id": "A007178",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1896,
+        "time_to": 1989
       }
     ]
   },
@@ -80,7 +96,11 @@
     "contributors": [
       {
         "name": "呂澂",
-        "id": "A007178"
+        "id": "A007178",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1896,
+        "time_to": 1989
       }
     ]
   },
@@ -97,7 +117,11 @@
     "contributors": [
       {
         "name": "呂澂",
-        "id": "A007178"
+        "id": "A007178",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1896,
+        "time_to": 1989
       }
     ]
   },
@@ -114,7 +138,11 @@
     "contributors": [
       {
         "name": "呂澂",
-        "id": "A007178"
+        "id": "A007178",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1896,
+        "time_to": 1989
       }
     ]
   }
