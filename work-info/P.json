@@ -12,11 +12,19 @@
     "contributors": [
       {
         "name": "宗永",
-        "id": "A000569"
+        "id": "A000569",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       },
       {
         "name": "清茂",
-        "id": "A001087"
+        "id": "A001087",
+        "type": "author",
+        "dynasty": "元",
+        "time_from": 1271,
+        "time_to": 1368
       }
     ]
   },
@@ -33,7 +41,11 @@
     "contributors": [
       {
         "name": "知禮",
-        "id": "A000756"
+        "id": "A000756",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -50,11 +62,19 @@
     "contributors": [
       {
         "name": "懷迪",
-        "id": "A001896"
+        "id": "A001896",
+        "type": "translator",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       },
       {
         "name": "咸輝",
-        "id": "A000818"
+        "id": "A000818",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -71,7 +91,11 @@
     "contributors": [
       {
         "name": "淨源",
-        "id": "A001113"
+        "id": "A001113",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -88,7 +112,11 @@
     "contributors": [
       {
         "name": "朱棣",
-        "id": "A000149"
+        "id": "A000149",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -105,7 +133,11 @@
     "contributors": [
       {
         "name": "朱棣",
-        "id": "A000149"
+        "id": "A000149",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -122,7 +154,11 @@
     "contributors": [
       {
         "name": "朱棣",
-        "id": "A000149"
+        "id": "A000149",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -139,7 +175,11 @@
     "contributors": [
       {
         "name": "一如",
-        "id": "A000007"
+        "id": "A000007",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -156,7 +196,11 @@
     "contributors": [
       {
         "name": "戒環",
-        "id": "A000514"
+        "id": "A000514",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -171,11 +215,19 @@
     "contributors": [
       {
         "name": "九師",
-        "id": "A000018"
+        "id": "A000018",
+        "type": "author",
+        "dynasty": "唐宋",
+        "time_from": 618,
+        "time_to": 1279
       },
       {
         "name": "惟則",
-        "id": "A001064"
+        "id": "A001064",
+        "type": "author",
+        "dynasty": "元",
+        "time_from": 1271,
+        "time_to": 1368
       }
     ]
   },
@@ -192,7 +244,11 @@
     "contributors": [
       {
         "name": "子璿",
-        "id": "A000085"
+        "id": "A000085",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -209,7 +265,11 @@
     "contributors": [
       {
         "name": "蒙潤",
-        "id": "A001638"
+        "id": "A001638",
+        "type": "author",
+        "dynasty": "元",
+        "time_from": 1271,
+        "time_to": 1368
       }
     ]
   },
@@ -226,7 +286,11 @@
     "contributors": [
       {
         "name": "圓瀞",
-        "id": "A001412"
+        "id": "A001412",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   }
