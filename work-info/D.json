@@ -33,7 +33,11 @@
     "contributors": [
       {
         "name": "楊仙鸖",
-        "id": "A034554"
+        "id": "A034554",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -64,7 +68,11 @@
     "contributors": [
       {
         "name": "釋慧融",
-        "id": "A034559"
+        "id": "A034559",
+        "type": "author",
+        "dynasty": "東晉",
+        "time_from": 317,
+        "time_to": 420
       }
     ]
   },
@@ -116,7 +124,11 @@
     "contributors": [
       {
         "name": "釋思聰",
-        "id": "A034561"
+        "id": "A034561",
+        "type": "author",
+        "dynasty": "元",
+        "time_from": 1271,
+        "time_to": 1368
       }
     ]
   },
@@ -130,7 +142,8 @@
     "contributors": [
       {
         "name": "釋圓耳",
-        "id": "A034568"
+        "id": "A034568",
+        "type": "author"
       }
     ]
   },
@@ -154,7 +167,11 @@
     "contributors": [
       {
         "name": "釋弘演",
-        "id": "A034569"
+        "id": "A034569",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -171,7 +188,11 @@
     "contributors": [
       {
         "name": "釋觀衡",
-        "id": "A001993"
+        "id": "A001993",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -188,7 +209,11 @@
     "contributors": [
       {
         "name": "釋一行",
-        "id": "A000008"
+        "id": "A000008",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -202,7 +227,8 @@
     "contributors": [
       {
         "name": "釋運敞",
-        "id": "A001496"
+        "id": "A001496",
+        "type": "author"
       }
     ]
   },
@@ -233,7 +259,11 @@
     "contributors": [
       {
         "name": "釋其甲",
-        "id": "A034572"
+        "id": "A034572",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -250,7 +280,11 @@
     "contributors": [
       {
         "name": "釋廣伸",
-        "id": "A001657"
+        "id": "A001657",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -264,7 +298,8 @@
     "contributors": [
       {
         "name": "釋善珠",
-        "id": "A001337"
+        "id": "A001337",
+        "type": "author"
       }
     ]
   },
@@ -278,7 +313,8 @@
     "contributors": [
       {
         "name": "釋善珠",
-        "id": "A001337"
+        "id": "A001337",
+        "type": "author"
       }
     ]
   },
@@ -292,7 +328,8 @@
     "contributors": [
       {
         "name": "釋實順",
-        "id": "A034579"
+        "id": "A034579",
+        "type": "author"
       }
     ]
   },
@@ -316,7 +353,11 @@
     "contributors": [
       {
         "name": "吳樹虛",
-        "id": "A034583"
+        "id": "A034583",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       }
     ]
   },
@@ -333,7 +374,11 @@
     "contributors": [
       {
         "name": "釋窺基",
-        "id": "A001019"
+        "id": "A001019",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -347,7 +392,8 @@
     "contributors": [
       {
         "name": "釋高範",
-        "id": "A034584"
+        "id": "A034584",
+        "type": "author"
       }
     ]
   },
@@ -364,7 +410,11 @@
     "contributors": [
       {
         "name": "吳樹虛",
-        "id": "A034583"
+        "id": "A034583",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       }
     ]
   },
@@ -378,7 +428,8 @@
     "contributors": [
       {
         "name": "釋叡尊",
-        "id": "A001839"
+        "id": "A001839",
+        "type": "author"
       }
     ]
   },
@@ -392,7 +443,8 @@
     "contributors": [
       {
         "name": "釋高範",
-        "id": "A034584"
+        "id": "A034584",
+        "type": "author"
       }
     ]
   },
@@ -406,7 +458,8 @@
     "contributors": [
       {
         "name": "釋龍謙",
-        "id": "A034585"
+        "id": "A034585",
+        "type": "author"
       }
     ]
   },
@@ -427,7 +480,8 @@
     "contributors": [
       {
         "name": "釋良光",
-        "id": "A034586"
+        "id": "A034586",
+        "type": "author"
       }
     ]
   },
@@ -441,7 +495,8 @@
     "contributors": [
       {
         "name": "釋真興",
-        "id": "A000961"
+        "id": "A000961",
+        "type": "author"
       }
     ]
   },
@@ -458,7 +513,11 @@
     "contributors": [
       {
         "name": "釋杜順",
-        "id": "A000525"
+        "id": "A000525",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -475,7 +534,11 @@
     "contributors": [
       {
         "name": "釋淨源",
-        "id": "A001113"
+        "id": "A001113",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -489,7 +552,8 @@
     "contributors": [
       {
         "name": "釋貞舜",
-        "id": "A000876"
+        "id": "A000876",
+        "type": "author"
       }
     ]
   },
@@ -510,7 +574,8 @@
     "contributors": [
       {
         "name": "釋良忠",
-        "id": "A000535"
+        "id": "A000535",
+        "type": "author"
       }
     ]
   },
@@ -524,7 +589,8 @@
     "contributors": [
       {
         "name": "弁阿",
-        "id": "A001831"
+        "id": "A001831",
+        "type": "author"
       }
     ]
   },
@@ -552,7 +618,8 @@
     "contributors": [
       {
         "name": "釋妙超",
-        "id": "A000584"
+        "id": "A000584",
+        "type": "author"
       }
     ]
   },
@@ -566,7 +633,8 @@
     "contributors": [
       {
         "name": "釋空誓",
-        "id": "A034599"
+        "id": "A034599",
+        "type": "author"
       }
     ]
   },
@@ -590,7 +658,11 @@
     "contributors": [
       {
         "name": "釋海島",
-        "id": "A034600"
+        "id": "A034600",
+        "type": "author",
+        "dynasty": "元",
+        "time_from": 1271,
+        "time_to": 1368
       }
     ]
   },
@@ -607,11 +679,19 @@
     "contributors": [
       {
         "name": "釋慧空",
-        "id": "A012804"
+        "id": "A012804",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       },
       {
         "name": "釋惠然",
-        "id": "A034601"
+        "id": "A034601",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -628,11 +708,19 @@
     "contributors": [
       {
         "name": "釋無學",
-        "id": "A000077"
+        "id": "A000077",
+        "type": "author",
+        "dynasty": "元",
+        "time_from": 1271,
+        "time_to": 1368
       },
       {
         "name": "釋妙環",
-        "id": "A000478"
+        "id": "A000478",
+        "type": "author",
+        "dynasty": "元",
+        "time_from": 1271,
+        "time_to": 1368
       }
     ]
   },
@@ -649,7 +737,11 @@
     "contributors": [
       {
         "name": "唐時",
-        "id": "A011850"
+        "id": "A011850",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       }
     ]
   },
@@ -680,7 +772,11 @@
     "contributors": [
       {
         "name": "釋大惠",
-        "id": "A000061"
+        "id": "A000061",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -697,7 +793,11 @@
     "contributors": [
       {
         "name": "釋祖心",
-        "id": "A008470"
+        "id": "A008470",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -714,7 +814,11 @@
     "contributors": [
       {
         "name": "釋景隆",
-        "id": "A001245"
+        "id": "A001245",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -731,7 +835,11 @@
     "contributors": [
       {
         "name": "王芥庵",
-        "id": "A007335"
+        "id": "A007335",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -755,7 +863,11 @@
     "contributors": [
       {
         "name": "周夢秀",
-        "id": "A034603"
+        "id": "A034603",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -769,7 +881,8 @@
     "contributors": [
       {
         "name": "釋信瑞",
-        "id": "A000808"
+        "id": "A000808",
+        "type": "author"
       }
     ]
   },
@@ -800,7 +913,11 @@
     "contributors": [
       {
         "name": "釋冲絢",
-        "id": "A034604"
+        "id": "A034604",
+        "type": "author",
+        "dynasty": "朝鮮",
+        "time_from": 1392,
+        "time_to": 1895
       }
     ]
   }
