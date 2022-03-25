@@ -12,7 +12,11 @@
     "contributors": [
       {
         "name": "玄奘",
-        "id": "A000294"
+        "id": "A000294",
+        "type": "translator",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -29,7 +33,11 @@
     "contributors": [
       {
         "name": "慧菀",
-        "id": "A001713"
+        "id": "A001713",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -46,7 +54,11 @@
     "contributors": [
       {
         "name": "可洪",
-        "id": "A000222"
+        "id": "A000222",
+        "type": "author",
+        "dynasty": "後晉",
+        "time_from": 936,
+        "time_to": 947
       }
     ]
   },
@@ -63,7 +75,11 @@
     "contributors": [
       {
         "name": "趙炅",
-        "id": "A001640"
+        "id": "A001640",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -80,7 +96,11 @@
     "contributors": [
       {
         "name": "趙炅",
-        "id": "A001640"
+        "id": "A001640",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -97,7 +117,11 @@
     "contributors": [
       {
         "name": "趙炅",
-        "id": "A001640"
+        "id": "A001640",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -114,7 +138,11 @@
     "contributors": [
       {
         "name": "趙炅",
-        "id": "A001640"
+        "id": "A001640",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -131,7 +159,11 @@
     "contributors": [
       {
         "name": "守其",
-        "id": "A000358"
+        "id": "A000358",
+        "type": "other",
+        "dynasty": "高麗",
+        "time_from": 918,
+        "time_to": 1392
       }
     ]
   },
@@ -148,11 +180,19 @@
     "contributors": [
       {
         "name": "安慧菩薩",
-        "id": "A000371"
+        "id": "A000371",
+        "type": "author",
+        "dynasty": "古印度",
+        "time_from": 475,
+        "time_to": 555
       },
       {
         "name": "惟淨",
-        "id": "A001072"
+        "id": "A001072",
+        "type": "translator",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   }
