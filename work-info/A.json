@@ -12,7 +12,11 @@
     "contributors": [
       {
         "name": "慧菀",
-        "id": "A001713"
+        "id": "A001713",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -29,7 +33,11 @@
     "contributors": [
       {
         "name": "玄逸",
-        "id": "A000295"
+        "id": "A000295",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -46,7 +54,11 @@
     "contributors": [
       {
         "name": "惟淨",
-        "id": "A001072"
+        "id": "A001072",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -63,7 +75,11 @@
     "contributors": [
       {
         "name": "楊億",
-        "id": "A001446"
+        "id": "A001446",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -80,7 +96,11 @@
     "contributors": [
       {
         "name": "呂夷簡",
-        "id": "A000457"
+        "id": "A000457",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -97,7 +117,11 @@
     "contributors": [
       {
         "name": "金總持",
-        "id": "A000001"
+        "id": "A000001",
+        "type": "translator",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -114,7 +138,11 @@
     "contributors": [
       {
         "name": "智吉祥",
-        "id": "A001255"
+        "id": "A001255",
+        "type": "translator",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -131,7 +159,11 @@
     "contributors": [
       {
         "name": "窺基",
-        "id": "A001019"
+        "id": "A001019",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -148,11 +180,19 @@
     "contributors": [
       {
         "name": "清素",
-        "id": "A001088"
+        "id": "A001088",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       },
       {
         "name": "澄淨",
-        "id": "A001752"
+        "id": "A001752",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   }
