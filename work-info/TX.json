@@ -19,7 +19,11 @@
     "contributors": [
       {
         "name": "釋太虛",
-        "id": "A004819"
+        "id": "A004819",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1947
       }
     ]
   },
@@ -36,7 +40,11 @@
     "contributors": [
       {
         "name": "釋太虛",
-        "id": "A004819"
+        "id": "A004819",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1947
       }
     ]
   },
@@ -53,7 +61,11 @@
     "contributors": [
       {
         "name": "釋太虛",
-        "id": "A004819"
+        "id": "A004819",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1947
       }
     ]
   },
@@ -70,7 +82,11 @@
     "contributors": [
       {
         "name": "釋太虛",
-        "id": "A004819"
+        "id": "A004819",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1947
       }
     ]
   },
@@ -87,7 +103,11 @@
     "contributors": [
       {
         "name": "釋太虛",
-        "id": "A004819"
+        "id": "A004819",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1947
       }
     ]
   },
@@ -104,7 +124,11 @@
     "contributors": [
       {
         "name": "釋太虛",
-        "id": "A004819"
+        "id": "A004819",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1947
       }
     ]
   },
@@ -121,7 +145,11 @@
     "contributors": [
       {
         "name": "釋太虛",
-        "id": "A004819"
+        "id": "A004819",
+        "type": "author",
+        "dynasty": "民國",
+        "time_from": 1912,
+        "time_to": 1947
       }
     ]
   }
