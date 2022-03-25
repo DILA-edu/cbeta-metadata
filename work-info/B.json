@@ -8,7 +8,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -21,7 +22,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -35,11 +37,13 @@
     "contributors": [
       {
         "name": "均如",
-        "id": "A034207"
+        "id": "A034207",
+        "type": "author"
       },
       {
         "name": "金知見",
-        "id": "A032660"
+        "id": "A032660",
+        "type": "author"
       }
     ]
   },
@@ -52,7 +56,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -66,7 +71,8 @@
     "contributors": [
       {
         "name": "道霈",
-        "id": "A001551"
+        "id": "A001551",
+        "type": "author"
       }
     ]
   },
@@ -79,7 +85,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -93,7 +100,8 @@
     "contributors": [
       {
         "name": "江鍊百",
-        "id": "A000390"
+        "id": "A000390",
+        "type": "translator"
       }
     ]
   },
@@ -107,7 +115,8 @@
     "contributors": [
       {
         "name": "芝峯",
-        "id": "A000769"
+        "id": "A000769",
+        "type": "translator"
       }
     ]
   },
@@ -121,7 +130,8 @@
     "contributors": [
       {
         "name": "夏丏尊",
-        "id": "A000903"
+        "id": "A000903",
+        "type": "translator"
       }
     ]
   },
@@ -135,7 +145,8 @@
     "contributors": [
       {
         "name": "黃謹良",
-        "id": "A035002"
+        "id": "A035002",
+        "type": "translator"
       }
     ]
   },
@@ -149,7 +160,8 @@
     "contributors": [
       {
         "name": "范寄東",
-        "id": "A004850"
+        "id": "A004850",
+        "type": "translator"
       }
     ]
   },
@@ -163,11 +175,13 @@
     "contributors": [
       {
         "name": "覺音",
-        "id": "A016340"
+        "id": "A016340",
+        "type": "author"
       },
       {
         "name": "范寄東",
-        "id": "A004850"
+        "id": "A004850",
+        "type": "translator"
       }
     ]
   },
@@ -181,7 +195,8 @@
     "contributors": [
       {
         "name": "佐伯旭雅",
-        "id": "A034211"
+        "id": "A034211",
+        "type": "author"
       }
     ]
   },
@@ -194,7 +209,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -208,7 +224,8 @@
     "contributors": [
       {
         "name": "丘哌博",
-        "id": "A034215"
+        "id": "A034215",
+        "type": "translator"
       }
     ]
   },
@@ -222,7 +239,8 @@
     "contributors": [
       {
         "name": "岫廬",
-        "id": "A034218"
+        "id": "A034218",
+        "type": "translator"
       }
     ]
   },
@@ -236,7 +254,8 @@
     "contributors": [
       {
         "name": "法舫",
-        "id": "A007860"
+        "id": "A007860",
+        "type": "translator"
       }
     ]
   },
@@ -250,7 +269,8 @@
     "contributors": [
       {
         "name": "法舫",
-        "id": "A007860"
+        "id": "A007860",
+        "type": "translator"
       }
     ]
   },
@@ -264,7 +284,8 @@
     "contributors": [
       {
         "name": "法舫",
-        "id": "A007860"
+        "id": "A007860",
+        "type": "translator"
       }
     ]
   },
@@ -278,11 +299,13 @@
     "contributors": [
       {
         "name": "丘寶光",
-        "id": "A034219"
+        "id": "A034219",
+        "type": "translator"
       },
       {
         "name": "徐鄂雲",
-        "id": "A034220"
+        "id": "A034220",
+        "type": "translator"
       }
     ]
   },
@@ -296,7 +319,8 @@
     "contributors": [
       {
         "name": "法舫",
-        "id": "A007860"
+        "id": "A007860",
+        "type": "translator"
       }
     ]
   },
@@ -310,7 +334,8 @@
     "contributors": [
       {
         "name": "了參",
-        "id": "A024157"
+        "id": "A024157",
+        "type": "translator"
       }
     ]
   },
@@ -324,7 +349,8 @@
     "contributors": [
       {
         "name": "巴宙",
-        "id": "A032558"
+        "id": "A032558",
+        "type": "translator"
       }
     ]
   },
@@ -338,7 +364,8 @@
     "contributors": [
       {
         "name": "湯用彤",
-        "id": "A024596"
+        "id": "A024596",
+        "type": "translator"
       }
     ]
   },
@@ -352,11 +379,13 @@
     "contributors": [
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "author"
       },
       {
         "name": "雲根",
-        "id": "A034221"
+        "id": "A034221",
+        "type": "other"
       }
     ]
   },
@@ -370,11 +399,13 @@
     "contributors": [
       {
         "name": "白隱慧鶴",
-        "id": "A000308"
+        "id": "A000308",
+        "type": "author"
       },
       {
         "name": "南天棒鄧州",
-        "id": "A029511"
+        "id": "A029511",
+        "type": "other"
       }
     ]
   },
@@ -388,7 +419,8 @@
     "contributors": [
       {
         "name": "貢噶呼圖克圖",
-        "id": "A034224"
+        "id": "A034224",
+        "type": "translator"
       }
     ]
   },
@@ -402,7 +434,8 @@
     "contributors": [
       {
         "name": "江味農",
-        "id": "A000389"
+        "id": "A000389",
+        "type": "author"
       }
     ]
   },
@@ -416,11 +449,13 @@
     "contributors": [
       {
         "name": "鳩摩羅什",
-        "id": "A001583"
+        "id": "A001583",
+        "type": "translator"
       },
       {
         "name": "法舫",
-        "id": "A007860"
+        "id": "A007860",
+        "type": "other"
       }
     ]
   },
@@ -434,11 +469,13 @@
     "contributors": [
       {
         "name": "阿耨樓陀",
-        "id": "A005158"
+        "id": "A005158",
+        "type": "author"
       },
       {
         "name": "法舫",
-        "id": "A007860"
+        "id": "A007860",
+        "type": "translator"
       }
     ]
   },
@@ -451,7 +488,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -465,7 +503,8 @@
     "contributors": [
       {
         "name": "佛瑩",
-        "id": "A034226"
+        "id": "A034226",
+        "type": "author"
       }
     ]
   },
@@ -479,11 +518,13 @@
     "contributors": [
       {
         "name": "宗喀巴",
-        "id": "A023413"
+        "id": "A023413",
+        "type": "author"
       },
       {
         "name": "湯薌銘",
-        "id": "A024044"
+        "id": "A024044",
+        "type": "translator"
       }
     ]
   },
@@ -497,11 +538,13 @@
     "contributors": [
       {
         "name": "宗喀巴",
-        "id": "A023413"
+        "id": "A023413",
+        "type": "author"
       },
       {
         "name": "湯薌銘",
-        "id": "A024044"
+        "id": "A024044",
+        "type": "translator"
       }
     ]
   },
@@ -515,11 +558,13 @@
     "contributors": [
       {
         "name": "宗喀巴",
-        "id": "A023413"
+        "id": "A023413",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -532,7 +577,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -546,7 +592,8 @@
     "contributors": [
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "author"
       }
     ]
   },
@@ -560,11 +607,13 @@
     "contributors": [
       {
         "name": "彌勒",
-        "id": "A001428"
+        "id": "A001428",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -578,15 +627,18 @@
     "contributors": [
       {
         "name": "龍樹",
-        "id": "A001482"
+        "id": "A001482",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       },
       {
         "name": "弘悲",
-        "id": "A034237"
+        "id": "A034237",
+        "type": "other"
       }
     ]
   },
@@ -600,11 +652,13 @@
     "contributors": [
       {
         "name": "無著賢",
-        "id": "A043206"
+        "id": "A043206",
+        "type": "author"
       },
       {
         "name": "慧海",
-        "id": "A034238"
+        "id": "A034238",
+        "type": "translator"
       }
     ]
   },
@@ -618,11 +672,13 @@
     "contributors": [
       {
         "name": "彌勒",
-        "id": "A001428"
+        "id": "A001428",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -636,11 +692,13 @@
     "contributors": [
       {
         "name": "無著",
-        "id": "A001318"
+        "id": "A001318",
+        "type": "author"
       },
       {
         "name": "呂澂",
-        "id": "A007178"
+        "id": "A007178",
+        "type": "translator"
       }
     ]
   },
@@ -654,11 +712,13 @@
     "contributors": [
       {
         "name": "世親",
-        "id": "A000148"
+        "id": "A000148",
+        "type": "author"
       },
       {
         "name": "劉孝蘭",
-        "id": "A034239"
+        "id": "A034239",
+        "type": "translator"
       }
     ]
   },
@@ -672,7 +732,8 @@
     "contributors": [
       {
         "name": "呂澂",
-        "id": "A007178"
+        "id": "A007178",
+        "type": "author"
       }
     ]
   },
@@ -686,7 +747,8 @@
     "contributors": [
       {
         "name": "呂澂",
-        "id": "A007178"
+        "id": "A007178",
+        "type": "author"
       }
     ]
   },
@@ -700,11 +762,13 @@
     "contributors": [
       {
         "name": "呂澂",
-        "id": "A007178"
+        "id": "A007178",
+        "type": "author"
       },
       {
         "name": "印滄",
-        "id": "A034240"
+        "id": "A034240",
+        "type": "author"
       }
     ]
   },
@@ -718,11 +782,13 @@
     "contributors": [
       {
         "name": "陳那",
-        "id": "A001162"
+        "id": "A001162",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -736,11 +802,13 @@
     "contributors": [
       {
         "name": "法稱",
-        "id": "A000734"
+        "id": "A000734",
+        "type": "author"
       },
       {
         "name": "王森",
-        "id": "A034243"
+        "id": "A034243",
+        "type": "translator"
       }
     ]
   },
@@ -754,11 +822,13 @@
     "contributors": [
       {
         "name": "法稱",
-        "id": "A000734"
+        "id": "A000734",
+        "type": "author"
       },
       {
         "name": "楊化群",
-        "id": "A034244"
+        "id": "A034244",
+        "type": "translator"
       }
     ]
   },
@@ -772,15 +842,18 @@
     "contributors": [
       {
         "name": "法稱",
-        "id": "A000734"
+        "id": "A000734",
+        "type": "author"
       },
       {
         "name": "僧成",
-        "id": "A034246"
+        "id": "A034246",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -794,11 +867,13 @@
     "contributors": [
       {
         "name": "宗喀巴",
-        "id": "A023413"
+        "id": "A023413",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -812,11 +887,13 @@
     "contributors": [
       {
         "name": "月稱",
-        "id": "A016747"
+        "id": "A016747",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -830,11 +907,13 @@
     "contributors": [
       {
         "name": "宗喀巴",
-        "id": "A023413"
+        "id": "A023413",
+        "type": "author"
       },
       {
         "name": "潭影",
-        "id": "A034249"
+        "id": "A034249",
+        "type": "translator"
       }
     ]
   },
@@ -848,11 +927,13 @@
     "contributors": [
       {
         "name": "僧成",
-        "id": "A034246"
+        "id": "A034246",
+        "type": "author"
       },
       {
         "name": "常浩",
-        "id": "A034256"
+        "id": "A034256",
+        "type": "translator"
       }
     ]
   },
@@ -865,7 +946,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -879,11 +961,13 @@
     "contributors": [
       {
         "name": "宗喀巴",
-        "id": "A023413"
+        "id": "A023413",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -897,11 +981,13 @@
     "contributors": [
       {
         "name": "阿底霞",
-        "id": "A015038"
+        "id": "A015038",
+        "type": "author"
       },
       {
         "name": "超一",
-        "id": "A034269"
+        "id": "A034269",
+        "type": "translator"
       }
     ]
   },
@@ -915,11 +1001,13 @@
     "contributors": [
       {
         "name": "三寶無畏王",
-        "id": "A034270"
+        "id": "A034270",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -933,11 +1021,13 @@
     "contributors": [
       {
         "name": "札迦",
-        "id": "A034273"
+        "id": "A034273",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -951,11 +1041,13 @@
     "contributors": [
       {
         "name": "宗喀巴",
-        "id": "A023413"
+        "id": "A023413",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -969,11 +1061,13 @@
     "contributors": [
       {
         "name": "寂靜",
-        "id": "A034274"
+        "id": "A034274",
+        "type": "author"
       },
       {
         "name": "超一",
-        "id": "A034269"
+        "id": "A034269",
+        "type": "translator"
       }
     ]
   },
@@ -987,11 +1081,13 @@
     "contributors": [
       {
         "name": "宗喀巴",
-        "id": "A023413"
+        "id": "A023413",
+        "type": "author"
       },
       {
         "name": "超一",
-        "id": "A034269"
+        "id": "A034269",
+        "type": "translator"
       }
     ]
   },
@@ -1005,11 +1101,13 @@
     "contributors": [
       {
         "name": "宗喀巴",
-        "id": "A023413"
+        "id": "A023413",
+        "type": "author"
       },
       {
         "name": "超一",
-        "id": "A034269"
+        "id": "A034269",
+        "type": "translator"
       }
     ]
   },
@@ -1023,15 +1121,18 @@
     "contributors": [
       {
         "name": "達瓦桑杜",
-        "id": "A034276"
+        "id": "A034276",
+        "type": "translator"
       },
       {
         "name": "伊文思溫慈",
-        "id": "A034277"
+        "id": "A034277",
+        "type": "author"
       },
       {
         "name": "趙洪鑄",
-        "id": "A034278"
+        "id": "A034278",
+        "type": "translator"
       }
     ]
   },
@@ -1045,11 +1146,13 @@
     "contributors": [
       {
         "name": "克主",
-        "id": "A034280"
+        "id": "A034280",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -1063,11 +1166,13 @@
     "contributors": [
       {
         "name": "白蓮花",
-        "id": "A034281"
+        "id": "A034281",
+        "type": "author"
       },
       {
         "name": "光明心",
-        "id": "A034282"
+        "id": "A034282",
+        "type": "translator"
       }
     ]
   },
@@ -1081,11 +1186,13 @@
     "contributors": [
       {
         "name": "珀瑪迦爾",
-        "id": "A034283"
+        "id": "A034283",
+        "type": "author"
       },
       {
         "name": "張妙定蓮菩提金剛正",
-        "id": "A034284"
+        "id": "A034284",
+        "type": "translator"
       }
     ]
   },
@@ -1099,15 +1206,18 @@
     "contributors": [
       {
         "name": "達瓦桑杜",
-        "id": "A034276"
+        "id": "A034276",
+        "type": "translator"
       },
       {
         "name": "伊文思溫慈",
-        "id": "A034277"
+        "id": "A034277",
+        "type": "author"
       },
       {
         "name": "張妙定蓮菩提金剛正",
-        "id": "A034284"
+        "id": "A034284",
+        "type": "translator"
       }
     ]
   },
@@ -1121,15 +1231,18 @@
     "contributors": [
       {
         "name": "大善解功德主",
-        "id": "A034287"
+        "id": "A034287",
+        "type": "author"
       },
       {
         "name": "貢噶",
-        "id": "A034224"
+        "id": "A034224",
+        "type": "author"
       },
       {
         "name": "滿空",
-        "id": "A034290"
+        "id": "A034290",
+        "type": "translator"
       }
     ]
   },
@@ -1143,7 +1256,8 @@
     "contributors": [
       {
         "name": "貢噶",
-        "id": "A034224"
+        "id": "A034224",
+        "type": "author"
       }
     ]
   },
@@ -1157,11 +1271,13 @@
     "contributors": [
       {
         "name": "吉祥",
-        "id": "A034294"
+        "id": "A034294",
+        "type": "author"
       },
       {
         "name": "鍾伯毅",
-        "id": "A034291"
+        "id": "A034291",
+        "type": "author"
       }
     ]
   },
@@ -1175,11 +1291,13 @@
     "contributors": [
       {
         "name": "郭元興",
-        "id": "A034296"
+        "id": "A034296",
+        "type": "author"
       },
       {
         "name": "慈威",
-        "id": "A034299"
+        "id": "A034299",
+        "type": "other"
       }
     ]
   },
@@ -1193,11 +1311,13 @@
     "contributors": [
       {
         "name": "宗喀巴",
-        "id": "A023413"
+        "id": "A023413",
+        "type": "author"
       },
       {
         "name": "邢肅芝",
-        "id": "A034300"
+        "id": "A034300",
+        "type": "translator"
       }
     ]
   },
@@ -1211,15 +1331,18 @@
     "contributors": [
       {
         "name": "宗喀巴",
-        "id": "A023413"
+        "id": "A023413",
+        "type": "author"
       },
       {
         "name": "大勇",
-        "id": "A004888"
+        "id": "A004888",
+        "type": "translator"
       },
       {
         "name": "智湛",
-        "id": "A034301"
+        "id": "A034301",
+        "type": "other"
       }
     ]
   },
@@ -1233,11 +1356,13 @@
     "contributors": [
       {
         "name": "宗喀巴",
-        "id": "A023413"
+        "id": "A023413",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -1251,11 +1376,13 @@
     "contributors": [
       {
         "name": "宗喀巴",
-        "id": "A023413"
+        "id": "A023413",
+        "type": "author"
       },
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -1268,7 +1395,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -1282,11 +1410,13 @@
     "contributors": [
       {
         "name": "多羅那他",
-        "id": "A024388"
+        "id": "A024388",
+        "type": "author"
       },
       {
         "name": "郭元興",
-        "id": "A034296"
+        "id": "A034296",
+        "type": "translator"
       }
     ]
   },
@@ -1300,7 +1430,8 @@
     "contributors": [
       {
         "name": "金慧暢",
-        "id": "A034303"
+        "id": "A034303",
+        "type": "author"
       }
     ]
   },
@@ -1314,7 +1445,8 @@
     "contributors": [
       {
         "name": "諾那呼圖克圖逞列匠磋",
-        "id": "A034304"
+        "id": "A034304",
+        "type": "translator"
       }
     ]
   },
@@ -1328,7 +1460,8 @@
     "contributors": [
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -1342,15 +1475,18 @@
     "contributors": [
       {
         "name": "惹穹多傑札把",
-        "id": "A034308"
+        "id": "A034308",
+        "type": "author"
       },
       {
         "name": "多傑",
-        "id": "A034310"
+        "id": "A034310",
+        "type": "translator"
       },
       {
         "name": "張心若",
-        "id": "A034311"
+        "id": "A034311",
+        "type": "other"
       }
     ]
   },
@@ -1364,7 +1500,8 @@
     "contributors": [
       {
         "name": "法尊",
-        "id": "A004774"
+        "id": "A004774",
+        "type": "translator"
       }
     ]
   },
@@ -1378,11 +1515,13 @@
     "contributors": [
       {
         "name": "第五世達賴喇嘛",
-        "id": "A011029"
+        "id": "A011029",
+        "type": "author"
       },
       {
         "name": "郭和卿",
-        "id": "A034314"
+        "id": "A034314",
+        "type": "translator"
       }
     ]
   },
@@ -1396,11 +1535,13 @@
     "contributors": [
       {
         "name": "達喇那他",
-        "id": "A024388"
+        "id": "A024388",
+        "type": "author"
       },
       {
         "name": "王沂暖",
-        "id": "A034315"
+        "id": "A034315",
+        "type": "translator"
       }
     ]
   },
@@ -1413,7 +1554,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -1427,11 +1569,13 @@
     "contributors": [
       {
         "name": "楊衒之",
-        "id": "A001444"
+        "id": "A001444",
+        "type": "author"
       },
       {
         "name": "周祖謨",
-        "id": "A034316"
+        "id": "A034316",
+        "type": "other"
       }
     ]
   },
@@ -1445,11 +1589,13 @@
     "contributors": [
       {
         "name": "楊衒之",
-        "id": "A001444"
+        "id": "A001444",
+        "type": "author"
       },
       {
         "name": "范祥雍",
-        "id": "A034317"
+        "id": "A034317",
+        "type": "other"
       }
     ]
   },
@@ -1462,7 +1608,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -1475,7 +1622,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -1489,7 +1637,8 @@
     "contributors": [
       {
         "name": "義楚",
-        "id": "A001474"
+        "id": "A001474",
+        "type": "author"
       }
     ]
   },
@@ -1503,11 +1652,13 @@
     "contributors": [
       {
         "name": "玄奘",
-        "id": "A000294"
+        "id": "A000294",
+        "type": "author"
       },
       {
         "name": "辯機",
-        "id": "A001966"
+        "id": "A001966",
+        "type": "author"
       }
     ]
   },
@@ -1520,7 +1671,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -1534,7 +1686,8 @@
     "contributors": [
       {
         "name": "智炬",
-        "id": "A001267"
+        "id": "A001267",
+        "type": "author"
       }
     ]
   },
@@ -1548,7 +1701,8 @@
     "contributors": [
       {
         "name": "王隨",
-        "id": "A017492"
+        "id": "A017492",
+        "type": "author"
       }
     ]
   },
@@ -1568,7 +1722,8 @@
     "contributors": [
       {
         "name": "密藏",
-        "id": "A009414"
+        "id": "A009414",
+        "type": "author"
       }
     ]
   },
@@ -1582,11 +1737,13 @@
     "contributors": [
       {
         "name": "福善",
-        "id": "A001631"
+        "id": "A001631",
+        "type": "other"
       },
       {
         "name": "福徵",
-        "id": "A007801"
+        "id": "A007801",
+        "type": "author"
       }
     ]
   },
@@ -1600,7 +1757,8 @@
     "contributors": [
       {
         "name": "劉世珩",
-        "id": "A034323"
+        "id": "A034323",
+        "type": "author"
       }
     ]
   },
@@ -1614,23 +1772,28 @@
     "contributors": [
       {
         "name": "寒山",
-        "id": "A004127"
+        "id": "A004127",
+        "type": "author"
       },
       {
         "name": "豐干",
-        "id": "A005272"
+        "id": "A005272",
+        "type": "author"
       },
       {
         "name": "拾得",
-        "id": "A009211"
+        "id": "A009211",
+        "type": "author"
       },
       {
         "name": "梵琦",
-        "id": "A001082"
+        "id": "A001082",
+        "type": "other"
       },
       {
         "name": "濟岳",
-        "id": "A001854"
+        "id": "A001854",
+        "type": "other"
       }
     ]
   },
@@ -1643,7 +1806,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -1656,7 +1820,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -1676,7 +1841,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -1690,7 +1856,8 @@
     "contributors": [
       {
         "name": "李昉",
-        "id": "A019294"
+        "id": "A019294",
+        "type": "author"
       }
     ]
   },
@@ -1704,7 +1871,8 @@
     "contributors": [
       {
         "name": "段成式",
-        "id": "A000850"
+        "id": "A000850",
+        "type": "author"
       }
     ]
   },
@@ -1732,7 +1900,8 @@
     "contributors": [
       {
         "name": "陳士元",
-        "id": "A034326"
+        "id": "A034326",
+        "type": "author"
       }
     ]
   },
@@ -1746,11 +1915,13 @@
     "contributors": [
       {
         "name": "王欽若",
-        "id": "A016950"
+        "id": "A016950",
+        "type": "author"
       },
       {
         "name": "楊億",
-        "id": "A001446"
+        "id": "A001446",
+        "type": "author"
       }
     ]
   },
@@ -1763,7 +1934,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -1777,7 +1949,8 @@
     "contributors": [
       {
         "name": "圓仁",
-        "id": "A001402"
+        "id": "A001402",
+        "type": "author"
       }
     ]
   },
@@ -1798,7 +1971,8 @@
     "contributors": [
       {
         "name": "智達",
-        "id": "A034330"
+        "id": "A034330",
+        "type": "author"
       }
     ]
   },
@@ -1812,7 +1986,8 @@
     "contributors": [
       {
         "name": "來果",
-        "id": "A023711"
+        "id": "A023711",
+        "type": "author"
       }
     ]
   },
@@ -1826,7 +2001,8 @@
     "contributors": [
       {
         "name": "王夫之",
-        "id": "A019145"
+        "id": "A019145",
+        "type": "author"
       }
     ]
   },
@@ -1846,7 +2022,8 @@
     "contributors": [
       {
         "name": "菩提達磨",
-        "id": "A001361"
+        "id": "A001361",
+        "type": "author"
       }
     ]
   },
@@ -1865,7 +2042,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -1878,7 +2056,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -1892,7 +2071,8 @@
     "contributors": [
       {
         "name": "無著道忠",
-        "id": "A001319"
+        "id": "A001319",
+        "type": "author"
       }
     ]
   },
@@ -1905,7 +2085,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -1948,7 +2129,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -2004,7 +2186,8 @@
     "contributors": [
       {
         "name": "明成祖朱棣",
-        "id": "A000149"
+        "id": "A000149",
+        "type": "author"
       }
     ]
   },
@@ -2017,7 +2200,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -2031,11 +2215,13 @@
     "contributors": [
       {
         "name": "一如",
-        "id": "A000007"
+        "id": "A000007",
+        "type": "author"
       },
       {
         "name": "丁福保",
-        "id": "A007851"
+        "id": "A007851",
+        "type": "other"
       }
     ]
   },
@@ -2049,11 +2235,13 @@
     "contributors": [
       {
         "name": "源諒",
-        "id": "A022931"
+        "id": "A022931",
+        "type": "author"
       },
       {
         "name": "劉霞彩",
-        "id": "A034331"
+        "id": "A034331",
+        "type": "author"
       }
     ]
   },
@@ -2067,7 +2255,8 @@
     "contributors": [
       {
         "name": "汪宗衍",
-        "id": "A034907"
+        "id": "A034907",
+        "type": "author"
       }
     ]
   },
@@ -2080,7 +2269,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -2157,7 +2347,8 @@
     "contributors": [
       {
         "name": "智旭",
-        "id": "A001257"
+        "id": "A001257",
+        "type": "author"
       }
     ]
   },
@@ -2170,7 +2361,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -2184,7 +2376,8 @@
     "contributors": [
       {
         "name": "智旭",
-        "id": "A001257"
+        "id": "A001257",
+        "type": "author"
       }
     ]
   },
@@ -2198,7 +2391,8 @@
     "contributors": [
       {
         "name": "空谷景隆",
-        "id": "A001245"
+        "id": "A001245",
+        "type": "author"
       }
     ]
   },
@@ -2212,7 +2406,8 @@
     "contributors": [
       {
         "name": "空谷景隆",
-        "id": "A001245"
+        "id": "A001245",
+        "type": "author"
       }
     ]
   },
@@ -2227,7 +2422,8 @@
     "contributors": [
       {
         "name": "鍾始聲",
-        "id": "A001871"
+        "id": "A001871",
+        "type": "author"
       }
     ]
   },
@@ -2241,7 +2437,8 @@
     "contributors": [
       {
         "name": "笑隱大訢",
-        "id": "A000062"
+        "id": "A000062",
+        "type": "author"
       }
     ]
   },
@@ -2255,7 +2452,8 @@
     "contributors": [
       {
         "name": "智旭",
-        "id": "A001257"
+        "id": "A001257",
+        "type": "author"
       }
     ]
   },
@@ -2269,7 +2467,8 @@
     "contributors": [
       {
         "name": "智楷",
-        "id": "A001284"
+        "id": "A001284",
+        "type": "author"
       }
     ]
   },
@@ -2283,7 +2482,8 @@
     "contributors": [
       {
         "name": "陳沂",
-        "id": "A034338"
+        "id": "A034338",
+        "type": "author"
       }
     ]
   },
@@ -2297,7 +2497,8 @@
     "contributors": [
       {
         "name": "徐𤊹",
-        "id": "A005179"
+        "id": "A005179",
+        "type": "author"
       }
     ]
   },
@@ -2311,7 +2512,8 @@
     "contributors": [
       {
         "name": "傅梅",
-        "id": "A034340"
+        "id": "A034340",
+        "type": "author"
       }
     ]
   },
@@ -2324,7 +2526,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -2338,7 +2541,8 @@
     "contributors": [
       {
         "name": "胡適",
-        "id": "A023813"
+        "id": "A023813",
+        "type": "other"
       }
     ]
   },
@@ -2352,7 +2556,8 @@
     "contributors": [
       {
         "name": "胡適",
-        "id": "A023813"
+        "id": "A023813",
+        "type": "other"
       }
     ]
   },
@@ -2366,11 +2571,13 @@
     "contributors": [
       {
         "name": "靜",
-        "id": "A034920"
+        "id": "A034920",
+        "type": "author"
       },
       {
         "name": "筠",
-        "id": "A034921"
+        "id": "A034921",
+        "type": "author"
       }
     ]
   },
@@ -2384,7 +2591,8 @@
     "contributors": [
       {
         "name": "中峰明本",
-        "id": "A000655"
+        "id": "A000655",
+        "type": "author"
       }
     ]
   },
@@ -2397,7 +2605,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -2418,7 +2627,8 @@
     "contributors": [
       {
         "name": "矢吹慶輝",
-        "id": "A034342"
+        "id": "A034342",
+        "type": "author"
       }
     ]
   },
@@ -2432,7 +2642,8 @@
     "contributors": [
       {
         "name": "徐長孺",
-        "id": "A034443"
+        "id": "A034443",
+        "type": "author"
       }
     ]
   },
@@ -2446,7 +2657,8 @@
     "contributors": [
       {
         "name": "李屏山",
-        "id": "A022444"
+        "id": "A022444",
+        "type": "author"
       }
     ]
   },
@@ -2461,7 +2673,8 @@
     "contributors": [
       {
         "name": "姚廣孝",
-        "id": "A001522"
+        "id": "A001522",
+        "type": "author"
       }
     ]
   },
@@ -2474,7 +2687,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -2488,7 +2702,8 @@
     "contributors": [
       {
         "name": "喻謙",
-        "id": "A034445"
+        "id": "A034445",
+        "type": "author"
       }
     ]
   },
@@ -2502,7 +2717,8 @@
     "contributors": [
       {
         "name": "音緯",
-        "id": "A034447"
+        "id": "A034447",
+        "type": "author"
       }
     ]
   },
@@ -2516,7 +2732,8 @@
     "contributors": [
       {
         "name": "晁逈",
-        "id": "A009420"
+        "id": "A009420",
+        "type": "author"
       }
     ]
   },
@@ -2529,7 +2746,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -2549,7 +2767,8 @@
     "contributors": [
       {
         "name": "徐昌治",
-        "id": "A000922"
+        "id": "A000922",
+        "type": "author"
       }
     ]
   },
@@ -2563,7 +2782,8 @@
     "contributors": [
       {
         "name": "屠隆",
-        "id": "A007025"
+        "id": "A007025",
+        "type": "author"
       }
     ]
   },
@@ -2577,7 +2797,8 @@
     "contributors": [
       {
         "name": "楊文會",
-        "id": "A001440"
+        "id": "A001440",
+        "type": "author"
       }
     ]
   },
@@ -2591,11 +2812,13 @@
     "contributors": [
       {
         "name": "費丹旭",
-        "id": "A034453"
+        "id": "A034453",
+        "type": "author"
       },
       {
         "name": "許光清",
-        "id": "A034454"
+        "id": "A034454",
+        "type": "author"
       }
     ]
   },
@@ -2609,7 +2832,8 @@
     "contributors": [
       {
         "name": "袁了凡",
-        "id": "A008362"
+        "id": "A008362",
+        "type": "author"
       }
     ]
   },
@@ -2622,7 +2846,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -2636,7 +2861,8 @@
     "contributors": [
       {
         "name": "葛寅亮",
-        "id": "A004190"
+        "id": "A004190",
+        "type": "author"
       }
     ]
   },
@@ -2650,7 +2876,8 @@
     "contributors": [
       {
         "name": "吳之鯨",
-        "id": "A022597"
+        "id": "A022597",
+        "type": "author"
       }
     ]
   },
@@ -2669,7 +2896,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -2683,11 +2911,13 @@
     "contributors": [
       {
         "name": "馬元",
-        "id": "A034467"
+        "id": "A034467",
+        "type": "author"
       },
       {
         "name": "釋真樸",
-        "id": "A000960"
+        "id": "A000960",
+        "type": "author"
       }
     ]
   },
@@ -2730,7 +2960,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -2751,7 +2982,8 @@
     "contributors": [
       {
         "name": "李能和",
-        "id": "A034473"
+        "id": "A034473",
+        "type": "author"
       }
     ]
   },
@@ -2764,7 +2996,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -2778,7 +3011,8 @@
     "contributors": [
       {
         "name": "凝然",
-        "id": "A001772"
+        "id": "A001772",
+        "type": "author"
       }
     ]
   },
@@ -2792,7 +3026,8 @@
     "contributors": [
       {
         "name": "富永仲基",
-        "id": "A034474"
+        "id": "A034474",
+        "type": "author"
       }
     ]
   },
@@ -2806,7 +3041,8 @@
     "contributors": [
       {
         "name": "師鍊",
-        "id": "A000919"
+        "id": "A000919",
+        "type": "author"
       }
     ]
   },
@@ -2820,7 +3056,8 @@
     "contributors": [
       {
         "name": "成尋",
-        "id": "A023182"
+        "id": "A023182",
+        "type": "author"
       }
     ]
   },
@@ -2834,7 +3071,8 @@
     "contributors": [
       {
         "name": "榮西",
-        "id": "A001624"
+        "id": "A001624",
+        "type": "author"
       }
     ]
   },
@@ -2848,11 +3086,13 @@
     "contributors": [
       {
         "name": "日朝",
-        "id": "A034475"
+        "id": "A034475",
+        "type": "author"
       },
       {
         "name": "英園",
-        "id": "A034476"
+        "id": "A034476",
+        "type": "author"
       }
     ]
   },
@@ -2866,7 +3106,8 @@
     "contributors": [
       {
         "name": "義觀",
-        "id": "A034478"
+        "id": "A034478",
+        "type": "author"
       }
     ]
   },
@@ -2887,7 +3128,8 @@
     "contributors": [
       {
         "name": "師鍊",
-        "id": "A000919"
+        "id": "A000919",
+        "type": "author"
       }
     ]
   },
@@ -2901,7 +3143,8 @@
     "contributors": [
       {
         "name": "定仙",
-        "id": "A034480"
+        "id": "A034480",
+        "type": "author"
       }
     ]
   },
@@ -2915,7 +3158,8 @@
     "contributors": [
       {
         "name": "賴瑜",
-        "id": "A001828"
+        "id": "A001828",
+        "type": "author"
       }
     ]
   },
@@ -2929,7 +3173,8 @@
     "contributors": [
       {
         "name": "凝然",
-        "id": "A001772"
+        "id": "A001772",
+        "type": "author"
       }
     ]
   },
@@ -2943,7 +3188,8 @@
     "contributors": [
       {
         "name": "慧中",
-        "id": "A034481"
+        "id": "A034481",
+        "type": "author"
       }
     ]
   },
@@ -2957,7 +3203,8 @@
     "contributors": [
       {
         "name": "普寂",
-        "id": "A001219"
+        "id": "A001219",
+        "type": "author"
       }
     ]
   },
@@ -2971,7 +3218,8 @@
     "contributors": [
       {
         "name": "良山",
-        "id": "A034489"
+        "id": "A034489",
+        "type": "author"
       }
     ]
   },
@@ -2985,7 +3233,8 @@
     "contributors": [
       {
         "name": "凝然",
-        "id": "A001772"
+        "id": "A001772",
+        "type": "author"
       }
     ]
   },
@@ -2999,7 +3248,8 @@
     "contributors": [
       {
         "name": "元曉",
-        "id": "A000136"
+        "id": "A000136",
+        "type": "author"
       }
     ]
   },
@@ -3019,7 +3269,8 @@
     "contributors": [
       {
         "name": "雪岑",
-        "id": "A034492"
+        "id": "A034492",
+        "type": "author"
       }
     ]
   },
@@ -3033,7 +3284,8 @@
     "contributors": [
       {
         "name": "雪岑",
-        "id": "A034492"
+        "id": "A034492",
+        "type": "author"
       }
     ]
   },
@@ -3047,11 +3299,13 @@
     "contributors": [
       {
         "name": "有聞",
-        "id": "A034499"
+        "id": "A034499",
+        "type": "other"
       },
       {
         "name": "聖奎",
-        "id": "A034500"
+        "id": "A034500",
+        "type": "other"
       }
     ]
   },
@@ -3064,7 +3318,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -3078,7 +3333,8 @@
     "contributors": [
       {
         "name": "梅鼎祚",
-        "id": "A034504"
+        "id": "A034504",
+        "type": "author"
       }
     ]
   },
@@ -3091,7 +3347,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -3104,7 +3361,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -3118,7 +3376,8 @@
     "contributors": [
       {
         "name": "周永年",
-        "id": "A018586"
+        "id": "A018586",
+        "type": "author"
       }
     ]
   },
@@ -3131,7 +3390,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -3145,7 +3405,8 @@
     "contributors": [
       {
         "name": "蔡念生",
-        "id": "A010533"
+        "id": "A010533",
+        "type": "author"
       }
     ]
   },
@@ -3159,7 +3420,8 @@
     "contributors": [
       {
         "name": "王錫",
-        "id": "A034507"
+        "id": "A034507",
+        "type": "author"
       }
     ]
   },
@@ -3179,7 +3441,8 @@
     "contributors": [
       {
         "name": "藍吉富",
-        "id": "A024238"
+        "id": "A024238",
+        "type": "author"
       }
     ]
   },
@@ -3193,11 +3456,18 @@
     "contributors": [
       {
         "name": "拉賈戈帕拉查理",
-        "id": "A034514"
+        "id": "A034514",
+        "type": "author"
       },
       {
         "name": "唐季雍",
-        "id": "A034515"
+        "id": "A034515",
+        "type": "translator"
+      },
+      {
+        "name": "金克木",
+        "id": "A043607",
+        "type": "other"
       }
     ]
   },
@@ -3211,7 +3481,8 @@
     "contributors": [
       {
         "name": "雅蘇瑪蒂書達．踏薩",
-        "id": "A034521"
+        "id": "A034521",
+        "type": "translator"
       }
     ]
   },
