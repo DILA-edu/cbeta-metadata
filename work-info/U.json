@@ -12,7 +12,11 @@
     "contributors": [
       {
         "name": "義忠",
-        "id": "A001464"
+        "id": "A001464",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -29,11 +33,19 @@
     "contributors": [
       {
         "name": "澄觀",
-        "id": "A001755"
+        "id": "A001755",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       },
       {
         "name": "淨源",
-        "id": "A001113"
+        "id": "A001113",
+        "type": "other",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   }
