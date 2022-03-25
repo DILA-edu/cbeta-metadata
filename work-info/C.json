@@ -12,7 +12,11 @@
     "contributors": [
       {
         "name": "玄應",
-        "id": "A000300"
+        "id": "A000300",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -29,7 +33,11 @@
     "contributors": [
       {
         "name": "處觀",
-        "id": "A001143"
+        "id": "A001143",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -46,7 +54,11 @@
     "contributors": [
       {
         "name": "羅濬",
-        "id": "A001905"
+        "id": "A001905",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -70,7 +82,11 @@
     "contributors": [
       {
         "name": "趙炅",
-        "id": "A001640"
+        "id": "A001640",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -87,7 +103,11 @@
     "contributors": [
       {
         "name": "趙炅",
-        "id": "A001640"
+        "id": "A001640",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -104,11 +124,19 @@
     "contributors": [
       {
         "name": "頤藏",
-        "id": "A001893"
+        "id": "A001893",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       },
       {
         "name": "淨戒",
-        "id": "A001101"
+        "id": "A001101",
+        "type": "other",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -125,15 +153,27 @@
     "contributors": [
       {
         "name": "法應",
-        "id": "A000742"
+        "id": "A000742",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       },
       {
         "name": "普會",
-        "id": "A001226"
+        "id": "A001226",
+        "type": "author",
+        "dynasty": "元",
+        "time_from": 1271,
+        "time_to": 1368
       },
       {
         "name": "淨戒",
-        "id": "A001101"
+        "id": "A001101",
+        "type": "other",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -150,11 +190,19 @@
     "contributors": [
       {
         "name": "求那跋陀羅",
-        "id": "A000527"
+        "id": "A000527",
+        "type": "translator",
+        "dynasty": "劉宋",
+        "time_from": 420,
+        "time_to": 479
       },
       {
         "name": "楊彥國",
-        "id": "A001442"
+        "id": "A001442",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -171,7 +219,11 @@
     "contributors": [
       {
         "name": "雙徑山僧眾",
-        "id": "A001890"
+        "id": "A001890",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   }
