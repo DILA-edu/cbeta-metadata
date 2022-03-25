@@ -12,15 +12,27 @@
     "contributors": [
       {
         "name": "智顗",
-        "id": "A001301"
+        "id": "A001301",
+        "type": "author",
+        "dynasty": "隋",
+        "time_from": 581,
+        "time_to": 618
       },
       {
         "name": "灌頂",
-        "id": "A004896"
+        "id": "A004896",
+        "type": "other",
+        "dynasty": "隋",
+        "time_from": 581,
+        "time_to": 618
       },
       {
         "name": "湛然",
-        "id": "A001307"
+        "id": "A001307",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -37,11 +49,19 @@
     "contributors": [
       {
         "name": "實叉難陀",
-        "id": "A001606"
+        "id": "A001606",
+        "type": "translator",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       },
       {
         "name": "澄觀",
-        "id": "A001755"
+        "id": "A001755",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -58,7 +78,11 @@
     "contributors": [
       {
         "name": "仁岳",
-        "id": "A000106"
+        "id": "A000106",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   },
@@ -75,7 +99,11 @@
     "contributors": [
       {
         "name": "法藏",
-        "id": "A002450"
+        "id": "A002450",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -92,7 +120,11 @@
     "contributors": [
       {
         "name": "王古",
-        "id": "A009477"
+        "id": "A009477",
+        "type": "author",
+        "dynasty": "元",
+        "time_from": 1271,
+        "time_to": 1368
       }
     ]
   },
@@ -109,11 +141,19 @@
     "contributors": [
       {
         "name": "玄奘",
-        "id": "A000294"
+        "id": "A000294",
+        "type": "translator",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       },
       {
         "name": "慈恩法師",
-        "id": "A001019"
+        "id": "A001019",
+        "type": "author",
+        "dynasty": "唐",
+        "time_from": 618,
+        "time_to": 907
       }
     ]
   },
@@ -130,7 +170,11 @@
     "contributors": [
       {
         "name": "德清",
-        "id": "A001681"
+        "id": "A001681",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -147,7 +191,11 @@
     "contributors": [
       {
         "name": "德清",
-        "id": "A001681"
+        "id": "A001681",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -164,15 +212,27 @@
     "contributors": [
       {
         "name": "正傳",
-        "id": "A000273"
+        "id": "A000273",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       },
       {
         "name": "圓悟",
-        "id": "A003688"
+        "id": "A003688",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       },
       {
         "name": "圓修",
-        "id": "A001410"
+        "id": "A001410",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -189,11 +249,19 @@
     "contributors": [
       {
         "name": "圓信",
-        "id": "A001408"
+        "id": "A001408",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       },
       {
         "name": "弘歇",
-        "id": "A000239"
+        "id": "A000239",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -210,11 +278,19 @@
     "contributors": [
       {
         "name": "圓修",
-        "id": "A001410"
+        "id": "A001410",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       },
       {
         "name": "通琇",
-        "id": "A001153"
+        "id": "A001153",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -231,11 +307,19 @@
     "contributors": [
       {
         "name": "圓悟",
-        "id": "A003688"
+        "id": "A003688",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       },
       {
         "name": "道忞",
-        "id": "A001513"
+        "id": "A001513",
+        "type": "other",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -252,11 +336,19 @@
     "contributors": [
       {
         "name": "通琇",
-        "id": "A001153"
+        "id": "A001153",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       },
       {
         "name": "行岳",
-        "id": "A016400"
+        "id": "A016400",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       }
     ]
   },
@@ -273,11 +365,19 @@
     "contributors": [
       {
         "name": "行森",
-        "id": "A000419"
+        "id": "A000419",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       },
       {
         "name": "超德",
-        "id": "A001374"
+        "id": "A001374",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       }
     ]
   },
@@ -294,11 +394,19 @@
     "contributors": [
       {
         "name": "道忞",
-        "id": "A001513"
+        "id": "A001513",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       },
       {
         "name": "顯權",
-        "id": "A001978"
+        "id": "A001978",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       }
     ]
   },
@@ -315,15 +423,27 @@
     "contributors": [
       {
         "name": "通際",
-        "id": "A001155"
+        "id": "A001155",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       },
       {
         "name": "達尊",
-        "id": "A001571"
+        "id": "A001571",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       },
       {
         "name": "達謙",
-        "id": "A001576"
+        "id": "A001576",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       }
     ]
   },
@@ -340,7 +460,11 @@
     "contributors": [
       {
         "name": "高道素",
-        "id": "A001006"
+        "id": "A001006",
+        "type": "author",
+        "dynasty": "明",
+        "time_from": 1368,
+        "time_to": 1644
       }
     ]
   },
@@ -357,15 +481,27 @@
     "contributors": [
       {
         "name": "性聰",
-        "id": "A000644"
+        "id": "A000644",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       },
       {
         "name": "寂空",
-        "id": "A001029"
+        "id": "A001029",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       },
       {
         "name": "方醒",
-        "id": "A000191"
+        "id": "A000191",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       }
     ]
   },
@@ -382,7 +518,11 @@
     "contributors": [
       {
         "name": "超海",
-        "id": "A022509"
+        "id": "A022509",
+        "type": "other",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       }
     ]
   },
@@ -399,7 +539,11 @@
     "contributors": [
       {
         "name": "胤禛",
-        "id": "A000212"
+        "id": "A000212",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       }
     ]
   },
@@ -416,7 +560,11 @@
     "contributors": [
       {
         "name": "胤禛",
-        "id": "A000212"
+        "id": "A000212",
+        "type": "author",
+        "dynasty": "清",
+        "time_from": 1644,
+        "time_to": 1911
       }
     ]
   }
