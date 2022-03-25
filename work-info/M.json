@@ -12,7 +12,11 @@
     "contributors": [
       {
         "name": "蘊聞",
-        "id": "A001935"
+        "id": "A001935",
+        "type": "author",
+        "dynasty": "宋",
+        "time_from": 960,
+        "time_to": 1279
       }
     ]
   }
