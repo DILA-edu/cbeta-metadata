@@ -27,7 +27,7 @@ end
 $r = Set.new
 handle_folder(IN)
 
-File.open('list-chars.txt', 'w') do |f|
+File.open(OUT, 'w') do |f|
   $r.to_a.sort.each do |i|
     f.puts "U+%04X %s" % [i, [i].pack("U")]
   end

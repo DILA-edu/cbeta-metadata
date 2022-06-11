@@ -14,9 +14,9 @@ CBETA 部類目類、各藏部別目錄、冊別目錄，詳見 [catalog](catalo
 
 典籍相關資訊：title, contributors, dynasty, category... 等。
 
-## char-count
+## chars
 
-字數統計
+字元相關資訊
 
 ## special-works
 
