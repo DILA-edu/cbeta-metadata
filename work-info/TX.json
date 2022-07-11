@@ -124,5 +124,141 @@
         "id": "A004819"
       }
     ]
+  },
+  "TX0008": {
+    "vol": "TX16",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第八編　律釋",
+    "juans": "3",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  },
+  "TX0009": {
+    "vol": "TX17",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第九編　制議",
+    "juans": "67",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  },
+  "TX0010": {
+    "vol": "TX18",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第十編　學行",
+    "juans": "45",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  },
+  "TX0011": {
+    "vol": "TX18..TX19",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第十一編　宗依論",
+    "juans": "5",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  },
+  "TX0012": {
+    "vol": "TX20",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第十二編　宗體論",
+    "juans": "1",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  },
+  "TX0013": {
+    "vol": "TX20..TX23",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第十三編　宗用論",
+    "juans": "139",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  },
+  "TX0014": {
+    "vol": "TX23..TX24",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第十四編　支論",
+    "juans": "8",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
+  },
+  "TX0015": {
+    "vol": "TX24",
+    "type": "textbody",
+    "category": "新編部類",
+    "title": "第十五編　時論",
+    "juans": "71",
+    "byline": "民國 釋太虛著",
+    "dynasty": "民國",
+    "time_from": 1912,
+    "time_to": 1947,
+    "contributors": [
+      {
+        "name": "釋太虛",
+        "id": "A004819"
+      }
+    ]
   }
 }

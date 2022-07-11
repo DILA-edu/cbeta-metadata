@@ -8,25 +8,23 @@ IN = '../titles/titles-by-canon'
 def handle_file(f)
   canon = File.basename(f, '.csv')
   edition = $canons_name[canon]
-  
-  work_dynasty = read_dynasty(canon)
-  work_author = read_creator(canon)
+  work_info = read_info(canon)
   
   CSV.foreach(f, headers: true) do |row|
+    next if row['type'] == 'editor'
     work = row['典籍編號']
     title = row['典籍名稱']
 
-    if work_dynasty.key?(work)
-      dynasty = work_dynasty[work]['dynasty']
-    elsif row['type'] == 'editor'
-      next
-    else
-      dynasty = nil
-    end
+    info = work_info[work]
+    abort "典籍編號不存在於 work-info" if info.nil?
 
-    begin
-      author = work_author[work]['creators']
-    rescue
+    dynasty = info['dynasty']
+
+    if info.key?('contributors')
+      a = []
+      info['contributors'].each { |x| a << x['name'] }
+      author = a.join(',')
+    else
       author = nil
     end
     
@@ -42,14 +40,8 @@ def read_canons_name
   r
 end
 
-def read_creator(canon)
-  f = File.join("..", "creators", "creators-by-canon", "#{canon}.json")
-  s = File.read(f)
-  JSON.parse(s)
-end
-
-def read_dynasty(canon)
-  f = File.join("..", "time", "year-by-canon", "#{canon}.json")
+def read_info(canon)
+  f = File.join("..", "work-info","#{canon}.json")
   s = File.read(f)
   JSON.parse(s)
 end
