@@ -32,13 +32,13 @@
   <node name="TX19 第十一編　宗依論（中、下）" work="TX0011" file="TX19n0011" juan="2..5"/>
   <node name="TX20 (TX0012-13)">
     <node work="TX0012" file="TX20n0012"/>
-    <node name="第十三編　宗用論(第1卷-第22卷)" work="T0013" file="TX20n0013" juan="1..22"/>
+    <node name="第十三編　宗用論(第1卷-第22卷)" work="TX0013" file="TX20n0013" juan="1..22"/>
   </node>
-  <node name="TX21 第十三編　宗用論(第23卷-第76卷)" work="T0013" file="TX21n0013" juan="23..76"/>
-  <node name="TX22 第十三編　宗用論(第77卷-第121卷)" work="T0013" file="TX22n0013" juan="77..121"/>
+  <node name="TX21 第十三編　宗用論(第23卷-第76卷)" work="TX0013" file="TX21n0013" juan="23..76"/>
+  <node name="TX22 第十三編　宗用論(第77卷-第121卷)" work="TX0013" file="TX22n0013" juan="77..121"/>
   <node name="TX23 (TX0013-14)">
-    <node name="第十三編　宗用論(第122卷-第139卷)" work="T0013" file="T23n0013" juan="122..139"/>
-    <node name="第十四編　支論(第1卷-第3卷)" work="T0014" file="TX23n0014" juan="1..3"/>
+    <node name="第十三編　宗用論(第122卷-第139卷)" work="TX0013" file="TX23n0013" juan="122..139"/>
+    <node name="第十四編　支論(第1卷-第3卷)" work="TX0014" file="TX23n0014" juan="1..3"/>
   </node>
   <node name="TX24 (TX0014-15)">
     <node name="第十四編　支論(第4卷-第8卷)" work="TX0014" file="TX24n0014" juan="4..8"/>
