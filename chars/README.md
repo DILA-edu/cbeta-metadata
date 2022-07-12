@@ -12,7 +12,7 @@ char-freq.csv 是字頻統計。
 
 ## Unicode 字元列表
 
-CBETA 所使用到的全部 Unicode 字元列表: cbeta-all-uni-chars.txt
+CBETA 所使用到的全部 Unicode 字元列表: cbeta-all-uni-chars.csv
 
 ## 程式
 
