@@ -1,5 +1,7 @@
 # 典籍資訊
 
+2022-10 起停用，請改用： https://github.com/DILA-edu/Authority-Databases/tree/master/authority_catalog
+
 * 佛典編號：例如 T0001
 * vol 冊號
   * 有可能跨冊，例如 A097..A098
