@@ -1,6 +1,7 @@
 # 全部藏經典籍的 ID
 
-本資料夾自 2022-03-23 起停用，資料合併至 ../work-info.
+本資料夾停用，請改用： 
+https://github.com/DILA-edu/Authority-Databases/tree/master/authority_catalog
 
 本資料夾列出全部的作品 ID (經號) 列表，一部藏經一個 CSV 檔。
 

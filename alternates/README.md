@@ -1,6 +1,7 @@
 # 替代典籍
 
-本資料夾自 2022-03-23 起停用，資料合併至 ../work-info.
+本資料夾停用，請改用： 
+https://github.com/DILA-edu/Authority-Databases/tree/master/authority_catalog
 
 這是因為 CBETA 收錄佛典的「不重複收錄」原則，
 例如 CBETA 先收錄大正藏，之後再收錄卍續藏，
