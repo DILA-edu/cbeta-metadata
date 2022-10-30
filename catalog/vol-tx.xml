@@ -2,57 +2,57 @@
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
 <tree xml:id="Vol-TX" title="太虛大師全書">
   <node name="TX00 編纂說明" work="TXa001" file="TX00na001" juan="1"/>
-  <node name="TX01 (TX0001) 第一編 佛法總學(卷1-26)" work="TX0001" file="TX01n0001" juan="1..26"/>
-  <node name="TX02 (TX0001) 第一編 佛法總學(卷27-34)" work="TX0001" file="TX02n0001" juan="27..34"/>
+  <node name="TX01 (TX0001) 第一編（一）" work="TX0001" file="TX01n0001" juan="1..26"/>
+  <node name="TX02 (TX0001) 第一編（二）" work="TX0001" file="TX02n0001" juan="27..34"/>
   <node name="TX03 (TX0002-3) 第二編～第三編">
     <node work="TX0002" file="TX03n0002"/>
     <node work="TX0003" file="TX03n0003"/>
   </node>
-  <node name="TX04 (TX0004) 第四編 大乘通學(卷1-5)" work="TX0004" file="TX04n0004" juan="1..5"/>
-  <node name="TX05 (TX0005) 第四編 大乘通學(卷6-22)" work="TX0004" file="TX05n0004" juan="6..22"/>
-  <node name="TX06 (TX0005) 第五編 法性空慧學(卷1-8)" work="TX0005" file="TX06n0005" juan="1..8"/>
-  <node name="TX07 (TX0005-6) 第五編～第六編">
-    <node name="第五編 法性空慧學(卷9-16)" work="TX0005" file="TX07n0005" juan="9..16"/>
-    <node name="第六編 法相唯識學(卷1-6)" work="TX0006" file="TX07n0006" juan="1..6"/>
+  <node name="TX04 (TX0004) 第四編（一）" work="TX0004" file="TX04n0004" juan="1..5"/>
+  <node name="TX05 (TX0005) 第四編（二）" work="TX0004" file="TX05n0004" juan="6..22"/>
+  <node name="TX06 (TX0005) 第五編（一）" work="TX0005" file="TX06n0005" juan="1..8"/>
+  <node name="TX07 (TX0005-6) 第五編（二）～第六編（一）">
+    <node name="第五編 法性空慧學（二）" work="TX0005" file="TX07n0005" juan="9..16"/>
+    <node name="第六編 法相唯識學（一）" work="TX0006" file="TX07n0006" juan="1..6"/>
   </node>
-  <node name="TX08 (TX0006) 第六編 法相唯識學(卷7-15)"  work="TX0006" file="TX08n0006" juan="7..15"/>
-  <node name="TX09 (TX0006) 第六編 法相唯識學(卷16-49)" work="TX0006" file="TX09n0006" juan="16..49"/>
-  <node name="TX10 (TX0007) 第七編 法界圓覺學(卷1)"     work="TX0007" file="TX10n0007" juan="1"/>
-  <node name="TX11 (TX0007) 第七編 法界圓覺學(卷2-4)"   work="TX0007" file="TX11n0007" juan="2..4"/>
-  <node name="TX12 (TX0007) 第七編 法界圓覺學(卷5-9)"   work="TX0007" file="TX12n0007" juan="5..9"/>
-  <node name="TX13 (TX0007) 第七編 法界圓覺學(卷10-15)" work="TX0007" file="TX13n0007" juan="10..15"/>
-  <node name="TX14 (TX0007) 第七編 法界圓覺學(卷16-18)" work="TX0007" file="TX14n0007" juan="16..18"/>
-  <node name="TX15 (TX0007) 第七編 法界圓覺學(卷19-51)" work="TX0007" file="TX15n0007" juan="19..51"/>
-  <node name="TX16 (TX0008) 第八編 律釋" work="TX0008" file="TX16n0008" juan="1..3"/>
-  <node name="TX17 (TX0009) 第九編 制議" work="TX0009" file="TX17n0009" juan="1..67"/>
-  <node name="TX18 (TX0010-11) 第十編～第十一編">
+  <node name="TX08 (TX0006) 第六編（二）" work="TX0006" file="TX08n0006" juan="7..15"/>
+  <node name="TX09 (TX0006) 第六編（三）" work="TX0006" file="TX09n0006" juan="16..49"/>
+  <node name="TX10 (TX0007) 第七編（一）" work="TX0007" file="TX10n0007" juan="1"/>
+  <node name="TX11 (TX0007) 第七編（二）" work="TX0007" file="TX11n0007" juan="2..4"/>
+  <node name="TX12 (TX0007) 第七編（三）" work="TX0007" file="TX12n0007" juan="5..9"/>
+  <node name="TX13 (TX0007) 第七編（四）" work="TX0007" file="TX13n0007" juan="10..15"/>
+  <node name="TX14 (TX0007) 第七編（五）" work="TX0007" file="TX14n0007" juan="16..18"/>
+  <node name="TX15 (TX0007) 第七編（六）" work="TX0007" file="TX15n0007" juan="19..51"/>
+  <node name="TX16 (TX0008) 第八編" work="TX0008" file="TX16n0008" juan="1..3"/>
+  <node name="TX17 (TX0009) 第九編" work="TX0009" file="TX17n0009" juan="1..67"/>
+  <node name="TX18 (TX0010-11) 第十編～第十一編（上）">
     <node work="TX0010" file="TX18n0010"/>
     <node name="第十一編　宗依論（上）" work="TX0011" file="TX18n0011" juan="1"/>
   </node>
-  <node name="TX19 (TX0011) 第十一編 宗依論（中、下）" work="TX0011" file="TX19n0011" juan="2..5"/>
-  <node name="TX20 (TX0012-13) 第十二編～第十三編">
+  <node name="TX19 (TX0011) 第十一編（中、下）" work="TX0011" file="TX19n0011" juan="2..5"/>
+  <node name="TX20 (TX0012-13) 第十二編～第十三編（一）">
     <node work="TX0012" file="TX20n0012"/>
-    <node name="TX0013 第十三編　宗用論(卷1-22)" work="TX0013" file="TX20n0013" juan="1..22"/>
+    <node name="TX0013 第十三編（一）" work="TX0013" file="TX20n0013" juan="1..22"/>
   </node>
-  <node name="TX21 (TX0013) 第十三編 宗用論(卷23-76)" work="TX0013" file="TX21n0013" juan="23..76"/>
-  <node name="TX22 (TX0013) 第十三編 宗用論(卷77-121)" work="TX0013" file="TX22n0013" juan="77..121"/>
-  <node name="TX23 (TX0013-14) 第十三編～第十四編">
-    <node name="第十三編　宗用論(卷122-139)" work="TX0013" file="TX23n0013" juan="122..139"/>
-    <node name="第十四編　支論(卷1-3)" work="TX0014" file="TX23n0014" juan="1..3"/>
+  <node name="TX21 (TX0013) 第十三編（二）" work="TX0013" file="TX21n0013" juan="23..76"/>
+  <node name="TX22 (TX0013) 第十三編（三）" work="TX0013" file="TX22n0013" juan="77..121"/>
+  <node name="TX23 (TX0013-14) 第十三編（四）～第十四編（一）">
+    <node name="第十三編（四）" work="TX0013" file="TX23n0013" juan="122..139"/>
+    <node name="第十四編（一）" work="TX0014" file="TX23n0014" juan="1..3"/>
   </node>
-  <node name="TX24 (TX0014-15) 第十四編～第十五編">
-    <node name="第十四編　支論(卷4-8)" work="TX0014" file="TX24n0014" juan="4..8"/>
+  <node name="TX24 (TX0014-15) 第十四編（二）～第十五編">
+    <node name="第十四編（二）" work="TX0014" file="TX24n0014" juan="4..8"/>
     <node work="TX0015" file="TX24n0015"/>
   </node>
-  <node name="TX25 (TX0016) 第十六編 書評" work="TX0016"/>
-  <node name="TX26 (TX0017) 第十七編 酬對(卷1-248)" work="TX0017" file="TX26n0017" juan="1..248"/>
-  <node name="TX27 (TX0017-18) 第十七編～第十八編">
-    <node name="TX0017 第十七編 酬對(卷249-320)" work="TX0017" file="TX27n0017" juan="249..320"/>
-    <node name="TX0018 第十八編 講演(卷1-59)" work="TX0018" file="TX27n0018" juan="1..59"/>
+  <node name="TX25 (TX0016) 第十六編" work="TX0016"/>
+  <node name="TX26 (TX0017) 第十七編（一）" work="TX0017" file="TX26n0017" juan="1..248"/>
+  <node name="TX27 (TX0017-18) 第十七編（二）～第十八編（一）">
+    <node name="TX0017 第十七編（二）" work="TX0017" file="TX27n0017" juan="249..320"/>
+    <node name="TX0018 第十八編（一）" work="TX0018" file="TX27n0018" juan="1..59"/>
   </node>
-  <node name="TX28 (TX0018) 第十八編 講演(卷60-180)" work="TX0018" file="TX28n0018" juan="60..180"/>
-  <node name="TX29 (TX0019) 第十九編 文叢(卷1-20)" work="TX0019" file="TX29n0019" juan="1..20"/>
-  <node name="TX30 (TX0019) 第十九編 文叢(卷21-136)" work="TX0019" file="TX30n0019" juan="21..136"/>
-  <node name="TX31 (TX0019) 第十九編 文叢(卷137-321)" work="TX0019" file="TX31n0019" juan="137..321"/>
-  <node name="TX32 (TX0020) 第二十編 詩存" work="TX0020"/>
+  <node name="TX28 (TX0018) 第十八編（二）" work="TX0018" file="TX28n0018" juan="60..180"/>
+  <node name="TX29 (TX0019) 第十九編（一）" work="TX0019" file="TX29n0019" juan="1..20"/>
+  <node name="TX30 (TX0019) 第十九編（二）" work="TX0019" file="TX30n0019" juan="21..136"/>
+  <node name="TX31 (TX0019) 第十九編（三）" work="TX0019" file="TX31n0019" juan="137..321"/>
+  <node name="TX32 (TX0020) 第二十編" work="TX0020"/>
 </tree>
