@@ -11,13 +11,13 @@
   <node name="J09" work="JA139..JA157"/>
   <node name="J10" work="JA158..JA161"/>
   <node name="J11-12">
-		<node name="JB001 (=X0232+L1557+X0227) 大方廣佛華嚴經疏鈔" work="X0232,L1557,X0227"/>
+		<node name="JB001(=X0232+L1557+X0227) 大方廣佛華嚴經疏鈔" work="X0232,L1557,X0227"/>
   </node>
   <node name="J13">
-    <node name="JB002 (=X0223) 大方廣佛新華嚴經合論 (120卷)" work="X0223"/>
+    <node name="JB002(=X0223) 大方廣佛新華嚴經合論 (120卷)" work="X0223"/>
   </node>
   <node name="J14">
-    <node name="JB003 (=X0240) 大方廣佛華嚴經綱要 (80卷)" work="X0240"/>
+    <node name="JB003(=X0240) 大方廣佛華嚴經綱要 (80卷)" work="X0240"/>
   </node>
   <node name="J15" work="JB004..JB009"/>
   <node name="J16" work="JB010..JB017"/>

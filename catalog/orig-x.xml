@@ -18,7 +18,7 @@
   <node name="X03-37 大小乘釋經部 X0208-675">
     <node name="華嚴部疏 X0208-242">
       <node work="X0208..X0232"/>
-      <node name="X0233 (=L1557) 華嚴經疏演義鈔" work="L1557"/>
+      <node name="X0233(=L1557) 華嚴經疏演義鈔" work="L1557"/>
       <node work="X0234..X0242"/>
     </node>
     <node name="方等部疏 X0243-447" work="X0243..X0447"/>
@@ -31,14 +31,14 @@
     <node name="大乘律疏 X0676-706" work="X0676..X0706"/>
     <node name="小乘律疏 X0707-749">
       <node work="X0707..X0738"/>
-      <node name="X0739 (=T1805) 四分律行事鈔資持記" work="T1805"/>
+      <node name="X0739(=T1805) 四分律行事鈔資持記" work="T1805"/>
       <node work="X0740..X0749"/>
     </node>
     <node name="疑似雜偽律疏 X0750-751" work="X0750..X0751"/>
   </node>
   <node name="X45-53 大小乘釋論部 X0752-862">
     <node name="淨土論疏 X0752">
-      <node name="往生論註 X0752 (=T1819)" work="T1819"/>
+      <node name="往生論註 X0752(=T1819)" work="T1819"/>
     </node>
     <node name="十地經論疏 X0753" work="X0753"/>
     <node name="起信論疏 X0754-769" work="X0754..X0769"/>
@@ -68,8 +68,8 @@
     <node name="華嚴宗 X0981-1033" work="X0981..X1033"/>
     <node name="真言宗 X1034-1084">
       <node work="X1034..X1070"/>
-      <node name="X1071 (=T2081(卷下)) 大毗盧遮那神變加持經大教相承傳法次第記 (1卷)" work="T2081" juan="2"/>
-      <node name="X1072 (=T2081(卷上)) 略敘金剛界大教王師資相承傳法次第記 (1卷)" work="T2081"/>
+      <node name="X1071(=T2081(卷下)) 大毗盧遮那神變加持經大教相承傳法次第記 (1卷)" work="T2081" juan="2"/>
+      <node name="X1072(=T2081(卷上)) 略敘金剛界大教王師資相承傳法次第記 (1卷)" work="T2081"/>
       <node work="X1073..X1084"/>
     </node>
     <node name="戒律宗 X1085-1139" work="X1085..X1139"/>
