@@ -1470,7 +1470,7 @@
           <node name="X1573=T2077 續傳燈錄 (36卷)" work="T2077"/>
           <node work="X1574"/>
         </node>
-        <node name="X1567-9 五燈嚴統 etc." work="T1567..T1569"/>
+        <node name="X1567-9 五燈嚴統 etc." work="X1567..X1569"/>
         <node name="X1570-71 五燈全書" work="X1570..X1571"/>
         <node name="X1578-79,92 指月錄 etc.">
           <node work="X1578..X1579"/>

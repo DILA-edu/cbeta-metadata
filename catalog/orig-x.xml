@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tree xml:id="Cat-X">
-  <node name="01 印度撰述 X01-02 (X0001-207)">
+<node name="X 卍新纂續藏經選錄">
+  <node name="X01-02 印度撰述 X0001-207">
     <node name="經部 X0001-45">
       <node name="華嚴部 X0001" work="X0001"/>
       <node name="方等部 X0002-28" work="X0002..X0028"/>
@@ -15,7 +15,7 @@
     <node name="論集部 X0052-58" work="X0052..X0058"/>
     <node name="密經儀軌部 X0059-207" work="X0059..X0207"/>
   </node>
-  <node name="02 大小乘釋經部 X03-37 (X0208--675)">
+  <node name="X03-37 大小乘釋經部 X0208-675">
     <node name="華嚴部疏 X0208-242">
       <node work="X0208..X0232"/>
       <node name="X0233 (=L1557) 華嚴經疏演義鈔" work="L1557"/>
@@ -27,7 +27,7 @@
     <node name="涅槃部疏 X0653-664" work="X0653..X0664"/>
     <node name="小乘經並聖賢集疏 X0665-675" work="X0665..X0675"/>
   </node>
-  <node name="03 大小乘釋律部 X38-44 (X0676-751)">
+  <node name="X38-44 大小乘釋律部 X0676-751">
     <node name="大乘律疏 X0676-706" work="X0676..X0706"/>
     <node name="小乘律疏 X0707-749">
       <node work="X0707..X0738"/>
@@ -36,7 +36,7 @@
     </node>
     <node name="疑似雜偽律疏 X0750-751" work="X0750..X0751"/>
   </node>
-  <node name="04 大小乘釋論部 X45-53 (X0752-862)">
+  <node name="X45-53 大小乘釋論部 X0752-862">
     <node name="淨土論疏 X0752">
       <node name="往生論註 X0752 (=T1819)" work="T1819"/>
     </node>
@@ -61,7 +61,7 @@
     <node name="遺教經論疏 X0845-846" work="X0845..X0846"/>
     <node name="因明論疏 X0847-862" work="X0847..X0862"/>
   </node>
-  <node name="05 諸宗著述部 X54-73 (X0863-1458)">
+  <node name="X54-73 諸宗著述部 X0863-1458">
     <node name="三論宗 X0863-880" work="X0863..X0880"/>
     <node name="法相宗 X0881-902" work="X0881..X0902"/>
     <node name="天台宗 X0903-980" work="X0903..X0980"/>
@@ -78,8 +78,8 @@
     <node name="禪宗語錄通集 X1295-1319" work="X1295..X1319"/>
     <node name="禪宗語錄別集 X1320-1458" work="X1320..X1458"/>
   </node>
-  <node name="06 禮懺部 X74 (X1459-1507)" work="X1459..X1507"/>
-  <node name="07 史傳部 X75-88 (X1508-1671)">
+  <node name="X74 禮懺部 X1459-1507" work="X1459..X1507"/>
+  <node name="X75-88 史傳部 X1508-1671">
     <node name="釋迦傳 X1508-1511" work="X1508..X1511"/>
     <node name="編年通史 X1512-1521" work="X1512..X1521"/>
     <node name="諸宗通傳 X1522-1527" work="X1522..X1527"/>
@@ -110,4 +110,4 @@
     <node name="剌麻教 X1668" work="X1668"/>
     <node name="朝鮮僧史 X1669-1671" work="X1669..X1671"/>
   </node>
-</tree>
+</node>

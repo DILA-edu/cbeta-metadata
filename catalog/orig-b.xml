@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node name="B 大藏經補編選錄">
+  <node name="B00" work="Ba001..Ba002"/>
+  <node name="B01-2" work="B0001"/>
+  <node name="B03-5" work="Ba003,B0002"/>
+  <node name="B06" work="Ba004,B0003..B0009"/>
+  <node name="B07" work="Ba005,B0010..B0025"/>
+  <node name="B08" work="Ba006,B0026..B0029"/>
+  <node name="B09" work="Ba007,B0030..B0047"/>
+  <node name="B10" work="Ba008,B0048..B0068"/>
+  <node name="B11" work="Ba009,B0069..B0076"/>
+  <node name="B12" work="Ba010,B0077..B0078"/>
+  <node name="B13" work="Ba011..Ba012,B0079..B0080"/>
+  <node name="B14" work="Ba013,B0081..B0087"/>
+  <node name="B15-16" work="Ba014..Ba015,B0088"/>
+  <node name="B17" work="Ba016,B0089..B0094"/>
+  <node name="B18" work="Ba017,B0095..B0102"/>
+  <node name="B19" work="Ba018..Ba019,B0103"/>
+  <node name="B20" work="Ba020,B0104..B0108"/>
+  <node name="B21" work="Ba021,B0109..B0116"/>
+  <node name="B22" work="Ba022,B0117..B0119"/>
+  <node name="B23">
+    <node work="Ba023,B0120..B0129"/>
+    <node name="B0130 (=JB348+JB120+X1641+選錄) 靈峰宗論（選錄〈蕅益大師年譜〉、〈書重刻靈峰宗論後〉、〈刻闢邪集序〉）" work="JB348,JB120,X1641,B0130"/>
+  </node>
+  <node name="B24">
+    <node work="Ba024,B0131..B0133"/>
+    <node name="B0134 (=JB120+B0130+選錄) 闢邪集（選錄〈翻刻闢邪集序〉、〈天學初闢〉、〈統正序〉、〈原道闢邪說〉、〈跋〉）" work="JB120,B0130,B0134"/>
+    <node work="B0135..B0141"/>
+  </node>
+  <node name="B25" work="Ba025,B0142..B0145"/>
+  <node name="B26">
+    <node work="Ba026,B0146..B0149"/>
+    <node name="B0150 (=JB091+選錄) 道餘錄（選錄〈姚少師道餘錄跋〉）" work="JB091,B0150"/>
+  </node>
+  <node name="B27" work="Ba027,B0151..B0153"/>
+  <node name="B28" work="Ba028,B0154..B0159"/>
+  <node name="B29" work="Ba029,B0160..B0162"/>
+  <node name="B30" work="Ba030,B0163..B0168"/>
+  <node name="B31" work="Ba031,B0169..B0170"/>
+  <node name="B32" work="Ba032,B0171..B0191"/>
+  <node name="B33" work="Ba033,B0192"/>
+  <node name="B34" work="Ba034..Ba035,B0193"/>
+  <node name="B35" work="Ba036,B0194..B0196"/>
+  <node name="B36" work="Ba037,B0197,B0198"/>
+</node>

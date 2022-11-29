@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node name="J 嘉興大藏經選錄">
+  <node name="J01" work="JA001..JA042"/>
+  <node name="J02" work="JA043..JA048"/>
+  <node name="J03" work="JA049..JA080"/>
+  <node name="J04" work="JA081..JA098"/>
+  <node name="J05" work="JA099..JA115"/>
+  <node name="J06" work="JA116..JA119"/>
+  <node name="J07" work="JA120..JA127"/>
+  <node name="J08" work="JA128..JA138"/>
+  <node name="J09" work="JA139..JA157"/>
+  <node name="J10" work="JA158..JA161"/>
+  <node name="J11-12">
+		<node name="JB001 (=X0232+L1557+X0227) 大方廣佛華嚴經疏鈔" work="X0232,L1557,X0227"/>
+  </node>
+  <node name="J13">
+    <node name="JB002 (=X0223) 大方廣佛新華嚴經合論 (120卷)" work="X0223"/>
+  </node>
+  <node name="J14">
+    <node name="JB003 (=X0240) 大方廣佛華嚴經綱要 (80卷)" work="X0240"/>
+  </node>
+  <node name="J15" work="JB004..JB009"/>
+  <node name="J16" work="JB010..JB017"/>
+  <node name="J17" work="JB018..JB021"/>
+  <node name="J18" work="JB022..JB030"/>
+  <node name="J19" work="JB031..JB077"/>
+  <node name="J20" work="JB078..JB104"/>
+  <node name="J21" work="JB105..JB111"/>
+  <node name="J22" work="JB112..JB117"/>
+  <node name="J23" work="JB118..JB135"/>
+  <node name="J24" work="JB136..JB151"/>
+  <node name="J25" work="JB152..JB176"/>
+  <node name="J26" work="JB177..JB188"/>
+  <node name="J27" work="JB189..JB201"/>
+  <node name="J28" work="JB202..JB221"/>
+  <node name="J29" work="JB222..JB250"/>
+  <node name="J30" work="JB251..JB261"/>
+  <node name="J31">
+    <node work="JB262..JB270"/>
+    <node work="JB271" file="J31nB271"/>
+  </node>
+  <node name="J32">
+    <node work="JB271" file="J32nB271" juan="6"/>
+    <node work="JB272..JB276"/>
+    <node work="JB277" file="J32nB277"/>
+  </node>
+  <node name="J33">
+    <node work="JB277" file="J33nB277" juan="12"/>
+    <node work="JB278..JB294"/>
+  </node>
+  <node name="J34" work="JB295..JB313"/>
+  <node name="J35" work="JB314..JB343"/>
+  <node name="J36" work="JB344..JB369"/>
+  <node name="J37" work="JB370..JB403"/>
+  <node name="J38" work="JB404..JB434"/>
+  <node name="J39" work="JB435..JB471"/>
+  <node name="J40" work="JB472..JB497"/>
+</node>

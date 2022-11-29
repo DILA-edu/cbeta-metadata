@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node name="I 北朝佛教石刻拓片百品">
+  <node work="Ia001"/>
+  <node name="朝代">
+    <node name="北魏" work="I0001..I0033"/>
+    <node name="東魏">
+      <node work="I0034..I0036"/>
+      <node work="I0040..I0041"/>
+      <node work="I0043..I0048"/>
+      <node work="I0052..I0053"/>
+    </node>
+    <node name="西魏">
+      <node work="I0037..I0039"/>
+      <node work="I0042"/>
+      <node work="I0049..I0051"/>
+      <node work="I0054"/>
+    </node>
+    <node name="北周">
+      <node work="I0064"/>
+      <node work="I0070"/>
+      <node work="I0074"/>
+      <node work="I0081..I0083"/>
+      <node work="I0097"/>
+      <node work="I0099"/>
+    </node>
+    <node name="北齊">
+      <node work="I0055..I0063"/>
+      <node work="I0065..I0069"/>
+      <node work="I0071..I0073"/>
+      <node work="I0075..I0080"/>
+      <node work="I0084..I0096"/>
+      <node work="I0098"/>
+      <node work="I0100"/>
+    </node>
+  </node>
+  <node name="年代" work="I0001..I0100"/>
+</node>

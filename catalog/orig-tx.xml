@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node name="太虛大師全書">
+  <node work="TXa001"/>
+  <node name="法藏" work="TX0001..TX0007"/>
+  <node name="制藏" work="TX0008..TX0010"/>
+  <node name="論藏" work="TX0011..TX0014"/>
+  <node name="雜藏" work="TX0015..TX0020"/>
+</node>

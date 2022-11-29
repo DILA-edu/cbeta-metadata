@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tree xml:id="root">
-  <node name="CBETA 部類目錄" catalog="CBETA"/>
-  <node name="近代新編文獻" catalog="modern"/>
-  <node name="歷代藏經補輯" catalog="others"/>
-  <node name="各藏 部別目錄" catalog="bu"/>
-  <node name="各藏 冊別目錄" catalog="vol"/>  
+  <node name="部類目錄" catalog="CBETA"/>
+  <node name="原書目錄" catalog="orig"/>
 </tree>

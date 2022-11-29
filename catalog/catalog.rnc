@@ -10,6 +10,7 @@ tree = element tree {
 
 node = element node { 
   node*,
+  attribute xml:base { text }?,
   attribute name { text }?,
   attribute work { text }?,
   attribute file { text }?,

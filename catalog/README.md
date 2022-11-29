@@ -7,41 +7,7 @@ root.xml
 ### 綜合目錄
 
 * cbeta.xml: CBETA 部類目錄
-* modern.xml: 近代新編文獻
-* others.xml: 歷代藏經補輯
-
-### 各藏 部別目錄
-
-* cat-n.xml: 南傳大藏經 部別目錄
-* cat-t.xml: 大正藏 部別目錄
-* cat-x.xml: 卍續藏 部別目錄
-
-### 各藏 冊別目錄
-
-* vol-a.xml: 趙城金藏
-* vol-b.xml: 大藏經補編
-* vol-c.xml: 中華大藏經-中華書局版
-* vol-d.xml: 國圖善本
-* vol-f.xml: 房山石經
-* vol-g.xml: 佛教大藏經
-* vol-ga.xml: 中國佛寺史志彙刊
-* vol-gb.xml: 中國佛寺志叢刊
-* vol-h.xml: 正史佛教資料類編
-* vol-i.xml: 北朝佛教石刻拓片百品
-* vol-j.xml: 嘉興藏
-* vol-k.xml: 高麗大藏經-新文豐版
-* vol-l.xml: 乾隆大藏經-新文豐版
-* vol-lc.xml: 呂澂佛學著作集
-* vol-m.xml: 卍正藏經-新文豐版
-* vol-n.xml: 南傳大藏經
-* vol-p.xml: 永樂北藏
-* vol-s.xml: 宋藏遺珍-新文豐版
-* vol-t.xml: 大正藏
-* vol-tx.xml: 太虛大師全書
-* vol-u.xml: 洪武南藏
-* vol-w.xml: 藏外佛教文獻
-* vol-x.xml: 卍續藏
-* vol-y.xml: 印順法師佛學著作集
+* orig.xml: 原書目錄
 
 ## XML 標記說明
 

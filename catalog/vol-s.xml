@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
-<tree xml:id="Vol-S" title="宋藏遺珍">
-  <node name="S06 宋藏遺珍 (S0046-7)" work="S0046,S0047"/>
-</tree>
