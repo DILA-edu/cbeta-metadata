@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<node name="J 嘉興大藏經選錄">
+<tree xml:id="orig-J">
   <node name="J01" work="JA001..JA042"/>
   <node name="J02" work="JA043..JA048"/>
   <node name="J03" work="JA049..JA080"/>
@@ -55,4 +55,4 @@
   <node name="J38" work="JB404..JB434"/>
   <node name="J39" work="JB435..JB471"/>
   <node name="J40" work="JB472..JB497"/>
-</node>
+</tree>

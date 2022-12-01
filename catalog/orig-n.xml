@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<node name="N 漢譯南傳大藏經（元亨寺版）">
+<tree xml:id="orig-N">
   <node name="CBETA 元亨寺版《漢譯南傳大藏經》編輯說明" html="help/other/N/guide/N-readme.htm"/>
   <node name="序" html="help/other/N/N01/N01a.htm"/>
   <node name="漢譯南傳大藏經目錄">
@@ -332,4 +332,4 @@
     </node>
     <node name="N70 新舊頁碼對照表" html="help/other/N/N70/N70pagenumber.htm"/>
   </node>
-</node>
+</tree>

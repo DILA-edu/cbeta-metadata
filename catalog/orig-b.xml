@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<node name="B 大藏經補編選錄">
+<tree xml:id="orig-B">
   <node name="B00" work="Ba001..Ba002"/>
   <node name="B01-2" work="B0001"/>
   <node name="B03-5" work="Ba003,B0002"/>
@@ -43,4 +43,4 @@
   <node name="B34" work="Ba034..Ba035,B0193"/>
   <node name="B35" work="Ba036,B0194..B0196"/>
   <node name="B36" work="Ba037,B0197,B0198"/>
-</node>
+</tree>

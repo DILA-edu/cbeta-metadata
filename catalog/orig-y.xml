@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<node name="Y 印順法師佛學著作集">
+<tree xml:id="orig-Y">
   <node name="妙雲集">
     <node name="上編" work="Y0001..Y0007"/>
     <node name="中編" work="Y0008..Y0013"/>
@@ -7,4 +7,4 @@
   </node>
   <node name="華雨集" work="Y0025..Y0029"/>
   <node name="專書" work="Y0030..Y0042"/>
-</node>
+</tree>

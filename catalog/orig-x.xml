@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<node name="X 卍新纂續藏經選錄">
+<tree name="X 卍新纂續藏經選錄" xml:id="orig-X">
   <node name="X01-02 印度撰述 X0001-207">
     <node name="經部 X0001-45">
       <node name="華嚴部 X0001" work="X0001"/>
@@ -110,4 +110,4 @@
     <node name="剌麻教 X1668" work="X1668"/>
     <node name="朝鮮僧史 X1669-1671" work="X1669..X1671"/>
   </node>
-</node>
+</tree>

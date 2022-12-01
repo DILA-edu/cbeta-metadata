@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<node name="T 大正新脩大藏經">
+<tree xml:id="orig-T">
   <node name="T01 阿含部上 T0001-0098" work="T0001..T0098"/>
   <node name="T02 阿含部下 T0099-0151" work="T0099..T0151"/>
   <node name="T03 本緣部上 T0152-0191" work="T0152..T0191"/>
@@ -62,4 +62,4 @@
   <node name="T55 目錄部全 T2145-2184" work="T2145..T2184"/>
   <node name="T85a 古逸部全 T2732-2864" work="T2732..T2864"/>
   <node name="T85b 疑似部全 T2865-2920" work="T2865..T2920"/>
-</node>
+</tree>

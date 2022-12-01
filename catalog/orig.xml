@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
 <tree xml:id="orig" title="原書目錄" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <xi:include href="orig-t.xml"/><!-- 大正藏 -->
-  <xi:include href="orig-x.xml"/><!-- 卍續藏 -->
+  <node name="T 大正新脩大藏經" catalog="orig-T"/>
+  <node name="X 卍新纂續藏經選錄" catalog="orig-X">
   <node name="歷代藏經補輯">
-    <node name="A 金版大藏經選錄" work="A1057..A1561"/>
-    <node name="K 高麗大藏經選錄" work="K0016..K1482"/>
-    <node name="S 宋藏遺珍選錄" work="S0046..S0047"/>
-    <node name="F 房山石經選錄" work="F0016..F1099"/>
-    <node name="C 中華大藏經選錄" work="C1163..C1937"/>
-    <node name="U 洪武南藏選錄" work="U1368..U1418"/>
-    <node name="P 永樂北藏選錄" work="P1519..P1630"/>
-    <xi:include href="orig-j.xml"/><!-- 嘉興藏 -->
-    <node name="L 乾隆大藏經選錄" work="L1490..L1669"/>
-    <node name="G 佛教大藏經選錄" work="G1222..G2086"/>
-    <node name="M 卍正藏經選錄" work="M1540"/>
+    <node name="A 金版大藏經選錄" work="A1057..A1561" xml:id="orig-A"/>
+    <node name="K 高麗大藏經選錄" work="K0016..K1482" xml:id="orig-K"/>
+    <node name="S 宋藏遺珍選錄" work="S0046..S0047" xml:id="orig-S"/>
+    <node name="F 房山石經選錄" work="F0016..F1099" xml:id="orig-F"/>
+    <node name="C 中華大藏經選錄" work="C1163..C1937" xml:id="orig-C"/>
+    <node name="U 洪武南藏選錄" work="U1368..U1418" xml:id="orig-U"/>
+    <node name="P 永樂北藏選錄" work="P1519..P1630" xml:id="orig-P"/>
+    <node name="J 嘉興大藏經選錄" catalog="orig-J">
+    <node name="L 乾隆大藏經選錄" work="L1490..L1669" xml:id="orig-A"/>
+    <node name="G 佛教大藏經選錄" work="G1222..G2086" xml:id="orig-G"/>
+    <node name="M 卍正藏經選錄" work="M1540" xml:id="orig-M"/>
   </node>
-  <node name="D 國家圖書館善本佛典" work="D8679..D9031"/>
-  <xi:include href="orig-n.xml"/><!-- 南傳 -->
+  <node name="D 國家圖書館善本佛典" work="D8679..D9031" xml:id="orig-D"/>
+  <node name="N 漢譯南傳大藏經（元亨寺版）" catalog="orig-N"/>
   <node name="近代新編文獻">
-    <xi:include href="orig-zw.xml"/><!-- 藏外 -->
-    <node name="ZS 正史佛教資料類編" work="ZS0001"/>
-    <xi:include href="orig-i.xml"/><!-- 北朝拓片 -->
-    <xi:include href="orig-b.xml"/><!-- 補編 -->
+    <node name="ZW 藏外佛教文獻" catalog="orig-ZW"/>
+    <node name="ZS 正史佛教資料類編" work="ZS0001" xml:id="orig-ZS"/>
+    <node name="I 北朝佛教石刻拓片百品" catalog="orig-I"/>
+    <node name="B 大藏經補編選錄" catalog="orig-B"/>
     <node name="GA GB 中國佛寺志">
-      <node name="GA 中國佛寺史志彙刊選錄" work="GAa001,GA0002..GA0089"/>
-      <node name="GB 中國佛寺志叢刊選錄" work="GBa001,GB0109"/>
+      <node name="GA 中國佛寺史志彙刊選錄" work="GAa001,GA0002..GA0089" xml:id="orig-GA"/>
+      <node name="GB 中國佛寺志叢刊選錄" work="GBa001,GB0109" xml:id="orig-GB"/>
     </node>
-    <xi:include href="orig-y.xml"/><!-- 印順 -->
-    <node name="LC 呂澂佛學著作集" work="LC0001..LC0007"/>
-    <xi:include href="orig-tx.xml"/><!-- 太虛 -->
+    <node name="Y 印順法師佛學著作集" catalog="orig-Y"/>
+    <node name="LC 呂澂佛學著作集" work="LC0001..LC0007" xml:id="orig-LC"/>
+    <node name="太虛大師全書" catalog="orig-TX"/>
   </node>
 </tree>

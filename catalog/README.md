@@ -19,7 +19,15 @@ tree 元素表示整個樹狀目錄，id 屬性是該目錄的 ID。
 
 node 元素表示樹狀目錄中的一個節點
 
-### Catalog
+### Attribute: xml:id
+
+node id，如果未指定，滙入 CBETA API 時會自動編。例：
+
+```xml
+<node name="A 金版大藏經選錄" work="A1057..A1561" xml:id="orig-A"/>
+```
+
+### Attribute: catalog
 
 指向另一個目錄，屬性值是 catalog id
 

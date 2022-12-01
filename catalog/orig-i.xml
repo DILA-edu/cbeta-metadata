@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<node name="I 北朝佛教石刻拓片百品">
+<tree xml:id="orig-I">
   <node work="Ia001"/>
   <node name="朝代">
     <node name="北魏" work="I0001..I0033"/>
@@ -34,4 +34,4 @@
     </node>
   </node>
   <node name="年代" work="I0001..I0100"/>
-</node>
+</tree>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<node name="ZW 藏外佛教文獻">
+<tree xml:id="orig-ZW">
   <node name="第一輯">
     <node work="ZWa001..ZWa004"/>
     <node name="敦煌禪籍" work="ZW0001..ZW0003"/>
@@ -104,4 +104,4 @@
     <node name="研究論文" work="ZW0101..ZW0103"/>
     <node work="ZWa072,ZWa073"/>
   </node>
-</node>
+</tree>
