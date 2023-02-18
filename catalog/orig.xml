@@ -2,7 +2,7 @@
 <?xml-model href="catalog.rnc" type="application/relax-ng-compact-syntax"?>
 <tree xml:id="orig" title="原書目錄" xmlns:xi="http://www.w3.org/2001/XInclude">
   <node name="T 大正新脩大藏經" catalog="orig-T"/>
-  <node name="X 卍新纂續藏經選錄" catalog="orig-X">
+  <node name="X 卍新纂續藏經選錄" catalog="orig-X"/>
   <node name="歷代藏經補輯">
     <node name="A 金版大藏經選錄" work="A1057..A1561" xml:id="orig-A"/>
     <node name="K 高麗大藏經選錄" work="K0016..K1482" xml:id="orig-K"/>
@@ -11,7 +11,7 @@
     <node name="C 中華大藏經選錄" work="C1163..C1937" xml:id="orig-C"/>
     <node name="U 洪武南藏選錄" work="U1368..U1418" xml:id="orig-U"/>
     <node name="P 永樂北藏選錄" work="P1519..P1630" xml:id="orig-P"/>
-    <node name="J 嘉興大藏經選錄" catalog="orig-J">
+    <node name="J 嘉興大藏經選錄" catalog="orig-J"/>
     <node name="L 乾隆大藏經選錄" work="L1490..L1669" xml:id="orig-A"/>
     <node name="G 佛教大藏經選錄" work="G1222..G2086" xml:id="orig-G"/>
     <node name="M 卍正藏經選錄" work="M1540" xml:id="orig-M"/>
