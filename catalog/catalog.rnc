@@ -10,7 +10,9 @@ tree = element tree {
 
 node = element node { 
   node*,
+  attribute xml:id   { text }?,
   attribute xml:base { text }?,
+  attribute catalog  { text }?,
   attribute name { text }?,
   attribute work { text }?,
   attribute file { text }?,
