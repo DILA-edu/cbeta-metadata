@@ -31,7 +31,7 @@
     <node name="LC 呂澂佛學著作集" work="LC0001..LC0007" xml:id="orig-LC"/>
     <node name="太虛大師全書" catalog="orig-TX"/>
   </node>
-  <node name="CC CBETA 選集">
+  <node name="CC CBETA 選集" xml:id="orig-CC">
     <node work="CC0001"/>
   </node>
 </tree>
