@@ -2041,7 +2041,7 @@
       </node>
     </node>
   </node>
-  <node name="23 新編部類 ZS, ZW, I, B, GA, GB, Y, LC, TX">
+  <node name="23 新編部類 ZS, ZW, I, B, GA, GB, Y, LC, TX, CC">
     <node name="ZW0001-103 藏外佛教文獻">
       <node name="ZW0001-16 第一輯">
         <node name="緣起" work="ZWa001"/>
@@ -2401,5 +2401,6 @@
       <node name="論藏" work="TX0011..TX0014"/>
       <node name="雜藏" work="TX0015..TX0020"/>     
     </node>
+    <node name="CC CBETA 選集" work="CC0001"/>
   </node>
 </tree>
