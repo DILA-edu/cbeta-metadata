@@ -1,5 +1,7 @@
 # 目錄
 
+CBETA 原始 部類目錄 資料 (Excel 格式)： https://github.com/heavenchou/cbwork-bin/blob/master/cbreader2X/bulei/bulei.xlsx
+
 ## 最上層目錄
 
 root.xml
