@@ -13,7 +13,7 @@
     <node name="P 永樂北藏選錄" work="P1519..P1630" xml:id="orig-P"/>
     <node name="J 嘉興大藏經選錄" catalog="orig-J"/>
     <node name="L 乾隆大藏經選錄" work="L1490..L1669" xml:id="orig-L"/>
-    <node name="G 佛教大藏經選錄" work="G1222..G2086" xml:id="orig-G"/>
+    <node name="G 佛教大藏經選錄" work="G1222..G2284" xml:id="orig-G"/>
     <node name="M 卍正藏經選錄" work="M1540" xml:id="orig-M"/>
   </node>
   <node name="D 國家圖書館善本佛典" work="D8679..D9031" xml:id="orig-D"/>
@@ -31,7 +31,7 @@
     <node name="LC 呂澂佛學著作集" work="LC0001..LC0007" xml:id="orig-LC"/>
     <node name="TX 太虛大師全書" catalog="orig-TX"/>
     <node name="CC CBETA 選集" xml:id="orig-CC">
-      <node work="CC0001"/>
+      <node work="CC0001,CC0002"/>
     </node>
   </node>
 </tree>

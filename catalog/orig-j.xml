@@ -26,7 +26,8 @@
   <node name="J19" work="JB031..JB077"/>
   <node name="J20" work="JB078..JB104"/>
   <node name="J21" work="JB105..JB111"/>
-  <node name="J22" work="JB112..JB117"/>
+  <node name="J22" work="JB112..JB116"/>
+  <node name="JB117(=B0085) 憨山老人年譜自敘實錄" work="B0085"/>
   <node name="J23" work="JB118..JB135"/>
   <node name="J24" work="JB136..JB151"/>
   <node name="J25" work="JB152..JB176"/>
@@ -42,9 +43,13 @@
   <node name="J32">
     <node work="JB271" file="J32nB271" juan="6"/>
     <node work="JB272..JB276"/>
-    <node work="JB277" file="J32nB277"/>
+    <node name="JB277 (=X0679+X0424+T1820+X1160+T2024+X1627+X1532+T2072+X1581+X1526+X1527+X1497+X1080+X1081+JB277) 雲棲法彙" work="X0679,X0424,T1820,X1160,T2024,X1627,X1532,T2072,X1581,X1526,X1527,X1497,X1080,X1081,JB277"/>
   </node>
   <node name="J33">
+    <node name="JB277 (=X0276+JB277) 雲棲法彙">
+      <node work="X0276"/>
+      <node work="JB277" file="J33nB277"/>
+    </node>
     <node work="JB277" file="J33nB277" juan="12"/>
     <node work="JB278..JB294"/>
   </node>
