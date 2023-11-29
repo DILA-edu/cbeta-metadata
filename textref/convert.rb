@@ -1,9 +1,8 @@
-# ruby 2.5.0
-
 require 'csv'
 require 'json'
 
-# DILA Authority: https://github.com/DILA-edu/Authority-Databases/tree/master/authority_catalog/json
+# DILA Authority: 
+#   https://github.com/DILA-edu/Authority-Databases/tree/master/authority_catalog/json
 IN = '/Users/ray/git-repos/Authority-Databases/authority_catalog/json'
 
 def handle_file(f)
