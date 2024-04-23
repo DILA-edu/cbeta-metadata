@@ -832,7 +832,7 @@
       <node work="X0723..X0724"/>
       <node work="X0726..X0738"/>
       <node work="X0740..X0748"/>
-      <node name="G2251-54,56,83 弘一著作" work="G2251..G2254,G2256,G2283"/>
+      <node name="G2251-61,83 弘一著作" work="G2251..G2261,G2283"/>
     </node>
     <node name="T45, X39,44,59-60,74, G104 律宗">
       <node name="T1892-99 道宣著作" work="T1892..T1899"/>
@@ -886,7 +886,7 @@
         <node work="X1137"/>
       </node>
       <node name="X1126-27 法藏著作" work="X1126..X1127"/>
-      <node name="G2250-54,56-57,68-84 弘一著作">
+      <node name="G2250-84 弘一著作">
         <node work="G2250..G2284"/>
       </node>
       <node work="X1085..X1088"/>
