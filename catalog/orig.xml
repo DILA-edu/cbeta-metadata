@@ -8,7 +8,7 @@
     <node name="K 高麗大藏經選錄" work="K0016..K1482" xml:id="orig-K"/>
     <node name="S 宋藏遺珍選錄" work="S0046..S0047" xml:id="orig-S"/>
     <node name="F 房山石經選錄" work="F0016..F1099" xml:id="orig-F"/>
-    <node name="C 中華大藏經選錄" work="C1163..C1937" xml:id="orig-C"/>
+    <node name="C 中華大藏經選錄" work="C1159..C1937" xml:id="orig-C"/>
     <node name="U 洪武南藏選錄" work="U1368..U1418" xml:id="orig-U"/>
     <node name="P 永樂北藏選錄" work="P1519..P1630" xml:id="orig-P"/>
     <node name="J 嘉興大藏經選錄" catalog="orig-J"/>
