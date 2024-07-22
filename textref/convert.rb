@@ -18,7 +18,7 @@ def handle_file(f)
 
     if info.key?('contributors')
       a = info['contributors'].map { |x| x['name'] }
-      author = a.join(',')      
+      author = a.join(',')
     else
       author = nil
     end
