@@ -1110,7 +1110,10 @@
       </node>
       <node name="T2813-15 起信論古逸疏 T85" work="T2813..T2815"/>
     </node>
-    <node name="T1670-92 其他 T32" work="T1670A..T1692"/>
+    <node name="T1670-92 其他 T32, G148, 150">
+      <node work="T1670A..T1692"/>
+      <node work="G2517,G2518,G2550,G2551"/>
+    </node>
   </node>
   <node name="16 淨土宗部類 T11-12a,26a,37,40b,47,85, X01-02,16,22,61-62,74">
     <node name="T0310 etc. 淨土經 T11-12, X01-02,16／論 T26a／疏 T37,40b,85, X22">
@@ -2378,7 +2381,7 @@
         <node work="GA0008..GA0015"/>
         <node work="GA0017..GA0025"/>
         <node work="GA0028..GA0032"/>
-        <node work="GA0036,GA0043,GA0049,GA0062,GA0077,GA0081,GA0084,GA0086,GA0089"/>
+        <node work="GA0036,GA0037,GA0042..GA0049,GA0055,GA0057,GA0059,GA0060,GA0062..GA0065,GA0077,GA0081,GA0084,GA0086,GA0089"/>
       </node>
       <node name="GB0109 中國佛寺志叢刊">
         <node work="GBa001"/>
@@ -2405,6 +2408,6 @@
       <node name="論藏" work="TX0011..TX0014"/>
       <node name="雜藏" work="TX0015..TX0020"/>     
     </node>
-    <node name="CC CBETA 選集" work="CC0001..CC0002"/>
+    <node name="CC CBETA 選集" work="CC0001..CC0005"/>
   </node>
 </tree>
