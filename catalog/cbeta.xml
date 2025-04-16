@@ -1115,13 +1115,14 @@
       <node work="G2517,G2518,G2550,G2551"/>
     </node>
   </node>
-  <node name="16 淨土宗部類 T11-12a,26a,37,40b,47,85, X01-02,16,22,61-62,74">
-    <node name="T0310 etc. 淨土經 T11-12, X01-02,16／論 T26a／疏 T37,40b,85, X22">
-      <node name="T0310(5),0360-64, X0005 無量壽經 etc. T11-12a, X01／疏 T37,85, X22">
-        <node name="T0310(5),0360-64, X0005 無量壽經 etc. T11-12a, X01">
+  <node name="16 淨土宗部類 T11-12a,26a,37,40b,47,85, X01-02,16,22,61-62,74, CC006">
+    <node name="T0310 etc. 淨土經 T11-12, X01-02,16, CC006／論 T26a／疏 T37,40b,85, X22">
+      <node name="T0310(5),0360-64, X0005 無量壽經 etc. T11-12a, X01, CC006／疏 T37,85, X22">
+        <node name="T0310(5),0360-64, X0005 無量壽經 etc. T11-12a, X01, CC006">
           <node name="T0310(5) 無量壽如來會 2 菩提流志" work="T0310" juan="17..18"/>
           <node work="T0360..T0364"/>
           <node work="X0005"/>
+          <node work="CC0006"/>
         </node>
         <node name="T1745-48 etc. 無量壽經疏 T37, X22">
           <node work="T1745..T1748"/>
@@ -2408,6 +2409,6 @@
       <node name="論藏" work="TX0011..TX0014"/>
       <node name="雜藏" work="TX0015..TX0020"/>     
     </node>
-    <node name="CC CBETA 選集" work="CC0001..CC0005"/>
+    <node name="CC CBETA 選集" work="CC0001..CC0006"/>
   </node>
 </tree>
