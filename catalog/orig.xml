@@ -14,7 +14,7 @@
     <node name="J 嘉興大藏經選錄" catalog="orig-J"/>
     <node name="L 乾隆大藏經選錄" work="L1490..L1669" xml:id="orig-L"/>
     <node name="G 佛教大藏經選錄" xml:id="orig-G">
-      <node work="G1222..G2284,G2517,G2518,G2250,G2251"/>
+      <node work="G1222..G2284,G2517,G2518,G2250,G2251,G2600"/>
     </node>
     <node name="M 卍正藏經選錄" work="M1540" xml:id="orig-M"/>
   </node>
