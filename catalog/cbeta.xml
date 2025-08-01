@@ -1431,6 +1431,9 @@
       <node work="X1651"/>
       <node work="X1654..X1655"/>
     </node>
+    <node name="G2619 西藏祖師傳 G160">
+      <node work="G2619"/>
+    </node>
     <node work="T2058"/>
     <node name="T2059-66,2126, X1522-24,26-27 高僧傳 T50-51,54, X77, CC0001">
       <node work="T2059..T2066"/>
@@ -1559,6 +1562,7 @@
         <node work="P1615"/>
         <node work="P1630"/>
         <node work="L1666"/>
+        <node work="G2302"/>
       </node>
       <node name="T2128-29 etc. 音義 T54b, J19, C056-057,059, A091, K32,34-35">
         <node work="C1163"/>
