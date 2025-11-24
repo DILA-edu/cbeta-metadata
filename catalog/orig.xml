@@ -14,7 +14,7 @@
     <node name="J 嘉興大藏經選錄" catalog="orig-J"/>
     <node name="L 乾隆大藏經選錄" work="L1490..L1669" xml:id="orig-L"/>
     <node name="G 佛教大藏經選錄" xml:id="orig-G">
-      <node work="G1222..G2284,G2302,G2517,G2518,G2250,G2251,G2600,G2619"/>
+      <node work="G1222..G2284,G2302,G2517,G2518,G2550,G2551,G2559,G2589,G2590,G2594,G2600,G2601,G2619"/>
     </node>
     <node name="M 卍正藏經選錄" work="M1540" xml:id="orig-M"/>
   </node>
@@ -32,6 +32,12 @@
     <node name="Y 印順法師佛學著作集" catalog="orig-Y"/>
     <node name="LC 呂澂佛學著作集" work="LC0001..LC0007" xml:id="orig-LC"/>
     <node name="TX 太虛大師全書" catalog="orig-TX"/>
+    <node name="YP 演培法師全集" xml:id="orig-YP">
+      <node work="YPa001..YPa003"/>
+      <node name="經釋篇">
+        <node work="YP0001..YP0010"/>
+      </node>
+    </node>
     <node name="CC CBETA 選集" xml:id="orig-CC">
       <node work="CC0001..CC0006"/>
     </node>

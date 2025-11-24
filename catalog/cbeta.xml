@@ -229,7 +229,9 @@
         <node work="X0915"/>
         <node work="X0917..X0924"/>
       </node>
-      <node work="T1915..T1919"/>
+      <node work="T1915"/>
+      <node work="G2594"/>
+      <node work="T1916..T1919"/>
       <node name="T1920-21 觀心論 etc." work="T1920..T1921"/>
       <node work="T1922..T1923"/>
       <node name="T1924, X0904-05 大乘止觀法門 etc.">
@@ -274,7 +276,9 @@
       <node work="G2600"/>
       <node work="X0939..X0944"/>
       <node work="X0946"/>
-      <node work="X0948..X0972"/>
+      <node work="X0948..X0969"/>
+      <node work="G2601"/>
+      <node work="X0970..X0972"/>
       <node work="X0975"/>
     </node>
   </node>
@@ -919,15 +923,16 @@
     <node work="T2840"/>
   </node>
   <node name="13 中觀部類 T30a,42,45,85, X46,54 etc.">
-    <node name="T30a, K41 中觀部／疏 T42,85, X46">
+    <node name="T30a, K41 中觀部／疏 T42,85, X46, G151">
       <node name="T1564-67, K1482 中論 etc.／疏 T42">
         <node work="T1564..T1567"/>
         <node work="K1482"/>
         <node work="T1824"/>
       </node>
-      <node name="T1568 十二門論／疏 T42">
+      <node name="T1568 十二門論／疏 T42, G151">
         <node work="T1568"/>
         <node work="T1825..T1826"/>
+        <node work="G2559"/>
       </node>
       <node name="T1569-72 百論 etc.／疏 T42,85">
         <node name="T1569 百論／疏 T42">
@@ -1209,11 +1214,13 @@
       <node name="T1991 法眼宗 T47" work="T1991"/>
     </node>
     <node name="T2003-6 公案集 T48" work="T2003..T2006"/>
-    <node name="T2007-25, CC0002 壇經等歷代禪宗典籍 T48, CC002">
-      <node name="T2007-15, CC0002 隋唐著作">
+    <node name="T2007-25, CC0002 壇經等歷代禪宗典籍 T48, CC002, G155">
+      <node name="T2007-15, CC0002, G2589 隋唐著作 etc.">
         <node work="T2007"/>
         <node work="CC0002"/>
-        <node work="T2008..T2012B"/>
+        <node work="T2008"/>
+        <node work="G2589,G2590"/>
+        <node work="T2009..T2012B"/>
         <node name="T2013-14 永嘉著作" work="T2013..T2014"/>
         <node work="T2015"/>
       </node>
@@ -2056,7 +2063,7 @@
       </node>
     </node>
   </node>
-  <node name="23 新編部類 ZS, ZW, I, B, GA, GB, Y, LC, TX, CC">
+  <node name="23 新編部類 ZW, ZS, I, B, GA, GB, Y, LC, TX, YP, CC">
     <node name="ZW0001-103 藏外佛教文獻">
       <node name="ZW0001-16 第一輯">
         <node work="ZWa001..ZWa004"/>
@@ -2377,6 +2384,10 @@
       <node name="制藏" work="TX0008..TX0010"/>
       <node name="論藏" work="TX0011..TX0014"/>
       <node name="雜藏" work="TX0015..TX0020"/>     
+    </node>
+    <node name="YP0001-10 演培法師全集">
+      <node work="YPa001..YPa003"/>
+      <node name="經釋篇" work="YP0001..YP0010"/>      
     </node>
     <node name="CC CBETA 選集" work="CC0001..CC0006"/>
   </node>
