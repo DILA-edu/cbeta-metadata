@@ -485,9 +485,9 @@
         <node work="X1483..X1484"/>
       </node>
     </node>
-    <node name="T0458-601, X0026-27 所問經 etc. T14-15, X01／疏 T38,T85, X18-20,39">
+    <node name="T0458-601, X0026-27 所問經 etc. T14-15, X01／疏 T38,T85, X18-20,39, G103">
       <node work="T0458..T0473"/>
-      <node name="T0474-76 維摩詰經 T14／疏 T38,85, X18-19">
+      <node name="T0474-76 維摩詰經 T14／疏 T38,85, X18-19, G103">
         <node work="T0474..T0476"/>
         <node work="T1775..T1782"/>
         <node work="T2768..T2778"/>
@@ -497,6 +497,7 @@
         <node work="X0343"/>
         <node work="X0345"/>
         <node work="X0347..X0349"/>
+        <node work="G2241"/>
       </node>
       <node work="T0477..T0585"/>
       <node name="T0586 思益梵天所問經 T15／簡註 X20">
@@ -1131,16 +1132,19 @@
           <node work="X0005"/>
           <node work="CC0006"/>
         </node>
-        <node name="T1745-48 etc. 無量壽經疏 T37, X22">
+        <node name="T1745-48,2759 etc. 無量壽經疏 T37,85, X22">
           <node work="T1745..T1748"/>
+          <node work="T2759"/>
           <node work="X0397"/>
           <node work="X0400..X0401"/>
         </node>
-        <node name="T2759-60 無量壽經古逸疏 T85" work="T2759..T2760"/>
       </node>
-      <node name="T0365 觀無量壽經 T12a, ／疏 T37, X22">
+      <node name="T0365 觀無量壽經 T12a／疏 T37,85, X22">
         <node work="T0365"/>
-        <node name="T1749-54 觀無量壽經疏 T37" work="T1749..T1754"/>
+        <node name="T1749-54,2760 觀無量壽經疏 T37,85">
+          <node work="T1749..T1754"/>
+          <node work="T2760"/>
+        </node>
         <node work="X0405..X0408"/>
         <node work="X0410..X0414"/>
       </node>
@@ -1219,7 +1223,7 @@
         <node work="T2007"/>
         <node work="CC0002"/>
         <node work="T2008"/>
-        <node work="G2589,G2590"/>
+        <node work="G2589,G2590,G2202,G2203"/>
         <node work="T2009..T2012B"/>
         <node name="T2013-14 永嘉著作" work="T2013..T2014"/>
         <node work="T2015"/>
@@ -2385,9 +2389,11 @@
       <node name="論藏" work="TX0011..TX0014"/>
       <node name="雜藏" work="TX0015..TX0020"/>     
     </node>
-    <node name="YP0001-10 演培法師全集">
+    <node name="YP0001-21 演培法師全集">
       <node work="YPa001..YPa003"/>
-      <node name="經釋篇" work="YP0001..YP0010"/>      
+      <node name="經釋篇" work="YP0001..YP0017"/>
+      <node name="經律篇" work="YP0018..YP0020"/>
+      <node name="論釋篇" work="YP0021"/>      
     </node>
     <node name="CC CBETA 選集" work="CC0001..CC0006"/>
   </node>
