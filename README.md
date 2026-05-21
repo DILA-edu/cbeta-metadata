@@ -8,6 +8,7 @@ http://www.cbeta.org/
 
 ## catalog
 
+2026-05-21 起停用。
 CBETA 部類目類、各藏部別目錄、冊別目錄，詳見 [catalog](catalog) 資料夾。
 
 ## work-info

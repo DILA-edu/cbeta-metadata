@@ -1,5 +1,9 @@
 # 目錄
 
+2026-05-21 起停用，改用：
+* 部類目錄： https://github.com/heavenchou/cbwork-bin/blob/master/cbreader2X/bulei/bulei.txt
+* 原書目錄： https://github.com/heavenchou/cbwork-bin/blob/master/cbreader2X/nav/advance_nav.txt
+
 CBETA 原始 部類目錄 資料 (Excel 格式)： https://github.com/heavenchou/cbwork-bin/blob/master/cbreader2X/bulei/bulei.xlsx
 
 ## 最上層目錄
